@@ -7,6 +7,19 @@ updated: 2026-08-23
 
 # Conversation Processing Log
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：索引・進捗管理ノート。掲載順やリンクは知的来歴を示さない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]、[[Responsibility]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：[[AI Global Workspace]]、[[Artificial Moral Agency]]、[[Computational Phenomenology]]、[[Functional Emotion in AI]]、[[Habituality]]、[[Moral Crumple Zone]]、[[Passive Synthesis]]、[[Responsibility Gap]]、[[Sampling Is Not Choosing]]、[[Sedimentation]]、[[Shared Protention]]。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[Agentic Causal Provenance]]、[[Agentive Action Initiation]]、[[AI Individuation]]、[[Frankfurtian Second-Order Volition in AI]]、[[Functional Passive Synthesis]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[LLM Sourcehood Problem]]、[[Normative Contestability]]、[[Precision-Weighted Affection]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Internalized Normative Self-Control]]、[[Personal Asset Data Store]]、[[Policy-Attested Agent Authorization]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## 01 Conversations/2026-08-12-AIへの自由意志と責任の帰属可能性.md
 
 - processed_until_char: 1114588
@@ -146,7 +159,7 @@ Literature:
 - [[Sourcehood]]: separated causal, delegated, agential, and historical sourcehood.
 - [[Agentive Action Initiation]]: distinguished external triggers from external motivation and automatic activation from agential initiation.
 - [[Genetic and Diachronic Agency]]: added planning, prospective intention, memory-transformation, and AI individuation analysis.
-- [[Conditions for Artificial Responsible Agency]]: integrated the conditions into a single diachronic responsibility architecture and added objections.
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]: integrated the conditions into a single diachronic responsibility architecture and added objections.
 - [[AI Responsibility MOC]]: linked the new conceptual cluster and literature.
 
 ### Zotero Imports
@@ -193,7 +206,7 @@ Literature:
 - [[Intersubjective Agency]]: distinguished human-as-input from other-as-co-subject and added answerability and repair.
 - [[Reflective Self-Formation]]: embedded reflection in passive formation, sedimentation, and intersubjective correction.
 - [[Agency-Level Alternative Possibilities]]: recast practical alternatives as a genetically constituted horizon.
-- [[Conditions for Artificial Responsible Agency]]: reorganized the conditions as layered dependencies rather than a flat checklist.
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]: reorganized the conditions as layered dependencies rather than a flat checklist.
 - [[AI Responsibility MOC]]: added the genetic-phenomenology cluster.
 
 ### Zotero Imports
@@ -227,7 +240,7 @@ The former term `Diachronic Agential Closure` was rejected as misleading. The re
 - [[Intersubjective Agency]]: connected shared protention to coordination while separating it from recognition and answerability.
 - [[Agentive Action Initiation]]: connected embodied policy selection to action while separating it from sourcehood.
 - [[albarracinMappingHusserlianPhenomenology2022]] and [[bogotaTimeconsciousnessComputationalPhenomenology2023]]: added bridges to AI agency and responsibility.
-- [[Conditions for Artificial Responsible Agency]] and [[AI Responsibility MOC]]: integrated the new layer into the wider theory.
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]] and [[AI Responsibility MOC]]: integrated the new layer into the wider theory.
 
 ### Zotero Imports
 

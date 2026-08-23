@@ -10,17 +10,38 @@ tags:
 
 # Conditions for Artificial Responsible Agency
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の理論統合ノート。全体構成と統合命題は本研究によるが、構成概念には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]、[[Responsibility]]。
+> **隣接分野・文献由来**：[[Computational Phenomenology]]、[[Shared Protention]]。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[Agentive Action Initiation]]、[[AI Individuation]]、[[Distributed Artificial Agent]]、[[Functional Passive Synthesis]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Normative Contestability]]、[[Precision-Weighted Affection]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]、[[Internalized Normative Self-Control]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Central Question
 
 Under what conditions can an artificial agent become a subject of moral and legal responsibility?
 
 ## Current Position
 
-現在のAIには[[Causal Responsibility]]や[[Role Responsibility]]を帰属できる場合がある。しかし、AI自身に[[Moral Responsibility]]を帰属するには、能力の列挙だけでなく、それらが一つの個体化された主体の時間的自己統治として統合されている必要がある。
+現在のAIには[[Responsibility#Causal Responsibility|Causal Responsibility]]や[[Responsibility#Role Responsibility|Role Responsibility]]を帰属できる場合がある。しかし、AI自身に[[Responsibility#Moral Responsibility|Moral Responsibility]]を帰属するには、能力の列挙だけでなく、それらが一つの個体化された主体の時間的自己統治として統合されている必要がある。
 
 中心命題は次である。
 
 > 責任主体は自己を無から作った究極的原因である必要はない。しかし、与えられ形成されてきた価値を反省的に統治し、時間を越えて理由と意図を保持・修正し、その理由から自ら行為を開始した、個体化された主体でなければならない。
+
+この条件体系は、単一の先行理論から採用したものではない。
+
+Alternative possibilities、Frankfurtian volition、reasons-responsivenessは分析哲学の既存論点であり、[[martelaArtificialIntelligenceFree2025]]、[[frankfurtFreedomWillConcept1971]]、[[fischerResponsibilityControlTheory1998]]を直接の基礎とする。
+
+Passive synthesis、habituality、intersubjectivityは、[[husserlAnalysesConcerningPassive2001]]を中心とするHusserlian phenomenologyから借用する。
+
+本理論の追加点は、これらをAIの反省的、発生的、通時的、個体化されたresponsibility competenceへ統合し、計算的条件とnormative bridgeを分ける点にある。
 
 ## Proposed Conditions
 
@@ -73,7 +94,11 @@ environment / others
 
 ## Existing AI and the Research Gap
 
-GDAは問題発見とgoal生成、autotelic agent研究は自己生成goalの表現・選択・追求、La VIDAはmotivationとgoal選択の相互調整を扱う。したがって条件4の一部を「現在のAIには原理的に不可能」とは言えない。
+GDAは問題発見とgoal生成を扱い、その直接の先行研究は[[maynordDataDrivenGoalGeneration2013]]である。
+
+Autotelic agent研究の[[colasAutotelicAgentsIntrinsically2022]]は自己生成goalの表現・選択・追求を扱い、La VIDAを提案する[[addisonVIDAMotivatedGoal2026]]はmotivationとgoal選択の相互調整を扱う。
+
+したがって条件4の一部を「現在のAIには原理的に不可能」とは言えない。
 
 一方、[[popaHumanGoalsAre2021]]は人間goalへの構成的依存からAI責任を否定する。本理論は、この依存を人間の発達史との対称性の下で再評価する。研究上の空白は、goal autonomyの有無ではなく、これらの技術的機能を反省的・通時的・個体化された責任主体性へ統合する規範理論にある。
 
@@ -185,4 +210,3 @@ self-governing, contestable, individuated AI
 ```
 
 権限移譲は二値ではなく、能力、risk、監査可能性、異議申立て経路に応じて段階化する。AIへ責任を移すほど、deploying organizationの設計・監督・制度責任が消えるわけではない。
-

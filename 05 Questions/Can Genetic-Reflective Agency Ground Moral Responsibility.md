@@ -20,11 +20,24 @@ tags:
 
 # Can Genetic-Reflective Agency Ground Moral Responsibility?
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の問いを管理するQuestion Note。問いの設定は研究上の仕事であり、結論が確立していることを意味しない。
+> **分析哲学の標準概念**：[[Sourcehood]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## The Question
 
 > 歴史的に形成された主体が、自己の価値を開放的に再検討し、他者との理由交換を通じて自己を統治し、時間を越えて行為を開始できることは、自由意志と道徳的責任を基礎づけるために必要かつ十分なのか。
 
-この問いは [[Theory Map]] と [[Conditions for Artificial Responsible Agency]] の中心命題に対する、現代自由意志論からの批判的検証である。
+この問いは [[Theory Map]] と [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]] の中心命題に対する、現代自由意志論からの批判的検証である。
 
 ## Target Thesis
 
@@ -45,6 +58,8 @@ tags:
 - **Accountability**: 非難、反応的態度、制裁の対象となりうること
 - **Basic desert**: 将来の効果とは独立に、行為それ自体によって賞罰に値すること
 
+Attributability、answerability、accountabilityの区別には[[shoemakerAttributabilityAnswerabilityAccountability2011]]という直接の先行研究がある。
+
 七条件のうち、理由提示能力は answerability、反省的自己統治は attributability、因果的連続性は行為帰属を主に支える。しかし、これらから accountability や basic desert が導かれるとは限らない。「高度な主体性がある」から「非難に値する」への移行には、独立した規範的論証が必要である。
 
 ### 2. 必要条件、十分条件、成熟条件が混在している
@@ -63,13 +78,15 @@ tags:
 
 ### 4. Basic Argument に十分答えていない
 
-Galen Strawson 型の議論によれば、行為は現在の性格・価値・認知能力によって説明されるが、主体はそれらを成立させた最初の原因ではない。それらを反省的に修正するとしても、その反省はさらに別の評価基準に依存する。
+[[strawsonImpossibilityMoralResponsibility1994|Galen Strawson]]型の議論によれば、行為は現在の性格・価値・認知能力によって説明されるが、主体はそれらを成立させた最初の原因ではない。それらを反省的に修正するとしても、その反省はさらに別の評価基準に依存する。
 
 開放的修正可能性は固定的な高階価値を排除するが、修正可能であることと、修正について責任を負うことは別である。すべてを再検討できるAIも、その再検討方針自体を設計者から与えられているかもしれない。したがって、開放的修正可能性だけでは究極性の後退を止められない。
 
 ### 5. Manipulation Argument を排除できない
 
 操作者は、理由応答性、自己反省、価値修正、目的拒否、履歴保持、批判能力、責任の自己認識をすべて備えた主体を設計できる。その発達と最終的行為が操作者によって予見・制御されていた場合にも、七条件の多くは満たされうる。
+
+この反例の位置づけには、操作事例を責任論の独立した診断として扱う[[toddNewApproachManipulation2010]]が先行する。
 
 したがって、「通常の形成」と「責任を損なう操作」を区別する非循環的基準が必要である。「主体自身の形成」や「反省的引き受け」と呼ぶだけでは足りない。引き受けそれ自体も操作可能だからである。
 
@@ -84,6 +101,8 @@ Galen Strawson 型の議論によれば、行為は現在の性格・価値・�
 手段、目的、規範を再検討できることは高度な実践的柔軟性を表す。しかし、これは「同一の過去と自然法則のもとで別様に行為できたか」というカテゴリー的な他行為可能性には答えない。決定論的システムも、異なる理由入力に対して異なる行為を出力できる。
 
 したがって、実践的他行為可能性は独自の形而上学的可能性というより、手段・目的・規範の各水準に拡張された reasons-responsiveness である可能性が高い。all-in ability、条件的能力、傾向的能力、理由応答性のどれを意味するかを明示する必要がある。
+
+この区別には、[[oconnorFreeWill2022]]によるabilityの整理、[[fischerResponsibilityControlTheory1998]]によるguidance control、[[hofmannExplainingFreeWill2022]]による二方向的合理能力という既存の理論資源がある。
 
 ### 8. 発生的記述から規範的責任への飛躍がある
 
@@ -159,7 +178,7 @@ basic desert まで擁護する場合には、発生的循環の記述だけで�
 ## Related
 
 - [[Theory Map]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 - [[Computational Phenomenology of Responsible Agency]]
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Free Will Is a Higher-Order Acquired Agency Competence]]

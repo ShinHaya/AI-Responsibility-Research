@@ -13,9 +13,28 @@ tags:
 
 # Free Will Conditions for Artificial Moral Responsibility
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：[[Sampling Is Not Choosing]]。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[AI Individuation]]、[[Frankfurtian Second-Order Volition in AI]]、[[Genetic and Diachronic Agency]]、[[LLM Sourcehood Problem]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Thesis
 
 An AI agent becomes a serious candidate for moral responsibility only if it satisfies a unified set of free-will conditions: agency-level alternative possibilities, Frankfurtian second-order volitional structure, sourcehood, reasons-responsiveness, and epistemic competence.
+
+この構成要素のうち、alternative possibilities、sourcehood、reasons-responsivenessは分析哲学の既存論点であり、Frankfurtian structureのmachine応用にも[[calverleyLegalRightsMachines2011]]という先行研究がある。
+
+Agency-level alternative possibilitiesは、[[martelaArtificialIntelligenceFree2025]]を直接の基礎とする。
+
+本Argumentの追加点は、これらをOpen-Ended Second-Order Revisability、Diachronic Reflective Sourcehood、Individuated Causal-Historical Continuityと統合し、AIのmoral responsibility candidate条件として再構成する点にある。
 
 A compact version of the model is:
 
@@ -86,6 +105,7 @@ The agent must be able to ask:
 
 Relevant notes:
 
+- [[frankfurtFreedomWillConcept1971]]
 - [[Frankfurtian Second-Order Volition in AI]]
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[calverleyLegalRightsMachines2011]]

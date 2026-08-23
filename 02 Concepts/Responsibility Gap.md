@@ -11,9 +11,25 @@ sourceRange:
 tags:
   - ai-responsibility
   - responsibility-gap
+concept_origin: borrowed-adjacent-field
+origin_field: "AI倫理・技術哲学"
+canonical_sources:
+  - "[[matthiasResponsibilityGap2004]]"
+  - "[[santoni-de-sioFourResponsibilityGaps2021]]"
 ---
 
 # Responsibility Gap
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：学習する自律systemの行為について、従来の人間中心の責任枠組みでは空隙が生じるというMatthiasの既存概念である。
+> **本研究で加えた部分**：gapを単一問題とせず、因果、役割、道徳、法、組織、救済の各責任へ分解して検討する。
+> **主な根拠**：[[matthiasResponsibilityGap2004]]、[[santoni-de-sioFourResponsibilityGaps2021]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 

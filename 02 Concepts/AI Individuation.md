@@ -5,9 +5,26 @@ created: 2026-08-12
 tags:
   - ai-identity
   - ai-responsibility
+concept_origin: project-extension
+origin_field: "AI identity・人格同一性・分散システム"
+canonical_sources:
+  - "[[arbelHowCountAIs2026]]"
+  - "[[douglasArtificialSelfCharacterising2026]]"
+  - "[[walkerBranchingNotBug2020]]"
 ---
 
 # AI Individuation
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：AIの数え上げ、コピー、分岐、scaffolded systemの境界に関する既存研究を基礎とする。
+> **本研究で加えた部分**：責任帰属のための統一的な個体境界テストとして、memory governance、goal formation、reflection、policy control、answerability、因果的・歴史的連続性を結合する。
+> **主な根拠**：[[arbelHowCountAIs2026]]、[[douglasArtificialSelfCharacterising2026]]、[[walkerBranchingNotBug2020]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 責任を帰属する対象として、一つのAI主体を他のAIから区別し、時間を通じて同定する問題。
 

@@ -13,6 +13,19 @@ tags:
 
 # Emergent Introspective Awareness in Large Language Models
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Second-Order Volition]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：[[Passive Synthesis]]。
+> **本研究による再構成**：[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @lindseyEmergentIntrospectiveAwareness2026
@@ -47,6 +60,9 @@ We investigate whether large language models can introspect on their internal st
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@lindseyEmergentIntrospectiveAwareness2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 本研究は、現在のLLMが自らの内部状態について、限定的ながら機能的な
 introspective awareness（内省的認識）を持つかを実験的に検証する。
 
@@ -63,6 +79,9 @@ confabulationなのかを区別することは難しい。
 
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@lindseyEmergentIntrospectiveAwareness2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - モデルは、内部activationへ人工的に注入されたconceptを一定の条件下で検出し、その内容を同定できる。
 
@@ -82,6 +101,9 @@ confabulationなのかを区別することは難しい。
 
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この研究は、私がAIの責任主体性の条件として考えている
 [[Reflective Self-Formation]]の前提となる能力に直接関係する。
@@ -120,6 +142,9 @@ internal-state access
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -201,6 +226,9 @@ AIの自己形成・通時的主体性・個体性・責任帰属の問題へ拡
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Reflective Self-Formation]]
 - [[Genetic and Diachronic Agency]]
 - [[AI Individuation]]
@@ -211,6 +239,9 @@ AIの自己形成・通時的主体性・個体性・責任帰属の問題へ拡
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Alternative Possibilities and Reflective Self-Formation]]
 - [[Memory Possession Is Not Experience Authorship]]
 - [[Can AI Possess Genetic and Diachronic Agency]]
@@ -218,6 +249,9 @@ AIの自己形成・通時的主体性・個体性・責任帰属の問題へ拡
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Functional introspectionはFrankfurt的なsecond-order volitionの必要条件と言えるか？
 

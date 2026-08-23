@@ -9,9 +9,25 @@ tags:
   - sourcehood
   - llm
   - ai-responsibility
+concept_origin: project-extension
+origin_field: "分析哲学のsourcehood論・LLM agency"
+canonical_sources:
+  - "[[oconnorFreeWill2022]]"
+  - "[[formosaRelationshipAgencyAutonomy2025]]"
 ---
 
 # LLM Sourcehood Problem
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：自由意志論のsourcehood問題と、AIのexecution autonomyとself-determinationの区別を基礎とする。
+> **本研究で加えた部分**：学習データ、設計、prompt、scaffoldに依存するLLM agentが、どの意味で行為と規範のsourceになりうるかを定式化する。
+> **主な根拠**：[[oconnorFreeWill2022]]、[[formosaRelationshipAgencyAutonomy2025]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 

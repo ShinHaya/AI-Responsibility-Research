@@ -6,9 +6,25 @@ tags:
   - phenomenology
   - husserl
   - ai-responsibility
+concept_origin: borrowed-adjacent-field
+origin_field: "Husserl現象学"
+canonical_sources:
+  - "[[husserlAnalysesConcerningPassive2001]]"
+  - "[[moranEdmundHusserlsPhenomenology2011]]"
 ---
 
 # Passive Synthesis
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：明示的判断に先立つ時間的統合、association、affection、sedimentationを扱うHusserl現象学の既存概念である。
+> **本研究で加えた部分**：responsible agencyの形成史とAIの機能的実装候補への関係を検討する。
+> **主な根拠**：[[husserlAnalysesConcerningPassive2001]]、[[moranEdmundHusserlsPhenomenology2011]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 主体が明示的に判断・反省・選択する以前に、感覚的多様が時間的・連合的にまとまり、対象・背景・顕著性・期待の場として先構成される過程。Husserlの発生的現象学では、能動的判断は無構造な入力から始まるのではなく、受動的綜合によって既に意味づけられた経験野を前提とする。
 
@@ -86,4 +102,3 @@ Active inferenceで受動的総合に対応しうるのは単一の演算では�
 この対応は**構造的・機能的analogy**に限定される。posterior beliefはretentionそのものではなく、future predictionはprotentionそのものではない。またprecisionは、何が更新や行為に影響するかを調整するが、Husserl的Affektionが含む価値的・情動的な「迫り」を尽くさない。→ [[Precision-Weighted Affection]]
 
 責任論上の意義は、goalや理由が無履歴に入力されるのではなく、過去の相互作用によって形成された世界開示から立ち上がる点にある。ただしこの層だけでは、形成された傾向を批判し改訂する[[Reflective Self-Formation]]も、行為を自分のものとして開始する[[Agentive Action Initiation]]も成立しない。→ [[Functional Passive Synthesis Is Necessary but Not Sufficient for Responsible AI]]
-

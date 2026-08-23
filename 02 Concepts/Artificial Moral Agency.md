@@ -11,9 +11,24 @@ sourceRange:
 tags:
   - ai-responsibility
   - moral-agency
+concept_origin: borrowed-adjacent-field
+origin_field: "AI倫理・情報倫理"
+canonical_sources:
+  - "[[floridiSandersMoralityArtificialAgents2004]]"
 ---
 
 # Artificial Moral Agency
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：人工的なsystemをmoral agentとして扱いうる条件を問うAI倫理の既存概念である。
+> **本研究で加えた部分**：機能的moral agencyと、自由意志・sourcehoodを含む強い道徳的責任主体性を区別する。
+> **主な根拠**：[[floridiSandersMoralityArtificialAgents2004]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 
@@ -51,7 +66,7 @@ A system might count as a moral agent in a weak or functional sense while still 
 - [[Frankfurtian Second-Order Volition in AI]]
 - [[Genetic and Diachronic Agency]]
 - [[AI Individuation]]
-- [[Epistemic Competence]]
+- [[Competence and Responsibility|Epistemic Competence]]
 - [[Reasons-Responsiveness]]
 
 This distinction prevents a false inference:

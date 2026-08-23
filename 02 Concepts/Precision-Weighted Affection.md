@@ -6,9 +6,26 @@ tags:
   - attention
   - active-inference
   - affection
+concept_origin: project-extension
+origin_field: "Husserl現象学・active inference"
+canonical_sources:
+  - "[[husserlAnalysesConcerningPassive2001]]"
+  - "[[wilsonActiveInferenceMethod2026]]"
+  - "[[pezzuloGeneratingMeaningActive2024]]"
 ---
 
 # Precision-Weighted Affection
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：Husserlian Affektionとactive inferenceのprecision weightingという別々の既存概念を基礎とする。
+> **本研究で加えた部分**：何が主体へ注意を要求するかという機能的対応関係を仮説化するが、両概念の同一性は主張しない。
+> **主な根拠**：[[husserlAnalysesConcerningPassive2001]]、[[wilsonActiveInferenceMethod2026]]、[[pezzuloGeneratingMeaningActive2024]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 HusserlのAffektionとactive inferenceのprecision weightingの間に設定する限定的な構造対応。経験野の一部が背景から際立ち、注意・belief update・行為を方向づけるという機能的類似を捉える。
 
@@ -51,4 +68,3 @@ AIが何を重要とみなしたかを責任評価するには、precisionの瞬
 - [[Functional Passive Synthesis]]
 - [[Reflective Self-Formation]]
 - [[Habituality]]
-

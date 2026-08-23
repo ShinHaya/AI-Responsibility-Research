@@ -7,9 +7,26 @@ tags:
   - phenomenology
   - ai-responsibility
   - agency
+concept_origin: project-extension
+origin_field: "Husserl現象学・planning agency・人格同一性"
+canonical_sources:
+  - "[[husserlAnalysesConcerningPassive2001]]"
+  - "[[moranEdmundHusserlsPhenomenology2011]]"
+  - "[[bratmanPlanningAgencyAutonomous2005]]"
 ---
 
 # Genetic and Diachronic Agency
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：genetic phenomenology、planning agency、時間を越えた自己統治に関する既存理論を基礎とする。
+> **本研究で加えた部分**：経験が価値、習慣、注意、goal形成を変え、その変化を同一主体が反省的に引き受ける統合条件として再構成する。
+> **主な根拠**：[[husserlAnalysesConcerningPassive2001]]、[[moranEdmundHusserlsPhenomenology2011]]、[[bratmanPlanningAgencyAutonomous2005]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 主体が現在瞬間の能力集合ではなく、過去の経験・判断・コミットメントを保持し、それらによって将来の知覚、顕著性、価値判断、目標形成、行為を変化させ続ける時間的プロセスであること。
 
@@ -73,7 +90,7 @@ AIは状態・memory・policyをcopy、branch、merge、synchronizeできる。�
 - [[Reflective Self-Formation]]
 - [[AI Individuation]]
 - [[Memory Possession Is Not Experience Authorship]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 
 ## Phenomenological Foundation
 
@@ -91,4 +108,3 @@ world and others
 ```
 
 The cycle is open rather than closed: world and others continually affect the subject, while the subject carries a historically formed horizon into each encounter. See [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility]].
-

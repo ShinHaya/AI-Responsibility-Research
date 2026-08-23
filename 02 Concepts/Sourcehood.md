@@ -7,9 +7,25 @@ tags:
   - free-will
   - moral-responsibility
   - agency
+concept_origin: established-analytic-free-will
+origin_field: "分析哲学の自由意志・道徳的責任論"
+canonical_sources:
+  - "[[oconnorFreeWill2022]]"
+  - "[[fischerResponsibilityControlTheory1998]]"
 ---
 
 # Sourcehood
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：分析哲学の標準概念。
+> **概念自体の来歴**：行為がどの意味で主体自身に由来するかを問う、自由意志論の確立した論点である。
+> **本研究で加えた部分**：究極的自己創造を退けつつ、通時的反省、形成史、個体化を組み合わせたdiachronic reflective sourcehoodを提案する。
+> **主な根拠**：[[oconnorFreeWill2022]]、[[fischerResponsibilityControlTheory1998]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 行為が責任帰属に必要な意味で行為者自身に由来するという自由意志の条件。AI責任論では、因果的出力源、目標の設計源、現在の実践的理由の起点、人格形成の究極的起源を区別しなければならない。
 

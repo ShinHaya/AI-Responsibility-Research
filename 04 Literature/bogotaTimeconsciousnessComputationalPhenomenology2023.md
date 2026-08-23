@@ -14,6 +14,19 @@ tags:
 
 # Time-consciousness in computational phenomenology: a temporal analysis of active inference
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Computational Phenomenology]]、[[Passive Synthesis]]。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Functional Passive Synthesis]]、[[Genetic and Diachronic Agency]]、[[Precision-Weighted Affection]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @bogotaTimeconsciousnessComputationalPhenomenology2023
@@ -47,6 +60,9 @@ Time plays a significant role in science and everyday life. Despite being experi
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@bogotaTimeconsciousnessComputationalPhenomenology2023の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Bogotá & Djebbaraは、
 Husserlの内的時間意識の分析とActive Inferenceを接続し、
@@ -151,6 +167,9 @@ present momentを境界づけながら、
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@bogotaTimeconsciousnessComputationalPhenomenology2023の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - Human experienceにはcontinuous temporal structureがある。
 
 - 通常のcomputational modelsは、
@@ -208,6 +227,9 @@ present momentを境界づけながら、
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は、
 
 [[Genetic and Diachronic Agency]]
@@ -247,6 +269,9 @@ Bogotá & Djebbaraは、
 
 ## Relation to Husserl
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[husserlAnalysesConcerningPassive2001]]
 
 Husserlのtime-consciousnessでは、
@@ -280,6 +305,9 @@ temporally extendedなstructureを持つ。
 
 
 ## Minimal Temporal Subjectivity
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ここから、
 
@@ -320,6 +348,9 @@ temporally extendedなstructureを持つ。
 
 
 ## Minimal Temporal Subjectivity Is Not Diachronic Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 しかし重要なのは、
 
@@ -370,6 +401,9 @@ Genetic and Diachronic Agencyの
 
 
 ## Relation to Genetic-Reflective Loop
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Genetic-Reflective Loop]]
 
@@ -438,6 +472,9 @@ temporal infrastructureを提供する可能性がある。
 
 ## Relation to Bratman
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[bratmanSharedAgencyPlanning2014]]
 
 Husserl / Bogotá & Djebbaraのprotentionと、
@@ -473,6 +510,9 @@ agentが形成するpractical commitmentである。
 
 ## From Protention to Planning
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ただし両者には
 発生的な接続関係がある可能性がある。
 
@@ -506,6 +546,9 @@ agentが形成するpractical commitmentである。
 
 
 ## Relation to Active Inference
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 Active Inferenceでは、
 agentはgenerative modelを用いて
@@ -541,6 +584,9 @@ Bogotá & Djebbaraの重要な提案は、
 
 
 ## Relation to Predictive Processing
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 前の
 
@@ -594,7 +640,10 @@ conceptual identityではない。
 
 ## Relation to Genetic Rationality
 
-[[Genetic Rationality]]
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
+[[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
 
 前のYang Literature Noteでは、
 
@@ -632,6 +681,9 @@ Active Inferenceを導入すると、
 
 
 ## Belief Updating Is Not Self-Formation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ここは非常に重要である。
 
@@ -673,6 +725,9 @@ belief updatingより高次の、
 
 ## Computational Phenomenology as Method
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献のもう一つの重要性は、
 個別のActive Inference modelよりも、
 
@@ -699,6 +754,9 @@ belief updatingより高次の、
 
 
 ## Computational Phenomenology of Responsible Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 私の研究では、
 
@@ -743,6 +801,9 @@ methodological precedentになる。
 
 
 ## Example: Operationalizing Open-Ended Revisability
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 例えば、
 
@@ -790,6 +851,9 @@ responsible agencyへ拡張する一例になる。
 
 ## Relation to AI Individuation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[AI Individuation]]
 
 time-consciousnessはidentityにも関係する。
@@ -804,7 +868,7 @@ AIが、
 
 として単に連続して存在するだけでは、
 
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 には不十分である。
 
@@ -830,6 +894,9 @@ diachronic subjectivityの候補条件になる。
 
 
 ## Four Levels of Temporal Continuity
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Level 1: Computational Persistence
 
@@ -885,6 +952,9 @@ Level 2をformalizeするための重要な資源になる。
 
 ## Relation to Copy Problem
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[arbelHowCountAIs2026]]
 
 この区別はAI copy problemにも有効である。
@@ -918,6 +988,9 @@ A1とA2はcopy直後には
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -984,6 +1057,9 @@ AI consciousnessの証明ではなく、
 
 
 ## Extension: Computational Phenomenology of Responsible Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献を踏まえて、
 私の研究方法そのものを次のように構成できる可能性がある。
@@ -1075,25 +1151,31 @@ behavioral / mechanistic testsによって評価する。
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Computational Phenomenology]]
-- [[Time-Consciousness]]
-- [[Retention]]
-- [[Primal Impression]]
-- [[Protention]]
-- [[Integrated Continuity]]
-- [[Active Inference]]
-- [[Predictive Processing]]
-- [[Minimal Temporal Subjectivity]]
+- [[Passive Synthesis#Temporal Synthesis|Time-Consciousness]]
+- [[Passive Synthesis#Temporal Synthesis|Retention]]
+- [[bogotaTimeconsciousnessComputationalPhenomenology2023|Primal Impression]]
+- [[Passive Synthesis#Temporal Synthesis|Protention]]
+- [[bogotaTimeconsciousnessComputationalPhenomenology2023#Four Levels of Temporal Continuity|Integrated Continuity]]
+- [[wilsonActiveInferenceMethod2026|Active Inference]]
+- [[bogotaTimeconsciousnessComputationalPhenomenology2023|Predictive Processing]]
+- [[Computational Phenomenology of Responsible Agency#4.5 Temporal Integration|Minimal Temporal Subjectivity]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic-Reflective Loop]]
-- [[Genetic Rationality]]
+- [[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
 - [[Reflective Self-Formation]]
-- [[Planning Agency]]
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
 - [[Computational Phenomenology of Responsible Agency]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -1102,6 +1184,9 @@ behavioral / mechanistic testsによって評価する。
 
 
 ## Related Literature
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[husserlAnalysesConcerningPassive2001]]
 - [[yangHusserlsTheoryExperience2025]]
@@ -1112,6 +1197,9 @@ behavioral / mechanistic testsによって評価する。
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Temporal integrationはdiachronic agencyの必要条件か？
 
@@ -1179,6 +1267,9 @@ behavioral / mechanistic testsによって評価する。
 
 ## Notes
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - Juan Diego Bogotá & Zakaria Djebbara,
   "Time-consciousness in computational phenomenology:
   a temporal analysis of active inference",
@@ -1206,8 +1297,8 @@ behavioral / mechanistic testsによって評価する。
      subjective temporalityとobjective timeが
      統合されなければならない。
 
-- [[Minimal Temporal Subjectivity]]
-  [[Four Levels of Temporal Continuity]]
+- [[Computational Phenomenology of Responsible Agency#4.5 Temporal Integration|Minimal Temporal Subjectivity]]
+  [[bogotaTimeconsciousnessComputationalPhenomenology2023#Four Levels of Temporal Continuity|Four Levels of Temporal Continuity]]
   [[Computational Phenomenology of Responsible Agency]]
 
   は著者ら自身のtechnical termsではなく、
@@ -1228,6 +1319,9 @@ behavioral / mechanistic testsによって評価する。
   重要なmethodological precedentとなる。
 
 ## New Bridges to Agency and Responsibility
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 本論文の時間意識モデルは、AIの現在状態を孤立した入力ではなく、履歴と予期に開かれた時間的地平として扱う根拠になる。この時間統合は、[[Functional Passive Synthesis]]、継続的な方策選択、経験に基づく自己変更を結ぶ基盤である。
 

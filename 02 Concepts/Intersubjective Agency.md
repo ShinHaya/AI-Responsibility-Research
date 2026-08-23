@@ -7,9 +7,25 @@ tags:
   - phenomenology
   - ai-responsibility
   - intersubjectivity
+concept_origin: project-extension
+origin_field: "現象学・relational autonomy・shared agency"
+canonical_sources:
+  - "[[donohoeHusserlEthicsIntersubjectivity2004]]"
+  - "[[bratmanSharedAgencyPlanning2014]]"
 ---
 
 # Intersubjective Agency
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：他者との関係による自己と規範の形成に関する現象学およびagency論を基礎とする。
+> **本研究で加えた部分**：AI責任の候補条件として、他者からの理由要求、批判、規範修正へ開かれたagencyを定式化する。
+> **主な根拠**：[[donohoeHusserlEthicsIntersubjectivity2004]]、[[bratmanSharedAgencyPlanning2014]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 主体が孤立した内部システムとして成立するのではなく、他者を別の視点と経験を持つ主体として認め、共有世界・規範・言語・制度の中で自己形成し、理由の提示・批判・応答・共同修正に参加できること。
 
@@ -71,4 +87,3 @@ others / tradition / institution
 [[albarracinSharedProtentionsMultiAgent2024]]が論じる[[Shared Protention]]は、複数主体が互いの次の行為を予測するだけでなく、共同で期待される将来を形成し、その期待に応じてpolicyを調整する構造である。これにより、間主観性は事後的な情報交換ではなく、各主体にとって何が行為可能かを先取りして組織する条件になる。
 
 ただし、予測の同期や協調成功は、他者を理由の要求者として認めること、共同規範を正当化すること、失敗についてanswerableであることを含意しない。shared generative modelから[[Intersubjective Agency]]へ進むには、役割の相互承認、異議申立て可能性、共同期待の改訂手続、寄与と統制に応じた責任帰属が追加で必要になる。
-

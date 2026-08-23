@@ -9,9 +9,25 @@ tags:
   - free-will
   - ai-responsibility
   - alternative-possibilities
+concept_origin: project-extension
+origin_field: "分析哲学の自由意志論・AI agency研究"
+canonical_sources:
+  - "[[martelaArtificialIntelligenceFree2025]]"
+  - "[[keshetSamplingNotChoosing2026]]"
 ---
 
 # Agency-Level Alternative Possibilities
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：Alternative Possibilitiesという標準論点と、MartelaによるLLM agent水準の機能的自由の議論を基礎とする。
+> **本研究で加えた部分**：token samplingを、goal、reason、plan、affordanceの水準で表象・評価・選択される代替から区別する。
+> **主な根拠**：[[martelaArtificialIntelligenceFree2025]]、[[keshetSamplingNotChoosing2026]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 

@@ -5,6 +5,19 @@ status: developing
 
 # Second-Order Volition Requires Open-Ended Revisability
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Second-Order Volition]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：[[Habituality]]、[[Sedimentation]]。
+> **本研究による再構成**：[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Thesis
 
 Frankfurt的なsecond-order volitionを持つことだけでは、
@@ -55,6 +68,10 @@ Frankfurtはfirst-order desireとsecond-order desireを区別し、
 という点にある。
 
 [[frankfurtFreedomWillConcept1971]]
+
+この高階的態度の権威問題は、second-order desireも一つのdesireにすぎず、なぜそれが主体を代表するのかを問う[[watsonFreeAgency1975]]のFrankfurt批判と交差する。
+
+本Argumentの追加点は、この問題を高階層の追加ではなく、将来の経験と批判へ開かれた通時的修正可能性として再定式化し、AIの自己形成条件へ適用する点にある。
 
 
 ## The Authority Problem of Second-Order Volition
@@ -228,6 +245,8 @@ Husserl自身がこの名称で提示した自由意志論ではない。
 
 を、second-order volitionの問題へ適用した
 理論的再構成である。
+
+Aldea、Laferté-Coutu、SteinbockはOpen-Ended Revisabilityという条件そのものを主張しておらず、以下では各研究の理論資源と本Argumentによる再構成を区別する。
 
 特に、
 
@@ -892,17 +911,17 @@ Steinbockはrenewalをhistorical / generative processとして理解すること
 - [[Open-Ended Revisability]]
 - [[Second-Order Volition]]
 - [[Reflective Self-Formation]]
-- [[Counterfactual Self-Variation]]
-- [[Self-Variation]]
-- [[Provisional Self-Endorsement]]
+- [[Open-Ended Revisability#Counterfactual Self-Variation|Counterfactual Self-Variation]]
+- [[Open-Ended Revisability#Self-Variation|Self-Variation]]
+- [[Open-Ended Revisability#Provisional Self-Endorsement|Provisional Self-Endorsement]]
 - [[Practical Alternative Possibilities]]
 - [[Sourcehood]]
 - [[Genetic and Diachronic Agency]]
 - [[Intersubjective Agency]]
 - [[Sedimentation]]
 - [[Habituality]]
-- [[Ethical Renewal]]
-- [[Generativity]]
+- [[Open-Ended Revisability#Ethical Renewal|Ethical Renewal]]
+- [[steinbockProjectEthicalRenewal1994|Generativity]]
 
 
 # Related Arguments
@@ -915,6 +934,7 @@ Steinbockはrenewalをhistorical / generative processとして理解すること
 # Related Literature
 
 - [[frankfurtFreedomWillConcept1971]]
+- [[watsonFreeAgency1975]]
 - [[lindseyEmergentIntrospectiveAwareness2026]]
 - [[aldeaSelfotheringSelftransformationTheoretical2023]]
 - [[laferte-coutuEthicalAttitudeHusserlian2024]]

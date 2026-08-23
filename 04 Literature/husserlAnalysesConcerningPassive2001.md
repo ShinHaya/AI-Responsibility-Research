@@ -13,6 +13,19 @@ tags:
 
 # Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Habituality]]、[[Passive Synthesis]]、[[Sedimentation]]。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @husserlAnalysesConcerningPassive2001
@@ -39,6 +52,9 @@ Coming from what is arguably the most productive period of Husserl's life, this 
 
 ---
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@husserlAnalysesConcerningPassive2001の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Husserlの『受動的綜合の分析』で中心となる洞察は、
 主体の経験が、現在の瞬間における明示的・能動的な判断や反省だけによって
@@ -93,15 +109,11 @@ sedimentationとして現在の経験の仕方に影響を与える。
 主体が現在の明示的なreflectionだけではなく、
 過去の経験の蓄積によって発生的に形成されていることを示す。
 
-私のresponsible agency理論にとって重要なのは、
-
-> 主体の現在の価値判断・注意・行為可能性・反省そのものが、
-> すでに過去の経験によって形成された背景の上で成立する
-
-という点である。
-
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@husserlAnalysesConcerningPassive2001の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - Consciousnessは単なる独立した瞬間的statesの列ではない。
 
@@ -149,6 +161,11 @@ sedimentationとして現在の経験の仕方に影響を与える。
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
+主体の現在の価値判断、注意、行為可能性、反省そのものが、すでに過去の経験によって形成された背景の上で成立するという点は、私のresponsible agency理論にとって重要である。
+
 この文献は特に、
 
 [[Genetic and Diachronic Agency]]
@@ -187,6 +204,9 @@ Husserlのpassive synthesisは、
 
 ## From Temporal Persistence to Genetic Subjectivity
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 単に同じ主体が時間を越えて存在することと、
 経験によって自己が形成されることは区別しなければならない。
 
@@ -218,6 +238,9 @@ Husserlのpassive synthesisは、
 
 
 ## Passive Formation Before Reflection
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Reflective Self-Formation]]
 
@@ -266,6 +289,9 @@ reflectionの対象となるexperiential field自体が
 
 
 ## Sedimentation and Habituality
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 過去の経験やactive achievementsは、
 その都度完全に消失するのではなく、
@@ -317,6 +343,9 @@ V2がその一回のreflectionの間だけ存在し、
 
 
 ## Relation to Open-Ended Revisability
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Second-Order Volition Requires Open-Ended Revisability]]
 
@@ -379,6 +408,9 @@ V2がreflection-proofになってはならない。
 
 ## Sedimentation Is Not Irreversibility
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 重要なのは、
 
     Sedimentation
@@ -413,6 +445,9 @@ sedimented experienceは
 
 
 ## Relation to Bratman
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[bratmanSharedAgencyPlanning2014]]
 
@@ -469,6 +504,9 @@ experiential / genetic constitutionを説明する。
 
 ## Relation to Normative Criterion Regress
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Normative Criterion Regress]]
 
 normative criterionも、
@@ -510,6 +548,9 @@ normative criterionも、
 
 ## Important Limitation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 しかし、ここから
 
 > 歴史的に形成された価値だから正しい
@@ -550,6 +591,9 @@ Husserlian genetic analysisは、
 
 ## Relation to AI
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は、
 現在のAIとresponsible AI agentの違いを考える際に
 重要な視点を与える。
@@ -581,6 +625,9 @@ interaction終了後に内部的な変化を全く保持しないなら、
 
 
 ## Memory vs Sedimentation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 AIについて少なくとも次を区別する必要がある。
 
@@ -633,6 +680,9 @@ AIについて少なくとも次を区別する必要がある。
 
 ## Passive Synthesis and AI Salience
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Husserlのaffectionは、
 AIについて興味深い問いを生む。
 
@@ -673,6 +723,9 @@ attention mechanismとは区別しなければならない。
 
 ## Transformer Attention Is Not Husserlian Attention
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 用語上の混同を避ける必要がある。
 
     Transformer Attention
@@ -702,6 +755,9 @@ functional analogueが存在するかどうかは
 
 
 ## Relation to Agentive Action Initiation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Agentive Action Initiation]]
 
@@ -740,6 +796,9 @@ explicit goal selectionだけでなく、
 
 ## Relation to AI Individuation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[AI Individuation]]
 
 passive synthesisとsedimentationは、
@@ -766,12 +825,15 @@ future salience / expectations / evaluationsへ
 この意味でexperience-dependent sedimentationは、
 AI個体の
 
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 を形成する候補となる。
 
 
 ## Relation to the Copy Problem
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[arbelHowCountAIs2026]]
 
@@ -817,6 +879,9 @@ Husserlian genetic analysisをAIへ応用する場合、
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -885,6 +950,9 @@ Husserlのphenomenological analysisを
 
 ## Extension: Three Layers of Diachronic Agency
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Husserlとこれまでの文献を組み合わせると、
 diachronic agencyを少なくとも三層に分けられる。
 
@@ -926,6 +994,9 @@ diachronic architectureである可能性がある。
 
 
 ## Extension: The Genetic-Reflective Loop
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 私のresponsible agency理論に、
 次の循環構造を導入できる。
@@ -978,26 +1049,32 @@ diachronic architectureである可能性がある。
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Passive Synthesis]]
-- [[Active Synthesis]]
+- [[husserlAnalysesConcerningPassive2001|Active Synthesis]]
 - [[Sedimentation]]
 - [[Habituality]]
-- [[Affection]]
-- [[Association]]
-- [[Retention]]
-- [[Protention]]
-- [[Genetic Phenomenology]]
+- [[Passive Synthesis#Affection|Affection]]
+- [[Passive Synthesis#Association|Association]]
+- [[Passive Synthesis#Temporal Synthesis|Retention]]
+- [[Passive Synthesis#Temporal Synthesis|Protention]]
+- [[Genetic and Diachronic Agency#Phenomenological Foundation|Genetic Phenomenology]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Reflective Self-Formation]]
 - [[Open-Ended Revisability]]
-- [[Historical Situatedness]]
+- [[Normative Criterion Regress#1. Historical Situatedness|Historical Situatedness]]
 - [[Agentive Action Initiation]]
-- [[Planning Agency]]
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
 - [[Genetic-Reflective Loop]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -1006,6 +1083,9 @@ diachronic architectureである可能性がある。
 
 
 ## Related Literature
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[frankfurtFreedomWillConcept1971]]
 - [[fischerResponsibilityControlTheory1998]]
@@ -1017,6 +1097,9 @@ diachronic architectureである可能性がある。
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Passive synthesisはresponsible agencyの必要条件なのか？
 
@@ -1085,6 +1168,9 @@ diachronic architectureである可能性がある。
 
 ## Notes
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - Edmund Husserl,
   *Analyses Concerning Passive and Active Synthesis:
   Lectures on Transcendental Logic*,
@@ -1117,4 +1203,3 @@ diachronic architectureである可能性がある。
   Husserl自身の用語ではなく、
   私自身のresponsible agency theoryのための
   統合モデルである。
-

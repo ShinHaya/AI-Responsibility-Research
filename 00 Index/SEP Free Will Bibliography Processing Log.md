@@ -7,6 +7,19 @@ source: https://plato.stanford.edu/entries/freewill/#Bib
 
 # SEP Free Will Bibliography Processing Log
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：索引・進捗管理ノート。掲載順やリンクは知的来歴を示さない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：該当なし。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Scope
 
 Stanford Encyclopedia of Philosophyの「Free Will」Bibliographyに掲載された298件を処理した。

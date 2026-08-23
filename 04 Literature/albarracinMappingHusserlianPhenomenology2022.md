@@ -13,6 +13,19 @@ tags:
 
 # Mapping Husserlian phenomenology onto active inference
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Computational Phenomenology]]、[[Passive Synthesis]]。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Functional Passive Synthesis]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @albarracinMappingHusserlianPhenomenology2022
@@ -46,6 +59,9 @@ Phenomenology is the rigorous descriptive study of conscious experience. Recent 
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@albarracinMappingHusserlianPhenomenology2022の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Albarracin, Pitliya, Ramstead, Yoshimiは、
 Husserlのphenomenology、とりわけtime-consciousnessを、
@@ -119,6 +135,9 @@ Computational Phenomenologyの研究計画を
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@albarracinMappingHusserlianPhenomenology2022の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - Phenomenologyはconscious experienceを
   rigorously describeする研究である。
 
@@ -164,6 +183,9 @@ Computational Phenomenologyの研究計画を
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は、
 
 [[Computational Phenomenology of Responsible Agency]]
@@ -205,6 +227,9 @@ Albarracin et al.の方法は、
 
 
 ## Mapping Rather Than Identity
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献から最も重要に学ぶべき点は、
 
@@ -255,6 +280,9 @@ Albarracin et al.の方法は、
 
 ## Relation to Husserl
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[husserlAnalysesConcerningPassive2001]]
 
 Husserlでは、
@@ -296,6 +324,9 @@ Active Inferenceでは、
 
 ## Relation to Bogotá & Djebbara
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[bogotaTimeconsciousnessComputationalPhenomenology2023]]
 
 両文献は非常に近い。
@@ -329,6 +360,9 @@ Bogotá & Djebbaraは、
 
 
 ## Relation to Yang
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[yangHusserlsTheoryExperience2025]]
 
@@ -378,6 +412,9 @@ phenomenological / computational双方から
 
 ## Relation to Genetic and Diachronic Agency
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Genetic and Diachronic Agency]]
 
 私の理論では、
@@ -420,6 +457,9 @@ Genetic and Diachronic Agencyにはさらに、
 
 ## Relation to Genetic-Reflective Loop
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Genetic-Reflective Loop]]
 
 Albarracin et al.を利用すると、
@@ -457,6 +497,9 @@ computationally formalizeできる可能性がある。
 
 
 ## Active Inference Is Not Reflective Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 これは特に重要である。
 
@@ -499,6 +542,9 @@ responsible agencyを構成するためには、
 
 ## Relation to Open-Ended Revisability
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Second-Order Volition Requires Open-Ended Revisability]]
 
 Active Inferenceでは、
@@ -538,6 +584,9 @@ AI自身がそれをreflectionによって
 
 
 ## Belief Revision vs Preference Revision vs Self-Revision
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献を踏まえると、
 AIのrevisionをさらに整理できる。
@@ -582,6 +631,9 @@ responsible agencyに必要なのは、
 
 
 ## Relation to Normative Criterion Regress
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Normative Criterion Regress]]
 
@@ -628,6 +680,9 @@ Active Inference architectureに
 
 ## Relation to Agentive Action Initiation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Agentive Action Initiation]]
 
 Active Inferenceは、
@@ -670,6 +725,9 @@ agentはgoal executionには自律的でも、
 
 ## From Goal Pursuit to Goal Formation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 responsible agencyには、
 
     Given Goal
@@ -704,6 +762,9 @@ responsible agencyには、
 
 
 ## Relation to AI Architecture
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献から、
 responsible AI agentのarchitectureを
@@ -745,6 +806,9 @@ Layer 2との統合が必要になる可能性がある。
 
 ## Relation to Lindsey
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[lindseyEmergentIntrospectiveAwareness2026]]
 
 Lindseyの研究が示唆する
@@ -770,6 +834,9 @@ reflective AI architectureを考えることができる可能性がある。
 
 ## Relation to AI Individuation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[AI Individuation]]
 
 generative modelがexperience historyを通じて更新される場合、
@@ -781,7 +848,7 @@ generative modelがexperience historyを通じて更新される場合、
 
 このexperience-dependent model differentiationは、
 
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 の候補になる。
 
@@ -801,6 +868,9 @@ generative modelがexperience historyを通じて更新される場合、
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -857,6 +927,9 @@ responsible agencyのcomplete theoryとして
 
 
 ## Extension: Computational Phenomenology of Responsible Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献を踏まえると、
 私の研究programを次のように構成できる。
@@ -941,24 +1014,30 @@ conditionの成立を検証する。
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Computational Phenomenology]]
-- [[Active Inference]]
-- [[Generative Model]]
-- [[Time-Consciousness]]
-- [[Retention]]
-- [[Protention]]
+- [[wilsonActiveInferenceMethod2026|Active Inference]]
+- [[albarracinMappingHusserlianPhenomenology2022|Generative Model]]
+- [[Passive Synthesis#Temporal Synthesis|Time-Consciousness]]
+- [[Passive Synthesis#Temporal Synthesis|Retention]]
+- [[Passive Synthesis#Temporal Synthesis|Protention]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic-Reflective Loop]]
-- [[Genetic Rationality]]
+- [[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
 - [[Reflective Self-Formation]]
 - [[Open-Ended Revisability]]
-- [[Counterfactual Self-Variation]]
+- [[Open-Ended Revisability#Counterfactual Self-Variation|Counterfactual Self-Variation]]
 - [[Agentive Action Initiation]]
 - [[Computational Phenomenology of Responsible Agency]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -967,6 +1046,9 @@ conditionの成立を検証する。
 
 
 ## Related Literature
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[bogotaTimeconsciousnessComputationalPhenomenology2023]]
 - [[husserlAnalysesConcerningPassive2001]]
@@ -978,6 +1060,9 @@ conditionの成立を検証する。
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Husserlian phenomenological conceptsを
   Active Inferenceへmappingする基準は何か？
@@ -1052,6 +1137,9 @@ conditionの成立を検証する。
 
 ## Notes
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - Mahault Albarracin,
   Riddhi J. Pitliya,
   Maxwell J. D. Ramstead,
@@ -1089,7 +1177,7 @@ conditionの成立を検証する。
   というstructural mappingを提示することである。:contentReference[oaicite:1]{index=1}
 
 - [[Computational Phenomenology of Responsible Agency]]
-  [[Four Levels of Revision]]
+  [[Computational Phenomenology of Responsible Agency#6. Four Levels of Revision|Four Levels of Revision]]
 
   などは著者ら自身の用語ではなく、
   私自身のresponsible agency theoryへの拡張である。
@@ -1103,6 +1191,9 @@ conditionの成立を検証する。
   と解釈してはならない。
 
 ## New Bridges to Agency and Responsibility
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 本論文のmappingは、[[Computational Phenomenology]]をAI責任論へ接続する出発点になるが、現象学的記述と計算変数の同一性を証明するものではない。とりわけ、retention/posterior、primal impression/sensory evidence、protention/predictionの対応は、それぞれの役割の部分的一致として読むべきである。
 

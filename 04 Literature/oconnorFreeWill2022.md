@@ -18,6 +18,19 @@ tags:
 
 # Free Will
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[Frankfurtian Second-Order Volition in AI]]、[[Genetic and Diachronic Agency]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @oconnorFreeWill2022
@@ -48,6 +61,9 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@oconnorFreeWill2022の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 自由意志論の争点は、決定論の真偽だけでは決まらない。
 
 何を自由意志と呼ぶかは、行為がどの意味で行為者に委ねられている必要があるか、そしてどの種類の道徳的責任を説明したいかによって変わる。
@@ -59,9 +75,10 @@ SEPが現代の議論を整理する二つの軸は、次のとおりである�
 
 多くの立場は片方だけを採用するのではなく、両者に異なる役割を与える。
 
-したがって、AIの自由意志を評価するときも、出力候補が複数あったかという問いと、その選択過程がAI自身の理由や自己統治に由来したかという問いを分けなければならない。
-
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@oconnorFreeWill2022の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 ### 自由意志と道徳的責任
 
@@ -143,7 +160,12 @@ Libet型実験についてもreadiness potentialの意味は確定しておら�
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 SEPの二軸は、[[Free Will Conditions for Artificial Moral Responsibility]]の基本構造を支持する。
+
+したがって、AIの自由意志を評価するときも、出力候補が複数あったかという問いと、その選択過程がAI自身の理由や自己統治に由来したかという問いを分けなければならない。
 
 ただし、現在の理論にある`Free = Agency-Level Alternative Possibilities`と`Will = Second-Order Volition + Sourcehood`という分解は、SEPの分類そのものではない。
 
@@ -164,6 +186,9 @@ AIが高階の動機に自己同一化し、理由応答的に行為しても、
 これらはSEPが明示的に採用するAI理論ではなく、操作への耐性を通時的な自己形成として再構成する本研究の拡張である。
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -191,6 +216,9 @@ AIについては、操作の有無を「外部から形成されたか」で判
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Alternative Possibilities]]
 - [[Agency-Level Alternative Possibilities]]
 - [[Sourcehood]]
@@ -202,6 +230,9 @@ AIについては、操作の有無を「外部から形成されたか」で判
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Free Will Conditions for Artificial Moral Responsibility]]
 - [[Alternative Possibilities Alone Are Insufficient for AI Responsibility]]
 - [[Frankfurtian Second-Order Volition Does Not Solve AI Sourcehood]]
@@ -210,12 +241,18 @@ AIについては、操作の有無を「外部から形成されたか」で判
 
 ## Questions Raised
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 - AIの内部制約は、恐怖症や強迫に相当する自由阻害条件と、成熟した価値的一貫性のどちらに分類されるか。
 - 設計者が与えた高階方針について、どの程度の改訂可能性があれば操作ではなく自己統治とみなせるか。
 - AI責任論が説明すべき責任はanswerability、attributability、accountabilityのどれか。
 - AIに基本的功績に基づく賞罰を認めず、応答要求だけを認める理論は自由意志を必要とするか。
 
 ## Notes
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - SEPは動的URLではなくWinter 2022の固定版を引用するよう推奨している。
 - 初版公開は2002年1月7日、最終的な内容改訂は2022年11月3日。

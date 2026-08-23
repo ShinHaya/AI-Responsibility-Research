@@ -6,9 +6,25 @@ tags:
   - phenomenology
   - husserl
   - agency
+concept_origin: borrowed-adjacent-field
+origin_field: "Husserl現象学"
+canonical_sources:
+  - "[[husserlAnalysesConcerningPassive2001]]"
+  - "[[moranEdmundHusserlsPhenomenology2011]]"
 ---
 
 # Habituality
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：過去の経験と行為が持続的な傾向性を形成するというHusserl現象学の既存概念である。
+> **本研究で加えた部分**：AIのlong-term dispositionと責任能力への機能的応用可能性を検討する。
+> **主な根拠**：[[husserlAnalysesConcerningPassive2001]]、[[moranEdmundHusserlsPhenomenology2011]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 過去の経験、判断、決定、行為、他者との関係が主体の持続的な傾向として身につき、現在の知覚、期待、価値、実践的顕著性、行為可能性を先構造化すること。Habitualitätは反復的な行動癖だけでなく、「私は何を信じ、価値づけ、可能と感じる主体になったか」に関わる。
 
@@ -66,4 +82,3 @@ AIの履歴が単に検索可能であるだけでなく、将来のattention、
 - [[Genetic and Diachronic Agency]]
 - [[AI Individuation]]
 - [[Reflective Self-Formation]]
-

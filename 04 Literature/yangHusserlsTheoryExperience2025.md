@@ -13,6 +13,19 @@ tags:
 
 # Husserl’s Theory of Experience in Genetic Phenomenology: Passivity, Rationality, and Normativity
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Habituality]]、[[Passive Synthesis]]、[[Sedimentation]]。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @yangHusserlsTheoryExperience2025
@@ -46,6 +59,9 @@ McDowell shares with phenomenology the idea that experience is open to the world
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@yangHusserlsTheoryExperience2025の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 YangはHusserlのgenetic phenomenologyにおける
 experienceの構造を検討し、
@@ -94,34 +110,11 @@ explicit reasoning以前の
 
 が存在すると理解できる。
 
-この点は私のresponsible agency理論に重要である。
-
-responsible agentのrationalityを、
-
-    Explicit Reasoning
-        ↓
-    Normative Judgment
-        ↓
-    Action
-
-だけから説明するのではなく、
-
-    Historical Experience
-        ↓
-    Passive Synthesis
-        ↓
-    Proto-Normative Salience
-        ↓
-    Active Reflection
-        ↓
-    Explicit Normative Evaluation
-        ↓
-    Action
-
-という発生的構造として考える可能性を開く。
-
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@yangHusserlsTheoryExperience2025の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - Husserlのgenetic phenomenologyは、
   experienceがどのように時間的に形成されるかを問う。
@@ -165,11 +158,30 @@ responsible agentのrationalityを、
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は、
 
 [[Genetic and Diachronic Agency]]
 
 の基礎を補強する。
+
+この点は私のresponsible agency理論に重要である。
+
+Responsible agentのrationalityは、explicit reasoning、normative judgment、actionだけからではなく、次の発生的構造から説明できる可能性がある。
+
+    Historical Experience
+        ↓
+    Passive Synthesis
+        ↓
+    Proto-Normative Salience
+        ↓
+    Active Reflection
+        ↓
+    Explicit Normative Evaluation
+        ↓
+    Action
 
 直前の
 
@@ -204,6 +216,9 @@ Yangの議論からさらに重要になるのは、
 
 
 ## Passive Synthesis Is Not Mere Information Processing
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 これはAIへの応用で特に重要である。
 
@@ -247,6 +262,9 @@ Husserlian passive synthesisのfunctional analogueを考えるなら、
 
 
 ## From Passive Synthesis to Proto-Normativity
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この文献で特に重要なのは、
 passive experienceとnormativityの関係である。
@@ -312,6 +330,9 @@ passive experienceとnormativityの関係である。
 
 ## Proto-Normativity Is Not Moral Normativity
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ただし重要な区別が必要である。
 
     Proto-Normativity
@@ -346,6 +367,9 @@ Yang / Husserlから直接、
 
 
 ## Relation to Normative Criterion Regress
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Normative Criterion Regress]]
 
@@ -389,6 +413,9 @@ Historical Situatednessのさらに下に、
 
 
 ## Genetic Explanation Does Not Justify Norms
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 しかし、
 
@@ -435,6 +462,9 @@ Historical Situatednessのさらに下に、
 
 ## Relation to Open-Ended Revisability
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Second-Order Volition Requires Open-Ended Revisability]]
 
 主体はpassively形成された
@@ -472,6 +502,9 @@ habitualitiesやsalience structuresを
 
 
 ## Relation to Genetic-Reflective Loop
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Genetic-Reflective Loop]]
 
@@ -525,6 +558,9 @@ diachronically形成される。
 
 ## Relation to Bratman
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[bratmanSharedAgencyPlanning2014]]
 
 Bratmanは、
@@ -564,6 +600,9 @@ genetic phenomenologyが一つの説明資源を提供する。
 
 
 ## Relation to Agentive Action Initiation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Agentive Action Initiation]]
 
@@ -606,6 +645,9 @@ explicit decisionだけでなく、
 
 ## Relation to AI
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 AI responsible agencyへの最大の含意は、
 
 > sophisticated reasoningだけでは
@@ -636,6 +678,9 @@ Husserl的な意味でのgenetic developmentとの
 
 
 ## Four Levels of AI Experience
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 AIについて少なくとも
 次の四段階を区別できる。
@@ -693,6 +738,9 @@ AIについて少なくとも
 
 ## AI and Prediction Error
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 AIにおけるprediction errorは、
 Husserlian fulfillment / disappointmentと
 部分的なfunctional analogyを持つ可能性がある。
@@ -734,6 +782,9 @@ functional correspondenceの可能性として検討すべきである。
 
 ## Relation to Active Inference
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この点から、
 Active Inference / Predictive Processingは
 今後重要な比較対象になる。
@@ -770,6 +821,9 @@ Husserlian genetic experienceとの
 
 ## Relation to AI Individuation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[AI Individuation]]
 
 experience-dependent formationは、
@@ -793,7 +847,7 @@ AI individuationにも重要である。
 へ分化するなら、
 
 そのdifferenceは
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 を構成する候補になる。
 
 単に異なるmemory recordsを持つだけではなく、
@@ -805,6 +859,9 @@ AI individuationにも重要である。
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -864,6 +921,9 @@ moral responsibilityを導くことはできない。
 
 ## Extension: Two Sources of Normative Constraint
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ここから、
 responsible agencyにおけるnormativityには
 少なくとも二つのsourceがあるという仮説を立てられる。
@@ -901,6 +961,9 @@ responsible agencyは、
 
 
 ## Extension: Genetic Rationality
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 これまで私は
 Genetic and Diachronic Agencyを主として、
@@ -943,27 +1006,33 @@ Yangを踏まえると、
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Passive Synthesis]]
-- [[Genetic Phenomenology]]
-- [[Genetic Rationality]]
-- [[Proto-Normativity]]
-- [[Experiential Normativity]]
-- [[Affection]]
-- [[Association]]
+- [[Genetic and Diachronic Agency#Phenomenological Foundation|Genetic Phenomenology]]
+- [[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
+- [[yangHusserlsTheoryExperience2025#From Passive Synthesis to Proto-Normativity|Proto-Normativity]]
+- [[yangHusserlsTheoryExperience2025|Experiential Normativity]]
+- [[Passive Synthesis#Affection|Affection]]
+- [[Passive Synthesis#Association|Association]]
 - [[Sedimentation]]
 - [[Habituality]]
-- [[Fulfillment]]
-- [[Disappointment]]
+- [[yangHusserlsTheoryExperience2025|Fulfillment]]
+- [[yangHusserlsTheoryExperience2025|Disappointment]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic-Reflective Loop]]
 - [[Reflective Self-Formation]]
 - [[Open-Ended Revisability]]
-- [[Historical Situatedness]]
+- [[Normative Criterion Regress#1. Historical Situatedness|Historical Situatedness]]
 - [[Agentive Action Initiation]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -972,6 +1041,9 @@ Yangを踏まえると、
 
 
 ## Related Literature
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[husserlAnalysesConcerningPassive2001]]
 - [[bratmanSharedAgencyPlanning2014]]
@@ -983,6 +1055,9 @@ Yangを踏まえると、
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Passive synthesisにはどのような意味で
   rationalityが存在するのか？
@@ -1045,6 +1120,9 @@ Yangを踏まえると、
 
 ## Notes
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - Yang,
   "Husserl's Theory of Experience in Genetic Phenomenology",
   2025.
@@ -1071,8 +1149,8 @@ Yangを踏まえると、
   をHusserlian conceptsと
   直接同一視してはならない。
 
-- [[Proto-Normativity]]
-  [[Genetic Rationality]]
+- [[yangHusserlsTheoryExperience2025#From Passive Synthesis to Proto-Normativity|Proto-Normativity]]
+  [[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
   [[Genetic-Reflective Loop]]
 
   は、このLiterature Noteで私自身の

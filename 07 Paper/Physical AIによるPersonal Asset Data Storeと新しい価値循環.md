@@ -1,8 +1,25 @@
 # Physical AIによるPersonal Asset Data Storeと新しい価値循環
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の提案・草稿。既存用語、既存技術、本研究による構成案を区別して読む。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：該当なし。
+> **本研究で導入した作業概念**：[[Personal Asset Data Store]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## 実現したい価値循環
 
-私がメルカリで社会実装したいのは、個人が自らの所有物に関する情報を管理する**Personal Asset Data Store**である。
+私がメルカリで社会実装したいのは、個人が自らの所有物に関する情報を管理する**[[Personal Asset Data Store]]**である。
+
+この名称は、SoroeruのPersonal Data Store構想から着想し、その対象を「ものの個人情報」へ拡張するために本研究で導入した作業概念である。
+
+世界初の文字列使用を主張する名称ではなく、既存のPersonal Data Store、メルカリの「持ち物一覧」、関連するPhysical AIとAR研究を統合する構想を指す。
 
 メルカリには、過去にメルカリやメルペイ対応ショップで購入した商品を表示し、再出品を容易にする「持ち物一覧」がある。
 
@@ -28,7 +45,7 @@ Personal AI Agentは、ユーザーが許可した所有物について二次流
 
 エージェントは意思決定を代替するのではなく、所有物の把握と売買に必要な作業を支援する。
 
-DeclutterARは、物を取り除いた後の実空間をAR上で可視化する研究である。
+[[chanDeclutterARMobileDiminished2022|DeclutterAR]]は、物を取り除いた後の実空間をAR上で可視化する研究である。
 
 Personal AI Agentが売却候補と購入候補を探し、3D画像生成AIがPhysical AIの撮影した映像を用いて、売買後の生活空間を提示する。
 
