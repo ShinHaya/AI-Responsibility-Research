@@ -1,0 +1,594 @@
+[
+  {
+    "index": 71,
+    "title": "My Way: Essays on Moral Responsibility",
+    "year": "2006",
+    "zotero_key": "AKTUNHKP",
+    "citation_key": "fischerMyWayEssays2006",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22My+Way%3A+Essays+on+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.715
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 72,
+    "title": "The Frankfurt Cases: The Moral of the Stories",
+    "year": "2010",
+    "zotero_key": "HAB4EPIZ",
+    "citation_key": "fischerFrankfurtCasesMoral2010",
+    "doi": "10.1215/00318108-2010-002",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Frankfurt+Cases%3A+The+Moral+of+the+Stories%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1215/00318108-2010-002",
+      "title": "The Frankfurt Cases: The Moral of the Stories",
+      "abstract": "The Frankfurt cases have been thought by some philosophers to show that moral responsibility does not require genuine metaphysical access to alternative possibilities. But various philosophers have rejected this putative “lesson” of the cases, and they have put forward a powerful “Dilemma Defense.” In the last decade or so, many philosophers have been persuaded by the Dilemma Defense that the Frankfurt cases do not show what Frankfurt (and others) thought they show. This essay presents a template for a general strategy of response to the Dilemma Defense. It thus seeks to provide further support for the author's view that the Frankfurt cases help to establish that moral responsibility does not require alternative possibilities.",
+      "url": "https://doi.org/10.1215/00318108-2010-002",
+      "pdf_urls": [
+        "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1215/00318108-2010-002",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "The Frankfurt cases have been thought by some philosophers to show that moral responsibility does not require genuine metaphysical access to alternative possibilities. But various philosophers have rejected this putative “lesson” of the cases, and they have put forward a powerful “Dilemma Defense.” In the last decade or so, many philosophers have been persuaded by the Dilemma Defense that the Frankfurt cases do not show what Frankfurt (and others) thought they show. This essay presents a template for a general strategy of response to the Dilemma Defense. It thus seeks to provide further support for the author's view that the Frankfurt cases help to establish that moral responsibility does not require alternative possibilities.",
+        "source": "https://doi.org/10.1215/00318108-2010-002",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "The Frankfurt cases have been thought by some philosophers to show that moral responsibility does not require genuine metaphysical access to alternative possibilities. But various philosophers have rejected this putative “lesson” of the cases, and they have put forward a powerful “Dilemma Defense.” In the last decade or so, many philosophers have been persuaded by the Dilemma Defense that the Frankfurt cases do not show what Frankfurt (and others) thought they show. This essay presents a template for a general strategy of response to the Dilemma Defense. It thus seeks to provide further support for the author's view that the Frankfurt cases help to establish that moral responsibility does not require alternative possibilities.",
+      "source": "https://doi.org/10.1215/00318108-2010-002",
+      "kind": "crossref"
+    },
+    "pdf_candidates": [
+      "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf"
+    ]
+  },
+  {
+    "index": 73,
+    "title": "The Zygote Argument Remixed",
+    "year": "2011",
+    "zotero_key": "TB8DELNU",
+    "citation_key": "fischerZygoteArgumentRemixed2011",
+    "doi": "10.1093/analys/anr008",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Zygote+Argument+Remixed%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/analys/anr008",
+      "title": "The Zygote Argument remixed",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/analys/anr008",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/analys/anr008",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 74,
+    "title": "Deep Control: Essays on Free Will and Value",
+    "year": "2012",
+    "zotero_key": "EG3WRSDS",
+    "citation_key": "fischerDeepControlEssays2012",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Deep+Control%3A+Essays+on+Free+Will+and+Value%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.787
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 75,
+    "title": "The Deterministic Horn of the Dilemma Defense: A Reply to Widerker and Goetz",
+    "year": "2013",
+    "zotero_key": "GT65U6X5",
+    "citation_key": "fischerDeterministicHornDilemma2013",
+    "doi": "10.1093/analys/ant036",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Deterministic+Horn+of+the+Dilemma+Defense%3A+A+Reply+to+Widerker+and+Goetz%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/analys/ant036",
+      "title": "The deterministic horn of the dilemma defence: a reply to Widerker and Goetz",
+      "best_score": 0.984,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/analys/ant036",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/analys/ant036",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 76,
+    "title": "The Freedom Required for Moral Responsibility",
+    "year": "2018",
+    "zotero_key": "WJZPV9R4",
+    "citation_key": "fischerFreedomRequiredMoral2018",
+    "doi": "10.1093/oso/9780198817277.003.0013",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Freedom+Required+for+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oso/9780198817277.003.0013",
+      "title": "The Freedom Required for Moral Responsibility",
+      "best_score": 1.0,
+      "abstract": "Some philosophers argue that we do not need freedom to do otherwise or access to alternative possibilities for moral responsibility. These philosophers are actual-sequence theorists of moral responsibility who are motivated by Frankfurt cases, in which there is pre-emptive overdetermination. They contend that in these cases the agent is morally responsible but does not have freedom to do otherwise or access to alternative possibilities. Others have rejected the actual-sequence approach. They contend that the sort of freedom to do otherwise required for moral responsibility is indeed present in the Frankfurt cases. This essay explores the significance of the debate between these two camps. Are the two views importantly different or mere notational variants of each other? I examine these questions with attention to Terry Irwin’s discussion of Aristotle on responsibility.",
+      "url": "https://doi.org/10.1093/oso/9780198817277.003.0013",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oso/9780198817277.003.0013",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Some philosophers argue that we do not need freedom to do otherwise or access to alternative possibilities for moral responsibility. These philosophers are actual-sequence theorists of moral responsibility who are motivated by Frankfurt cases, in which there is pre-emptive overdetermination. They contend that in these cases the agent is morally responsible but does not have freedom to do otherwise or access to alternative possibilities. Others have rejected the actual-sequence approach. They contend that the sort of freedom to do otherwise required for moral responsibility is indeed present in the Frankfurt cases. This essay explores the significance of the debate between these two camps. Are the two views importantly different or mere notational variants of each other? I examine these questions with attention to Terry Irwin’s discussion of Aristotle on responsibility.",
+        "source": "https://doi.org/10.1093/oso/9780198817277.003.0013",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Some philosophers argue that we do not need freedom to do otherwise or access to alternative possibilities for moral responsibility. These philosophers are actual-sequence theorists of moral responsibility who are motivated by Frankfurt cases, in which there is pre-emptive overdetermination. They contend that in these cases the agent is morally responsible but does not have freedom to do otherwise or access to alternative possibilities. Others have rejected the actual-sequence approach. They contend that the sort of freedom to do otherwise required for moral responsibility is indeed present in the Frankfurt cases. This essay explores the significance of the debate between these two camps. Are the two views importantly different or mere notational variants of each other? I examine these questions with attention to Terry Irwin’s discussion of Aristotle on responsibility.",
+      "source": "https://doi.org/10.1093/oso/9780198817277.003.0013",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 77,
+    "title": "Responsibility and Control: A Theory of Moral Responsibility",
+    "year": "1998",
+    "zotero_key": "GRAG7FCK",
+    "citation_key": "fischerResponsibilityControlTheory1998",
+    "doi": "10.5860/choice.36-2692",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Responsibility+and+Control%3A+A+Theory+of+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.36-2692",
+      "title": "Responsibility and control: a theory of moral responsibility",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.36-2692",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.36-2692",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This book provides a comprehensive, systematic theory of moral responsibility. The authors explore the conditions under which individuals are morally responsible for actions, omissions, consequences, and emotions. The leading idea in the book is that moral responsibility is based on \"guidance control.\" This control has two components: the mechanism that issues in the relevant behavior must be the agent's own mechanism, and it must be appropriately responsive to reasons. The book develops an account of both components. The authors go on to offer a sustained defense of the thesis that moral responsibility is compatible with causal determinism. This major study will interest moral philosophers, legal theorists, and those in religious studies concerned with the issue of moral responsibility.",
+        "source": "zotero",
+        "kind": "zotero"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This book provides a comprehensive, systematic theory of moral responsibility. The authors explore the conditions under which individuals are morally responsible for actions, omissions, consequences, and emotions. The leading idea in the book is that moral responsibility is based on \"guidance control.\" This control has two components: the mechanism that issues in the relevant behavior must be the agent's own mechanism, and it must be appropriately responsive to reasons. The book develops an account of both components. The authors go on to offer a sustained defense of the thesis that moral responsibility is compatible with causal determinism. This major study will interest moral philosophers, legal theorists, and those in religious studies concerned with the issue of moral responsibility.",
+      "source": "zotero",
+      "kind": "zotero"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 78,
+    "title": "The Physiognomy of Responsibility",
+    "year": "2011",
+    "zotero_key": "SU62AVL7",
+    "citation_key": "fischerPhysiognomyResponsibility2011",
+    "doi": "10.1111/j.1933-1592.2010.00458.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Physiognomy+of+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1933-1592.2010.00458.x",
+      "title": "The Physiognomy of Responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1933-1592.2010.00458.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1933-1592.2010.00458.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 79,
+    "title": "Alternate Possibilities and Moral Responsibility",
+    "year": "1969",
+    "zotero_key": "MG5NVTFK",
+    "citation_key": "frankfurtAlternatePossibilitiesMoral1969",
+    "doi": "10.2307/2023833",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Alternate+Possibilities+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2023833",
+      "title": "Alternate Possibilities and Moral Responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2023833",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2023833",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 80,
+    "title": "Freedom of the Will and the Concept of a Person",
+    "year": "1971",
+    "zotero_key": "XWTC2NA9",
+    "citation_key": "frankfurtFreedomWillConcept1971",
+    "doi": "10.2307/2024717",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom+of+the+Will+and+the+Concept+of+a+Person%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2024717",
+      "title": "Freedom of the Will and the Concept of a Person",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2024717",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2024717",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 81,
+    "title": "On the Necessity of Ideals",
+    "year": "1993",
+    "zotero_key": "V8K5IUFG",
+    "citation_key": "frankfurtNecessityIdeals1993",
+    "doi": "10.1017/cbo9780511624643.010",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22On+the+Necessity+of+Ideals%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511624643.010",
+      "title": "On the Necessity of Ideals",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511624643.010",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511624643.010",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/necessity-volition-and-love/on-the-necessity-of-ideals/2B3667E08819FCB2CE4F5BBC3289EE68"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 82,
+    "title": "Autonomy, Necessity, and Love",
+    "year": "1994",
+    "zotero_key": "AM683NZT",
+    "citation_key": "frankfurtAutonomyNecessityLove1994",
+    "doi": "10.1017/cbo9780511624643.012",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Autonomy%2C+Necessity%2C+and+Love%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511624643.012",
+      "title": "Autonomy, Necessity, and Love",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511624643.012",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511624643.012",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/necessity-volition-and-love/autonomy-necessity-and-love/5696160C9BA0DBB70B379E326DA7029E"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 83,
+    "title": "Farewell to the Luck (and Mind) Argument",
+    "year": "2011",
+    "zotero_key": "PMTS7S77",
+    "citation_key": "franklinFarewellLuckMind2011",
+    "doi": "10.1007/s11098-010-9583-3",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Farewell+to+the+Luck+%28and+Mind%29+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-010-9583-3",
+      "title": "Farewell to the luck (and Mind) argument",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-010-9583-3",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-010-9583-3",
+        "abstracts": [
+          {
+            "text": "In this paper I seek to defend libertarianism about free will and moral responsibility against two well-known arguments: the luck argument and the Mind argument. Both of these arguments purport to show that indeterminism is incompatible with the degree of control necessary for free will and moral responsibility. I begin the discussion by elaborating these arguments, clarifying important features of my preferred version of libertarianism—features that will be central to an adequate response to the arguments—and showing why a strategy of reconciliation (often referred to as “deliberative libertarianism”) will not work. I then consider four formulations of the luck argument and find them all wanting. This discussion will place us in a favorable position to understand why the Mind argument also fails.",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "In this paper I seek to defend libertarianism about free will and moral responsibility against two well-known arguments: the luck argument and the Mind arg",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [
+          "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf"
+        ],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In this paper I seek to defend libertarianism about free will and moral responsibility against two well-known arguments: the luck argument and the Mind argument. Both of these arguments purport to show that indeterminism is incompatible with the degree of control necessary for free will and moral responsibility. I begin the discussion by elaborating these arguments, clarifying important features of my preferred version of libertarianism—features that will be central to an adequate response to the arguments—and showing why a strategy of reconciliation (often referred to as “deliberative libertarianism”) will not work. I then consider four formulations of the luck argument and find them all wanting. This discussion will place us in a favorable position to understand why the Mind argument also fails.",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "In this paper I seek to defend libertarianism about free will and moral responsibility against two well-known arguments: the luck argument and the Mind arg",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In this paper I seek to defend libertarianism about free will and moral responsibility against two well-known arguments: the luck argument and the Mind argument. Both of these arguments purport to show that indeterminism is incompatible with the degree of control necessary for free will and moral responsibility. I begin the discussion by elaborating these arguments, clarifying important features of my preferred version of libertarianism—features that will be central to an adequate response to the arguments—and showing why a strategy of reconciliation (often referred to as “deliberative libertarianism”) will not work. I then consider four formulations of the luck argument and find them all wanting. This discussion will place us in a favorable position to understand why the Mind argument also fails.",
+      "source": "https://link.springer.com/article/10.1007/s11098-010-9583-3?error=cookies_not_supported&code=96d7add4-7af9-469e-a93c-5068f2840c3d",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf"
+    ]
+  },
+  {
+    "index": 84,
+    "title": "Masks, Abilities, and Opportunities: Why the New Dispositionalism Cannot Succeed",
+    "year": "2011",
+    "zotero_key": "QDY75U55",
+    "citation_key": "franklinMasksAbilitiesOpportunities2011",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Masks%2C+Abilities%2C+and+Opportunities%3A+Why+the+New+Dispositionalism+Cannot+Succeed%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.612
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 85,
+    "title": "Neo-Frankfurtians and Buffer Cases: The New Challenge to the Principle of Alternative Possibilities",
+    "year": "2011",
+    "zotero_key": "XKSP7J5P",
+    "citation_key": "franklinNeoFrankfurtiansBufferCases2011",
+    "doi": "10.1007/s11098-009-9472-9",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Neo-Frankfurtians+and+Buffer+Cases%3A+The+New+Challenge+to+the+Principle+of+Alternative+Possibilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-009-9472-9",
+      "title": "Neo-Frankfurtians and buffer cases: the new challenge to the principle of alternative possibilities",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-009-9472-9",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-009-9472-9",
+        "abstracts": [
+          {
+            "text": "The debate over whether Frankfurt-style cases are counterexamples to the principle of alternative possibilities (PAP) has taken an interesting turn in recent years. Frankfurt originally envisaged his attack as an attempting to show that PAP is false—that the ability to do otherwise is not necessary for moral responsibility. To many this attack has failed. But Frankfurtians have not conceded defeat. Neo-Frankfurtians, as I will call them, argue that the upshot of Frankfurt-style cases is not that PAP is false, but that it is explanatorily irrelevant. Derk Pereboom and David Hunt’s buffer cases are tailor made to establish this conclusion. In this paper I come to the aid of PAP, showing that buffer cases provide no reason for doubting either its truth or relevance with respect to explaining an agent’s moral responsibility.",
+            "source": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "The debate over whether Frankfurt-style cases are counterexamples to the principle of alternative possibilities (PAP) has taken an interesting turn in rece",
+            "source": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [
+          "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf"
+        ],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "The debate over whether Frankfurt-style cases are counterexamples to the principle of alternative possibilities (PAP) has taken an interesting turn in recent years. Frankfurt originally envisaged his attack as an attempting to show that PAP is false—that the ability to do otherwise is not necessary for moral responsibility. To many this attack has failed. But Frankfurtians have not conceded defeat. Neo-Frankfurtians, as I will call them, argue that the upshot of Frankfurt-style cases is not that PAP is false, but that it is explanatorily irrelevant. Derk Pereboom and David Hunt’s buffer cases are tailor made to establish this conclusion. In this paper I come to the aid of PAP, showing that buffer cases provide no reason for doubting either its truth or relevance with respect to explaining an agent’s moral responsibility.",
+        "source": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "The debate over whether Frankfurt-style cases are counterexamples to the principle of alternative possibilities (PAP) has taken an interesting turn in rece",
+        "source": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "The debate over whether Frankfurt-style cases are counterexamples to the principle of alternative possibilities (PAP) has taken an interesting turn in recent years. Frankfurt originally envisaged his attack as an attempting to show that PAP is false—that the ability to do otherwise is not necessary for moral responsibility. To many this attack has failed. But Frankfurtians have not conceded defeat. Neo-Frankfurtians, as I will call them, argue that the upshot of Frankfurt-style cases is not that PAP is false, but that it is explanatorily irrelevant. Derk Pereboom and David Hunt’s buffer cases are tailor made to establish this conclusion. In this paper I come to the aid of PAP, showing that buffer cases provide no reason for doubting either its truth or relevance with respect to explaining an agent’s moral responsibility.",
+      "source": "https://link.springer.com/article/10.1007/s11098-009-9472-9?error=cookies_not_supported&code=06b28028-95b6-4f38-bd6e-46045034b522",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf"
+    ]
+  },
+  {
+    "index": 86,
+    "title": "Event-Causal Libertarianism, Functional Reduction, and the Disappearing Agent Argument",
+    "year": "2014",
+    "zotero_key": "NIISYP5A",
+    "citation_key": "franklinEventCausalLibertarianismFunctional2014",
+    "doi": "10.1007/s11098-013-0237-0",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Event-Causal+Libertarianism%2C+Functional+Reduction%2C+and+the+Disappearing+Agent+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-013-0237-0",
+      "title": "Event-causal libertarianism, functional reduction, and the disappearing agent argument",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-013-0237-0",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-013-0237-0",
+        "abstracts": [
+          {
+            "text": "Event-causal libertarians maintain that an agent’s freely bringing about a choice is reducible to states and events involving him bringing about the choice. Agent-causal libertarians demur, arguing that free will requires that the agent be irreducibly causally involved. Derk Pereboom and Meghan Griffith have defended agent-causal libertarianism on this score, arguing that since on event-causal libertarianism an agent’s contribution to his choice is exhausted by the causal role of states and events involving him, and since these states and events leave it open which decision he will make, he does not settle which decision occurs, and thus “disappears.” My aim is to explain why this argument fails. In particular, I demonstrate that event-causal libertarians can dismantle the argument by enriching the reductive base in their analysis of free will to include a state that plays the functional role of the self-determining agent and with which the agent is identified.",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Event-causal libertarians maintain that an agent’s freely bringing about a choice is reducible to states and events involving him bringing about the",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Event-causal libertarians maintain that an agent’s freely bringing about a choice is reducible to states and events involving him bringing about the choice. Agent-causal libertarians demur, arguing that free will requires that the agent be irreducibly causally involved. Derk Pereboom and Meghan Griffith have defended agent-causal libertarianism on this score, arguing that since on event-causal libertarianism an agent’s contribution to his choice is exhausted by the causal role of states and events involving him, and since these states and events leave it open which decision he will make, he does not settle which decision occurs, and thus “disappears.” My aim is to explain why this argument fails. In particular, I demonstrate that event-causal libertarians can dismantle the argument by enriching the reductive base in their analysis of free will to include a state that plays the functional role of the self-determining agent and with which the agent is identified.",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Event-causal libertarians maintain that an agent’s freely bringing about a choice is reducible to states and events involving him bringing about the",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Event-causal libertarians maintain that an agent’s freely bringing about a choice is reducible to states and events involving him bringing about the choice. Agent-causal libertarians demur, arguing that free will requires that the agent be irreducibly causally involved. Derk Pereboom and Meghan Griffith have defended agent-causal libertarianism on this score, arguing that since on event-causal libertarianism an agent’s contribution to his choice is exhausted by the causal role of states and events involving him, and since these states and events leave it open which decision he will make, he does not settle which decision occurs, and thus “disappears.” My aim is to explain why this argument fails. In particular, I demonstrate that event-causal libertarians can dismantle the argument by enriching the reductive base in their analysis of free will to include a state that plays the functional role of the self-determining agent and with which the agent is identified.",
+      "source": "https://link.springer.com/article/10.1007/s11098-013-0237-0?error=cookies_not_supported&code=8e9ad4d9-5fb4-4e3f-b7a0-fb66f81b5e5e",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf"
+    ]
+  }
+]

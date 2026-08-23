@@ -1,0 +1,203 @@
+[
+  {
+    "index": 3,
+    "status": "failed",
+    "attempted_urls": [
+      "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2471&context=faithandphilosophy"
+    ]
+  },
+  {
+    "index": 42,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf"
+    ]
+  },
+  {
+    "index": 43,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/COHFDF-5.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 45,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/CYRSNA.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 46,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/CYRMRW.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 63,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf"
+    ]
+  },
+  {
+    "index": 64,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007%2Fs12136-016-0305-0.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/064-frankfurt-style-counterexamples-and-the-importance-of-alternative-poss.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007%2Fs12136-016-0305-0.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf?error=cookies_not_supported&code=26ee5cbd-a775-4b46-ac40-a960e405533a",
+    "content_type": "application/pdf",
+    "size_bytes": 300293
+  },
+  {
+    "index": 72,
+    "status": "failed",
+    "attempted_urls": [
+      "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 83,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/083-farewell-to-the-luck-and-mind-argument.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf?error=cookies_not_supported&code=ccff51d7-6680-4c2c-84ef-0ea61228ae8d",
+    "content_type": "application/pdf",
+    "size_bytes": 1836346
+  },
+  {
+    "index": 85,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/085-neo-frankfurtians-and-buffer-cases-the-new-challenge-to-the-principle.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf?error=cookies_not_supported&code=68146880-ed86-4087-b5e2-73606a64d392",
+    "content_type": "application/pdf",
+    "size_bytes": 248741
+  },
+  {
+    "index": 86,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf"
+    ]
+  },
+  {
+    "index": 88,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/FRAIAS-4.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 96,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf"
+    ]
+  },
+  {
+    "index": 98,
+    "status": "failed",
+    "attempted_urls": [
+      "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2362&context=faithandphilosophy"
+    ]
+  },
+  {
+    "index": 111,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/111-explaining-free-will-by-rational-abilities.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf?error=cookies_not_supported&code=0a4401ea-7442-4ab5-af28-3db71195f2cc",
+    "content_type": "application/pdf",
+    "size_bytes": 669595
+  },
+  {
+    "index": 150,
+    "status": "failed",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf"
+    ]
+  },
+  {
+    "index": 159,
+    "status": "failed",
+    "attempted_urls": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1468-0114.00083"
+    ],
+    "last_error": "HTTPError: HTTP Error 400: No TDM Client Token was found in the request"
+  },
+  {
+    "index": 201,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf"
+    ]
+  },
+  {
+    "index": 213,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf"
+    ]
+  },
+  {
+    "index": 218,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf"
+    ]
+  },
+  {
+    "index": 224,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf"
+    ]
+  },
+  {
+    "index": 231,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9760-z.pdf"
+    ]
+  },
+  {
+    "index": 246,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-015-0527-9.pdf"
+    ]
+  },
+  {
+    "index": 250,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/BF00989879.pdf"
+    ]
+  },
+  {
+    "index": 270,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf"
+    ]
+  }
+]

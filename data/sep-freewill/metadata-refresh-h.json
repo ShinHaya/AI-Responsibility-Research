@@ -1,0 +1,513 @@
+[
+  {
+    "index": 153,
+    "title": "Personal Agency: The Metaphysics of Mind and Action",
+    "year": "2008",
+    "zotero_key": "B8ZBZMS7",
+    "citation_key": "lowePersonalAgencyMetaphysics2008",
+    "doi": "10.1080/00048402.2010.495755",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Personal+Agency%3A+The+Metaphysics+of+Mind+and+Action%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/00048402.2010.495755",
+      "title": "Personal Agency: The Metaphysics of Mind and Action",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1080/00048402.2010.495755",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/00048402.2010.495755",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 154,
+    "title": "Aquinas’s Libertarian Account of Free Will",
+    "year": "1998",
+    "zotero_key": "R3UDHCAY",
+    "citation_key": "macdonaldAquinassLibertarianAccount1998",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Aquinas%E2%80%99s+Libertarian+Account+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.7
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 155,
+    "title": "Primal Sin",
+    "year": "1999",
+    "zotero_key": "9FQRWRBN",
+    "citation_key": "macdonaldPrimalSin1999",
+    "doi": "10.1525/9780520919587-009",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Primal+Sin%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1525/9780520919587-009",
+      "title": "6. Primal Sin",
+      "abstract": "",
+      "url": "https://doi.org/10.1525/9780520919587-009",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1525/9780520919587-009",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 405: Not Allowed"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 156,
+    "title": "Treatise on Ethics, C. Walton (trans.)",
+    "year": "1684",
+    "zotero_key": "PQJ85USF",
+    "citation_key": "malebrancheTreatiseEthicsWalton1684",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Treatise+on+Ethics%2C+C.+Walton+%28trans.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.517
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 157,
+    "title": "Free Will: Philosophers and Neuroscientists in Conversation",
+    "year": "2022",
+    "zotero_key": "WJPENDF9",
+    "citation_key": "maozFreeWillPhilosophers2022",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%3A+Philosophers+and+Neuroscientists+in+Conversation%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.54
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 158,
+    "title": "Chinese Perspectives on Free Will",
+    "year": "2017",
+    "zotero_key": "XLM3V87B",
+    "citation_key": "marchalChinesePerspectivesFree2017",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Chinese+Perspectives+on+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.642
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 159,
+    "title": "A Compatibilist Version of the Theory of Agent Causation",
+    "year": "1999",
+    "zotero_key": "KT2IBLNH",
+    "citation_key": "markosianCompatibilistVersionTheory1999",
+    "doi": "10.1111/1468-0114.00083",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Compatibilist+Version+of+the+Theory+of+Agent+Causation%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/1468-0114.00083",
+      "title": "A Compatibilist Version Of The Theory Of Agent Causation",
+      "best_score": 1.0,
+      "abstract": "The Theory of Agent Causation has always been formulated as an incompatibilist view, but I think that this has been a mistake. The aim of this paper is to argue that, contrary to what agent causation theorists and their opponents have always believed, the most plausible version of the Theory of Agent Causation is actually a compatibilist version of that theory. I formulate the traditional version of the Theory of Agent Causation, and consider a series of objections to it and related views. With each objection comes a corresponding revision of the theory that is motivated by that objection, and with each revision the theory becomes increasingly compatibilistic until, finally, we arrive at a completely compatibilistic version of the Theory of Agent Causation, which I take to be the most plausible version of that theory.",
+      "url": "https://doi.org/10.1111/1468-0114.00083",
+      "pdf_urls": [
+        "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1468-0114.00083"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/1468-0114.00083",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "The Theory of Agent Causation has always been formulated as an incompatibilist view, but I think that this has been a mistake. The aim of this paper is to argue that, contrary to what agent causation theorists and their opponents have always believed, the most plausible version of the Theory of Agent Causation is actually a compatibilist version of that theory. I formulate the traditional version of the Theory of Agent Causation, and consider a series of objections to it and related views. With each objection comes a corresponding revision of the theory that is motivated by that objection, and with each revision the theory becomes increasingly compatibilistic until, finally, we arrive at a completely compatibilistic version of the Theory of Agent Causation, which I take to be the most plausible version of that theory.",
+        "source": "https://doi.org/10.1111/1468-0114.00083",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "The Theory of Agent Causation has always been formulated as an incompatibilist view, but I think that this has been a mistake. The aim of this paper is to argue that, contrary to what agent causation theorists and their opponents have always believed, the most plausible version of the Theory of Agent Causation is actually a compatibilist version of that theory. I formulate the traditional version of the Theory of Agent Causation, and consider a series of objections to it and related views. With each objection comes a corresponding revision of the theory that is motivated by that objection, and with each revision the theory becomes increasingly compatibilistic until, finally, we arrive at a completely compatibilistic version of the Theory of Agent Causation, which I take to be the most plausible version of that theory.",
+      "source": "https://doi.org/10.1111/1468-0114.00083",
+      "kind": "crossref"
+    },
+    "pdf_candidates": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1468-0114.00083"
+    ]
+  },
+  {
+    "index": 160,
+    "title": "Agent Causation as the Solution to all the Compatibilist’s Problems",
+    "year": "2012",
+    "zotero_key": "X6K4GZHQ",
+    "citation_key": "markosianAgentCausationSolution2012",
+    "doi": "10.1007/s11098-010-9654-5",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agent+Causation+as+the+Solution+to+all+the+Compatibilist%E2%80%99s+Problems%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-010-9654-5",
+      "title": "Agent causation as the solution to all the compatibilist’s problems",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-010-9654-5",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-010-9654-5.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-010-9654-5",
+        "abstracts": [
+          {
+            "text": "In a recent paper I argued that agent causation theorists should be compatibilists. In this paper, I argue that compatibilists should be agent causation theorists. I consider six of the main problems facing compatibilism: (i) the powerful intuition that one can’t be responsible for actions that were somehow determined before one was born; (ii) Peter van Inwagen’s modal argument, involving the inference rule (β); (iii) the objection to compatibilism that is based on claiming that the ability to do otherwise is a necessary condition for freedom; (iv) “manipulation arguments,” involving cases in which an agent is manipulated by some powerful being into doing something that he or she would not normally do, but in such a way that the compatibilist’s favorite conditions for a free action are satisfied; (v) the problem of constitutive luck; and (vi) the claim that it is not fair to blame someone for an action if that person was determined by forces outside of his or her control to perform that action. And in the case of each of these problems, I argue that the compatibilist has a much more plausible response to that problem if she endorses the theory of agent causation than she does otherwise.",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "In a recent paper I argued that agent causation theorists should be compatibilists. In this paper, I argue that compatibilists should be agent causation th",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In a recent paper I argued that agent causation theorists should be compatibilists. In this paper, I argue that compatibilists should be agent causation theorists. I consider six of the main problems facing compatibilism: (i) the powerful intuition that one can’t be responsible for actions that were somehow determined before one was born; (ii) Peter van Inwagen’s modal argument, involving the inference rule (β); (iii) the objection to compatibilism that is based on claiming that the ability to do otherwise is a necessary condition for freedom; (iv) “manipulation arguments,” involving cases in which an agent is manipulated by some powerful being into doing something that he or she would not normally do, but in such a way that the compatibilist’s favorite conditions for a free action are satisfied; (v) the problem of constitutive luck; and (vi) the claim that it is not fair to blame someone for an action if that person was determined by forces outside of his or her control to perform that action. And in the case of each of these problems, I argue that the compatibilist has a much more plausible response to that problem if she endorses the theory of agent causation than she does otherwise.",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "In a recent paper I argued that agent causation theorists should be compatibilists. In this paper, I argue that compatibilists should be agent causation th",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In a recent paper I argued that agent causation theorists should be compatibilists. In this paper, I argue that compatibilists should be agent causation theorists. I consider six of the main problems facing compatibilism: (i) the powerful intuition that one can’t be responsible for actions that were somehow determined before one was born; (ii) Peter van Inwagen’s modal argument, involving the inference rule (β); (iii) the objection to compatibilism that is based on claiming that the ability to do otherwise is a necessary condition for freedom; (iv) “manipulation arguments,” involving cases in which an agent is manipulated by some powerful being into doing something that he or she would not normally do, but in such a way that the compatibilist’s favorite conditions for a free action are satisfied; (v) the problem of constitutive luck; and (vi) the claim that it is not fair to blame someone for an action if that person was determined by forces outside of his or her control to perform that action. And in the case of each of these problems, I argue that the compatibilist has a much more plausible response to that problem if she endorses the theory of agent causation than she does otherwise.",
+      "source": "https://link.springer.com/article/10.1007/s11098-010-9654-5?error=cookies_not_supported&code=a0dc1b59-57b8-46c5-a8c4-5dfddf56fe23",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-010-9654-5.pdf"
+    ]
+  },
+  {
+    "index": 161,
+    "title": "The Works of Agency: On Human Action, Will, and Freedom",
+    "year": "1998",
+    "zotero_key": "T3B84DLB",
+    "citation_key": "mccannWorksAgencyHuman1998",
+    "doi": "10.2307/2693639",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Works+of+Agency%3A+On+Human+Action%2C+Will%2C+and+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2693639",
+      "title": "The Works of Agency: On Human Action, Will, and Freedom",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2693639",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2693639",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2693639?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 162,
+    "title": "P. F. Strawson’s Consequentialism",
+    "year": "2014",
+    "zotero_key": "PDTFIWB3",
+    "citation_key": "mcgeerStrawsonsConsequentialism2014",
+    "doi": "10.1093/acprof:oso/9780198722120.003.0005",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22P.+F.+Strawson%E2%80%99s+Consequentialism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198722120.003.0005",
+      "title": "P. F. Strawson’s Consequentialism",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198722120.003.0005",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198722120.003.0005",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 163,
+    "title": "Robustness, Control, and the Demand for Morally Significant Alternatives: Frankfurt Examples with Oodles and Oodles of Alternatives",
+    "year": "2003",
+    "zotero_key": "NNPL7CQR",
+    "citation_key": "mckennaRobustnessControlDemand2003",
+    "doi": "10.4324/9781315248660-12",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Robustness%2C+Control%2C+and+the+Demand+for+Morally+Significant+Alternatives%3A+Frankfurt+Examples+with+Oodles+and+Oodles+of+Alternatives%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.4324/9781315248660-12",
+      "title": "Robustness, Control, and the Demand for Morally Significant Alternatives: Frankfurt Examples with Oodles and Oodles of Alternatives",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.4324/9781315248660-12",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.4324/9781315248660-12",
+        "abstracts": [
+          {
+            "text": "In this chapter, the author begins by first sketching the dialectic regarding the disputed soundness of Harry Frankfurt’s argument. He introduces a new strategy for developing Frankfurt’s argument. This strategy attempts to meet the best incompatibilist defense of alternative possibilities to date. The author suggests that the Frankfurt-defender attempt to close off all morally significant alternatives without attempting to pollute all alternative actional pathways within an agent’s control. The theoretical advantage the limited blockage strategy offers over other recent Frankfurt example strategies is that limited blockage cases openly grant libertarian freedom involving alternative possibilities. Various replies have emerged in an attempt to join issue with the loci protection strategy. Each acknowledges that a prior triggering sign presupposing a deterministic relation is illicit and that any convincing Frankfurt example must avoid this assumption. Frankfurt developed his attack on alternative possibilities by constructing a kind of example designed to prove false some alternative possibilities condition on moral responsibility.",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna",
+            "field": "citation_abstract",
+            "title_score": 1.0
+          },
+          {
+            "text": "In this chapter, the author begins by first sketching the dialectic regarding the disputed soundness of Harry Frankfurt’s argument. He introduces a new strategy",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In this chapter, the author begins by first sketching the dialectic regarding the disputed soundness of Harry Frankfurt’s argument. He introduces a new strategy for developing Frankfurt’s argument. This strategy attempts to meet the best incompatibilist defense of alternative possibilities to date. The author suggests that the Frankfurt-defender attempt to close off all morally significant alternatives without attempting to pollute all alternative actional pathways within an agent’s control. The theoretical advantage the limited blockage strategy offers over other recent Frankfurt example strategies is that limited blockage cases openly grant libertarian freedom involving alternative possibilities. Various replies have emerged in an attempt to join issue with the loci protection strategy. Each acknowledges that a prior triggering sign presupposing a deterministic relation is illicit and that any convincing Frankfurt example must avoid this assumption. Frankfurt developed his attack on alternative possibilities by constructing a kind of example designed to prove false some alternative possibilities condition on moral responsibility.",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna",
+        "kind": "publisher.citation_abstract"
+      },
+      {
+        "text": "In this chapter, the author begins by first sketching the dialectic regarding the disputed soundness of Harry Frankfurt’s argument. He introduces a new strategy",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In this chapter, the author begins by first sketching the dialectic regarding the disputed soundness of Harry Frankfurt’s argument. He introduces a new strategy for developing Frankfurt’s argument. This strategy attempts to meet the best incompatibilist defense of alternative possibilities to date. The author suggests that the Frankfurt-defender attempt to close off all morally significant alternatives without attempting to pollute all alternative actional pathways within an agent’s control. The theoretical advantage the limited blockage strategy offers over other recent Frankfurt example strategies is that limited blockage cases openly grant libertarian freedom involving alternative possibilities. Various replies have emerged in an attempt to join issue with the loci protection strategy. Each acknowledges that a prior triggering sign presupposing a deterministic relation is illicit and that any convincing Frankfurt example must avoid this assumption. Frankfurt developed his attack on alternative possibilities by constructing a kind of example designed to prove false some alternative possibilities condition on moral responsibility.",
+      "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-12/robustness-control-demand-morally-significant-alternatives-frankfurt-examples-oodles-oodles-alternatives-michael-mckenna",
+      "kind": "publisher.citation_abstract"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 164,
+    "title": "A Hard-Line Reply to Pereboom’s Four-Case Manipulation Argument",
+    "year": "2008",
+    "zotero_key": "A8ZNTFSN",
+    "citation_key": "mckennaHardLineReplyPerebooms2008",
+    "doi": "10.1111/j.1933-1592.2008.00179.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Hard-Line+Reply+to+Pereboom%E2%80%99s+Four-Case+Manipulation+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1933-1592.2008.00179.x",
+      "title": "A Hard‐line Reply to Pereboom’s Four‐Case Manipulation Argument<sup>1</sup>",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1933-1592.2008.00179.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1933-1592.2008.00179.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 165,
+    "title": "Conversation & Responsibility",
+    "year": "2012",
+    "zotero_key": "WSLUBQPZ",
+    "citation_key": "mckennaConversationResponsibility2012",
+    "doi": "10.1093/acprof:oso/9780199740031.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Conversation+%26+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780199740031.001.0001",
+      "title": "Conversation and Responsibility",
+      "best_score": 0.945,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199740031.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780199740031.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 166,
+    "title": "Reasons-Responsiveness, Agents, and Mechanisms",
+    "year": "2013",
+    "zotero_key": "AQQTLF9A",
+    "citation_key": "mckennaReasonsResponsivenessAgentsMechanisms2013",
+    "doi": "10.1093/acprof:oso/9780199694853.003.0007",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Reasons-Responsiveness%2C+Agents%2C+and+Mechanisms%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780199694853.003.0007",
+      "title": "Reasons-Responsiveness, Agents, and Mechanisms1",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199694853.003.0007",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780199694853.003.0007",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 167,
+    "title": "Resisting the Manipulation Argument: A Hard‐Liner Takes It on the Chin",
+    "year": "2014",
+    "zotero_key": "AZK2G7PX",
+    "citation_key": "mckennaResistingManipulationArgument2014",
+    "doi": "10.1111/phpr.12076",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Resisting+the+Manipulation+Argument%3A+A+Hard%E2%80%90Liner+Takes+It+on+the+Chin%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/phpr.12076",
+      "title": "Resisting the Manipulation Argument: A Hard‐Liner Takes It on the Chin",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/phpr.12076",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/phpr.12076",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 168,
+    "title": "Springs of Action",
+    "year": "1992",
+    "zotero_key": "7455I94P",
+    "citation_key": "meleSpringsAction1992",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Springs+of+Action%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  }
+]

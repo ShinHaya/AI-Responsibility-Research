@@ -1,0 +1,2081 @@
+[
+  {
+    "index": 1,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Adams%2C+Robert%2C+1987.+%E2%80%9CMust+God+Create+the+Best%3F%E2%80%9D+in+his+The+Virtue+of+Faith+and+Other+Essays+in+Philosophical+Theology%2C+New+York%3A+Oxford+University+Press%2C+51%E2%80%9364.&rows=3",
+    "best_score": 0.128
+  },
+  {
+    "index": 2,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Al-Ghazali%2C+2000.+%5BIP%5D+The+Incoherence+of+the+Philosophers%2C+Michael+E.+Marmura+%28ed.%29%2C+Provo%3A+Brigham+Young+University+Press.&rows=3",
+    "best_score": 0.272
+  },
+  {
+    "index": 3,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Almeida%2C+Michael%2C+2008.+The+Metaphysics+of+Perfect+Beings%2C+New+York%3A+Routledge.&rows=3",
+    "best_score": 0.9,
+    "doi": "10.4324/9780203926987",
+    "matched_title": "The Metaphysics of Perfect Beings",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 4,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Anscombe%2C+G.+E.+M.%2C+1971.+Causality+and+Determination%2C+New+York%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 5,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Aquinas%2C+Thomas%2C+1945.+%5BBW%5D+Basic+Writings+of+Saint+Thomas+Aquinas%2C+2+volumes%2C+New+York%3A+Random+House.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 6,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1993.+%5BSPW%5D+Selected+Philosophical+Writings%2C+T.+McDermott+%28ed.%29%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 7,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+%5BDM%5D+On+Evil%2C+R.+Regan+%28trans.%29%2C+B.+Davies+%28ed.%29%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 8,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Aristotle%2C+1985.+%5BNE%5D+Nicomachean+Ethics%2C+tr.+Terence+Irwin%2C+Indianapolis%3A+Hackett+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 9,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Augustine%2C+1993.+%5BFCW%5D+On+the+Free+Choice+of+the+Will%2C+tr.+Thomas+Williams%2C+Indianapolis%3A+Hackett+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 10,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Austin%2C+J.+L.%2C+1961.+%E2%80%9CIfs+and+Cans%2C%E2%80%9D+in+Philosophical+Papers%2C+J.+O.+Urmson+and+G.+Warnock+%28eds.%29%2C+Oxford%3A+Clarendon+Press%2C+153%E2%80%9380.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 11,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Ayer%2C+A.+J.%2C+1954.+%E2%80%9CFreedom+and+Necessity%2C%E2%80%9D+in+his+Philosophical+Essays%2C+New+York%3A+St.+Martin%E2%80%99s+Press%2C+3%E2%80%9320.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 12,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Baker%2C+Lynne+Rudder%2C+2003.+%E2%80%9CWhy+Christians+Should+Not+Be+Libertarians%3A+An+Augustinian+Challenge%2C%E2%80%9D+Faith+and+Philosophy%2C+20+%284%29%3A+460%E2%80%93478.&rows=3",
+    "best_score": 0.766
+  },
+  {
+    "index": 13,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Balaguer%2C+Mark%2C+2009.+%E2%80%9CWhy+There+Are+No+Good+Arguments+for+any+Interesting+Version+of+Determinism%2C%E2%80%9D+Synthese%2C+168%3A+1%E2%80%9321.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 14,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2010.+Free+Will+as+an+Open+Scientific+Problem%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 15,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2014.+%E2%80%9CReplies+to+McKenna%2C+Pereboom%2C+and+Kane%2C%E2%80%9D+Philosophical+Studies%2C+169%3A+71%E2%80%9392&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 16,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Bayne%2C+Tim%2C+2017.+%E2%80%9CFree+Will+and+the+Phenomenology+of+Agency%2C%E2%80%9D+in+The+Routledge+Companion+to+Free+Will%2C+Kevin+Timpe%2C+Meghan+Griffith%2C+and+Neil+Levy%2C+%28eds.%29%2C+Abingdon%3A+Routledge%2C+633%E2%80%9344.&rows=3",
+    "best_score": 0.252
+  },
+  {
+    "index": 17,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Bishop%2C+John%2C+1989.+Natural+Agency%3A+An+Essay+on+the+Causal+Theory+of+Action%2C+New+York%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 18,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Bobzien%2C+Suzanne%2C+1998.+Determinism+and+Freedom+in+Stoic+Philosophy%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 19,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2000.+%E2%80%9CDid+Epicurus+Discover+the+Free-Will+Problem%3F%E2%80%9D+Oxford+Studies+in+Ancient+Philosophy%2C+19%3A+287%E2%80%93337.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/oso/9780199242269.003.0008",
+    "matched_title": "Did epicurus discover the free will problem?",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 20,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Bramhall%2C+John%2C+%5B1655%5D+1999.+%E2%80%9CBramhall%E2%80%99s+Discourse+of+Liberty+and+Necessity%2C%E2%80%9D+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+1%E2%80%9314.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 21,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Brand%2C+Myles%2C+1979.+%E2%80%9CThe+Fundamental+Question+in+Action+Theory%2C%E2%80%9D+No%C3%BBs%2C+13%3A+131%E2%80%9351.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2214394",
+    "matched_title": "The Fundamental Question in Action Theory",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 22,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Bratman%2C+Michael%2C+2000.+%E2%80%9CReflection%2C+Planning%2C+and+Temporally+Extended+Agency%2C%E2%80%9D+Philosophical+Review%2C+109%3A+35%E2%80%9361.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 23,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2005.+%E2%80%9CPlanning+Agency%2C+Autonomous+Agency%2C%E2%80%9D+in+Personal+Autonomy%2C+James+Stacey+Taylor+%28ed.%29%2C+New+York%3A+Cambridge+University+Press.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1017/cbo9780511614194.002",
+    "matched_title": "Planning Agency, Autonomous Agency",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 24,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Broad%2C+C.+D.%2C+1952.+%E2%80%9CDeterminism%2C+Indeterminism%2C+and+Libertarianism%2C%E2%80%9D+in+his+Ethics+and+the+History+of+Philosophy%3A+Selected+Essays%2C+London%3A+Routledge+%26+Kegan+Paul+LTD.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 25,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Campbell%2C+C.+A.%2C+1951.+%E2%80%9CIs+%E2%80%98Freewill%E2%80%99+a+Pseudo-Problem%3F%E2%80%9D+Mind%2C+60%3A+441%E2%80%9365.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 26,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Capes%2C+Justin+A.%2C+2016.+%E2%80%9CBlameworthiness+and+Buffered+Alternatives%2C%E2%80%9D+American+Philosophical+Quarterly%2C+53%3A+269%E2%80%9380.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 27,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Capes%2C+Justin+A.+and+Philip+Swenson%2C+2017.+%E2%80%9CFrankfurt+Cases%3A+The+Fine-grained+Response+Revisited%2C%E2%80%9D+Philosophical+Studies%2C+174%3A+967%E2%80%9381.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 28,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Caruso%2C+Gregg%2C+2012.+Free+Will+and+Consciousness%3A+A+Determinist+Account+of+the+Illusion+of+Free+Will%2C+Plymouth%3A+Lexington+Books.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 29,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Chakrabarti%2C+Arindam%2C+2017.+%E2%80%9CFree+Will+and+Freedom+in+Indian+Philosophies%2C%E2%80%9D+in+The+Routledge+Companion+to+Free+Will%2C+Kevin+Timpe%2C+Meghan+Griffith%2C+and+Neil+Levy+%28eds.%29%2C+New+York%3A+Routledge%2C+389%E2%80%93404.&rows=3",
+    "best_score": 0.263
+  },
+  {
+    "index": 30,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Chisholm%2C+Roderick%2C+1966.+%E2%80%9CFreedom+and+Action%2C%E2%80%9D+in+Freedom+and+Determinism%2C+Keith+Lehrer+%28ed.%29%2C+New+York%3A+Random+House%2C+11%E2%80%9340.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 31,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1976.+Person+and+Object%3A+A+Metaphysical+Study%2C+La+Salle%2C+IL%3A+Open+Court%2C&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 32,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Clarke%2C+Randolph%2C+1993.+%E2%80%9CToward+a+Credible+Agent-Causal+Account+of+Free+Will%2C%E2%80%9D+No%C3%BBs%2C+27%3A+191%E2%80%93203.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2215755",
+    "matched_title": "Toward A Credible Agent-Causal Account of Free Will",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 33,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1995.+%E2%80%9CIndeterminism+and+Control%2C%E2%80%9D+American+Philosophical+Quarterly%2C+32%3A+125%E2%80%9338.&rows=3",
+    "best_score": 0.294
+  },
+  {
+    "index": 34,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1996.+%E2%80%9CAgent+Causation+and+Event+Causation+in+the+Production+of+Free+Action%2C%E2%80%9D+Philosophical+Topics%2C+24%3A+19%E2%80%9348.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 35,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+Libertarian+Accounts+of+Free+Will%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/019515987x.001.0001",
+    "matched_title": "Libertarian Accounts of Free Will",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 36,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2005.+%E2%80%9CAgent+Causation+and+the+Problem+of+Luck%2C%E2%80%9D+Pacific+Philosophical+Quarterly%2C+86%3A+408%E2%80%9321.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 37,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009.+%E2%80%9CDispositions%2C+Abilities+to+Act%2C+and+Free+Will%3A+The+New+Dispositionalism%2C%E2%80%9D+Mind%2C+118%3A+323%E2%80%9351.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 38,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2010.+%E2%80%9CAre+We+Free+to+Obey+the+Laws%3F%E2%80%9D+American+Philosophical+Quarterly%2C+47%3A+389%E2%80%93401.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 39,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CAlternatives+for+Libertarians%2C%E2%80%9D+in+The+Oxford+Handbook+of+Free+Will%2C+Robert+Kane+%28ed.%29%2C+2nd+edition%2C+New+York%3A+Oxford+University+Press%2C+329%E2%80%9348.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/oxfordhb/9780195399691.003.0016",
+    "matched_title": "Alternatives for Libertarians",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 40,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2019.+%E2%80%9CFree+Will%2C+Agent+Causation%2C+and+%E2%80%98Disappearing+Agents%E2%80%99%2C%E2%80%9D+No%C3%BBs%2C+53+%281%29%3A+76%E2%80%9396.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 41,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Clarke%2C+Randolph+and+Thomas+Reed%2C+2015.+%E2%80%9CFree+Will+and+Agential+Powers%2C%E2%80%9D+Oxford+Studies+in+Agency+and+Moral+Responsibility%2C+3%3A+6%E2%80%9333.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 42,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Coffman%2C+E.+J.%2C+2015.+Luck%3A+Its+Nature+and+Significance+for+Human+Knowledge+and+Agency%2C+Basingstoke%2C+UK%3A+Palgrave+Macmillan.&rows=3",
+    "best_score": 0.908,
+    "doi": "10.1057/9781137326102",
+    "matched_title": "Luck: Its Nature and Significance for Human Knowledge and Agency",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf"
+    ]
+  },
+  {
+    "index": 43,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Cohen%2C+Yishai%2C+2017.+%E2%80%9CFischer%E2%80%99s+Deterministic+Frankfurt-style+Argument%2C%E2%80%9D+Erkenntnis%2C+82%3A+121%E2%80%9340.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 44,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Couenhoven%2C+Jesse%2C+2007.+%E2%80%9CAugustine%E2%80%99s+Rejection+of+the+Free-will+Defence%3A+An+Overview+of+the+Late+Augustine%E2%80%99s+Theodicy%2C%E2%80%9D+Religious+Studies%2C+43+%283%29%3A+279%E2%80%93298.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1017/s0034412507009018",
+    "matched_title": "Augustine's rejection of the free-will defence: an overview of the late Augustine's theodicy",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 45,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Cyr%2C+Taylor+W.%2C+2017.%E2%80%9CSemicompatibilism%3A+No+Ability+to+Do+Otherwise+Required%2C%E2%80%9D+Philosophical+Explorations%2C+20+%283%29%3A+308%E2%80%9321.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1080/13869795.2017.1354056",
+    "matched_title": "Semicompatibilism: no ability to do otherwise required",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 46,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Cyr%2C+Taylor+W.+and+Philip+Swenson%2C+2019.+%E2%80%9CMoral+Responsibility+without+General+Ability%2C%E2%80%9D+Philosophical+Quarterly%2C+69+%28274%29%3A+22%E2%80%9340.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 47,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Davidson%2C+Donald%2C+1963.+%E2%80%9CActions%2C+Reasons%2C+and+Causes%2C%E2%80%9D+Journal+of+Philosophy%2C+60%3A+685%E2%80%93700.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2023177",
+    "matched_title": "Actions, Reasons, and Causes",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 48,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1973.+%E2%80%9CFreedom+to+Act%2C%E2%80%9D+in+Essays+on+Freedom+of+Action%2C+Ted+Honderich+%28ed.%29%2C+New+York%3A+Routledge+and+Kagan+Press%2C+63%E2%80%9381.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 49,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Deery%2C+Oisin%2C+Matthew+Bedke%2C+and+Shaun+Nichols%2C+2013.+%E2%80%9CPhenomenal+Abilities%3A+Incompatibilism+and+the+Experience+of+Agency%2C%E2%80%9D+Oxford+Studies+in+Agency+and+Responsibility%2C+1%3A+126%E2%80%9350.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780199694853.003.0006",
+    "matched_title": "Phenomenal Abilities: Incompatibilism and the Experience of Agency*",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 50,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Dennett%2C+Daniel%2C+1984.+Elbow+Room%3A+The+Varieties+of+Free+Will+Worth+Wanting%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "best_score": 0.568
+  },
+  {
+    "index": 51,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Descartes%2C+Ren%C3%A9%2C+1641+%5B1988%5D.+Meditations+on+First+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+73%E2%80%93121.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 52,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1644+%5B1988%5D.+Principles+of+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+160%E2%80%93212.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 53,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Donagan%2C+Alan%2C+1985.+Human+Ends+and+Human+Actions%3A+An+Exploration+in+St.+Thomas%E2%80%99s+Treatment%2C+Milwaukee%3A+Marquette+University+Press.&rows=3",
+    "best_score": 0.741
+  },
+  {
+    "index": 54,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Dihle%2C+Albrecht%2C+1982.+The+Theory+of+Will+in+Classical+Antiquity%2C+Berkeley%3A+University+of+California+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 55,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Dilman%2C+Ilham%2C+1999.+Free+Will%3A+An+Historical+and+Philosophical+Introduction%2C+London%3A+Routledge.&rows=3",
+    "best_score": 0.069
+  },
+  {
+    "index": 56,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Double%2C+Richard%2C+1991.+The+Non-Reality+of+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 57,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Duns+Scotus%2C+John%2C+1986.+%E2%80%9CQuestions+on+Aristotle%E2%80%99s+Metaphysics+IX%2C+Q.15%E2%80%9D+%5BQAM%5D+in+Duns+Scotus+on+the+Will+and+Morality%2C+Allan+B.+Wolter%2C+O.F.M.+%28ed.+and+trans.%29%2C+Washington%3A+Catholic+University+of+America+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 58,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+%5B1297%E2%80%9399%5D+%5B1994%5D.+Contingency+and+Freedom%3A+Lectura+I+39%2C+tr.+Vos+Jaczn+et+al.%2C+Dordrecht%3A+Kluwer+Academic+Publishers.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 59,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Edwards%2C+Jonathan%2C+1754+%5B1957%5D.+Freedom+of+Will%2C+Paul+Ramsey+%28ed.%29%2C+New+Haven%3A+Yale+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 60,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Ekstrom%2C+Laura+Waddell%2C+1993.+%E2%80%9CA+Coherence+Theory+of+Autonomy%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+53%3A+599%E2%80%93616.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2108082",
+    "matched_title": "A Coherence Theory of Autonomy",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 61,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2000.+Free+Will%3A+A+Philosophical+Study%2C+Boulder%2C+CO%3A+Westview+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 62,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2019.+%E2%80%9CToward+a+Plausible+Event-Causal+Indeterminist+Account+of+Free+Will%2C%E2%80%9D+Synthese%2C+196+%281%29%3A+127%E2%80%93144.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 63,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Ellis%2C+George%2C+2016.+How+Can+Physics+Underlie+the+Mind%3F%2C+Berlin%3A+Springer-Verlag.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/978-3-662-49809-5",
+    "matched_title": "How Can Physics Underlie the Mind?",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf"
+    ]
+  },
+  {
+    "index": 64,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Elzein%2C+Nadine%2C+2017.+%E2%80%9CFrankfurt-Style+Counterexamples+and+the+Importance+of+Alternative+Possibilities%2C%E2%80%9D+Acta+Analytica%2C+32%3A+169%E2%80%9391.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 65,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Fara%2C+Michael%2C+2008.+%E2%80%9CMasked+Abilities+and+Compatibilism%2C%E2%80%9D+Mind%2C+117%3A+844%E2%80%9365.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/mind/fzn078",
+    "matched_title": "Masked Abilities and Compatibilism",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 66,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Fischer%2C+John+Martin%2C+1982.+%E2%80%9CResponsibility+and+Control%2C%E2%80%9D+Journal+of+Philosophy%2C+79%3A+24%E2%80%9340.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 67,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1987.+%E2%80%9CResponsiveness+and+Moral+Responsibility%2C%E2%80%9D+in+Responsibility%2C+Character%2C+and+the+Emotions%3A+New+Essays+on+Moral+Psychology%2C+Ferdinand+Schoeman+%28ed.%29%2C+New+York%3A+Cambridge+University+Press%2C+81%E2%80%93106%3B+reprinted+in+Fischer+2006+63%E2%80%9383.+%28Citations+refer+to+reprinted+edition.%29&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 68,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1989.+God%2C+Freedom%2C+and+Foreknowledge%2C+Stanford%2C+CA%3A+Stanford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 69,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1994.+The+Metaphysics+of+Free+Will%3A+An+Essay+on+Control%2C+Oxford%3A+Blackwell+Publishers.&rows=3",
+    "best_score": 0.534
+  },
+  {
+    "index": 70,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1999.+%E2%80%9CRecent+Work+on+Moral+Responsibility%2C%E2%80%9D+Ethics%2C+110%3A+93%E2%80%93139.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 71,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2006.+My+Way%3A+Essays+on+Moral+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.22
+  },
+  {
+    "index": 72,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2010.+%E2%80%9CThe+Frankfurt+Cases%3A+The+Moral+of+the+Stories%2C%E2%80%9D+Philosophical+Review%2C+119%3A+315%E2%80%9336.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1215/00318108-2010-002",
+    "matched_title": "The Frankfurt Cases: The Moral of the Stories",
+    "pdf_url": "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf",
+    "all_pdf_urls": [
+      "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf"
+    ]
+  },
+  {
+    "index": 73,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CThe+Zygote+Argument+Remixed%2C%E2%80%9D+Analysis%2C+71%3A+267%E2%80%9372.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 74,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2012.+Deep+Control%3A+Essays+on+Free+Will+and+Value%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 75,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+%E2%80%9CThe+Deterministic+Horn+of+the+Dilemma+Defense%3A+A+Reply+to+Widerker+and+Goetz%2C%E2%80%9D+Analysis%2C+73%3A+489%E2%80%9396.&rows=3",
+    "best_score": 0.984,
+    "doi": "10.1093/analys/ant036",
+    "matched_title": "The deterministic horn of the dilemma defence: a reply to Widerker and Goetz",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 76,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2018.+%E2%80%9CThe+Freedom+Required+for+Moral+Responsibility%2C%E2%80%9D+in+Virtue%2C+Happiness%2C+and+Knowledge%3A+Themes+from+the+Work+of+Gail+Fine+and+Terence+Irwin%2C+David+Brink%2C+Susan+Meyer%2C+and+Christopher+Shields+%28eds.%29%2C+Oxford%3A+Oxford+University+Press%2C+216%E2%80%93233.&rows=3",
+    "best_score": 0.188
+  },
+  {
+    "index": 77,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Fischer%2C+John+Martin+and+Mark+Ravizza%2C+1998.+Responsibility+and+Control%3A+A+Theory+of+Moral+Responsibility%2C+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 78,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Fischer%2C+John+Martin+and+Neal+Tognazzini%2C+2011.+%E2%80%9CThe+Physiognomy+of+Responsibility%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+82%3A+381%E2%80%93417.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 79,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Frankfurt%2C+Harry%2C+1969.+%E2%80%9CAlternate+Possibilities+and+Moral+Responsibility%2C%E2%80%9D+Journal+of+Philosophy%2C+66%3A+829%E2%80%9339.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 80,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1971.+%E2%80%9CFreedom+of+the+Will+and+the+Concept+of+a+Person%2C%E2%80%9D+Journal+of+Philosophy%2C+68%3A+5%E2%80%9320.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 81,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1993.+%E2%80%9COn+the+Necessity+of+Ideals%2C%E2%80%9D+in+The+Moral+Self%2C+G.C.+Noam+and+T.+Wren+%28eds.%29%2C+Cambridge%2C+MA%3A+MIT+Press%2C+16%E2%80%9327.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 82,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1994.+%E2%80%9CAutonomy%2C+Necessity%2C+and+Love%2C%E2%80%9D+in+Vernunftbegriffe+in+der+Moderne%3A+Stuttgarter+Hegel-Kongress+1993%2C+H.F.+Fulda+and+R.P.+Horstmann+%28eds.%29%2C+Stuttgart%3A+Klett-Cotta%2C+433%E2%80%9347.&rows=3",
+    "best_score": 0.049
+  },
+  {
+    "index": 83,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Franklin%2C+Christopher+Evan%2C+2011a.+%E2%80%9CFarewell+to+the+Luck+%28and+Mind%29+Argument%2C%E2%80%9D+Philosophical+Studies%2C+156%3A+199%E2%80%93230.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 84,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011b.+%E2%80%9CMasks%2C+Abilities%2C+and+Opportunities%3A+Why+the+New+Dispositionalism+Cannot+Succeed%2C%E2%80%9D+The+Modern+Schoolman%2C+88%3A+89%E2%80%93103.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 85,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011c.+%E2%80%9CNeo-Frankfurtians+and+Buffer+Cases%3A+The+New+Challenge+to+the+Principle+of+Alternative+Possibilities%2C%E2%80%9D+Philosophical+Studies%2C+152%3A+189%E2%80%93207.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-009-9472-9",
+    "matched_title": "Neo-Frankfurtians and buffer cases: the new challenge to the principle of alternative possibilities",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 86,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2014.+%E2%80%9CEvent-Causal+Libertarianism%2C+Functional+Reduction%2C+and+the+Disappearing+Agent+Argument%2C%E2%80%9D+Philosophical+Studies%2C+170%3A+413%E2%80%9332.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-013-0237-0",
+    "matched_title": "Event-causal libertarianism, functional reduction, and the disappearing agent argument",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf"
+    ]
+  },
+  {
+    "index": 87,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2015.+%E2%80%9CEveryone+Thinks+that+an+Ability+to+Do+Otherwise+Is+Necessary+for+Free+Will+and+Moral+Responsibility%2C%E2%80%9D+Philosophical+Studies%2C+172%3A+2091%E2%80%93107.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 88,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2016.+%E2%80%9CIf+Anyone+Should+Be+an+Agent-Causalist%2C+then+Everyone+Should+Be+an+Agent-Causalist%2C%E2%80%9D+Mind%2C+125%3A+1101%E2%80%9331.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 89,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2018.+A+Minimal+Libertarianism%3A+Free+Will+and+the+Promise+of+Reduction%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 90,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Freddoso%2C+Alfred%2C+1988.+%E2%80%9CMedieval+Aristotelianism+and+the+Case+against+Secondary+Causation+in+Nature%2C%E2%80%9D+in+Divine+and+Human+Action%3A+Essays+in+the+Metaphysics+of+Theism%2C+Thomas+V.+Morris+%28ed.%29%2C+Ithaca%2C+NY%3A+Cornell+University+Press%2C+74%E2%80%93118.&rows=3",
+    "best_score": 0.742
+  },
+  {
+    "index": 91,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Frede%2C+Michael%2C+2011.+A+Free+Will%3A+Origins+of+the+Notion+in+Ancient+Thought%2C+Berkeley%3A+University+of+California+Press.&rows=3",
+    "best_score": 0.81,
+    "doi": "10.5840/ancientphil201333236",
+    "matched_title": "A Free Will: Origins of the Notion in Ancient Thought, by Michael Frede",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 92,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Ginet%2C+Carl%2C+1966.+%E2%80%9CMight+We+Have+No+Choice%3F%E2%80%9D+in+Freedom+and+Determinism%2C+Keith+Lehrer+%28ed.%29%2C+New+York%3A+Random+House%2C+87%E2%80%93104.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 93,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1990.+On+Action%2C+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 94,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1996.+%E2%80%9CIn+Defense+of+the+Principle+of+Alternative+Possibilities%3A+Why+I+Don%E2%80%99t+Find+Frankfurt%E2%80%99s+Argument+Convincing%2C%E2%80%9D+Philosophical+Perspectives%2C+10%3A+403%E2%80%9317.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 95,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2002.+%E2%80%9CReview+of+Living+without+Free+Will%2C%E2%80%9D+Journal+of+Ethics%2C+6%3A+305%E2%80%93309.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 96,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2008.+%E2%80%9CIn+Defense+of+a+Non-Causal+Account+of+Reasons+Explanations%2C%E2%80%9D+The+Journal+of+Ethics%2C+12%3A+229%E2%80%9337.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s10892-008-9033-z",
+    "matched_title": "In Defense of a Non-Causal Account of Reasons Explanations",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf"
+    ]
+  },
+  {
+    "index": 97,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Goetz%2C+Stewart+C.%2C+2005.+%E2%80%9CFrankfurt-Style+Counterexamples+and+Begging+the+Question%2C%E2%80%9D+Midwest+Studies+in+Philosophy%2C+29%3A+83%E2%80%93105.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 98,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009.+Freedom%2C+Teleology%2C+and+Evil%2C+London%3A+T%26T+Clark.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 99,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Grant%2C+W.+Matthews%2C+2016.+%E2%80%9CDivine+Universal+Causality+and+Libertarian+Freedom%2C%E2%80%9D+in+Free+Will+and+Theism%3A+Connections%2C+Contingencies%2C+and+Concerns%2C+Kevin+Timpe+and+Daniel+Speak+%28eds.%29%2C+New+York%3A+Oxford+University+Press%2C+214%E2%80%9333.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 100,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2019.+Free+Will+and+God%E2%80%99s+Universal+Causality%3A+The+Dual+Sources+Account%2C+London%3A+Bloomsbury+Academic.&rows=3",
+    "best_score": 0.465
+  },
+  {
+    "index": 101,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Griffith%2C+Meghan%2C+2010.+%E2%80%9CWhy+Agent-Caused+Actions+Are+Not+Lucky%2C%E2%80%9D+American+Philosophical+Quarterly%2C+47%3A+43%E2%80%9356.&rows=3",
+    "best_score": 0.101
+  },
+  {
+    "index": 102,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Guillon%2C+Jean-Baptiste%2C+2014.+%E2%80%9CVan+Inwagen+on+Introspected+Freedom%2C%E2%80%9D+Philosophical+Studies%2C+168%3A+645%E2%80%9363.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 103,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Haji%2C+Ishtiyaque%2C+1998.+Moral+Appraisability%3A+Puzzles%2C+Proposals%2C+and+Perplexities%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.551
+  },
+  {
+    "index": 104,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2001.+%E2%80%9CControl+Conundrums%3A+Modest+Libertarianism%2C+Responsibility%2C+and+Explanation%2C%E2%80%9D+Pacific+Philosophical+Quarterly%2C+82%3A+178%E2%80%93200.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1111/1468-0114.00124",
+    "matched_title": "Control Conundrums: Modest Libertarianism, Responsibility, and Explanation",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 105,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Haji%2C+Ishtiyaque+and+Michael+McKenna%2C+2004.+%E2%80%9CDialectical+Delicacies+in+the+Debate+about+Freedom+and+Alternative+Possibilities%2C%E2%80%9D+Journal+of+Philosophy%2C+101%3A+299%E2%80%93314.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.5840/jphil2004101616",
+    "matched_title": "Dialectical Delicacies in the Debate About Freedom and Alternative Possibilities",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 106,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hecht%2C+Jonathan%2C+2014.+%E2%80%9CFreedom+of+the+Will+in+Plato+and+Augustine%2C%E2%80%9D+British+Journal+for+the+History+of+Philosophy%2C+22%3A+196%E2%80%93216.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1080/09608788.2014.888643",
+    "matched_title": "Freedom of the Will in Plato and Augustine",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 107,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hobart%2C+R.+E.%2C+1934.+%E2%80%9CFree+Will+as+Involving+Determination+and+Inconceivable+Without+It%2C%E2%80%9D+Mind%2C+43%3A+1%E2%80%9327.&rows=3",
+    "best_score": 0.991,
+    "doi": "10.1093/mind/xliii.169.1",
+    "matched_title": "I.—FREE WILL AS INVOLVING DETERMINATION AND INCONCEIVABLE WITHOUT IT",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 108,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hobbes%2C+Thomas%2C+1654+%5B1999%5D.+Of+Liberty+and+Necessity%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+15%E2%80%9342.&rows=3",
+    "best_score": 0.423
+  },
+  {
+    "index": 109,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1656+%5B1999%5D.+The+Questions+concerning+Liberty%2C+Necessity%2C+and+Chance%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+69%E2%80%9390.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 110,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hoffman%2C+Tobias+and+Cyrille+Michon%2C+2017.+%E2%80%9CAquinas+on+Free+Will+and+Intellectual+Determinism%2C%E2%80%9D+Philosopher%E2%80%99s+Imprint%2C+17+%2810%29%2C+1%E2%80%9336.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 111,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hofmann%2C+Frank%2C+2022.+%E2%80%9CExplaining+Free+Will+by+Rational+Abilities%2C%E2%80%9D+Ethical+Theory+and+Moral+Practice%2C+25+%282%29%3A+283%E2%80%9393.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s10677-022-10278-9",
+    "matched_title": "Explaining Free Will by Rational Abilities",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf",
+    "all_pdf_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf",
+      "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+    ]
+  },
+  {
+    "index": 112,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Holton%2C+Richard%2C+2009.+Willing%2C+Wanting%2C+Waiting%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 113,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Horgan%2C+Terrence%2C+1979.+%E2%80%9C%E2%80%98Could%E2%80%99%2C+Possible+Worlds%2C+and+Moral+Responsibility%2C%E2%80%9D+Southern+Journal+of+Philosophy%2C+17%3A+345%E2%80%9358.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 114,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2015.+%E2%80%9CInjecting+the+Phenomenology+of+Agency+into+the+Free+Will+Debate%2C%E2%80%9D+Oxford+Studies+in+Agency+and+Responsibility%2C+3%3A+34%E2%80%9361.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780198744832.003.0003",
+    "matched_title": "Injecting the Phenomenology of Agency into the Free Will Debate",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 115,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Howard-Snyder%2C+Daniel+and+Paul+Moser+%28eds.%29%2C+2002.+Divine+Hiddenness%3A+New+Essays%2C+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 116,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hume%2C+David%2C+1740+%5B1978%5D.+A+Treatise+of+Human+Nature%2C+L.A.+Selby-Bigge+and+P.H.+Nidditch+%28eds.%29%2C+2nd+edition%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 117,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1748+%5B1975%5D.+Enquiries+concerning+Human+Understanding+and+concerning+the+Principles+of+Morals%2C+P.H.+Nidditch+%28ed.%29%2C+third+edition%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 118,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Hunt%2C+David+P.%2C+2005.+%E2%80%9CMoral+Responsibility+and+Buffered+Alternatives%2C%E2%80%9D+Midwest+Studies+in+Philosophy%2C+29%3A+126%E2%80%9345.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1111/j.1475-4975.2005.00109.x",
+    "matched_title": "Moral Responsibility and Buffered Alternatives",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 119,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Irwin%2C+Terence%2C+1992.+%E2%80%9CWho+Discovered+the+Will%3F%E2%80%9D+Philosophical+Perspectives%2C+6%3A+453%E2%80%9373.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 120,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Israel%2C+Jonathan%2C+2001.+Radical+Enlightenment%3A+Philosophy+and+the+Making+of+Modernity+1650%E2%80%931750%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.703
+  },
+  {
+    "index": 121,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Jacobs%2C+Jonathan+D.+and+Timothy+O%E2%80%99Connor%2C+2013.+%E2%80%9CAgent+Causation+in+a+Neo-Aristotelian+Metaphysics%2C%E2%80%9D+in+Mental+Causation+and+Ontology%2C+Sophie+C.+Gibb%2C+E.J.+Lowe%2C+and+R%C3%B6gnvaldur+Ingthorsson+%28eds.%29%2C+Oxford%3A+Oxford+University+Press%2C+173%E2%80%9392.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 122,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Jaworska%2C+Agnieszka%2C+2007.+%E2%80%9CCaring+and+Internality%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+74%3A+529%E2%80%9368.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 123,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Judisch%2C+Neal%2C+2016.+%E2%80%9CDivine+conservation+and+creaturely+freedom%2C%E2%80%9D+in+Free+Will+and+Theism%3A+Connections%2C+Contingencies%2C+and+Concerns%2C+Kevin+Timpe+and+Daniel+Speak+%28eds.%29%2C+New+York%3A+Oxford+University+Press%2C+234%E2%80%9358.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 124,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kane%2C+Robert%2C+1996.+The+Significance+of+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 125,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1999.+%E2%80%9CResponsibility%2C+Luck%2C+and+Chance%2C%E2%80%9D+Journal+of+Philosophy%2C+96%3A+217%E2%80%9340.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.5840/jphil199996537",
+    "matched_title": "Responsibility, Luck, and Chance",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 126,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CRethinking+Free+Will%3A+New+Perspectives+on+an+Ancient+Problem%2C%E2%80%9D+in+The+Oxford+Handbook+of+Free+Will%2C+Robert+Kane+%28ed.%29%2C+2nd+edition%2C+New+York%3A+Oxford+University+Press%2C+381%E2%80%93404.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/oxfordhb/9780195399691.003.0019",
+    "matched_title": "Rethinking Free Will: New Perspectives on an Ancient Problem",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 127,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2016.+%E2%80%9COn+the+Role+of+Indeterminism+in+Libertarian+Free+Will%2C%E2%80%9D+Philosophical+Explorations%2C+19%3A+2%E2%80%9316.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 128,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kant%2C+Immanuel%2C+1781+%5B1999%5D.+Critique+of+Pure+Reason%2C+trs.+Paul+Guyer+and+Allen+W.+Wood.+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 129,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1785+%5B1998%5D.+Groundwork+of+the+Metaphysics+of+Morals%2C+tr.+Mary+Gregor.+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 130,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1788+%5B2015%5D.+Critique+of+Practical+Reason%2C+tr.+Mary+Gregor.+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 131,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kearns%2C+Stephen%2C+2012.+%E2%80%9CAborting+the+Zygote+Argument%2C%E2%80%9D+Philosophical+Studies%2C+160%3A+379%E2%80%9389.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 132,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2015.+%E2%80%9CFree+Will+Agnosticism%2C%E2%80%9D+No%C3%BBs%2C+47%3A+235%E2%80%9352.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1111/nous.12032",
+    "matched_title": "Free Will Agnosticism",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 133,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kittle%2C+Simon%2C+2019.+%E2%80%9CDoes+Everyone+Think+the+Ability+to+do+Otherwise+is+Necessary+for+Free+Will+and+Moral+Responsibility%3F%E2%80%9D+Philosophia%2C+47+%284%29%3A+1177%E2%80%9383.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 134,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Koch%2C+Christof%2C+2009.+%E2%80%9CFree+Will%2C+Physics%2C+Biology%2C+and+the+Brain%2C%E2%80%9D+in+Downward+Causation+and+the+Neurobiology+of+Free+Will%2C+George+F.R.+Ellis%2C+Nancey+Murphy%2C+and+Timothy+O%E2%80%99Connor+%28eds.%29%2C+New+York%3A+Springer%2C+31%E2%80%9352.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/978-3-642-03205-9_2",
+    "matched_title": "Free Will, Physics, Biology, and the Brain",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 135,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Koons%2C+Robert%2C+2002.+%E2%80%9CDual+Agency%3A+A+Thomistic+Account+of+Providence+and+Human+Freedom%2C%E2%80%9D+Philosophia+Christi%2C+4%3A+397%E2%80%93410.&rows=3",
+    "best_score": 0.318
+  },
+  {
+    "index": 136,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kraay%2C+Klaas+J.%2C+2010.+%E2%80%9CThe+Problem+of+No+Best+World%2C%E2%80%9D+in+A+Companion+to+Philosophy+of+Religion%2C+Charles+Taliaferro+and+Paul+Draper+%28eds.%29%2C+2nd+edition%2C+Oxford%3A+Blackwell%2C+491%E2%80%9399.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1002/9781444320152.ch57",
+    "matched_title": "The Problem of No Best World",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 137,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kretzmann%2C+Norman%2C+1997.+The+Metaphysics+of+Theism%3A+Aquinas%E2%80%99s+Natural+Theology+in+Summa+Contra+Gentiles+I.+Oxford%3A+Clarendon+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 138,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Kvanvig%2C+Jon+and+Hugh+McCann%2C+1991.+%E2%80%9CThe+Occasionalist+Proselytizer%3A+A+Modified+Catechism%2C%E2%80%9D+Philosophical+Perspectives%2C+5%3A+587%E2%80%93615.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2214110",
+    "matched_title": "The Occasionalist Proselytizer: A Modified Catechism",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 139,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Lehrer%2C+Keith%2C+1976.+%E2%80%9CCan+in+Theory+and+Practice%3A+A+Possible+Worlds+Analysis%2C%E2%80%9D+in+Action+Theory%2C+Myles+Brand+and+Douglas+Walton+%28eds.%29%2C+Dordrecht%3A+D.+Reidel+Publishing+Company%2C+242%E2%80%9371.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 140,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1980.+%E2%80%9CPreferences%2C+Conditionals%2C+and+Freedom%2C%E2%80%9D+in+Time+and+Cause%3A+Essays+Presented+to+Richard+Taylor%2C+Peter+van+Inwagen+%28ed.%29%2C+Dordrecht%3A+D.+Reidel+Publishing+Company%2C+187%E2%80%93200.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 141,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1986.+%E2%80%9CCans+without+Ifs%2C%E2%80%9D+Analysis%2C+29%3A+29%E2%80%9332.&rows=3",
+    "best_score": 0.75
+  },
+  {
+    "index": 142,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Leibniz%2C+G.W.%2C+1686+%5B1991%5D.+Discourse+on+Metaphysics+and+Other+Essays%2C+trs.+Daniel+Garber+and+Roger+Ariew%2C+9th+edition.+Indianapolis%3A+Hackett+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 143,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1710+%5B1985%5D.+Theodicy%2C+LaSalle%2C+IL%3A+Open+Court.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 144,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Levy%2C+Neil%2C+2011.+Hard+Luck%3A+How+Luck+Undermines+Free+Will+and+Moral+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 145,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Lewis%2C+David%2C+1976.+%E2%80%9CThe+Paradoxes+of+Time+Travel%2C%E2%80%9D+American+Philosophical+Quarterly%2C+13%3A+145%E2%80%9352.&rows=3",
+    "best_score": 0.75
+  },
+  {
+    "index": 146,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1979.+%E2%80%9CCounterfactual+Dependence+and+Time%E2%80%99s+Arrow%2C%E2%80%9D+No%C3%BBs%2C+13%3A+455%E2%80%9376.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.2307/2215339",
+    "matched_title": "Counterfactual Dependence and Time's Arrow",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 147,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1981.+%E2%80%9CAre+We+Free+to+Break+the+Laws%3F%E2%80%9D+Theoria%2C+47%3A+113%E2%80%9321.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 148,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1997.+%E2%80%9CFinkish+Dispositions%2C%E2%80%9D+Philosophical+Quarterly%2C+47%3A+143%E2%80%9358.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 149,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Libet%2C+Benjamin%2C+2002.+%E2%80%9CDo+We+Have+Free+Will%3F%E2%80%9D+in+Oxford+Handbook+of+Free+Will%2C+Robert+Kane+%28ed.%29%2C+1st+edition%2C+New+York%3A+Oxford+University+Press%2C+551%E2%80%9364.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 150,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Lippert-Rasmussen%2C+Kasper%2C+2003.+%E2%80%9CIdentification+and+Responsibility%2C%E2%80%9D+Ethical+Theory+and+Moral+Practice%2C+6%3A+349%E2%80%9376.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1023/b:etta.0000004623.85980.57",
+    "matched_title": "Identification and Responsibility",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf",
+    "all_pdf_urls": [
+      "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf",
+      "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf"
+    ]
+  },
+  {
+    "index": 151,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Locke%2C+Don%2C+1973.+%E2%80%9CNatural+Powers+and+Human+Abilities%2C%E2%80%9D+Proceedings+of+the+Aristotelian+Society%2C+74%3A+171%E2%80%9387.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 152,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Locke%2C+John%2C+1690+%5B1975%5D.+An+Essay+Concerning+the+Human+Understanding%2C+Peter+H.+Nidditch+%28ed.%29%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 153,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Lowe%2C+E.+J.%2C+2008.+Personal+Agency%3A+The+Metaphysics+of+Mind+and+Action%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 154,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=MacDonald%2C+Scott%2C+1998.+%E2%80%9CAquinas%E2%80%99s+Libertarian+Account+of+Free+Will%2C%E2%80%9D+Revue+Internationale+de+Philosophie%2C+2%3A+309%E2%80%9328.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 155,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1999.+%E2%80%9CPrimal+Sin%2C%E2%80%9D+in+Gareth+B.+Matthews+%28ed.%29%2C+The+Augustinian+Tradition%2C+Berkeley%2C+CA%3A+University+of+California+Press%2C+110%E2%80%93139.&rows=3",
+    "best_score": 0.947,
+    "doi": "10.1525/9780520919587-009",
+    "matched_title": "6. Primal Sin",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 156,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Malebranche%2C+Nicolas%2C+1684+%5B1993%5D.+Treatise+on+Ethics%2C+C.+Walton+%28trans.%29%2C+Dordrecht%3A+Kluwer.&rows=3",
+    "best_score": 0.417
+  },
+  {
+    "index": 157,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Maoz%2C+Uri+and+Walter+Sinnott-Armstrong+%28eds.%29%2C+2022.+Free+Will%3A+Philosophers+and+Neuroscientists+in+Conversation%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 158,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Marchal%2C+Kai+and+Christian+Helmut+Wenzel%2C+2017.+%E2%80%9CChinese+Perspectives+on+Free+Will%2C%E2%80%9D+in+The+Routledge+Companion+to+Free+Will%2C+Kevin+Timpe%2C+Meghan+Griffith%2C+and+Neil+Levy+%28eds.%29%2C+New+York%3A+Routledge%2C+374%E2%80%9388.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 159,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Markosian%2C+Ned%2C+1999.+%E2%80%9CA+Compatibilist+Version+of+the+Theory+of+Agent+Causation%2C%E2%80%9D+Pacific+Philosophical+Quarterly%2C+80%3A+257%E2%80%9377.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1111/1468-0114.00083",
+    "matched_title": "A Compatibilist Version Of The Theory Of Agent Causation",
+    "pdf_url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1468-0114.00083",
+    "all_pdf_urls": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1468-0114.00083"
+    ]
+  },
+  {
+    "index": 160,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2012.+%E2%80%9CAgent+Causation+as+the+Solution+to+all+the+Compatibilist%E2%80%99s+Problems%2C%E2%80%9D+Philosophical+Studies%2C+157%3A+383%E2%80%9398.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 161,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=McCann%2C+Hugh%2C+1998.+The+Works+of+Agency%3A+On+Human+Action%2C+Will%2C+and+Freedom%2C+Ithaca%3A+Cornell+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 162,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=McGeer%2C+Victoria%2C+2014.+%E2%80%9CP.+F.+Strawson%E2%80%99s+Consequentialism%2C%E2%80%9D+in+Oxford+Studies+in+Agency+and+Responsibility%2C+2%3A+64%E2%80%9392.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 163,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=McKenna%2C+Michael%2C+2003.+%E2%80%9CRobustness%2C+Control%2C+and+the+Demand+for+Morally+Significant+Alternatives%3A+Frankfurt+Examples+with+Oodles+and+Oodles+of+Alternatives%2C%E2%80%9D+in+Moral+Responsibility+and+Alternative+Possibilities%3A+Essays+on+the+Importance+of+Alternative+Possibilities%2C+David+Widerker+and+Michael+McKenna+%28eds.%29%2C+Burlington%2C+VT%3A+Ashgate+Publishing%2C+201%E2%80%9318.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 164,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2008.+%E2%80%9CA+Hard-Line+Reply+to+Pereboom%E2%80%99s+Four-Case+Manipulation+Argument%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+77%3A+142%E2%80%9359.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 165,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2012.+Conversation+%26+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 166,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+%E2%80%9CReasons-Responsiveness%2C+Agents%2C+and+Mechanisms%2C%E2%80%9D+in+Oxford+Studies+in+Agency+and+Responsibility%2C+1%3A+151%E2%80%9383.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 167,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2014.+%E2%80%9CResisting+the+Manipulation+Argument%3A+A+Hard%E2%80%90Liner+Takes+It+on+the+Chin%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+89%3A+467%E2%80%9384.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1111/phpr.12076",
+    "matched_title": "Resisting the Manipulation Argument: A Hard‐Liner Takes It on the Chin",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 168,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Mele%2C+Alfred+R.%2C+1992.+Springs+of+Action%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 169,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1995.+Autonomous+Agents%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 170,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2000.+%E2%80%9CGoal-directed+Action%3A+Teleological+Explanations%2C+Causal+Theories%2C+and+Deviance%2C%E2%80%9D+Philosophical+Perspectives%2C+14%3A+279%E2%80%93300.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 171,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+%E2%80%9CAgents%E2%80%99+Abilities%2C%E2%80%9D+No%C3%BBs%2C+37%3A+447%E2%80%9370.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 172,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2006.+Free+Will+and+Luck%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.042
+  },
+  {
+    "index": 173,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009.+Effective+Intentions%3A+The+Power+of+Conscious+Will%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 174,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2017.+Aspects+of+Agency%3A+Decisions%2C+Abilities%2C+Explanations%2C+and+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 175,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Mele%2C+Alfred+R.+and+David+Robb%2C+1998.+%E2%80%9CRescuing+Frankfurt-style+Scenarios%2C%E2%80%9D+Philosophical+Review%2C+107%3A+97%E2%80%93112.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 176,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+%E2%80%9CBbs%2C+Magnets+and+Seesaws%3A+The+Metaphysics+of+Frankfurt-style+Cases%2C%E2%80%9D+in+Moral+Responsibility+and+Alternative+Possibilities%3A+Essays+on+the+Importance+of+Alternative+Possibilities%2C+David+Widerker+and+Michael+McKenna+%28eds.%29%2C+Burlington%2C+VT%3A+Ashgate+Publishing%2C+127%E2%80%9338.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 177,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Mitchell-Yellin%2C+Benjamin%2C+2015.+%E2%80%9CThe+Platonic+Model%3A+Statement%2C+Clarification+and+Defense%2C%E2%80%9D+Philosophical+Explorations%2C+18%3A+378%E2%80%9392.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 178,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Moore%2C+G.+E.%2C+1912.+Ethics%2C+Oxford%3A+Clarendon+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 179,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Moya%2C+Carlos%2C+2011.+%E2%80%9COn+the+Very+Idea+of+a+Robust+Alternative%2C%E2%80%9D+Critica%2C+43%3A+3%E2%80%9326.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 180,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Mudrik%2C+Liad%2C+Inbal+Gur+Arie%2C+Yoni+Amir%2C+Yarden+Shir%2C+Pamela+Hieronymi%2C+Uri+Maoz%2C+Timothy+O%E2%80%99Connor%2C+Aaron+Schurger%2C+Manuel+Vargas%2C+Tillmann+Vierkant%2C+Walter+Sinnott-Armstrong%2C+and+Adina+Roskies%2C+2022.+%E2%80%9CFree+Will+Without+Consciousness%3F%E2%80%9D+Trends+in+Cognitive+Sciences%2C+26+%287%29%3A+555%E2%80%93566.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 181,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Murray%2C+Michael%2C+1993.+%E2%80%9CCoercion+and+the+Hiddenness+of+God%2C%E2%80%9D+American+Philosophical+Quarterly%2C+30%3A+27%E2%80%9338.&rows=3",
+    "best_score": 0.556
+  },
+  {
+    "index": 182,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2002.+%E2%80%9CDeus+Absconditus%2C%E2%80%9D+in+Divine+Hiddenness%3A+New+Essays%2C+Daniel+Howard-Snyder+and+Paul+Moser+%28eds.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+62%E2%80%9382.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 183,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nahmias%2C+Eddy%2C+2014.+%E2%80%9CIs+Free+Will+an+Illusion%3F+Confronting+Challenges+from+the+Modern+Mind+Sciences%2C%E2%80%9D+in+Moral+Psychology+%28Volume+4%3A+Free+Will+and+Moral+Responsibility%29%2C+Walter+Sinnott-Armstrong+%28ed.%29%2C+Cambridge%2C+MA%3A+MIT+Press%2C+1%E2%80%9325.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 184,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nelkin%2C+Dana+K.%2C+2011.+Making+Sense+of+Freedom+and+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780199608560.001.0001",
+    "matched_title": "Making Sense of Freedom and Responsibility",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 185,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nichols%2C+Shaun%2C+2015.+Bound%3A+Essays+on+Free+Will+and+Moral+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 186,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nietzsche%2C+Frederick%2C+1886+%5B1966%5D.+Beyond+Good+and+Evil%2C+W.+Kaufmann+%28trans.%29%2C+New+York%3A+Vintage.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 187,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nowell-Smith%2C+P.+H.%2C+1948.+%E2%80%9CFree+Will+and+Moral+Responsibility%2C%E2%80%9D+Mind%2C+57%3A+45%E2%80%9361.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 188,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1954.+%E2%80%9CDeterminists+and+Libertarians%2C%E2%80%9D+Mind%2C+63%3A+317%E2%80%9337.&rows=3",
+    "best_score": 0.964,
+    "doi": "10.1093/mind/lxiii.251.317",
+    "matched_title": "II.—DETERMINISTS AND LIBERTARIANS",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 189,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Nozick%2C+Robert%2C+1981.+Philosophical+Explanations%2C+Cambridge%2C+MA%3A+Harvard+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 190,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=O%E2%80%99Connor%2C+Timothy%2C+2000.+Persons+and+Causes%3A+The+Metaphysics+of+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 191,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2007.+%E2%80%9CIs+It+All+Just+a+Matter+of+Luck%3F%E2%80%9D+Philosophical+Explorations%2C+10%3A+157%E2%80%9361.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1080/13869790701305970",
+    "matched_title": "IS IT ALL JUST A MATTER OF LUCK?",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 192,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009a.+%E2%80%9CAgent-Causal+Power%2C%E2%80%9D+in+Dispositions+and+Causes%2C+Toby+Handfield+%28ed.%29%2C+Oxford%3A+Clarendon+Press%2C+189%E2%80%93214.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 193,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009b.+%E2%80%9CDegrees+of+Freedom%2C%E2%80%9D+Philosophical+Explorations%2C+12%3A+119%E2%80%9325.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 194,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CAgent-Causal+Theories+of+Freedom%2C%E2%80%9D+in+Oxford+Handbook+on+Free+Will%2C+Robert+Kane+%28ed.%29%2C+2nd+edition%2C+New+York%3A+Oxford+University+Press%2C+309%E2%80%9328.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 195,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2016.+%E2%80%9CProbability+and+Freedom%2C%E2%80%9D+Res+Philosophica%2C+93%3A+289%E2%80%9393.&rows=3",
+    "best_score": 0.75
+  },
+  {
+    "index": 196,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2019.+%E2%80%9CHow+Do+We+Know+That+We+Are+Free%3F%E2%80%9D+European+Journal+of+Analytic+Philosophy%2C+15+%282%29%3A+79%E2%80%9398.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 197,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2021.+%E2%80%9CFree+Will+in+a+Network+of+Interacting+Causes%2C%E2%80%9D+in+W.+Simpson%2C+R.+Koons+%26+J.+Orr+%28eds.%29%2C+Neo-Aristotelian+Metaphysics+and+the+Theology+of+Nature%2C+London%3A+Routledge.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 198,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2022.+%E2%80%9CWhy+The+One+Did+Not+Remain+Within+Itself%2C%E2%80%9D+in+Lara+Buchak+and+Dean+Zimmerman+%28eds.%29%2C+Oxford+Studies+in+the+Philosophy+of+Religion+%28Volume+10%29%2C+233%E2%80%9346.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 199,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Palmer%2C+David%2C+2005.+%E2%80%9CNew+Distinctions%2C+Same+Troubles%3A+A+Reply+to+Haji+and+McKenna%2C%E2%80%9D+Journal+of+Philosophy%2C+102%3A+474%E2%80%9382.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.5840/jphil2005102934",
+    "matched_title": "New Distinctions, Same Troubles: A Reply to Haji and McKenna",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 200,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CPereboom+on+Frankfurt+Cases%2C%E2%80%9D+Philosophical+Studies%2C+153%3A+261%E2%80%9372.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 201,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+%E2%80%9CThe+Timing+Objection+to+the+Frankfurt+Cases%2C%E2%80%9D+Erkenntnis%2C+78%3A+1011%E2%80%9323.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s10670-012-9396-1",
+    "matched_title": "The Timing Objection to the Frankfurt Cases",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf"
+    ]
+  },
+  {
+    "index": 202,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2014.+%E2%80%9CDeterministic+Frankfurt+Cases%2C%E2%80%9D+Synthese%2C+191%3A+3847%E2%80%9364.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 203,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2021.+%E2%80%9CFree+Will+and+Control%3A+A+Noncausal+Approach%2C%E2%80%9D+Synthese%2C+198+%2810%29%3A+10043%E2%80%9362.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 204,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Pawl%2C+Timothy+and+Kevin+Timpe.+%E2%80%9CIncompatibilism%2C+Sin%2C+and+Free+Will+in+Heaven%2C%E2%80%9D+Faith+and+Philosophy%2C+26%3A+398%E2%80%93419.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.5840/faithphil200926437",
+    "matched_title": "INCOMPATIBILISM, SIN, AND FREE WILL IN HEAVEN",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 205,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Pendergraft%2C+Garrett%2C+2010.+%E2%80%9CThe+Explanatory+Power+of+Local+Miracle+Compatibilism%2C%E2%80%9D+Philosophical+Studies%2C+156%3A+249%E2%80%9366.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 206,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Pereboom%2C+Derk%2C+2001.+Living+Without+Free+Will%2C+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 207,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2014.+Free+Will%2C+Agency%2C+and+Meaning+in+Life%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.811,
+    "doi": "10.1080/00048402.2014.994011",
+    "matched_title": "Free Will, Agency, and Meaning in Life, by Derk Pereboom",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 208,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Pink%2C+Thomas+2017.+Self-determination%3A+The+Ethics+of+Action%2C+volume+1%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.586
+  },
+  {
+    "index": 209,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Plato+%28CW%2F1997%29.+Complete+Works%2C+John+Cooper+%28ed.%29%2C+Indianapolis%3A+Hackett+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 210,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Pruss%2C+Alexander%2C+2016.+%E2%80%9CDivine+Creative+Freedom%2C%E2%80%9D+in+Oxford+Studies+in+the+Philosophy+of+Religion%2C+7%3A+213%E2%80%9338.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780198757702.003.0009",
+    "matched_title": "Divine Creative Freedom",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 211,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Ragland%2C+Scott%2C+2006.+%E2%80%98Was+Descartes+a+Libertarian%3F%E2%80%99+in+Oxford+Studies+in+Early+Modern+Philosophy%2C+3%3A+57%E2%80%9390.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 212,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Reid%2C+Thomas%2C+1788+%5B1969%5D.+Essays+on+the+Active+Powers+of+the+Human+Mind%2C+Baruch+Brody+%28ed.%29%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "best_score": 0.644
+  },
+  {
+    "index": 213,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Robinson%2C+Michael%2C+2014.+%E2%80%9CThe+Limits+of+Limited-Blockage+Frankfurt-style+Cases%2C%E2%80%9D+Philosophical+Studies%2C+169%3A+429%E2%80%9346.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-013-0190-y",
+    "matched_title": "The limits of limited-blockage Frankfurt-style cases",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf"
+    ]
+  },
+  {
+    "index": 214,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Rogers%2C+Katherin%2C+2004.+%E2%80%9CAugustine%E2%80%99s+Compatibilism%2C%E2%80%9D+Religious+Studies%2C+40+%284%29%3A+415%E2%80%93435.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 215,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Roskies%2C+Adina%2C+2014.+%E2%80%9CCan+Neuroscience+Resolve+Issues+about+Free+Will%3F%E2%80%9D+in+Moral+Psychology+%28Volume+4%3A+Free+Will+and+Moral+Responsibility%29%2C+Walter+Sinnott-Armstrong+%28ed.%29%2C+Cambridge%2C+MA%3A+MIT+Press%2C+103%E2%80%9326.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.7551/mitpress/9780262026680.003.0004",
+    "matched_title": "Can Neuroscience Resolve Issues about Free Will?",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 216,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Rowe%2C+William%2C+1995.+%E2%80%9CTwo+Concepts+of+Freedom%2C%E2%80%9D+in+Agents%2C+Causes%2C+and+Events%3A+Essays+on+Indeterminism+and+Free+Will%2C+Timothy+O%E2%80%99Connor+%28ed.%29%2C+New+York%3A+Oxford+University+Press%2C+151%E2%80%9371.&rows=3",
+    "best_score": 0.114
+  },
+  {
+    "index": 217,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2004.+Can+God+Be+Free%3F%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 218,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Runyan%2C+Jason%2C+2018.+%E2%80%9CAgent-causal+Libertarianism%2C+Statistical+Neural+Laws+and+Wild+Coincidences%2C%E2%80%9D+Synthese%2C+195+%2810%29%3A+4563%E2%80%934580.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11229-017-1419-7",
+    "matched_title": "Agent-causal libertarianism, statistical neural laws and wild coincidences",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf",
+      "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf"
+    ]
+  },
+  {
+    "index": 219,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Russell%2C+Paul%2C+2010.+The+Riddle+of+Hume%E2%80%99s+Treatise%3A+Skepticism%2C+Naturalism%2C+and+Irreligion%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.773
+  },
+  {
+    "index": 220,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2017.+The+Limits+of+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 221,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Sartorio%2C+Carolina%2C+2016.+Causation+and+Free+Will%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.714
+  },
+  {
+    "index": 222,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Scanlon%2C+T.+M.%2C+2008.+Moral+Dimensions%3A+Permissibility%2C+Meaning%2C+and+Blame%2C+Cambridge%2C+MA%3A+Harvard+University+Press.&rows=3",
+    "best_score": 0.535
+  },
+  {
+    "index": 223,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Schlick%2C+Moritz%2C+1939.+%E2%80%9CWhen+Is+a+Man+Responsible%3F%E2%80%9D+in+Problems+of+Ethics%2C+tr.+by+David+Rynin.+Englewood+Cliffs%2C+NJ%3A+Prentice-Hall+Publishing.&rows=3",
+    "best_score": 0.079
+  },
+  {
+    "index": 224,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Schlosser%2C+Markus%2C+2014.+%E2%80%9CThe+Luck+Argument+against+Event-causal+Libertarianism%3A+It+Is+Here+to+Stay%2C%E2%80%9D+Philosophical+Studies%2C+167%3A+375%E2%80%9385.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-013-0102-1",
+    "matched_title": "The luck argument against event-causal libertarianism: It is here to stay",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf"
+    ]
+  },
+  {
+    "index": 225,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Schopenhauer%2C+Arthur%2C+1841+%5B1999%5D.+Prize+Essay+on+the+Freedom+of+the+Will%2C+Cambridge%3A+Cambridge+University+Press.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1017/cbo9780511581298.011",
+    "matched_title": "Prize essay on the freedom of the will",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 226,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Schueler%2C+G.+F.%2C+1995.+Desire%3A+Its+Role+in+Practical+Reason+and+the+Explanation+of+Action%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "best_score": 0.388
+  },
+  {
+    "index": 227,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+Reasons+and+Purposes%3A+Human+Rationality+and+the+Teleological+Explanation+of+Action%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 228,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Schurger%2C+Aaron%2C+Pengbo+Hu%2C+Joanna+Pak%2C+and+Adina+Roskies%2C+2021.+%E2%80%9CWhat+Is+the+Readiness+Potential%3F%E2%80%9D+Trends+in+Cognitive+Sciences%2C+25+%287%29%3A+558%E2%80%93570.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 229,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Sehon%2C+Scott+R.%2C+2005.+Teleological+Realism%3A+Mind%2C+Agency%2C+and+Explanation%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 230,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Shabo%2C+Seth%2C+2011.+%E2%80%9CWhy+Free+Will+Remains+a+Mystery%2C%E2%80%9D+Pacific+Philosophical+Quarterly%2C+92%3A+105%E2%80%9325.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 231,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+%E2%80%9CFree+Will+and+Mystery%3A+Looking+Past+the+Mind+Argument%2C%E2%80%9D+Philosophical+Studies%2C+162%3A+291%E2%80%93307.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-011-9760-z",
+    "matched_title": "Free will and mystery: looking past the Mind Argument",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11098-011-9760-z.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9760-z.pdf"
+    ]
+  },
+  {
+    "index": 232,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2020.+%E2%80%9CThe+Two-Stage+Luck+Objection%2C%E2%80%9D+No%C3%BBs%2C+54+%281%29%3A+3%E2%80%9323.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 233,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Sher%2C+George%2C+2006.+In+Praise+of+Blame%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 234,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Shoemaker%2C+David%2C+2003.+%E2%80%9CCaring%2C+Identification%2C+and+Agency%2C%E2%80%9D+Ethics%2C+114%3A+88%E2%80%93118.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 235,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CAttributability%2C+Answerability%2C+and+Accountability%3A+Toward+a+Wider+Theory+of+Moral+Responsibility%2C%E2%80%9D+Ethics%2C+121%3A+602%E2%80%9332.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 236,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2015.+%E2%80%9CEcumenical+Attributability%2C%E2%80%9D+in+The+Nature+of+Moral+Responsibility%3A+New+Essays%2C+Randolph+Clarke%2C+Michael+McKenna%2C+and+Angela+Smith+%28eds.%29%2C+New+York%3A+Oxford+University+Press%2C+115%E2%80%9340.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780199998074.003.0006",
+    "matched_title": "Ecumenical Attributability",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 237,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Slote%2C+Michael%2C+1982.+%E2%80%9CSelective+Necessity+and+the+Free-Will+Problem%2C%E2%80%9D+Journal+of+Philosophy%2C+79%3A+5%E2%80%9324.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 238,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Smart%2C+J.+J.+C.%2C+1961.+%E2%80%9CFree-will%2C+Praise+and+Blame%2C%E2%80%9D+Mind%2C+70%3A+291%E2%80%93306.&rows=3",
+    "best_score": 0.978,
+    "doi": "10.1093/mind/lxx.279.291",
+    "matched_title": "I.—FREE-WILL, PRAISE AND BLAME",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 239,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Smilansky%2C+Saul%2C+2000.+Free+Will+and+Illusion%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 240,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Smith%2C+Angela+M.%2C+2012.+%E2%80%9CAttributability%2C+Answerability%2C+and+Accountability%3A+In+Defense+of+a+Unified+Account%2C%E2%80%9D+Ethics%2C+122%3A+575%E2%80%9389.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 241,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Smith%2C+Michael%2C+2003.+%E2%80%9CRational+Capacities%2C%E2%80%9D+in+Weakness+of+Will+and+Varieties+of+Practical+Irrationality%2C+Sarah+Stroud+and+Christine+Tappolet+%28eds.%29%2C+New+York%3A+Oxford+University+Press%2C+17%E2%80%9338.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 242,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Speak%2C+Daniel%2C+2007.+%E2%80%9CThe+Impertinence+of+Frankfurt-Style+Argument%2C%E2%80%9D+Philosophical+Quarterly%2C+57%3A+76%E2%80%9395.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 243,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2011.+%E2%80%9CThe+Consequence+Argument+Revisited%2C%E2%80%9D+in+The+Oxford+Handbook+of+Free+Will%2C+Robert+Kane+%28ed.%29%2C+2nd+edition%2C+New+York%3A+Oxford+University+Press%2C+115%E2%80%9330.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 244,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Spinoza%2C+Baruch%2C+1677+%5B1992%5D.+The+Ethics+and+Selected+Letters%2C+Seymour+Feldman+%28ed.%29%2C+Samuel+Shirley+%28trans.%29%2C+Indianapolis%3A+Hackett+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 245,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Sripada%2C+Chandra%2C+2012.+%E2%80%9CWhat+Makes+a+Manipulated+Agent+Unfree%3F%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+85%3A+563%E2%80%9393.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 246,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2016.+%E2%80%9CSelf-Expression%3A+A+Deep+Self+Theory+of+Moral+Responsibility%2C%E2%80%9D+Philosophical+Studies%2C+173%3A+1203%E2%80%9332.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s11098-015-0527-9",
+    "matched_title": "Self-expression: a deep self theory of moral responsibility",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s11098-015-0527-9.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-015-0527-9.pdf"
+    ]
+  },
+  {
+    "index": 247,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Steward%2C+Helen%2C+2012.+A+Metaphysics+for+Freedom%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 248,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Stout%2C+Rowland%2C+2010.+%E2%80%9CDeviant+Causal+Chains%2C%E2%80%9D+in+A+Companion+to+the+Philosophy+of+Action%2C+Timothy+O%E2%80%99Connor+and+Constantine+Sandis+%28eds.%29%2C+Oxford%3A+Blackwell%2C+159%E2%80%9365.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1002/9781444323528.ch21",
+    "matched_title": "Deviant Causal Chains",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 249,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Strawson%2C+Galen%2C+1986.+Freedom+and+Belief%2C+Oxford%3A+Clarendon+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 250,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1994.+%E2%80%9CThe+Impossibility+of+Moral+Responsibility%2C%E2%80%9D+Philosophical+Studies%2C+75%3A+5%E2%80%9324.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/bf00989879",
+    "matched_title": "The impossibility of moral responsibility",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/BF00989879.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/BF00989879.pdf"
+    ]
+  },
+  {
+    "index": 251,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2000.+%E2%80%9CThe+Unhelpfulness+of+Indeterminism%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+60%3A+149%E2%80%9356.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 252,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Strawson%2C+P.+F.%2C+1962.+%E2%80%9CFreedom+and+Resentment%2C%E2%80%9D+Proceedings+of+the+British+Academy%2C+48%3A+187%E2%80%93211.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 253,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Stump%2C+Eleonore%2C+1988.+%E2%80%9CSanctification%2C+Hardening+of+the+Heart%2C+and+Frankfurt%E2%80%99s+Concept+of+Free+Will%2C%E2%80%9D+Journal+of+Philosophy%2C+85%3A+395%E2%80%93420.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 254,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1996.+%E2%80%9CPersons%3A+Identification+and+Freedom%2C%E2%80%9D+Philosophical+Topics%2C+24%3A+183%E2%80%93214.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 255,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1999.+%E2%80%9CMoral+Responsibility+and+Alternative+Possibilities%3A+The+Flicker+of+Freedom%2C%E2%80%9D+Journal+of+Ethics%2C+3%3A+299%E2%80%93324.&rows=3",
+    "best_score": 0.662
+  },
+  {
+    "index": 256,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2003.+Aquinas%2C+London%3A+Routledge.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 257,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2006.+%E2%80%9CAugustine+on+Free+Will%2C%E2%80%9D+in+The+Cambridge+Companion+to+Augustine%2C+Eleonore+Stump+and+Norman+Kretzmann+%28eds.%29%2C+Cambridge%3A+Cambridge+University+Press%2C+124%E2%80%9347.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 258,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2010.+Wandering+in+Darkness%3A+Narrative+and+the+Problem+of+Suffering%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 259,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Swinburne%2C+Richard%2C+2013.+Mind%2C+Brain%2C+and+Free+Will%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 260,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Tamburro%2C+Richard%2C+2017.+%E2%80%9CThe+Possibility+and+Scope+of+Significant+Heavenly+Freedom%2C%E2%80%9D+in+Paradise+Understood%3A+New+Philosophical+Essays+About+Heaven%2C+Ryan+Byerly+and+Eric+Silverman+%28eds.%29%2C+Oxford%3A+Oxford+University+Press%2C+308%E2%80%9328.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1093/acprof:oso/9780198794301.003.0016",
+    "matched_title": "The Possibility and Scope of Significant Heavenly Freedom",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 261,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Taylor%2C+Richard%2C+1966.+Action+and+Purpose%2C+Englewood+Cliffs%2C+NJ%3A+Prentice+Hall+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 262,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1974.+Metaphysics%2C+Englewood+Cliffs%2C+NJ%3A+Prentice-Hall+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 263,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Timpe%2C+Kevin%2C+2006.+%E2%80%9CA+Critique+of+Frankfurt-libertarianism%2C%E2%80%9D+Philosophia%2C+34%3A+189%E2%80%93202.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 264,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Todd%2C+Patrick%2C+2010.+%E2%80%9CA+New+Approach+to+Manipulation+Arguments%2C%E2%80%9D+Philosophical+Studies%2C+152%3A+127%E2%80%9333.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 265,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+%E2%80%9CDefending+%28a+Modified+Version+of%29+the+Zygote+Argument%2C%E2%80%9D+Philosophical+Studies%2C+164%3A+189%E2%80%93203.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 266,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=van+Inwagen%2C+Peter+1975.+%E2%80%9CThe+Incompatibility+of+Free+Will+and+Determinism%2C%E2%80%9D+Philosophical+Studies%2C+27%3A+185%E2%80%9399.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 267,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1983.+An+Essay+on+Free+Will%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.011
+  },
+  {
+    "index": 268,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2000.+%E2%80%9CFree+Will+Remains+a+Mystery%2C%E2%80%9D+Philosophical+Perspectives%2C+14%3A+1%E2%80%9319.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 269,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2004.+%E2%80%9CFreedom+to+Break+the+Laws%2C%E2%80%9D+Midwest+Studies%2C+28%3A+334%E2%80%9350.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 270,
+    "status": "pdf_candidate",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2008.+%E2%80%9CHow+to+Think+about+the+Problem+of+Free+Will%2C%E2%80%9D+Journal+of+Ethics%2C+12%3A+327%E2%80%9341.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.1007/s10892-008-9038-7",
+    "matched_title": "How to Think about the Problem of Free Will",
+    "pdf_url": "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf",
+    "all_pdf_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf"
+    ]
+  },
+  {
+    "index": 271,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Vargas%2C+Manuel%2C+2004.+%E2%80%9CLibertarianism+and+Skepticism+about+Free+Will%3A+Some+Arguments+against+Both%2C%E2%80%9D+Philosophical+Topics%2C+32%3A+403%E2%80%9326.&rows=3",
+    "best_score": 0.769
+  },
+  {
+    "index": 272,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2007.+%E2%80%9CRevisionism%2C%E2%80%9D+in+Four+Views+on+Free+Will%2C+John+Martin+Fischer%2C+Robert+Kane%2C+Derk+Pereboom%2C+and+Manuel+Vargas+%28eds.%29%2C+Malden%2C+MA%3A+Blackwell+Publishing%2C+126%E2%80%9364.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 273,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+Building+Better+Beings%3A+A+Theory+of+Moral+Responsibility%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 274,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Velleman%2C+J.+David%2C+1992.+%E2%80%9CWhat+Happens+When+Someone+Acts%3F%E2%80%9D+Mind%2C+101%3A+461%E2%80%9381.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 275,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2009.+How+We+Get+Along%2C+New+York%3A+Cambridge+University+Press.&rows=3",
+    "best_score": 0.388
+  },
+  {
+    "index": 276,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Vicens%2C+Leigh%2C+2016.+%E2%80%9CObjective+Probabilities+of+Free+Choice%2C%E2%80%9D+Res+Philosophica%2C+93%3A+125%E2%80%9335.&rows=3",
+    "best_score": 1.0,
+    "doi": "10.11612/resphil.2016.93.1.8",
+    "matched_title": "Objective Probabilities of Free Choice",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 277,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Vihvelin%2C+Kadri%2C+2004.+%E2%80%9CFree+Will+Demystified%3A+A+Dispositional+Account%2C%E2%80%9D+Philosophical+Topics%2C+32%3A+427%E2%80%9350.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 278,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2013.+Causes%2C+Laws%2C+and+Free+Will%3A+Why+Determinism+Doesn%E2%80%99t+Matter%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "best_score": 0.618
+  },
+  {
+    "index": 279,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Vilhauer%2C+Ben%2C+2012.+%E2%80%9CTaking+Free+Will+Skepticism+Seriously%2C%E2%80%9D+Philosophical+Quarterly%2C+62%3A+833%E2%80%9352.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 280,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Wainwright%2C+William%2C+1996.+%E2%80%9CJonathan+Edwards%2C+William+Rowe%2C+and+the+Necessity+of+Creation%2C%E2%80%9D+in+Faith%2C+Freedom%2C+and+Rationality%2C+Jeff+Jordan+and+Daniel+Howard-Snyder+%28eds.%29%2C+Lanham%3A+Rowman+and+Littlefield%2C+119%E2%80%9333.&rows=3",
+    "best_score": 0.639
+  },
+  {
+    "index": 281,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Wallace%2C+R.+Jay%2C+1994.+Responsibility+and+the+Moral+Sentiments%2C+Cambridge%2C+MA%3A+Harvard+University+Press.&rows=3",
+    "best_score": 0.754
+  },
+  {
+    "index": 282,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1999.+%E2%80%9CAddiction+as+Defect+of+the+Will%3A+Some+Philosophical+Reflections%2C%E2%80%9D+Law+and+Philosophy%2C+18%3A+621%E2%80%9354.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 283,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Waller%2C+Bruce%2C+2011.+Against+Moral+Responsibility%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 284,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Watson%2C+Gary%2C+1975.+%E2%80%9CFree+Agency%2C%E2%80%9D+Journal+of+Philosophy%2C+72%3A+205%E2%80%9320.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 285,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1986.+%E2%80%9CReview+of+An+Essay+on+Free+Will%2C+by+Peter+van+Inwagen%2C%E2%80%9D+Philosophy+and+Phenomenological+Research%2C+46%3A+507%E2%80%9322.&rows=3",
+    "best_score": 0.576
+  },
+  {
+    "index": 286,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1987.+%E2%80%9CFree+Action+and+Free+Will%2C%E2%80%9D+Mind%2C+96%3A+154%E2%80%9372.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 287,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+1996.+%E2%80%9CTwo+Faces+of+Responsibility%2C%E2%80%9D+Philosophical+Topics%2C+24%3A+227%E2%80%9348.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 288,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Wegner%2C+Daniel%2C+2002.+The+Illusion+of+Conscious+Will%2C+Cambridge%2C+MA%3A+MIT+Press.&rows=3",
+    "best_score": 0.852,
+    "doi": "10.7551/mitpress/3650.001.0001",
+    "matched_title": "The Illusion of Conscious Will",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 289,
+    "status": "not_found",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Whittle%2C+Ann%2C+2010.+%E2%80%9CDispositional+Abilities%2C%E2%80%9D+Philosopher%E2%80%99s+Imprint%2C+10+%2812%29%2C+Whittle+2010+available+online.&rows=3",
+    "best_score": 0.213
+  },
+  {
+    "index": 290,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2022.+Freedom+and+Responsibility+in+Context%2C+Oxford%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 291,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Widerker%2C+David%2C+1995.+%E2%80%9CLibertarianism+and+Frankfurt%E2%80%99s+Attack+on+the+Principle+of+Alternative+Possibilities%2C%E2%80%9D+Philosophical+Review%2C+104%3A+247%E2%80%9361.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 292,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=%E2%80%93%E2%80%93%E2%80%93%2C+2006.+%E2%80%9CLibertarianism+and+the+Philosophical+Significance+of+Frankfurt+Scenarios%2C%E2%80%9D+Journal+of+Philosophy%2C+103%3A+163%E2%80%9387.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 293,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Widerker%2C+David+and+Michael+McKenna%2C+2003.+Moral+Responsibility+and+Alternative+Possibilities%3A+Essays+on+the+Importance+of+Alternative+Possibilities%2C+Burlington%2C+VT%3A+Ashgate+Publishing.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 294,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Widerker%2C+David+and+Goetz%2C+Stewart%2C+2013.+%E2%80%9CFischer+against+the+Dilemma+Defense%3A+The+Defense+Prevails%2C%E2%80%9D+Analysis%2C+73%3A+283%E2%80%9395.&rows=3",
+    "best_score": 0.959,
+    "doi": "10.1093/analys/ant013",
+    "matched_title": "Fischer against the dilemma defence: the defence prevails",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 295,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Wiggins%2C+David+1973.+%E2%80%9CTowards+a+Reasonable+Libertarianism%2C%E2%80%9D+in+Essays+on+Freedom+and+Action%2C+Ted+Honderich+%28ed.%29%2C+London%3A+Routledge+%26+Kegan+Paul%2C+31%E2%80%9362.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 296,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Wolf%2C+Susan%2C+1990.+Freedom+within+Reason%2C+New+York%3A+Oxford+University+Press.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 297,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Zagzebski%2C+Linda%2C+2000.+%E2%80%9CDoes+Libertarian+Freedom+Require+Alternative+Possibilities%3F%E2%80%9D+Philosophical+Perspectives%2C+14%3A+231%E2%80%9348.&rows=3",
+    "best_score": 0.981,
+    "doi": "10.1111/0029-4624.34.s14.12",
+    "matched_title": "Does Libertarian Freedom Require Alternate Possibilities?",
+    "pdf_url": null,
+    "all_pdf_urls": []
+  },
+  {
+    "index": 298,
+    "status": "error",
+    "query_url": "https://api.crossref.org/works?query.bibliographic=Zimmerman%2C+Dean%2C+2018.+%E2%80%9CEver+Better+Situations+and+the+Failure+of+Expression+Principles%2C%E2%80%9D+Faith+and+Philosophy%2C+35+%284%29%3A+408%E2%80%9316.&rows=3",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  }
+]

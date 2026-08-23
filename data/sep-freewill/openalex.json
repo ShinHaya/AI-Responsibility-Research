@@ -1,0 +1,2259 @@
+[
+  {
+    "index": 1,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Must+God+Create+the+Best%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 2,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=The+Incoherence+of+the+Philosophers%2C+Michael+E.+Marmura+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.157
+  },
+  {
+    "index": 3,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=The+Metaphysics+of+Perfect+Beings&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.925,
+    "openalex_id": "https://openalex.org/W2051643921",
+    "matched_title": "The Metaphysics of Perfect Beings",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.5840/faithphil201128443",
+    "pdf_url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2471&context=faithandphilosophy",
+    "landing_page_url": "https://doi.org/10.5840/faithphil201128443",
+    "oa_status": "bronze"
+  },
+  {
+    "index": 4,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Causality+and+Determination&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 5,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Basic+Writings+of+Saint+Thomas+Aquinas%2C+2+volumes&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.358
+  },
+  {
+    "index": 6,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Selected+Philosophical+Writings%2C+T.+McDermott+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.132
+  },
+  {
+    "index": 7,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=On+Evil%2C+R.+Regan+%28trans.%29%2C+B.+Davies+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.173
+  },
+  {
+    "index": 8,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Nicomachean+Ethics&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 9,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=On+the+Free+Choice+of+the+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.508
+  },
+  {
+    "index": 10,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Ifs+and+Cans&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.925,
+    "openalex_id": "https://openalex.org/W2476781796",
+    "matched_title": "Ifs and Cans",
+    "matched_year": 1958,
+    "doi": "https://doi.org/10.4324/9780203849682-11",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 11,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Freedom+and+Necessity&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 12,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Why+Christians+Should+Not+Be+Libertarians%3A+An+Augustinian+Challenge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.766
+  },
+  {
+    "index": 13,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Why+There+Are+No+Good+Arguments+for+any+Interesting+Version+of+Determinism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2084894341",
+    "matched_title": "Why there are no good arguments for any interesting version of determinism",
+    "matched_year": 2009,
+    "doi": "https://doi.org/10.1007/s11229-009-9459-2",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 14,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+as+an+Open+Scientific+Problem%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.417
+  },
+  {
+    "index": 15,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Replies+to+McKenna%2C+Pereboom%2C+and+Kane&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.95,
+    "openalex_id": "https://openalex.org/W1998483863",
+    "matched_title": "Replies to McKenna, Pereboom, and Kane",
+    "matched_year": 2012,
+    "doi": "https://doi.org/10.1007/s11098-012-9893-8",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 16,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+the+Phenomenology+of+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2619488966",
+    "matched_title": "Free will and the phenomenology of agency",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.4324/9781315758206-67",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 17,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Natural+Agency%3A+An+Essay+on+the+Causal+Theory+of+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W4301038686",
+    "matched_title": "Natural agency: an essay on the causal theory of action",
+    "matched_year": 1990,
+    "doi": "https://doi.org/10.5860/choice.28-0898",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 18,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Determinism+and+Freedom+in+Stoic+Philosophy&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.95,
+    "openalex_id": "https://openalex.org/W2316043534",
+    "matched_title": "Determinism and Freedom in Stoic Philosophy",
+    "matched_year": 2000,
+    "doi": "https://doi.org/10.5840/ipq200040321",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 19,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Did+Epicurus+Discover+the+Free-Will+Problem%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 20,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Bramhall%E2%80%99s+Discourse+of+Liberty+and+Necessity&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2176408573",
+    "matched_title": "Bramhall's discourse of liberty and necessity",
+    "matched_year": 1999,
+    "doi": "https://doi.org/10.1017/cbo9781139164207.005",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 21,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Fundamental+Question+in+Action+Theory&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2335145193",
+    "matched_title": "The Fundamental Question in Action Theory",
+    "matched_year": 1979,
+    "doi": "https://doi.org/10.2307/2214394",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 22,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Reflection%2C+Planning%2C+and+Temporally+Extended+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2052164961",
+    "matched_title": "Reflection, Planning, and Temporally Extended Agency",
+    "matched_year": 2000,
+    "doi": "https://doi.org/10.1215/00318108-109-1-35",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 23,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Planning+Agency%2C+Autonomous+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2488968853",
+    "matched_title": "Planning Agency, Autonomous Agency",
+    "matched_year": 2005,
+    "doi": "https://doi.org/10.1017/cbo9780511614194.002",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 24,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Determinism%2C+Indeterminism%2C+and+Libertarianism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 25,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Is+%E2%80%98Freewill%E2%80%99+a+Pseudo-Problem%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 26,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Blameworthiness+and+Buffered+Alternatives&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.475
+  },
+  {
+    "index": 27,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Frankfurt+Cases%3A+The+Fine-grained+Response+Revisited&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2471560359",
+    "matched_title": "Frankfurt cases: the fine-grained response revisited",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1007/s11098-016-0726-z",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 28,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Consciousness%3A+A+Determinist+Account+of+the+Illusion+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1600056609",
+    "matched_title": "Free Will and Consciousness: A Determinist Account of the Illusion of Free Will",
+    "matched_year": 2012,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 29,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Freedom+in+Indian+Philosophies&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2611847362",
+    "matched_title": "Free Will and Freedom in Indian Philosophies",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.4324/9781315758206.ch35",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 30,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Freedom+and+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2475596927",
+    "matched_title": "Freedom and Action",
+    "matched_year": 1966,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 31,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Person+and+Object%3A+A+Metaphysical+Study%2C+La+Salle&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.281
+  },
+  {
+    "index": 32,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Toward+a+Credible+Agent-Causal+Account+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2091000052",
+    "matched_title": "Toward A Credible Agent-Causal Account of Free Will",
+    "matched_year": 1993,
+    "doi": "https://doi.org/10.2307/2215755",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 33,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Indeterminism+and+Control&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2485686558",
+    "matched_title": "Indeterminism and control",
+    "matched_year": 1995,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 34,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Agent+Causation+and+Event+Causation+in+the+Production+of+Free+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1963849519",
+    "matched_title": "Agent Causation and Event Causation in the Production of Free Action",
+    "matched_year": 1996,
+    "doi": "https://doi.org/10.5840/philtopics19962427",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 35,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Libertarian+Accounts+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1517920372",
+    "matched_title": "Libertarian Accounts of Free Will",
+    "matched_year": 2003,
+    "doi": "https://doi.org/10.1093/019515987x.001.0001",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 36,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Agent+Causation+and+the+Problem+of+Luck&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2169605018",
+    "matched_title": "AGENT CAUSATION AND THE PROBLEM OF LUCK",
+    "matched_year": 2005,
+    "doi": "https://doi.org/10.1111/j.1468-0114.2005.00234.x",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 37,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Dispositions%2C+Abilities+to+Act%2C+and+Free+Will%3A+The+New+Dispositionalism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2158871101",
+    "matched_title": "Dispositions, Abilities to Act, and Free Will: The New Dispositionalism",
+    "matched_year": 2009,
+    "doi": "https://doi.org/10.1093/mind/fzp034",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 38,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Are+We+Free+to+Obey+the+Laws%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 39,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Alternatives+for+Libertarians&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2622684465",
+    "matched_title": "Alternatives for Libertarians",
+    "matched_year": 2012,
+    "doi": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0016",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 40,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%2C+Agent+Causation%2C+and+%E2%80%98Disappearing+Agents%E2%80%99&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.95,
+    "openalex_id": "https://openalex.org/W2612882754",
+    "matched_title": "Free Will, Agent Causation, and “Disappearing Agents”",
+    "matched_year": 2017,
+    "doi": "https://doi.org/10.1111/nous.12206",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 41,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Agential+Powers&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2472938348",
+    "matched_title": "Free Will and Agential Powers",
+    "matched_year": 2015,
+    "doi": "https://doi.org/10.1093/acprof:oso/9780198744832.003.0002",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 42,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Luck%3A+Its+Nature+and+Significance+for+Human+Knowledge+and+Agency%2C+Basingstoke&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.35
+  },
+  {
+    "index": 43,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Fischer%E2%80%99s+Deterministic+Frankfurt-style+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2324078911",
+    "matched_title": "Fischer’s Deterministic Frankfurt-Style Argument",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1007/s10670-016-9809-7",
+    "pdf_url": "https://philpapers.org/archive/COHFDF-5.pdf",
+    "landing_page_url": "https://philarchive.org/rec/COHFDF-5",
+    "oa_status": "green"
+  },
+  {
+    "index": 44,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Augustine%E2%80%99s+Rejection+of+the+Free-will+Defence%3A+An+Overview+of+the+Late+Augustine%E2%80%99s+Theodicy&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2130669758",
+    "matched_title": "Augustine's rejection of the free-will defence: an overview of the late Augustine's theodicy",
+    "matched_year": 2007,
+    "doi": "https://doi.org/10.1017/s0034412507009018",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 45,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Semicompatibilism%3A+No+Ability+to+Do+Otherwise+Required&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2744745642",
+    "matched_title": "Semicompatibilism: no ability to do otherwise required",
+    "matched_year": 2017,
+    "doi": "https://doi.org/10.1080/13869795.2017.1354056",
+    "pdf_url": "https://philpapers.org/archive/CYRSNA.pdf",
+    "landing_page_url": "https://philarchive.org/rec/CYRSNA",
+    "oa_status": "green"
+  },
+  {
+    "index": 46,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Moral+Responsibility+without+General+Ability&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2887773231",
+    "matched_title": "Moral Responsibility Without General Ability",
+    "matched_year": 2018,
+    "doi": "https://doi.org/10.1093/pq/pqy034",
+    "pdf_url": "https://philpapers.org/archive/CYRMRW.pdf",
+    "landing_page_url": "https://philarchive.org/rec/CYRMRW",
+    "oa_status": "green"
+  },
+  {
+    "index": 47,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Actions%2C+Reasons%2C+and+Causes&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1504553351",
+    "matched_title": "Actions, Reasons, and Causes",
+    "matched_year": 1963,
+    "doi": "https://doi.org/10.2307/2023177",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 48,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Freedom+to+Act&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 49,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Phenomenal+Abilities%3A+Incompatibilism+and+the+Experience+of+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2122808852",
+    "matched_title": "Phenomenal Abilities: Incompatibilism and the Experience of Agency*",
+    "matched_year": 2013,
+    "doi": "https://doi.org/10.1093/acprof:oso/9780199694853.003.0006",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 50,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Elbow+Room%3A+The+Varieties+of+Free+Will+Worth+Wanting%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.058
+  },
+  {
+    "index": 51,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Meditations+on+First+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.0
+  },
+  {
+    "index": 52,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Principles+of+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.11
+  },
+  {
+    "index": 53,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Human+Ends+and+Human+Actions%3A+An+Exploration+in+St.+Thomas%E2%80%99s+Treatment&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W597389216",
+    "matched_title": "Human Ends and Human Actions: An Exploration in St. Thomas's Treatment",
+    "matched_year": 1985,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 54,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Theory+of+Will+in+Classical+Antiquity&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2027699594",
+    "matched_title": "The Theory of Will in Classical Antiquity",
+    "matched_year": 1982,
+    "doi": "https://doi.org/10.1525/9780520313101",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 55,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%3A+An+Historical+and+Philosophical+Introduction&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W581270139",
+    "matched_title": "Free Will: An Historical and Philosophical Introduction",
+    "matched_year": 1999,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 56,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Non-Reality+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2130566433",
+    "matched_title": "The Non-Reality of Free Will",
+    "matched_year": 1990,
+    "doi": "https://doi.org/10.1093/oso/9780195064971.001.0001",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 57,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Questions+on+Aristotle%E2%80%99s+Metaphysics+IX%2C+Q.15&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.274
+  },
+  {
+    "index": 58,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Contingency+and+Freedom%3A+Lectura+I+39&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.75
+  },
+  {
+    "index": 59,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Freedom+of+Will%2C+Paul+Ramsey+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.097
+  },
+  {
+    "index": 60,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=A+Coherence+Theory+of+Autonomy&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2321808442",
+    "matched_title": "A Coherence Theory of Autonomy",
+    "matched_year": 1993,
+    "doi": "https://doi.org/10.2307/2108082",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 61,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%3A+A+Philosophical+Study%2C+Boulder&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.294
+  },
+  {
+    "index": 62,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Toward+a+Plausible+Event-Causal+Indeterminist+Account+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.925,
+    "openalex_id": "https://openalex.org/W2466830020",
+    "matched_title": "Toward a plausible event-causal indeterminist account of free will",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1007/s11229-016-1143-8",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 63,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=How+Can+Physics+Underlie+the+Mind%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 64,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Frankfurt-Style+Counterexamples+and+the+Importance+of+Alternative+Possibilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2523125540",
+    "matched_title": "Frankfurt-Style Counterexamples and the Importance of Alternative Possibilities",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1007/s12136-016-0305-0",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007%2Fs12136-016-0305-0.pdf",
+    "landing_page_url": "https://doi.org/10.1007/s12136-016-0305-0",
+    "oa_status": "hybrid"
+  },
+  {
+    "index": 65,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Masked+Abilities+and+Compatibilism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2145288914",
+    "matched_title": "Masked Abilities and Compatibilism",
+    "matched_year": 2008,
+    "doi": "https://doi.org/10.1093/mind/fzn078",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 66,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Responsibility+and+Control&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2899766258",
+    "matched_title": "Responsibility and Control",
+    "matched_year": 1982,
+    "doi": "https://doi.org/10.5840/jphil198279159",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 67,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Responsiveness+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2990732387",
+    "matched_title": "Responsiveness and Moral Responsibility",
+    "matched_year": 1988,
+    "doi": "https://doi.org/10.1017/cbo9780511625411.005",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 68,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=God%2C+Freedom%2C+and+Foreknowledge%2C+Stanford&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.235
+  },
+  {
+    "index": 69,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Metaphysics+of+Free+Will%3A+An+Essay+on+Control&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2069031887",
+    "matched_title": "The metaphysics of free will: an essay on control",
+    "matched_year": 1995,
+    "doi": "https://doi.org/10.5860/choice.32-4427",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 70,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Recent+Work+on+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2056698658",
+    "matched_title": "Recent Work on Moral Responsibility",
+    "matched_year": 1999,
+    "doi": "https://doi.org/10.1086/233206",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 71,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=My+Way%3A+Essays+on+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W356856365",
+    "matched_title": "My Way: Essays on Moral Responsibility",
+    "matched_year": 2006,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 72,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Frankfurt+Cases%3A+The+Moral+of+the+Stories&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2139649951",
+    "matched_title": "The Frankfurt Cases: The Moral of the Stories",
+    "matched_year": 2010,
+    "doi": "https://doi.org/10.1215/00318108-2010-002",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 73,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Zygote+Argument+Remixed&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2141340914",
+    "matched_title": "The Zygote Argument remixed",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.1093/analys/anr008",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 74,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Deep+Control%3A+Essays+on+Free+Will+and+Value&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W584269153",
+    "matched_title": "Deep Control: Essays on Free Will and Value",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.1093/acprof:osobl/9780199742981.001.0001",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 75,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Deterministic+Horn+of+the+Dilemma+Defense%3A+A+Reply+to+Widerker+and+Goetz&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.984,
+    "openalex_id": "https://openalex.org/W1991976122",
+    "matched_title": "The deterministic horn of the dilemma defence: a reply to Widerker and Goetz",
+    "matched_year": 2013,
+    "doi": "https://doi.org/10.1093/analys/ant036",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 76,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Freedom+Required+for+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2888561301",
+    "matched_title": "The Freedom Required for Moral Responsibility",
+    "matched_year": 2018,
+    "doi": "https://doi.org/10.1093/oso/9780198817277.003.0013",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 77,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Responsibility+and+Control%3A+A+Theory+of+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W4301900017",
+    "matched_title": "Responsibility and control: a theory of moral responsibility",
+    "matched_year": 1999,
+    "doi": "https://doi.org/10.5860/choice.36-2692",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 78,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=The+Physiognomy+of+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2122730002",
+    "matched_title": "The Physiognomy of Responsibility",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.1111/j.1933-1592.2010.00458.x",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 79,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Alternate+Possibilities+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W185512519",
+    "matched_title": "Alternate Possibilities and Moral Responsibility",
+    "matched_year": 1969,
+    "doi": "https://doi.org/10.2307/2023833",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 80,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Freedom+of+the+Will+and+the+Concept+of+a+Person&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W3023856917",
+    "matched_title": "Freedom of the Will and the Concept of a Person",
+    "matched_year": 1971,
+    "doi": "https://doi.org/10.2307/2024717",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 81,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=On+the+Necessity+of+Ideals&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.875,
+    "openalex_id": "https://openalex.org/W1773639142",
+    "matched_title": "On the Necessity of Ideals",
+    "matched_year": 1998,
+    "doi": "https://doi.org/10.1017/cbo9780511624643.010",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 82,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Autonomy%2C+Necessity%2C+and+Love&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.9,
+    "openalex_id": "https://openalex.org/W1494819935",
+    "matched_title": "Autonomy, Necessity, and Love",
+    "matched_year": 1998,
+    "doi": "https://doi.org/10.1017/cbo9780511624643.012",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 83,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Farewell+to+the+Luck+%28and+Mind%29+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2072785830",
+    "matched_title": "Farewell to the luck (and Mind) argument",
+    "matched_year": 2010,
+    "doi": "https://doi.org/10.1007/s11098-010-9583-3",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf",
+    "landing_page_url": "https://doi.org/10.1007/s11098-010-9583-3",
+    "oa_status": "hybrid"
+  },
+  {
+    "index": 84,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Masks%2C+Abilities%2C+and+Opportunities%3A+Why+the+New+Dispositionalism+Cannot+Succeed&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.612
+  },
+  {
+    "index": 85,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Neo-Frankfurtians+and+Buffer+Cases%3A+The+New+Challenge+to+the+Principle+of+Alternative+Possibilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.95,
+    "openalex_id": "https://openalex.org/W2170124379",
+    "matched_title": "Neo-Frankfurtians and buffer cases: the new challenge to the principle of alternative possibilities",
+    "matched_year": 2009,
+    "doi": "https://doi.org/10.1007/s11098-009-9472-9",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf",
+    "landing_page_url": "https://doi.org/10.1007/s11098-009-9472-9",
+    "oa_status": "hybrid"
+  },
+  {
+    "index": 86,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Event-Causal+Libertarianism%2C+Functional+Reduction%2C+and+the+Disappearing+Agent+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2086277803",
+    "matched_title": "Event-causal libertarianism, functional reduction, and the disappearing agent argument",
+    "matched_year": 2013,
+    "doi": "https://doi.org/10.1007/s11098-013-0237-0",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 87,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Everyone+Thinks+that+an+Ability+to+Do+Otherwise+Is+Necessary+for+Free+Will+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2053014577",
+    "matched_title": "Everyone thinks that an ability to do otherwise is necessary for free will and moral responsibility",
+    "matched_year": 2014,
+    "doi": "https://doi.org/10.1007/s11098-014-0399-4",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 88,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=If+Anyone+Should+Be+an+Agent-Causalist%2C+then+Everyone+Should+Be+an+Agent-Causalist&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2508718335",
+    "matched_title": "If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1093/mind/fzv177",
+    "pdf_url": "https://philpapers.org/archive/FRAIAS-4.pdf",
+    "landing_page_url": "https://philarchive.org/rec/FRAIAS-4",
+    "oa_status": "green"
+  },
+  {
+    "index": 89,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=A+Minimal+Libertarianism%3A+Free+Will+and+the+Promise+of+Reduction&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.788,
+    "openalex_id": "https://openalex.org/W3216658860",
+    "matched_title": "Review of A Minimal Libertarianism: Free Will and the Promise of Reduction, by Christopher Franklin",
+    "matched_year": 2018,
+    "doi": null,
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 90,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Medieval+Aristotelianism+and+the+Case+against+Secondary+Causation+in+Nature&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.742
+  },
+  {
+    "index": 91,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=A+Free+Will%3A+Origins+of+the+Notion+in+Ancient+Thought&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1492114038",
+    "matched_title": "A free will: origins of the notion in ancient thought",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.5860/choice.49-1381",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 92,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Might+We+Have+No+Choice%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 400: Bad Request"
+  },
+  {
+    "index": 93,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=On+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.172
+  },
+  {
+    "index": 94,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=In+Defense+of+the+Principle+of+Alternative+Possibilities%3A+Why+I+Don%E2%80%99t+Find+Frankfurt%E2%80%99s+Argument+Convincing&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2326420305",
+    "matched_title": "In Defense of the Principle of Alternative Possibilities: Why I Don't Find Frankfurt's Argument Convincing",
+    "matched_year": 1996,
+    "doi": "https://doi.org/10.2307/2216254",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 95,
+    "status": "not_found",
+    "query_url": "https://api.openalex.org/works?search=Review+of+Living+without+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.09
+  },
+  {
+    "index": 96,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=In+Defense+of+a+Non-Causal+Account+of+Reasons+Explanations&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2077177590",
+    "matched_title": "In Defense of a Non-Causal Account of Reasons Explanations",
+    "matched_year": 2008,
+    "doi": "https://doi.org/10.1007/s10892-008-9033-z",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 97,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Frankfurt-Style+Counterexamples+and+Begging+the+Question&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W1967835444",
+    "matched_title": "Frankfurt-Style Counterexamples and Begging the Question",
+    "matched_year": 2005,
+    "doi": "https://doi.org/10.1111/j.1475-4975.2005.00107.x",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 98,
+    "status": "pdf_candidate",
+    "query_url": "https://api.openalex.org/works?search=Freedom%2C+Teleology%2C+and+Evil&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 0.95,
+    "openalex_id": "https://openalex.org/W1994267170",
+    "matched_title": "Freedom, Teleology, and Evil",
+    "matched_year": 2011,
+    "doi": "https://doi.org/10.5840/faithphil201128332",
+    "pdf_url": "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2362&context=faithandphilosophy",
+    "landing_page_url": "https://place.asburyseminary.edu/faithandphilosophy/vol28/iss3/8",
+    "oa_status": "green"
+  },
+  {
+    "index": 99,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Divine+Universal+Causality+and+Libertarian+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2495043482",
+    "matched_title": "Divine Universal Causality and Libertarian Freedom",
+    "matched_year": 2016,
+    "doi": "https://doi.org/10.1093/acprof:oso/9780198743958.003.0013",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 100,
+    "status": "matched_no_pdf",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+God%E2%80%99s+Universal+Causality%3A+The+Dual+Sources+Account&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "best_score": 1.0,
+    "openalex_id": "https://openalex.org/W2964882185",
+    "matched_title": "Free Will and God's Universal Causality: The Dual Sources Account",
+    "matched_year": 2019,
+    "doi": "https://doi.org/10.5040/9781350082939",
+    "pdf_url": null,
+    "landing_page_url": null,
+    "oa_status": "closed"
+  },
+  {
+    "index": 101,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Why+Agent-Caused+Actions+Are+Not+Lucky&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 102,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Van+Inwagen+on+Introspected+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 103,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Moral+Appraisability%3A+Puzzles%2C+Proposals%2C+and+Perplexities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 104,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Control+Conundrums%3A+Modest+Libertarianism%2C+Responsibility%2C+and+Explanation&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 105,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Dialectical+Delicacies+in+the+Debate+about+Freedom+and+Alternative+Possibilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 106,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+of+the+Will+in+Plato+and+Augustine&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 107,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+as+Involving+Determination+and+Inconceivable+Without+It&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 108,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Of+Liberty+and+Necessity%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 109,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Questions+concerning+Liberty%2C+Necessity%2C+and+Chance%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 110,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Aquinas+on+Free+Will+and+Intellectual+Determinism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 111,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Explaining+Free+Will+by+Rational+Abilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 112,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Willing%2C+Wanting%2C+Waiting&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 113,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=%E2%80%98Could%E2%80%99%2C+Possible+Worlds%2C+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 114,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Injecting+the+Phenomenology+of+Agency+into+the+Free+Will+Debate&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 115,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Divine+Hiddenness%3A+New+Essays&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 116,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+Treatise+of+Human+Nature%2C+L.A.+Selby-Bigge+and+P.H.+Nidditch+%28eds.%29%2C+2nd+edition&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 117,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Enquiries+concerning+Human+Understanding+and+concerning+the+Principles+of+Morals%2C+P.H.+Nidditch+%28ed.%29%2C+third+edition&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 118,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Moral+Responsibility+and+Buffered+Alternatives&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 119,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Who+Discovered+the+Will%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 120,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Radical+Enlightenment%3A+Philosophy+and+the+Making+of+Modernity+1650%E2%80%931750&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 121,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agent+Causation+in+a+Neo-Aristotelian+Metaphysics&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 122,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Caring+and+Internality&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 123,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Divine+conservation+and+creaturely+freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 124,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Significance+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 125,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Responsibility%2C+Luck%2C+and+Chance&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 126,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Rethinking+Free+Will%3A+New+Perspectives+on+an+Ancient+Problem&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 127,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=On+the+Role+of+Indeterminism+in+Libertarian+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 128,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Critique+of+Pure+Reason%2C+trs.+Paul+Guyer+and+Allen+W.+Wood.+Cambridge%3A+Cambridge+University+Press&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 129,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Groundwork+of+the+Metaphysics+of+Morals&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 130,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Critique+of+Practical+Reason&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 131,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Aborting+the+Zygote+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 132,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+Agnosticism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 133,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Does+Everyone+Think+the+Ability+to+do+Otherwise+is+Necessary+for+Free+Will+and+Moral+Responsibility%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 134,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%2C+Physics%2C+Biology%2C+and+the+Brain&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 135,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Dual+Agency%3A+A+Thomistic+Account+of+Providence+and+Human+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 136,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Problem+of+No+Best+World&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 137,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Metaphysics+of+Theism%3A+Aquinas%E2%80%99s+Natural+Theology+in+Summa+Contra+Gentiles+I.+Oxford%3A+Clarendon+Press&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 138,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Occasionalist+Proselytizer%3A+A+Modified+Catechism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 139,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Can+in+Theory+and+Practice%3A+A+Possible+Worlds+Analysis&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 140,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Preferences%2C+Conditionals%2C+and+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 141,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Cans+without+Ifs&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 142,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Discourse+on+Metaphysics+and+Other+Essays%2C+trs.+Daniel+Garber+and+Roger+Ariew%2C+9th+edition.+Indianapolis%3A+Hackett+Publishing&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 143,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Theodicy%2C+LaSalle&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 144,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Hard+Luck%3A+How+Luck+Undermines+Free+Will+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 145,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Paradoxes+of+Time+Travel&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 146,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Counterfactual+Dependence+and+Time%E2%80%99s+Arrow&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 147,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Are+We+Free+to+Break+the+Laws%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 148,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Finkish+Dispositions&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 149,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Do+We+Have+Free+Will%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 150,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Identification+and+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 151,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Natural+Powers+and+Human+Abilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 152,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=An+Essay+Concerning+the+Human+Understanding%2C+Peter+H.+Nidditch+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 153,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Personal+Agency%3A+The+Metaphysics+of+Mind+and+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 154,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Aquinas%E2%80%99s+Libertarian+Account+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 155,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Primal+Sin&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 156,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Treatise+on+Ethics%2C+C.+Walton+%28trans.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 157,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%3A+Philosophers+and+Neuroscientists+in+Conversation&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 158,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Chinese+Perspectives+on+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 159,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+Compatibilist+Version+of+the+Theory+of+Agent+Causation&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 160,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agent+Causation+as+the+Solution+to+all+the+Compatibilist%E2%80%99s+Problems&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 161,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Works+of+Agency%3A+On+Human+Action%2C+Will%2C+and+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 162,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=P.+F.+Strawson%E2%80%99s+Consequentialism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 163,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Robustness%2C+Control%2C+and+the+Demand+for+Morally+Significant+Alternatives%3A+Frankfurt+Examples+with+Oodles+and+Oodles+of+Alternatives&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 164,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+Hard-Line+Reply+to+Pereboom%E2%80%99s+Four-Case+Manipulation+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 165,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Conversation+%26+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 166,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Reasons-Responsiveness%2C+Agents%2C+and+Mechanisms&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 167,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Resisting+the+Manipulation+Argument%3A+A+Hard%E2%80%90Liner+Takes+It+on+the+Chin&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 168,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Springs+of+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 169,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Autonomous+Agents&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 170,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Goal-directed+Action%3A+Teleological+Explanations%2C+Causal+Theories%2C+and+Deviance&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 171,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agents%E2%80%99+Abilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 172,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Luck&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 173,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Effective+Intentions%3A+The+Power+of+Conscious+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 174,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Aspects+of+Agency%3A+Decisions%2C+Abilities%2C+Explanations%2C+and+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 175,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Rescuing+Frankfurt-style+Scenarios&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 176,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Bbs%2C+Magnets+and+Seesaws%3A+The+Metaphysics+of+Frankfurt-style+Cases&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 177,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Platonic+Model%3A+Statement%2C+Clarification+and+Defense&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 178,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Ethics&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 179,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=On+the+Very+Idea+of+a+Robust+Alternative&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 180,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+Without+Consciousness%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 181,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Coercion+and+the+Hiddenness+of+God&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 182,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Deus+Absconditus&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 183,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Is+Free+Will+an+Illusion%3F+Confronting+Challenges+from+the+Modern+Mind+Sciences&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 184,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Making+Sense+of+Freedom+and+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 185,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Bound%3A+Essays+on+Free+Will+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 186,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Beyond+Good+and+Evil%2C+W.+Kaufmann+%28trans.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 187,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 188,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Determinists+and+Libertarians&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 189,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Philosophical+Explanations%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 190,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Persons+and+Causes%3A+The+Metaphysics+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 191,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Is+It+All+Just+a+Matter+of+Luck%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 192,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agent-Causal+Power&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 193,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Degrees+of+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 194,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agent-Causal+Theories+of+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 195,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Probability+and+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 196,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=How+Do+We+Know+That+We+Are+Free%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 197,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+in+a+Network+of+Interacting+Causes&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 198,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Why+The+One+Did+Not+Remain+Within+Itself&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 199,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=New+Distinctions%2C+Same+Troubles%3A+A+Reply+to+Haji+and+McKenna&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 200,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Pereboom+on+Frankfurt+Cases&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 201,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Timing+Objection+to+the+Frankfurt+Cases&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 202,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Deterministic+Frankfurt+Cases&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 203,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Control%3A+A+Noncausal+Approach&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 204,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Incompatibilism%2C+Sin%2C+and+Free+Will+in+Heaven&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 205,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Explanatory+Power+of+Local+Miracle+Compatibilism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 206,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Living+Without+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 207,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will%2C+Agency%2C+and+Meaning+in+Life&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 208,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Self-determination%3A+The+Ethics+of+Action%2C+volume+1&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 209,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Complete+Works%2C+John+Cooper+%28ed.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 210,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Divine+Creative+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 211,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=%E2%80%98Was+Descartes+a+Libertarian%3F%E2%80%99+in+Oxford+Studies+in+Early+Modern+Philosophy&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 212,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Essays+on+the+Active+Powers+of+the+Human+Mind%2C+Baruch+Brody+%28ed.%29%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 213,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Limits+of+Limited-Blockage+Frankfurt-style+Cases&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 214,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Augustine%E2%80%99s+Compatibilism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 215,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Can+Neuroscience+Resolve+Issues+about+Free+Will%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 216,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Two+Concepts+of+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 217,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Can+God+Be+Free%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 218,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Agent-causal+Libertarianism%2C+Statistical+Neural+Laws+and+Wild+Coincidences&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 219,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Riddle+of+Hume%E2%80%99s+Treatise%3A+Skepticism%2C+Naturalism%2C+and+Irreligion&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 220,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Limits+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 221,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Causation+and+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 222,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Moral+Dimensions%3A+Permissibility%2C+Meaning%2C+and+Blame%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 223,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=When+Is+a+Man+Responsible%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 224,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Luck+Argument+against+Event-causal+Libertarianism%3A+It+Is+Here+to+Stay&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 225,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Prize+Essay+on+the+Freedom+of+the+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 226,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Desire%3A+Its+Role+in+Practical+Reason+and+the+Explanation+of+Action%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 227,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Reasons+and+Purposes%3A+Human+Rationality+and+the+Teleological+Explanation+of+Action&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 228,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=What+Is+the+Readiness+Potential%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 229,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Teleological+Realism%3A+Mind%2C+Agency%2C+and+Explanation%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 230,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Why+Free+Will+Remains+a+Mystery&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 231,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Mystery%3A+Looking+Past+the+Mind+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 232,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Two-Stage+Luck+Objection&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 233,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=In+Praise+of+Blame&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 234,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Caring%2C+Identification%2C+and+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 235,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Attributability%2C+Answerability%2C+and+Accountability%3A+Toward+a+Wider+Theory+of+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 236,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Ecumenical+Attributability&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 237,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Selective+Necessity+and+the+Free-Will+Problem&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 238,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free-will%2C+Praise+and+Blame&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 239,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+and+Illusion&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 240,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Attributability%2C+Answerability%2C+and+Accountability%3A+In+Defense+of+a+Unified+Account&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 241,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Rational+Capacities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 242,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Impertinence+of+Frankfurt-Style+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 243,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Consequence+Argument+Revisited&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 244,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Ethics+and+Selected+Letters%2C+Seymour+Feldman+%28ed.%29%2C+Samuel+Shirley+%28trans.%29&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 245,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=What+Makes+a+Manipulated+Agent+Unfree%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 246,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Self-Expression%3A+A+Deep+Self+Theory+of+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 247,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+Metaphysics+for+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 248,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Deviant+Causal+Chains&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 249,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+and+Belief&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 250,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Impossibility+of+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 251,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Unhelpfulness+of+Indeterminism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 252,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+and+Resentment&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 253,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Sanctification%2C+Hardening+of+the+Heart%2C+and+Frankfurt%E2%80%99s+Concept+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 254,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Persons%3A+Identification+and+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 255,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Moral+Responsibility+and+Alternative+Possibilities%3A+The+Flicker+of+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 256,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Aquinas&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 257,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Augustine+on+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 258,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Wandering+in+Darkness%3A+Narrative+and+the+Problem+of+Suffering&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 259,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Mind%2C+Brain%2C+and+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 260,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Possibility+and+Scope+of+Significant+Heavenly+Freedom&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 261,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Action+and+Purpose%2C+Englewood+Cliffs&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 262,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Metaphysics%2C+Englewood+Cliffs&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 263,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+Critique+of+Frankfurt-libertarianism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 264,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=A+New+Approach+to+Manipulation+Arguments&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 265,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Defending+%28a+Modified+Version+of%29+the+Zygote+Argument&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 266,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Incompatibility+of+Free+Will+and+Determinism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 267,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=An+Essay+on+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 268,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+Remains+a+Mystery&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 269,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+to+Break+the+Laws&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 270,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=How+to+Think+about+the+Problem+of+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 271,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Libertarianism+and+Skepticism+about+Free+Will%3A+Some+Arguments+against+Both&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 272,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Revisionism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 273,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Building+Better+Beings%3A+A+Theory+of+Moral+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 274,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=What+Happens+When+Someone+Acts%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 275,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=How+We+Get+Along&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 276,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Objective+Probabilities+of+Free+Choice&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 277,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Will+Demystified%3A+A+Dispositional+Account&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 278,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Causes%2C+Laws%2C+and+Free+Will%3A+Why+Determinism+Doesn%E2%80%99t+Matter&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 279,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Taking+Free+Will+Skepticism+Seriously&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 280,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Jonathan+Edwards%2C+William+Rowe%2C+and+the+Necessity+of+Creation&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 281,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Responsibility+and+the+Moral+Sentiments%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 282,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Addiction+as+Defect+of+the+Will%3A+Some+Philosophical+Reflections&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 283,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Against+Moral+Responsibility%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 284,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Agency&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 285,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Review+of+An+Essay+on+Free+Will%2C+by+Peter+van+Inwagen&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 286,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Free+Action+and+Free+Will&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 287,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Two+Faces+of+Responsibility&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 288,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=The+Illusion+of+Conscious+Will%2C+Cambridge&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 289,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Dispositional+Abilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 290,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+and+Responsibility+in+Context&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 291,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Libertarianism+and+Frankfurt%E2%80%99s+Attack+on+the+Principle+of+Alternative+Possibilities&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 292,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Libertarianism+and+the+Philosophical+Significance+of+Frankfurt+Scenarios&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 293,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Moral+Responsibility+and+Alternative+Possibilities%3A+Essays+on+the+Importance+of+Alternative+Possibilities%2C+Burlington&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 294,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Fischer+against+the+Dilemma+Defense%3A+The+Defense+Prevails&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 295,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Towards+a+Reasonable+Libertarianism&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 296,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Freedom+within+Reason&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 297,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Does+Libertarian+Freedom+Require+Alternative+Possibilities%3F&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "index": 298,
+    "status": "error",
+    "query_url": "https://api.openalex.org/works?search=Ever+Better+Situations+and+the+Failure+of+Expression+Principles&per-page=5&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cbest_oa_location%2Copen_access",
+    "error": "HTTPError: HTTP Error 429: Too Many Requests"
+  }
+]

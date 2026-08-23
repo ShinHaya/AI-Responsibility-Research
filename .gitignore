@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local Codex configuration and credentials
+.codex/
+
+# Obsidian device state and installed plugin data
+.obsidian/workspace*.json
+.obsidian/plugins/
+
+# Temporary research artifacts
+tmp/
+
+# Obsidian trash
+.trash/

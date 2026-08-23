@@ -1,0 +1,1144 @@
+[
+  {
+    "index": 104,
+    "title": "Control Conundrums: Modest Libertarianism, Responsibility, and Explanation",
+    "year": "2001",
+    "zotero_key": "MWXQWVH4",
+    "citation_key": "hajiControlConundrumsModest2001",
+    "doi": "10.1111/1468-0114.00124",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Control+Conundrums%3A+Modest+Libertarianism%2C+Responsibility%2C+and+Explanation%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/1468-0114.00124",
+      "title": "Control Conundrums: Modest Libertarianism, Responsibility, and Explanation",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/1468-0114.00124",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/1468-0114.00124",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 105,
+    "title": "Dialectical Delicacies in the Debate about Freedom and Alternative Possibilities",
+    "year": "2004",
+    "zotero_key": "VAC45FCX",
+    "citation_key": "hajiDialecticalDelicaciesDebate2004",
+    "doi": "10.5840/jphil2004101616",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Dialectical+Delicacies+in+the+Debate+about+Freedom+and+Alternative+Possibilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/jphil2004101616",
+      "title": "Dialectical Delicacies in the Debate About Freedom and Alternative Possibilities",
+      "abstract": "",
+      "url": "https://doi.org/10.5840/jphil2004101616",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/jphil2004101616",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 106,
+    "title": "Freedom of the Will in Plato and Augustine",
+    "year": "2014",
+    "zotero_key": "QBPXLE8A",
+    "citation_key": "hechtFreedomWillPlato2014",
+    "doi": "10.1080/09608788.2014.888643",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom+of+the+Will+in+Plato+and+Augustine%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/09608788.2014.888643",
+      "title": "Freedom of the Will in Plato and Augustine",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/09608788.2014.888643",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/09608788.2014.888643",
+        "abstracts": [
+          {
+            "text": "There has been a recent surge of interest in ancient accounts of free will.11Susanne Bobzien has been one of the leading recent discussants (see Bobzien, ‘The Inadvertent Conception’; Bobzien, ‘Did...",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "There has been a recent surge of interest in ancient accounts of free will.11Susanne Bobzien has been one of the leading recent discussants (see Bobzien, ‘The Inadvertent Conception’; Bobzien, ‘Did...",
+            "source": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "There has been a recent surge of interest in ancient accounts of free will.11Susanne Bobzien has been one of the leading recent discussants (see Bobzien, ‘The Inadvertent Conception’; Bobzien, ‘Did...",
+        "source": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "There has been a recent surge of interest in ancient accounts of free will.11Susanne Bobzien has been one of the leading recent discussants (see Bobzien, ‘The Inadvertent Conception’; Bobzien, ‘Did...",
+        "source": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "There has been a recent surge of interest in ancient accounts of free will.11Susanne Bobzien has been one of the leading recent discussants (see Bobzien, ‘The Inadvertent Conception’; Bobzien, ‘Did...",
+      "source": "https://www.tandfonline.com/doi/abs/10.1080/09608788.2014.888643",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 107,
+    "title": "Free Will as Involving Determination and Inconceivable Without It",
+    "year": "1934",
+    "zotero_key": "UJRTRN5Y",
+    "citation_key": "hobartFreeWillInvolving1934",
+    "doi": "10.1093/mind/xliii.169.1",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+as+Involving+Determination+and+Inconceivable+Without+It%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/xliii.169.1",
+      "title": "I.—FREE WILL AS INVOLVING DETERMINATION AND INCONCEIVABLE WITHOUT IT",
+      "best_score": 0.991,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/xliii.169.1",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/xliii.169.1",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 108,
+    "title": "Of Liberty and Necessity, in Hobbes and Bramhall on Liberty and Necessity, Vere Chappell (ed.)",
+    "year": "1654",
+    "zotero_key": "U6WFTXCL",
+    "citation_key": "hobbesLibertyNecessityHobbes1654",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Of+Liberty+and+Necessity%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.523
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 109,
+    "title": "The Questions concerning Liberty, Necessity, and Chance, in Hobbes and Bramhall on Liberty and Necessity, Vere Chappell (ed.)",
+    "year": "1656",
+    "zotero_key": "S6XV33WG",
+    "citation_key": "hobbesQuestionsConcerningLiberty1656",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Questions+concerning+Liberty%2C+Necessity%2C+and+Chance%2C+in+Hobbes+and+Bramhall+on+Liberty+and+Necessity%2C+Vere+Chappell+%28ed.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.415
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 110,
+    "title": "Aquinas on Free Will and Intellectual Determinism",
+    "year": "2017",
+    "zotero_key": "T98ACSCH",
+    "citation_key": "hoffmanAquinasFreeWill2017",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Aquinas+on+Free+Will+and+Intellectual+Determinism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.789
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 111,
+    "title": "Explaining Free Will by Rational Abilities",
+    "year": "2022",
+    "zotero_key": "848ULPHV",
+    "citation_key": "hofmannExplainingFreeWill2022",
+    "doi": "10.1007/s10677-022-10278-9",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Explaining+Free+Will+by+Rational+Abilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s10677-022-10278-9",
+      "title": "Explaining Free Will by Rational Abilities",
+      "abstract": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of free decisions is developed, and the rational abilities that ground our abilities to decide otherwise are described in detail. A main result will be that the best account of the relevant rational abilities makes them two-way abilities: abilities to decide to do or not to do x in accordance with one’s apparent reasons. Dispositionalism about rational abilities will be vindicated, since it helps to see why and how these two-way abilities entail an ability to decide otherwise and, thus, free will.",
+      "url": "https://doi.org/10.1007/s10677-022-10278-9",
+      "pdf_urls": [
+        "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf",
+        "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s10677-022-10278-9",
+        "abstracts": [
+          {
+            "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of free decisions is developed, and the rational abilities that ground our abilities to decide otherwise are described in detail. A main result will be that the best account of the relevant rational abilities makes them two-way abilities: abilities to decide to do or not to do x in accordance with one’s apparent reasons. Dispositionalism about rational abilities will be vindicated, since it helps to see why and how these two-way abilities entail an ability to decide otherwise and, thus, free will.",
+            "source": "https://link.springer.com/article/10.1007/s10677-022-10278-9?error=cookies_not_supported&code=db412322-126a-4737-92f6-e03894a14371",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of",
+            "source": "https://link.springer.com/article/10.1007/s10677-022-10278-9?error=cookies_not_supported&code=db412322-126a-4737-92f6-e03894a14371",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [
+          "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+        ],
+        "final_url": "https://link.springer.com/article/10.1007/s10677-022-10278-9?error=cookies_not_supported&code=db412322-126a-4737-92f6-e03894a14371"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of free decisions is developed, and the rational abilities that ground our abilities to decide otherwise are described in detail. A main result will be that the best account of the relevant rational abilities makes them two-way abilities: abilities to decide to do or not to do x in accordance with one’s apparent reasons. Dispositionalism about rational abilities will be vindicated, since it helps to see why and how these two-way abilities entail an ability to decide otherwise and, thus, free will.",
+        "source": "https://doi.org/10.1007/s10677-022-10278-9",
+        "kind": "crossref"
+      },
+      {
+        "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of free decisions is developed, and the rational abilities that ground our abilities to decide otherwise are described in detail. A main result will be that the best account of the relevant rational abilities makes them two-way abilities: abilities to decide to do or not to do x in accordance with one’s apparent reasons. Dispositionalism about rational abilities will be vindicated, since it helps to see why and how these two-way abilities entail an ability to decide otherwise and, thus, free will.",
+        "source": "https://link.springer.com/article/10.1007/s10677-022-10278-9?error=cookies_not_supported&code=db412322-126a-4737-92f6-e03894a14371",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of",
+        "source": "https://link.springer.com/article/10.1007/s10677-022-10278-9?error=cookies_not_supported&code=db412322-126a-4737-92f6-e03894a14371",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In this paper I present an account of the rational abilities that make our decisions free. Following the lead of new dispositionalists, a leeway account of free decisions is developed, and the rational abilities that ground our abilities to decide otherwise are described in detail. A main result will be that the best account of the relevant rational abilities makes them two-way abilities: abilities to decide to do or not to do x in accordance with one’s apparent reasons. Dispositionalism about rational abilities will be vindicated, since it helps to see why and how these two-way abilities entail an ability to decide otherwise and, thus, free will.",
+      "source": "https://doi.org/10.1007/s10677-022-10278-9",
+      "kind": "crossref"
+    },
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+    ]
+  },
+  {
+    "index": 112,
+    "title": "Willing, Wanting, Waiting",
+    "year": "2009",
+    "zotero_key": "R786L2BZ",
+    "citation_key": "holtonWillingWantingWaiting2009",
+    "doi": "10.1093/acprof:oso/9780199214570.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Willing%2C+Wanting%2C+Waiting%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780199214570.001.0001",
+      "title": "Willing, Wanting, Waiting",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199214570.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780199214570.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 113,
+    "title": "‘Could’, Possible Worlds, and Moral Responsibility",
+    "year": "1979",
+    "zotero_key": "MBWPP86K",
+    "citation_key": "horganCouldPossibleWorlds1979",
+    "doi": "10.1111/j.2041-6962.1979.tb00250.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22%E2%80%98Could%E2%80%99%2C+Possible+Worlds%2C+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.2041-6962.1979.tb00250.x",
+      "title": "‘COULD’, POSSIBLE WORLDS, AND MORAL RESPONSIBILITY",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.2041-6962.1979.tb00250.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.2041-6962.1979.tb00250.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 114,
+    "title": "Injecting the Phenomenology of Agency into the Free Will Debate",
+    "year": "2015",
+    "zotero_key": "2JEL8MVQ",
+    "citation_key": "horganInjectingPhenomenologyAgency2015",
+    "doi": "10.1093/acprof:oso/9780198744832.003.0003",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Injecting+the+Phenomenology+of+Agency+into+the+Free+Will+Debate%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198744832.003.0003",
+      "title": "Injecting the Phenomenology of Agency into the Free Will Debate",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198744832.003.0003",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198744832.003.0003",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 115,
+    "title": "Divine Hiddenness: New Essays",
+    "year": "2002",
+    "zotero_key": "DX4RT66P",
+    "citation_key": "howard-snyderDivineHiddennessNew2002",
+    "doi": "10.5840/pc20035270",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Divine+Hiddenness%3A+New+Essays%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/pc20035270",
+      "title": "Divine Hiddenness: New Essays",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/pc20035270",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/pc20035270",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 116,
+    "title": "A Treatise of Human Nature, L.A. Selby-Bigge and P.H. Nidditch (eds.), 2nd edition",
+    "year": "1740",
+    "zotero_key": "C98LABMB",
+    "citation_key": "humeTreatiseHumanNature1740",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Treatise+of+Human+Nature%2C+L.A.+Selby-Bigge+and+P.H.+Nidditch+%28eds.%29%2C+2nd+edition%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.504
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 117,
+    "title": "Enquiries concerning Human Understanding and concerning the Principles of Morals, P.H. Nidditch (ed.), third edition",
+    "year": "1748",
+    "zotero_key": "F4DD5LYE",
+    "citation_key": "humeEnquiriesConcerningHuman1748",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Enquiries+concerning+Human+Understanding+and+concerning+the+Principles+of+Morals%2C+P.H.+Nidditch+%28ed.%29%2C+third+edition%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.738
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 118,
+    "title": "Moral Responsibility and Buffered Alternatives",
+    "year": "2005",
+    "zotero_key": "PP7SUU6X",
+    "citation_key": "huntMoralResponsibilityBuffered2005",
+    "doi": "10.1111/j.1475-4975.2005.00109.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Moral+Responsibility+and+Buffered+Alternatives%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1475-4975.2005.00109.x",
+      "title": "Moral Responsibility and Buffered Alternatives",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1475-4975.2005.00109.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1475-4975.2005.00109.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://chooser.crossref.org/?doi=10.1111%2Fj.1475-4975.2005.00109.x"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 119,
+    "title": "Who Discovered the Will?",
+    "year": "1992",
+    "zotero_key": "VJ7IHN8X",
+    "citation_key": "irwinWhoDiscoveredWill1992",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Who+Discovered+the+Will%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.65
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 120,
+    "title": "Radical Enlightenment: Philosophy and the Making of Modernity 1650–1750",
+    "year": "2001",
+    "zotero_key": "4MP4YGYM",
+    "citation_key": "israelRadicalEnlightenmentPhilosophy2001",
+    "doi": "10.1093/hwj/54.1.227",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Radical+Enlightenment%3A+Philosophy+and+the+Making+of+Modernity+1650%E2%80%931750%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/hwj/54.1.227",
+      "title": "Radical Enlightenment: Philosophy and the Making of Modernity, 1650–1750",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/hwj/54.1.227",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/hwj/54.1.227",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 121,
+    "title": "Agent Causation in a Neo-Aristotelian Metaphysics",
+    "year": "2013",
+    "zotero_key": "CMVPIU8G",
+    "citation_key": "jacobsAgentCausationNeoAristotelian2013",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agent+Causation+in+a+Neo-Aristotelian+Metaphysics%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 122,
+    "title": "Caring and Internality",
+    "year": "2007",
+    "zotero_key": "ZL3B3EGQ",
+    "citation_key": "jaworskaCaringInternality2007",
+    "doi": "10.1111/j.1933-1592.2007.00039.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Caring+and+Internality%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1933-1592.2007.00039.x",
+      "title": "Caring and Internality",
+      "best_score": 1.0,
+      "abstract": "In his work on internality, identification, and caring, Harry Frankfurt attempts to delineate the organization of agency peculiar to human beings, while avoiding the traditional overintellectualized emphasis on the human capacity to reason about action. The focal point of Frankfurt’s alternative picture is our capacity to make our own motivation the object of reflection. Building upon the observation that marginal agents (such as young children and Alzheimer’s patients) are capable of caring, I show that neither caring nor internality need to depend on the phenomena of reflectiveness. I develop alternative interlocking accounts of caring and internality that are independent of both reflectiveness and evaluation, but that can still do justice to the central role of carings in the organization of agency characteristic of human persons.",
+      "url": "https://doi.org/10.1111/j.1933-1592.2007.00039.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1933-1592.2007.00039.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In his work on internality, identification, and caring, Harry Frankfurt attempts to delineate the organization of agency peculiar to human beings, while avoiding the traditional overintellectualized emphasis on the human capacity to reason about action. The focal point of Frankfurt’s alternative picture is our capacity to make our own motivation the object of reflection. Building upon the observation that marginal agents (such as young children and Alzheimer’s patients) are capable of caring, I show that neither caring nor internality need to depend on the phenomena of reflectiveness. I develop alternative interlocking accounts of caring and internality that are independent of both reflectiveness and evaluation, but that can still do justice to the central role of carings in the organization of agency characteristic of human persons.",
+        "source": "https://doi.org/10.1111/j.1933-1592.2007.00039.x",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In his work on internality, identification, and caring, Harry Frankfurt attempts to delineate the organization of agency peculiar to human beings, while avoiding the traditional overintellectualized emphasis on the human capacity to reason about action. The focal point of Frankfurt’s alternative picture is our capacity to make our own motivation the object of reflection. Building upon the observation that marginal agents (such as young children and Alzheimer’s patients) are capable of caring, I show that neither caring nor internality need to depend on the phenomena of reflectiveness. I develop alternative interlocking accounts of caring and internality that are independent of both reflectiveness and evaluation, but that can still do justice to the central role of carings in the organization of agency characteristic of human persons.",
+      "source": "https://doi.org/10.1111/j.1933-1592.2007.00039.x",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 123,
+    "title": "Divine conservation and creaturely freedom",
+    "year": "2016",
+    "zotero_key": "CYTI8NTS",
+    "citation_key": "judischDivineConservationCreaturely2016",
+    "doi": "10.1093/acprof:oso/9780198743958.003.0014",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Divine+conservation+and+creaturely+freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198743958.003.0014",
+      "title": "Divine Conservation and Creaturely Freedom",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198743958.003.0014",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198743958.003.0014",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 124,
+    "title": "The Significance of Free Will",
+    "year": "1996",
+    "zotero_key": "FX3Z2MUI",
+    "citation_key": "kaneSignificanceFreeWill1996",
+    "doi": "10.5840/pc19991232",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Significance+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/pc19991232",
+      "title": "The Significance of Free Will",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/pc19991232",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/pc19991232",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 125,
+    "title": "Responsibility, Luck, and Chance",
+    "year": "1999",
+    "zotero_key": "CV3E5TQY",
+    "citation_key": "kaneResponsibilityLuckChance1999",
+    "doi": "10.5840/jphil199996537",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Responsibility%2C+Luck%2C+and+Chance%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/jphil199996537",
+      "title": "Responsibility, Luck, and Chance",
+      "abstract": "",
+      "url": "https://doi.org/10.5840/jphil199996537",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/jphil199996537",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 126,
+    "title": "Rethinking Free Will: New Perspectives on an Ancient Problem",
+    "year": "2011",
+    "zotero_key": "PYTFF6FA",
+    "citation_key": "kaneRethinkingFreeWill2011",
+    "doi": "10.1093/oxfordhb/9780195399691.003.0019",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Rethinking+Free+Will%3A+New+Perspectives+on+an+Ancient+Problem%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oxfordhb/9780195399691.003.0019",
+      "title": "Rethinking Free Will: New Perspectives on an Ancient Problem",
+      "abstract": "This article discusses and defends a “centered” EC libertarian view of free will that places the indeterminism in choices or decisions themselves. Libertarian views were either agent-causal or noncausalist, or some combination of the two. The possibility of an alternative (centered) causal indeterminist or EC view was suggested by a number of thinkers. This article discusses these refinements after summarizing the centered EC theory and motivations for formulating it. It considers issues about self-forming actions, efforts of will, the phenomenology of free decision making, the relation of the theory to neuroscience, complex dynamical systems, agency and control of decisions given indeterminism, and responses to alleged regresses attending the view, including issues about the first self-forming actions of childhood. It also responds to a number of different versions of the so-called “luck objection” against libertarian free will.",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0019",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0019",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This article discusses and defends a “centered” EC libertarian view of free will that places the indeterminism in choices or decisions themselves. Libertarian views were either agent-causal or noncausalist, or some combination of the two. The possibility of an alternative (centered) causal indeterminist or EC view was suggested by a number of thinkers. This article discusses these refinements after summarizing the centered EC theory and motivations for formulating it. It considers issues about self-forming actions, efforts of will, the phenomenology of free decision making, the relation of the theory to neuroscience, complex dynamical systems, agency and control of decisions given indeterminism, and responses to alleged regresses attending the view, including issues about the first self-forming actions of childhood. It also responds to a number of different versions of the so-called “luck objection” against libertarian free will.",
+        "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0019",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This article discusses and defends a “centered” EC libertarian view of free will that places the indeterminism in choices or decisions themselves. Libertarian views were either agent-causal or noncausalist, or some combination of the two. The possibility of an alternative (centered) causal indeterminist or EC view was suggested by a number of thinkers. This article discusses these refinements after summarizing the centered EC theory and motivations for formulating it. It considers issues about self-forming actions, efforts of will, the phenomenology of free decision making, the relation of the theory to neuroscience, complex dynamical systems, agency and control of decisions given indeterminism, and responses to alleged regresses attending the view, including issues about the first self-forming actions of childhood. It also responds to a number of different versions of the so-called “luck objection” against libertarian free will.",
+      "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0019",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 127,
+    "title": "On the Role of Indeterminism in Libertarian Free Will",
+    "year": "2016",
+    "zotero_key": "7TP3FLQV",
+    "citation_key": "kaneRoleIndeterminismLibertarian2016",
+    "doi": "10.1080/13869795.2016.1085594",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22On+the+Role+of+Indeterminism+in+Libertarian+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/13869795.2016.1085594",
+      "title": "On the role of indeterminism in libertarian free will",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13869795.2016.1085594",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/13869795.2016.1085594",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 128,
+    "title": "Critique of Pure Reason, trs. Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press",
+    "year": "1781",
+    "zotero_key": "23EERMBC",
+    "citation_key": "kantCritiquePureReason1781",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Critique+of+Pure+Reason%2C+trs.+Paul+Guyer+and+Allen+W.+Wood.+Cambridge%3A+Cambridge+University+Press%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.572
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 129,
+    "title": "Groundwork of the Metaphysics of Morals",
+    "year": "1785",
+    "zotero_key": "N3KKGNBJ",
+    "citation_key": "kantGroundworkMetaphysicsMorals1785",
+    "doi": "10.1017/cbo9780511809590.004",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Groundwork+of+the+Metaphysics+of+Morals%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511809590.004",
+      "title": "Groundwork of the Metaphysics of Morals",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511809590.004",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511809590.004",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/kant-groundwork-of-the-metaphysics-of-morals/groundwork-of-the-metaphysics-of-morals/567FA102621D7E0FE58DA5D8094DF74F"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 130,
+    "title": "Critique of Practical Reason",
+    "year": "1788",
+    "zotero_key": "SSFDGDA5",
+    "citation_key": "kantCritiquePracticalReason1788",
+    "doi": "10.1017/cbo9780511813306.010",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Critique+of+Practical+Reason%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511813306.010",
+      "title": "Critique of practical reason (1788)",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511813306.010",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511813306.010",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/practical-philosophy/critique-of-practical-reason-1788/50D1E6908F28B60B5568806A84292B20"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 131,
+    "title": "Aborting the Zygote Argument",
+    "year": "2012",
+    "zotero_key": "2T8882JR",
+    "citation_key": "kearnsAbortingZygoteArgument2012",
+    "doi": "10.1007/s11098-011-9724-3",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Aborting+the+Zygote+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-011-9724-3",
+      "title": "Aborting the zygote argument",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-011-9724-3",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-011-9724-3.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-011-9724-3",
+        "abstracts": [
+          {
+            "text": "Alfred Mele’s zygote argument for incompatibilism is based on a case involving an agent in a deterministic world whose entire life is planned by someone else. Mele’s contention is that Ernie (the agent) is unfree and that normal determined agents are relevantly similar to him with regards to free will. In this paper, I examine four different ways of understanding this argument and then criticize each interpretation. I then extend my criticism to manipulation arguments in general. I conclude that the zygote argument is no threat to compatibilism.",
+            "source": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Alfred Mele’s zygote argument for incompatibilism is based on a case involving an agent in a deterministic world whose entire life is planned by some",
+            "source": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Alfred Mele’s zygote argument for incompatibilism is based on a case involving an agent in a deterministic world whose entire life is planned by someone else. Mele’s contention is that Ernie (the agent) is unfree and that normal determined agents are relevantly similar to him with regards to free will. In this paper, I examine four different ways of understanding this argument and then criticize each interpretation. I then extend my criticism to manipulation arguments in general. I conclude that the zygote argument is no threat to compatibilism.",
+        "source": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Alfred Mele’s zygote argument for incompatibilism is based on a case involving an agent in a deterministic world whose entire life is planned by some",
+        "source": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Alfred Mele’s zygote argument for incompatibilism is based on a case involving an agent in a deterministic world whose entire life is planned by someone else. Mele’s contention is that Ernie (the agent) is unfree and that normal determined agents are relevantly similar to him with regards to free will. In this paper, I examine four different ways of understanding this argument and then criticize each interpretation. I then extend my criticism to manipulation arguments in general. I conclude that the zygote argument is no threat to compatibilism.",
+      "source": "https://link.springer.com/article/10.1007/s11098-011-9724-3?error=cookies_not_supported&code=443a6549-3571-4309-a900-9cd3d9b63474",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9724-3.pdf"
+    ]
+  },
+  {
+    "index": 132,
+    "title": "Free Will Agnosticism",
+    "year": "2015",
+    "zotero_key": "H886VDJ2",
+    "citation_key": "kearnsFreeWillAgnosticism2015",
+    "doi": "10.1111/nous.12032",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+Agnosticism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/nous.12032",
+      "title": "Free Will Agnosticism",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/nous.12032",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/nous.12032",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 133,
+    "title": "Does Everyone Think the Ability to do Otherwise is Necessary for Free Will and Moral Responsibility?",
+    "year": "2019",
+    "zotero_key": "W2TEKC5V",
+    "citation_key": "kittleDoesEveryoneThink2019",
+    "doi": "10.1007/s11406-018-0044-0",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Does+Everyone+Think+the+Ability+to+do+Otherwise+is+Necessary+for+Free+Will+and+Moral+Responsibility%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11406-018-0044-0",
+      "title": "Does Everyone Think the Ability to do Otherwise is Necessary for Free Will and Moral Responsibility?",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11406-018-0044-0",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11406-018-0044-0.pdf",
+        "http://link.springer.com/content/pdf/10.1007/s11406-018-0044-0.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11406-018-0044-0",
+        "abstracts": [
+          {
+            "text": "Christopher Franklin argues that, despite appearances, everyone thinks that the ability to do otherwise is required for free will and moral responsibility. Moreover, he says that the way to decide which ability to do otherwise is required will involve settling the nature of moral responsibility. In this paper I highlight one point on which those usually called leeway theorists - i.e. those who accept the need for alternatives - agree, in contradistinction to those who deny that the ability to do otherwise is needed for free will. And I explain why it falsifies both of Franklin’s claims.",
+            "source": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Christopher Franklin argues that, despite appearances, everyone thinks that the ability to do otherwise is required for free will and moral responsibility.",
+            "source": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Christopher Franklin argues that, despite appearances, everyone thinks that the ability to do otherwise is required for free will and moral responsibility. Moreover, he says that the way to decide which ability to do otherwise is required will involve settling the nature of moral responsibility. In this paper I highlight one point on which those usually called leeway theorists - i.e. those who accept the need for alternatives - agree, in contradistinction to those who deny that the ability to do otherwise is needed for free will. And I explain why it falsifies both of Franklin’s claims.",
+        "source": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Christopher Franklin argues that, despite appearances, everyone thinks that the ability to do otherwise is required for free will and moral responsibility.",
+        "source": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Christopher Franklin argues that, despite appearances, everyone thinks that the ability to do otherwise is required for free will and moral responsibility. Moreover, he says that the way to decide which ability to do otherwise is required will involve settling the nature of moral responsibility. In this paper I highlight one point on which those usually called leeway theorists - i.e. those who accept the need for alternatives - agree, in contradistinction to those who deny that the ability to do otherwise is needed for free will. And I explain why it falsifies both of Franklin’s claims.",
+      "source": "https://link.springer.com/article/10.1007/s11406-018-0044-0?error=cookies_not_supported&code=0d8df12f-46ec-4201-a9c5-13d3c5b73f36",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11406-018-0044-0.pdf"
+    ]
+  },
+  {
+    "index": 134,
+    "title": "Free Will, Physics, Biology, and the Brain",
+    "year": "2009",
+    "zotero_key": "A963TTXI",
+    "citation_key": "kochFreeWillPhysics2009",
+    "doi": "10.1007/978-3-642-03205-9_2",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%2C+Physics%2C+Biology%2C+and+the+Brain%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/978-3-642-03205-9_2",
+      "title": "Free Will, Physics, Biology, and the Brain",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-642-03205-9_2",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/978-3-642-03205-9_2",
+        "abstracts": [
+          {
+            "text": "This introduction reviews the traditionally conceived question of free will from the point of view of a physicist turned neurobiologist. I discuss the quantum mechanic evidence that has brought us to the view that the world, including our brains, is not completely...",
+            "source": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "This introduction reviews the traditionally conceived question of free will from the point of view of a physicist turned neurobiologist. I discuss the quantum mechanic evidence that has brought us to the view that the world, including our brains, is not completely...",
+            "source": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This introduction reviews the traditionally conceived question of free will from the point of view of a physicist turned neurobiologist. I discuss the quantum mechanic evidence that has brought us to the view that the world, including our brains, is not completely...",
+        "source": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "This introduction reviews the traditionally conceived question of free will from the point of view of a physicist turned neurobiologist. I discuss the quantum mechanic evidence that has brought us to the view that the world, including our brains, is not completely...",
+        "source": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This introduction reviews the traditionally conceived question of free will from the point of view of a physicist turned neurobiologist. I discuss the quantum mechanic evidence that has brought us to the view that the world, including our brains, is not completely...",
+      "source": "https://link.springer.com/chapter/10.1007/978-3-642-03205-9_2?error=cookies_not_supported&code=b1c26631-19ca-4131-afba-64973dd11216",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 135,
+    "title": "Dual Agency: A Thomistic Account of Providence and Human Freedom",
+    "year": "2002",
+    "zotero_key": "I74GRYVP",
+    "citation_key": "koonsDualAgencyThomistic2002",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Dual+Agency%3A+A+Thomistic+Account+of+Providence+and+Human+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.46
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 136,
+    "title": "The Problem of No Best World",
+    "year": "2010",
+    "zotero_key": "KWYML3J4",
+    "citation_key": "kraayProblemNoBest2010",
+    "doi": "10.1002/9781444320152.ch57",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Problem+of+No+Best+World%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1002/9781444320152.ch57",
+      "title": "The Problem of No Best World",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9781444320152.ch57",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1002/9781444320152.ch57",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 137,
+    "title": "The Metaphysics of Theism: Aquinas’s Natural Theology in Summa Contra Gentiles I. Oxford: Clarendon Press",
+    "year": "1997",
+    "zotero_key": "PUQX9BN5",
+    "citation_key": "kretzmannMetaphysicsTheismAquinass1997",
+    "doi": "10.1017/s0034412597224236",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Metaphysics+of+Theism%3A+Aquinas%E2%80%99s+Natural+Theology+in+Summa+Contra+Gentiles+I.+Oxford%3A+Clarendon+Press%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/s0034412597224236",
+      "title": "Norman Kretzmann, <i>The Metaphysics of Theism: \n\nAquinas's Natural Theology in</i> \n\nSumma contra Gentiles I. (Oxford, Clarendon Press, 1997.) \n\nPp. viii+302, £35.00",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/s0034412597224236",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/s0034412597224236",
+        "abstracts": [
+          {
+            "text": "Norman Kretzmann, The Metaphysics of Theism: Aquinas's Natural Theology in Summa contra Gentiles I. (Oxford, Clarendon Press, 1997.) Pp. viii+302, £35.00 - Volume 34 Issue 1",
+            "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/norman-kretzmann-the-metaphysics-of-theism-aquinass-natural-theology-in-summa-contra-gentiles-i-oxford-clarendon-press-1997-pp-viii302-3500/170789BFCF2C9EABAE8C8696F7333E2C",
+            "field": "description",
+            "title_score": 0.845
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/journals/religious-studies/article/abs/norman-kretzmann-the-metaphysics-of-theism-aquinass-natural-theology-in-summa-contra-gentiles-i-oxford-clarendon-press-1997-pp-viii302-3500/170789BFCF2C9EABAE8C8696F7333E2C"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Norman Kretzmann, The Metaphysics of Theism: Aquinas's Natural Theology in Summa contra Gentiles I. (Oxford, Clarendon Press, 1997.) Pp. viii+302, £35.00 - Volume 34 Issue 1",
+        "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/norman-kretzmann-the-metaphysics-of-theism-aquinass-natural-theology-in-summa-contra-gentiles-i-oxford-clarendon-press-1997-pp-viii302-3500/170789BFCF2C9EABAE8C8696F7333E2C",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Norman Kretzmann, The Metaphysics of Theism: Aquinas's Natural Theology in Summa contra Gentiles I. (Oxford, Clarendon Press, 1997.) Pp. viii+302, £35.00 - Volume 34 Issue 1",
+      "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/norman-kretzmann-the-metaphysics-of-theism-aquinass-natural-theology-in-summa-contra-gentiles-i-oxford-clarendon-press-1997-pp-viii302-3500/170789BFCF2C9EABAE8C8696F7333E2C",
+      "kind": "publisher.description"
+    },
+    "pdf_candidates": []
+  }
+]

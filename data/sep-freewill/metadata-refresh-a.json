@@ -1,0 +1,1063 @@
+[
+  {
+    "index": 39,
+    "title": "Alternatives for Libertarians",
+    "year": "2011",
+    "zotero_key": "ENPXF5V6",
+    "citation_key": "clarkeAlternativesLibertarians2011",
+    "doi": "10.1093/oxfordhb/9780195399691.003.0016",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Alternatives+for+Libertarians%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oxfordhb/9780195399691.003.0016",
+      "title": "Alternatives for Libertarians",
+      "abstract": "This article discusses objections to all three kinds of libertarian theory. It first reprises and further develops criticisms of noncausalist and event-causal (EC) libertarian theories. It argues that libertarian theories of both kinds face as yet unresolved problems including issue about luck and control, the requirements of intentional action, and the role of psychological causes in free agency. It then turns to agent-causal theories. It explains reasons for doubting the possibility of “causation by an enduring substance, which does not consist in causation by events involving that substance” (such as agent-causal theorists propose), and concludes on a skeptical note about the viability of libertarian accounts of free will generally.",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0016",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0016",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This article discusses objections to all three kinds of libertarian theory. It first reprises and further develops criticisms of noncausalist and event-causal (EC) libertarian theories. It argues that libertarian theories of both kinds face as yet unresolved problems including issue about luck and control, the requirements of intentional action, and the role of psychological causes in free agency. It then turns to agent-causal theories. It explains reasons for doubting the possibility of “causation by an enduring substance, which does not consist in causation by events involving that substance” (such as agent-causal theorists propose), and concludes on a skeptical note about the viability of libertarian accounts of free will generally.",
+        "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0016",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This article discusses objections to all three kinds of libertarian theory. It first reprises and further develops criticisms of noncausalist and event-causal (EC) libertarian theories. It argues that libertarian theories of both kinds face as yet unresolved problems including issue about luck and control, the requirements of intentional action, and the role of psychological causes in free agency. It then turns to agent-causal theories. It explains reasons for doubting the possibility of “causation by an enduring substance, which does not consist in causation by events involving that substance” (such as agent-causal theorists propose), and concludes on a skeptical note about the viability of libertarian accounts of free will generally.",
+      "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0016",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 40,
+    "title": "Free Will, Agent Causation, and ‘Disappearing Agents’",
+    "year": "2019",
+    "zotero_key": "Z75WIFXY",
+    "citation_key": "clarkeFreeWillAgent2019",
+    "doi": "10.1111/nous.12206",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%2C+Agent+Causation%2C+and+%E2%80%98Disappearing+Agents%E2%80%99%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/nous.12206",
+      "title": "Free Will, Agent Causation, and “Disappearing Agents”",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/nous.12206",
+      "pdf_urls": [
+        "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnous.12206"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/nous.12206",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnous.12206"
+    ]
+  },
+  {
+    "index": 41,
+    "title": "Free Will and Agential Powers",
+    "year": "2015",
+    "zotero_key": "Y8ZAMVW7",
+    "citation_key": "clarkeFreeWillAgential2015",
+    "doi": "10.1093/acprof:oso/9780198744832.003.0002",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+Agential+Powers%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198744832.003.0002",
+      "title": "Free Will and Agential Powers",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198744832.003.0002",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198744832.003.0002",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 42,
+    "title": "Luck: Its Nature and Significance for Human Knowledge and Agency, Basingstoke",
+    "year": "2015",
+    "zotero_key": "XX43LDWX",
+    "citation_key": "coffmanLuckItsNature2015",
+    "doi": "10.1057/9781137326102",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Luck%3A+Its+Nature+and+Significance+for+Human+Knowledge+and+Agency%2C+Basingstoke%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1057/9781137326102",
+      "title": "Luck: Its Nature and Significance for Human Knowledge and Agency",
+      "abstract": "",
+      "url": "https://doi.org/10.1057/9781137326102",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1057/9781137326102",
+        "abstracts": [
+          {
+            "text": "As thinkers in the market for knowledge and agents aspiring to morally responsible action, we are inevitably subject to luck. This book presents a comprehensive new theory of luck in light of a critical appraisal of the literature's leading accounts, then brings this new theory to bear on issues in the theory of knowledge and philosophy of action.",
+            "source": "https://link.springer.com/book/10.1057/9781137326102?error=cookies_not_supported&code=e718d3ea-d103-48b6-adb5-868aa083710e",
+            "field": "description",
+            "title_score": 0.908
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/book/10.1057/9781137326102?error=cookies_not_supported&code=e718d3ea-d103-48b6-adb5-868aa083710e"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "As thinkers in the market for knowledge and agents aspiring to morally responsible action, we are inevitably subject to luck. This book presents a comprehensive new theory of luck in light of a critical appraisal of the literature's leading accounts, then brings this new theory to bear on issues in the theory of knowledge and philosophy of action.",
+        "source": "https://link.springer.com/book/10.1057/9781137326102?error=cookies_not_supported&code=e718d3ea-d103-48b6-adb5-868aa083710e",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "As thinkers in the market for knowledge and agents aspiring to morally responsible action, we are inevitably subject to luck. This book presents a comprehensive new theory of luck in light of a critical appraisal of the literature's leading accounts, then brings this new theory to bear on issues in the theory of knowledge and philosophy of action.",
+      "source": "https://link.springer.com/book/10.1057/9781137326102?error=cookies_not_supported&code=e718d3ea-d103-48b6-adb5-868aa083710e",
+      "kind": "publisher.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf"
+    ]
+  },
+  {
+    "index": 43,
+    "title": "Fischer’s Deterministic Frankfurt-style Argument",
+    "year": "2017",
+    "zotero_key": "8UPYQQUW",
+    "citation_key": "cohenFischersDeterministicFrankfurtstyle2017",
+    "doi": "10.1007/s10670-016-9809-7",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Fischer%E2%80%99s+Deterministic+Frankfurt-style+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s10670-016-9809-7",
+      "title": "Fischer’s Deterministic Frankfurt-Style Argument",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s10670-016-9809-7",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s10670-016-9809-7.pdf",
+        "http://link.springer.com/content/pdf/10.1007/s10670-016-9809-7.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s10670-016-9809-7",
+        "abstracts": [
+          {
+            "text": "According to the Dilemma Defense, it is question-begging against the incompatibilist defender of the principle of alternative possibilities (PAP) to assume that the agent in a deterministic Frankfurt-style case (FSC) cannot do otherwise in light of causal determinism, but is nevertheless morally responsible. As a result, Fischer (Philos Rev 119:315–336, 2010; Analysis 73:489–496, 2013) attempts to undermine PAP in a different manner via a deterministic FSC. More specifically, Fischer attempts to show that if causal determinism rules out an agent’s moral responsibility, it is not in virtue of its eliminating the agent’s alternative possibilities. I contend that, once we focus upon the distinction between entailment and explanation, the incompatibilist defender of PAP can successfully rebut Fischer’s argument. I argue for this claim while granting Fischer a number of assumptions that only render a defense of PAP more difficult. Additionally, I cast doubt upon Palmer’s (Synthese 191:3847–3864, 2014) critique of Fischer’s argument, which in turn renders my defense of PAP all the more critical.",
+            "source": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "According to the Dilemma Defense, it is question-begging against the incompatibilist defender of the principle of alternative possibilities (PAP) to assume",
+            "source": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the Dilemma Defense, it is question-begging against the incompatibilist defender of the principle of alternative possibilities (PAP) to assume that the agent in a deterministic Frankfurt-style case (FSC) cannot do otherwise in light of causal determinism, but is nevertheless morally responsible. As a result, Fischer (Philos Rev 119:315–336, 2010; Analysis 73:489–496, 2013) attempts to undermine PAP in a different manner via a deterministic FSC. More specifically, Fischer attempts to show that if causal determinism rules out an agent’s moral responsibility, it is not in virtue of its eliminating the agent’s alternative possibilities. I contend that, once we focus upon the distinction between entailment and explanation, the incompatibilist defender of PAP can successfully rebut Fischer’s argument. I argue for this claim while granting Fischer a number of assumptions that only render a defense of PAP more difficult. Additionally, I cast doubt upon Palmer’s (Synthese 191:3847–3864, 2014) critique of Fischer’s argument, which in turn renders my defense of PAP all the more critical.",
+        "source": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "According to the Dilemma Defense, it is question-begging against the incompatibilist defender of the principle of alternative possibilities (PAP) to assume",
+        "source": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the Dilemma Defense, it is question-begging against the incompatibilist defender of the principle of alternative possibilities (PAP) to assume that the agent in a deterministic Frankfurt-style case (FSC) cannot do otherwise in light of causal determinism, but is nevertheless morally responsible. As a result, Fischer (Philos Rev 119:315–336, 2010; Analysis 73:489–496, 2013) attempts to undermine PAP in a different manner via a deterministic FSC. More specifically, Fischer attempts to show that if causal determinism rules out an agent’s moral responsibility, it is not in virtue of its eliminating the agent’s alternative possibilities. I contend that, once we focus upon the distinction between entailment and explanation, the incompatibilist defender of PAP can successfully rebut Fischer’s argument. I argue for this claim while granting Fischer a number of assumptions that only render a defense of PAP more difficult. Additionally, I cast doubt upon Palmer’s (Synthese 191:3847–3864, 2014) critique of Fischer’s argument, which in turn renders my defense of PAP all the more critical.",
+      "source": "https://link.springer.com/article/10.1007/s10670-016-9809-7?error=cookies_not_supported&code=4f868df3-df75-4842-85b9-c3587f891dbf",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s10670-016-9809-7.pdf"
+    ]
+  },
+  {
+    "index": 44,
+    "title": "Augustine’s Rejection of the Free-will Defence: An Overview of the Late Augustine’s Theodicy",
+    "year": "2007",
+    "zotero_key": "K8A8QST9",
+    "citation_key": "couenhovenAugustinesRejectionFreewill2007",
+    "doi": "10.1017/s0034412507009018",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Augustine%E2%80%99s+Rejection+of+the+Free-will+Defence%3A+An+Overview+of+the+Late+Augustine%E2%80%99s+Theodicy%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/s0034412507009018",
+      "title": "Augustine's rejection of the free-will defence: an overview of the late Augustine's theodicy",
+      "abstract": "Augustine is commonly considered the greatest early proponent of what we call the free-will defence, but this idea is deeply misleading, as Augustine grew increasingly dissatisfied with the view from an early point in his career, and his later explorations of the implications of his doctrines of sin and grace led him to reject free-will theodicies altogether. As a compatibilist, however, he continued to reject the idea that God is responsible for the advent of evil. His alternative was his often misunderstood claim that the primal sin had a ‘deficient’ cause, together with a version of what Alvin Plantinga has nominated the ‘ felix culpa ’ approach. Thus, Augustine was actually the free-will defence's first major Christian detractor, and by the end of his career he had become its greatest critic.",
+      "url": "https://doi.org/10.1017/s0034412507009018",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/s0034412507009018",
+        "abstracts": [
+          {
+            "text": "Augustine is commonly considered the greatest early proponent of what we call the free-will defence, but this idea is deeply misleading, as Augustine grew increasingly dissatisfied with the view from an early point in his career, and his later explorations of the implications of his doctrines of sin and grace led him to reject free-will theodicies altogether. As a compatibilist, however, he continued to reject the idea that God is responsible for the advent of evil. His alternative was his often misunderstood claim that the primal sin had a ‘deficient’ cause, together with a version of what Alvin Plantinga has nominated the ‘felix culpa’ approach. Thus, Augustine was actually the free-will defence's first major Christian detractor, and by the end of his career he had become its greatest critic.",
+            "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-rejection-of-the-freewill-defence-an-overview-of-the-late-augustines-theodicy/ED85FB083806717B48A6D26FE7F9EBE9",
+            "field": "citation_abstract",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-rejection-of-the-freewill-defence-an-overview-of-the-late-augustines-theodicy/ED85FB083806717B48A6D26FE7F9EBE9"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Augustine is commonly considered the greatest early proponent of what we call the free-will defence, but this idea is deeply misleading, as Augustine grew increasingly dissatisfied with the view from an early point in his career, and his later explorations of the implications of his doctrines of sin and grace led him to reject free-will theodicies altogether. As a compatibilist, however, he continued to reject the idea that God is responsible for the advent of evil. His alternative was his often misunderstood claim that the primal sin had a ‘deficient’ cause, together with a version of what Alvin Plantinga has nominated the ‘ felix culpa ’ approach. Thus, Augustine was actually the free-will defence's first major Christian detractor, and by the end of his career he had become its greatest critic.",
+        "source": "https://doi.org/10.1017/s0034412507009018",
+        "kind": "crossref"
+      },
+      {
+        "text": "Augustine is commonly considered the greatest early proponent of what we call the free-will defence, but this idea is deeply misleading, as Augustine grew increasingly dissatisfied with the view from an early point in his career, and his later explorations of the implications of his doctrines of sin and grace led him to reject free-will theodicies altogether. As a compatibilist, however, he continued to reject the idea that God is responsible for the advent of evil. His alternative was his often misunderstood claim that the primal sin had a ‘deficient’ cause, together with a version of what Alvin Plantinga has nominated the ‘felix culpa’ approach. Thus, Augustine was actually the free-will defence's first major Christian detractor, and by the end of his career he had become its greatest critic.",
+        "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-rejection-of-the-freewill-defence-an-overview-of-the-late-augustines-theodicy/ED85FB083806717B48A6D26FE7F9EBE9",
+        "kind": "publisher.citation_abstract"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Augustine is commonly considered the greatest early proponent of what we call the free-will defence, but this idea is deeply misleading, as Augustine grew increasingly dissatisfied with the view from an early point in his career, and his later explorations of the implications of his doctrines of sin and grace led him to reject free-will theodicies altogether. As a compatibilist, however, he continued to reject the idea that God is responsible for the advent of evil. His alternative was his often misunderstood claim that the primal sin had a ‘deficient’ cause, together with a version of what Alvin Plantinga has nominated the ‘felix culpa’ approach. Thus, Augustine was actually the free-will defence's first major Christian detractor, and by the end of his career he had become its greatest critic.",
+      "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-rejection-of-the-freewill-defence-an-overview-of-the-late-augustines-theodicy/ED85FB083806717B48A6D26FE7F9EBE9",
+      "kind": "publisher.citation_abstract"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 45,
+    "title": "Semicompatibilism: No Ability to Do Otherwise Required",
+    "year": "2017",
+    "zotero_key": "ID3EQWTM",
+    "citation_key": "cyrSemicompatibilismNoAbility2017",
+    "doi": "10.1080/13869795.2017.1354056",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Semicompatibilism%3A+No+Ability+to+Do+Otherwise+Required%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/13869795.2017.1354056",
+      "title": "Semicompatibilism: no ability to do otherwise required",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13869795.2017.1354056",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/13869795.2017.1354056",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 46,
+    "title": "Moral Responsibility without General Ability",
+    "year": "2019",
+    "zotero_key": "UMWKK6YR",
+    "citation_key": "cyrMoralResponsibilityGeneral2019",
+    "doi": "10.1093/pq/pqy034",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Moral+Responsibility+without+General+Ability%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/pq/pqy034",
+      "title": "Moral Responsibility Without General Ability",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/pq/pqy034",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/pq/pqy034",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 47,
+    "title": "Actions, Reasons, and Causes",
+    "year": "1963",
+    "zotero_key": "SG7QWPC6",
+    "citation_key": "davidsonActionsReasonsCauses1963",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Actions%2C+Reasons%2C+and+Causes%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 48,
+    "title": "Freedom to Act",
+    "year": "1973",
+    "zotero_key": "2M838CCB",
+    "citation_key": "davidsonFreedomAct1973",
+    "doi": "10.1002/9781118328408.ch4",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom+to+Act%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1002/9781118328408.ch4",
+      "title": "Freedom to Act",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1002/9781118328408.ch4",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1002/9781118328408.ch4",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 49,
+    "title": "Phenomenal Abilities: Incompatibilism and the Experience of Agency",
+    "year": "2013",
+    "zotero_key": "AJ9A97UH",
+    "citation_key": "deeryPhenomenalAbilitiesIncompatibilism2013",
+    "doi": "10.1093/acprof:oso/9780199694853.003.0006",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Phenomenal+Abilities%3A+Incompatibilism+and+the+Experience+of+Agency%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780199694853.003.0006",
+      "title": "Phenomenal Abilities: Incompatibilism and the Experience of Agency*",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199694853.003.0006",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780199694853.003.0006",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 50,
+    "title": "Elbow Room: The Varieties of Free Will Worth Wanting, Cambridge",
+    "year": "1984",
+    "zotero_key": "FWKCRSSB",
+    "citation_key": "dennettElbowRoomVarieties1984",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Elbow+Room%3A+The+Varieties+of+Free+Will+Worth+Wanting%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.755
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 51,
+    "title": "Meditations on First Philosophy, in Descartes: Selected Philosophical Writings, John Cottingham, Robert Stoothoff, and Dugald Murdoch (eds. and trans.)",
+    "year": "1641",
+    "zotero_key": "WUN48D9L",
+    "citation_key": "descartesMeditationsFirstPhilosophy1641",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Meditations+on+First+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.408
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 52,
+    "title": "Principles of Philosophy, in Descartes: Selected Philosophical Writings, John Cottingham, Robert Stoothoff, and Dugald Murdoch (eds. and trans.)",
+    "year": "1644",
+    "zotero_key": "HTPFFBVP",
+    "citation_key": "descartesPrinciplesPhilosophyDescartes1644",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Principles+of+Philosophy%2C+in+Descartes%3A+Selected+Philosophical+Writings%2C+John+Cottingham%2C+Robert+Stoothoff%2C+and+Dugald+Murdoch+%28eds.+and+trans.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.405
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 53,
+    "title": "Human Ends and Human Actions: An Exploration in St. Thomas’s Treatment",
+    "year": "1985",
+    "zotero_key": "PM3NP4C3",
+    "citation_key": "donaganHumanEndsHuman1985",
+    "doi": "10.1093/oso/9780195121322.003.0005",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Human+Ends+and+Human+Actions%3A+An+Exploration+in+St.+Thomas%E2%80%99s+Treatment%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oso/9780195121322.003.0005",
+      "title": "Human Ends and Human Actions: An Exploration in St. Thoma’s Treatment",
+      "best_score": 0.841,
+      "abstract": "There are at least two different ways in which human beings explain one another’s actions. One, the most common, is by treating the action to be explained as behavior with a purpose, and a purpose as an end to be brought about. When we know what somebody proposed to bring about when he acted in a certain fashion, and why he believed that so acting was, in his situation, the way to bring that end about, we can claim so far to understand his action. Philosophy furnishes us with a word for such explanations: the word ‘‘teleological.’’ Human action is characteristically directed to tek, or ends; and a telos is an event of a certain kind to be made to happen, or (less accurately, I believe) a state of affairs of a certain kind to be brought about. Sometimes this event is fairly simple, such as at last getting in your first serve in a tennis game, after an ignominious string of failures; sometimes it is highly complex, such as living a happy life.",
+      "url": "https://doi.org/10.1093/oso/9780195121322.003.0005",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oso/9780195121322.003.0005",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "There are at least two different ways in which human beings explain one another’s actions. One, the most common, is by treating the action to be explained as behavior with a purpose, and a purpose as an end to be brought about. When we know what somebody proposed to bring about when he acted in a certain fashion, and why he believed that so acting was, in his situation, the way to bring that end about, we can claim so far to understand his action. Philosophy furnishes us with a word for such explanations: the word ‘‘teleological.’’ Human action is characteristically directed to tek, or ends; and a telos is an event of a certain kind to be made to happen, or (less accurately, I believe) a state of affairs of a certain kind to be brought about. Sometimes this event is fairly simple, such as at last getting in your first serve in a tennis game, after an ignominious string of failures; sometimes it is highly complex, such as living a happy life.",
+        "source": "https://doi.org/10.1093/oso/9780195121322.003.0005",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "There are at least two different ways in which human beings explain one another’s actions. One, the most common, is by treating the action to be explained as behavior with a purpose, and a purpose as an end to be brought about. When we know what somebody proposed to bring about when he acted in a certain fashion, and why he believed that so acting was, in his situation, the way to bring that end about, we can claim so far to understand his action. Philosophy furnishes us with a word for such explanations: the word ‘‘teleological.’’ Human action is characteristically directed to tek, or ends; and a telos is an event of a certain kind to be made to happen, or (less accurately, I believe) a state of affairs of a certain kind to be brought about. Sometimes this event is fairly simple, such as at last getting in your first serve in a tennis game, after an ignominious string of failures; sometimes it is highly complex, such as living a happy life.",
+      "source": "https://doi.org/10.1093/oso/9780195121322.003.0005",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 54,
+    "title": "The Theory of Will in Classical Antiquity",
+    "year": "1982",
+    "zotero_key": "E36XHBTF",
+    "citation_key": "dihleTheoryWillClassical1982",
+    "doi": "10.1525/9780520313101",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Theory+of+Will+in+Classical+Antiquity%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1525/9780520313101",
+      "title": "The Theory of Will in Classical Antiquity",
+      "abstract": "",
+      "url": "https://doi.org/10.1525/9780520313101",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1525/9780520313101",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://chooser.crossref.org/?doi=10.1525%2F9780520313101"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 55,
+    "title": "Free Will: An Historical and Philosophical Introduction",
+    "year": "1999",
+    "zotero_key": "UE6BCKVT",
+    "citation_key": "dilmanFreeWillHistorical1999",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%3A+An+Historical+and+Philosophical+Introduction%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.496
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 56,
+    "title": "The Non-Reality of Free Will",
+    "year": "1991",
+    "zotero_key": "5RZ47MGM",
+    "citation_key": "doubleNonRealityFreeWill1991",
+    "doi": "10.5840/teachphil199215236",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Non-Reality+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/teachphil199215236",
+      "title": "The Non-Reality of Free Will",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/teachphil199215236",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/teachphil199215236",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 57,
+    "title": "Questions on Aristotle’s Metaphysics IX, Q.15",
+    "year": "1986",
+    "zotero_key": "WXHCANNZ",
+    "citation_key": "dunsscotusQuestionsAristotlesMetaphysics1986",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Questions+on+Aristotle%E2%80%99s+Metaphysics+IX%2C+Q.15%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.593
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 58,
+    "title": "Contingency and Freedom: Lectura I 39",
+    "year": "1994",
+    "zotero_key": "VGCGVTJF",
+    "citation_key": "dunsscotusContingencyFreedomLectura1994",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Contingency+and+Freedom%3A+Lectura+I+39%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 59,
+    "title": "Freedom of Will, Paul Ramsey (ed.)",
+    "year": "1754",
+    "zotero_key": "39M3QYU8",
+    "citation_key": "edwardsFreedomWillPaul1754",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom+of+Will%2C+Paul+Ramsey+%28ed.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.435
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 60,
+    "title": "A Coherence Theory of Autonomy",
+    "year": "1993",
+    "zotero_key": "EN45A7NL",
+    "citation_key": "ekstromCoherenceTheoryAutonomy1993",
+    "doi": "10.2307/2108082",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Coherence+Theory+of+Autonomy%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2108082",
+      "title": "A Coherence Theory of Autonomy",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2108082",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2108082",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2108082?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 61,
+    "title": "Free Will: A Philosophical Study, Boulder",
+    "year": "2000",
+    "zotero_key": "5SLACTJG",
+    "citation_key": "ekstromFreeWillPhilosophical2000",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%3A+A+Philosophical+Study%2C+Boulder%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 62,
+    "title": "Toward a Plausible Event-Causal Indeterminist Account of Free Will",
+    "year": "2019",
+    "zotero_key": "T8E65YD5",
+    "citation_key": "ekstromPlausibleEventCausalIndeterminist2019",
+    "doi": "10.1007/s11229-016-1143-8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Toward+a+Plausible+Event-Causal+Indeterminist+Account+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11229-016-1143-8",
+      "title": "Toward a plausible event-causal indeterminist account of free will",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11229-016-1143-8",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11229-016-1143-8.pdf",
+        "http://link.springer.com/content/pdf/10.1007/s11229-016-1143-8.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11229-016-1143-8",
+        "abstracts": [
+          {
+            "text": "For those who maintain that free will is incompatible with causal determinism, a persistent problem is to give a coherent characterization of action that is neither determined by prior events nor random, arbitrary, lucky or in some way insufficiently under the control of the agent to count as free action. One approach—that of Roderick Chisholm and others—is to say that a third alternative is for an action to be caused by an agent in a way that is not reducible to event causal terms. A different approach than the Chisholmian appeal to primitive substance causation is one that, instead, involves causal relations purely among events. This paper presents a particular event-causal indeterminist account of free action, describing both its attractions and recent objections to it, and then proposes a revised version, with the aim of supporting the plausibility of an event-causal indeterminist approach to free will.",
+            "source": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "For those who maintain that free will is incompatible with causal determinism, a persistent problem is to give a coherent characterization of action that i",
+            "source": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "For those who maintain that free will is incompatible with causal determinism, a persistent problem is to give a coherent characterization of action that is neither determined by prior events nor random, arbitrary, lucky or in some way insufficiently under the control of the agent to count as free action. One approach—that of Roderick Chisholm and others—is to say that a third alternative is for an action to be caused by an agent in a way that is not reducible to event causal terms. A different approach than the Chisholmian appeal to primitive substance causation is one that, instead, involves causal relations purely among events. This paper presents a particular event-causal indeterminist account of free action, describing both its attractions and recent objections to it, and then proposes a revised version, with the aim of supporting the plausibility of an event-causal indeterminist approach to free will.",
+        "source": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "For those who maintain that free will is incompatible with causal determinism, a persistent problem is to give a coherent characterization of action that i",
+        "source": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "For those who maintain that free will is incompatible with causal determinism, a persistent problem is to give a coherent characterization of action that is neither determined by prior events nor random, arbitrary, lucky or in some way insufficiently under the control of the agent to count as free action. One approach—that of Roderick Chisholm and others—is to say that a third alternative is for an action to be caused by an agent in a way that is not reducible to event causal terms. A different approach than the Chisholmian appeal to primitive substance causation is one that, instead, involves causal relations purely among events. This paper presents a particular event-causal indeterminist account of free action, describing both its attractions and recent objections to it, and then proposes a revised version, with the aim of supporting the plausibility of an event-causal indeterminist approach to free will.",
+      "source": "https://link.springer.com/article/10.1007/s11229-016-1143-8?error=cookies_not_supported&code=553cc0c4-945e-4a49-9741-e059d0ea48e9",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-016-1143-8.pdf"
+    ]
+  },
+  {
+    "index": 63,
+    "title": "How Can Physics Underlie the Mind?",
+    "year": "2016",
+    "zotero_key": "PK2UAE8X",
+    "citation_key": "ellisHowCanPhysics2016",
+    "doi": "10.1007/978-3-662-49809-5",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22How+Can+Physics+Underlie+the+Mind%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/978-3-662-49809-5",
+      "title": "How Can Physics Underlie the Mind?",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-662-49809-5",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/978-3-662-49809-5",
+        "abstracts": [
+          {
+            "text": "Physics underlies all complexity, including our own existence: how is this possible? How can our own lives emerge from interactions of electrons, protons, and neutrons? This book considers the interaction of physical and non-physical causation in complex systems such as living beings, and in particular in the human brain, relating this to the emergence of higher levels of complexity with real causal powers. In particular it explores the idea of top-down causation, which is the key effect allowing the emergence of true complexity and also enables the causal efficacy of non-physical entities, including the value of money, social conventions, and ethical choices.",
+            "source": "https://link.springer.com/book/10.1007/978-3-662-49809-5?error=cookies_not_supported&code=5d5dbce6-8d3a-47ec-8d88-26a5947eeb7f",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/book/10.1007/978-3-662-49809-5?error=cookies_not_supported&code=5d5dbce6-8d3a-47ec-8d88-26a5947eeb7f"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Physics underlies all complexity, including our own existence: how is this possible? How can our own lives emerge from interactions of electrons, protons, and neutrons? This book considers the interaction of physical and non-physical causation in complex systems such as living beings, and in particular in the human brain, relating this to the emergence of higher levels of complexity with real causal powers. In particular it explores the idea of top-down causation, which is the key effect allowing the emergence of true complexity and also enables the causal efficacy of non-physical entities, including the value of money, social conventions, and ethical choices.",
+        "source": "https://link.springer.com/book/10.1007/978-3-662-49809-5?error=cookies_not_supported&code=5d5dbce6-8d3a-47ec-8d88-26a5947eeb7f",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Physics underlies all complexity, including our own existence: how is this possible? How can our own lives emerge from interactions of electrons, protons, and neutrons? This book considers the interaction of physical and non-physical causation in complex systems such as living beings, and in particular in the human brain, relating this to the emergence of higher levels of complexity with real causal powers. In particular it explores the idea of top-down causation, which is the key effect allowing the emergence of true complexity and also enables the causal efficacy of non-physical entities, including the value of money, social conventions, and ethical choices.",
+      "source": "https://link.springer.com/book/10.1007/978-3-662-49809-5?error=cookies_not_supported&code=5d5dbce6-8d3a-47ec-8d88-26a5947eeb7f",
+      "kind": "publisher.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf"
+    ]
+  },
+  {
+    "index": 64,
+    "title": "Frankfurt-Style Counterexamples and the Importance of Alternative Possibilities",
+    "year": "2017",
+    "zotero_key": "55LF3PLF",
+    "citation_key": "elzeinFrankfurtStyleCounterexamplesImportance2017",
+    "doi": "10.1007/s12136-016-0305-0",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Frankfurt-Style+Counterexamples+and+the+Importance+of+Alternative+Possibilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s12136-016-0305-0",
+      "title": "Frankfurt-Style Counterexamples and the Importance of Alternative Possibilities",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s12136-016-0305-0",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf",
+        "http://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s12136-016-0305-0",
+        "abstracts": [
+          {
+            "text": "Proponents of modern Frankfurt-Style Counterexamples (FSCs) generally accept that we cannot construct successful FSCs in which there are no alternative possibilities present. But they maintain that we can construct successful FSCs in which there are no morally significant alternatives present and that such examples succeed in breaking any conceptual link between alternative possibilities and free will. I argue that it is not possible to construct an FSC that succeeds even in this weaker sense. In cases where any alternatives are clearly insignificant, it does not appear at all obvious that the agent can be held responsible. Present popular FSCs include alternatives that are ambiguous in their significance, and when the examples are sharpened to remove this ambiguity, they lose their force. Moreover, the proponent of such examples faces a problem: We can easily construct scenarios in which any alternatives are obviously insignificant, and in such scenarios, we are not intuitively inclined to suppose the agent is responsible. The proponent of new FSCs must therefore distinguish any alternatives she includes from the sorts included in these scenarios. The difference must now be such that (a) this helps to make it seem intuitively likely that the agent is responsible where the agent otherwise would not appear responsible, and (b) these alternatives are irrelevant to any judgment about whether the agent is responsible. I maintain that it is impossible to achieve both of these goals at once.",
+            "source": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Proponents of modern Frankfurt-Style Counterexamples (FSCs) generally accept that we cannot construct successful FSCs in which there are no alternative pos",
+            "source": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [
+          "https://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf"
+        ],
+        "final_url": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Proponents of modern Frankfurt-Style Counterexamples (FSCs) generally accept that we cannot construct successful FSCs in which there are no alternative possibilities present. But they maintain that we can construct successful FSCs in which there are no morally significant alternatives present and that such examples succeed in breaking any conceptual link between alternative possibilities and free will. I argue that it is not possible to construct an FSC that succeeds even in this weaker sense. In cases where any alternatives are clearly insignificant, it does not appear at all obvious that the agent can be held responsible. Present popular FSCs include alternatives that are ambiguous in their significance, and when the examples are sharpened to remove this ambiguity, they lose their force. Moreover, the proponent of such examples faces a problem: We can easily construct scenarios in which any alternatives are obviously insignificant, and in such scenarios, we are not intuitively inclined to suppose the agent is responsible. The proponent of new FSCs must therefore distinguish any alternatives she includes from the sorts included in these scenarios. The difference must now be such that (a) this helps to make it seem intuitively likely that the agent is responsible where the agent otherwise would not appear responsible, and (b) these alternatives are irrelevant to any judgment about whether the agent is responsible. I maintain that it is impossible to achieve both of these goals at once.",
+        "source": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Proponents of modern Frankfurt-Style Counterexamples (FSCs) generally accept that we cannot construct successful FSCs in which there are no alternative pos",
+        "source": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Proponents of modern Frankfurt-Style Counterexamples (FSCs) generally accept that we cannot construct successful FSCs in which there are no alternative possibilities present. But they maintain that we can construct successful FSCs in which there are no morally significant alternatives present and that such examples succeed in breaking any conceptual link between alternative possibilities and free will. I argue that it is not possible to construct an FSC that succeeds even in this weaker sense. In cases where any alternatives are clearly insignificant, it does not appear at all obvious that the agent can be held responsible. Present popular FSCs include alternatives that are ambiguous in their significance, and when the examples are sharpened to remove this ambiguity, they lose their force. Moreover, the proponent of such examples faces a problem: We can easily construct scenarios in which any alternatives are obviously insignificant, and in such scenarios, we are not intuitively inclined to suppose the agent is responsible. The proponent of new FSCs must therefore distinguish any alternatives she includes from the sorts included in these scenarios. The difference must now be such that (a) this helps to make it seem intuitively likely that the agent is responsible where the agent otherwise would not appear responsible, and (b) these alternatives are irrelevant to any judgment about whether the agent is responsible. I maintain that it is impossible to achieve both of these goals at once.",
+      "source": "https://link.springer.com/article/10.1007/s12136-016-0305-0?error=cookies_not_supported&code=cc9db7b0-71d9-4cfe-8e34-c67dfbba11c7",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf",
+      "https://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf"
+    ]
+  },
+  {
+    "index": 65,
+    "title": "Masked Abilities and Compatibilism",
+    "year": "2008",
+    "zotero_key": "VUYQ77KP",
+    "citation_key": "faraMaskedAbilitiesCompatibilism2008",
+    "doi": "10.1093/mind/fzn078",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Masked+Abilities+and+Compatibilism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/fzn078",
+      "title": "Masked Abilities and Compatibilism",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/fzn078",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/fzn078",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 66,
+    "title": "Responsibility and Control",
+    "year": "1982",
+    "zotero_key": "Z588VV55",
+    "citation_key": "fischerResponsibilityControl1982",
+    "doi": "10.2307/2026344",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Responsibility+and+Control%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2026344",
+      "title": "Responsibility and Control",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2026344",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2026344",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 67,
+    "title": "Responsiveness and Moral Responsibility",
+    "year": "1987",
+    "zotero_key": "IIBAY3UN",
+    "citation_key": "fischerResponsivenessMoralResponsibility1987",
+    "doi": "10.1017/cbo9780511625411.005",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Responsiveness+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511625411.005",
+      "title": "Responsiveness and Moral Responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511625411.005",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511625411.005",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/responsibility-character-and-the-emotions/responsiveness-and-moral-responsibility/A92EFD14DE13EF50BC12470B4F9DA1DA"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 68,
+    "title": "God, Freedom, and Foreknowledge, Stanford",
+    "year": "1989",
+    "zotero_key": "N4G5PH2I",
+    "citation_key": "fischerGodFreedomForeknowledge1989",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22God%2C+Freedom%2C+and+Foreknowledge%2C+Stanford%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.667
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 69,
+    "title": "The Metaphysics of Free Will: An Essay on Control",
+    "year": "1994",
+    "zotero_key": "HXWWB84Y",
+    "citation_key": "fischerMetaphysicsFreeWill1994",
+    "doi": "10.5860/choice.32-4427",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Metaphysics+of+Free+Will%3A+An+Essay+on+Control%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.32-4427",
+      "title": "The metaphysics of free will: an essay on control",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.32-4427",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.32-4427",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 70,
+    "title": "Recent Work on Moral Responsibility",
+    "year": "1999",
+    "zotero_key": "VNRKUJL9",
+    "citation_key": "fischerRecentWorkMoral1999",
+    "doi": "10.1086/233206",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Recent+Work+on+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1086/233206",
+      "title": "Recent Work on Moral Responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.1086/233206",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1086/233206",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  }
+]

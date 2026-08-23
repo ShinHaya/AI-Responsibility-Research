@@ -1,0 +1,574 @@
+[
+  {
+    "index": 87,
+    "title": "Everyone Thinks that an Ability to Do Otherwise Is Necessary for Free Will and Moral Responsibility",
+    "year": "2015",
+    "zotero_key": "TLU99CGK",
+    "citation_key": "franklinEveryoneThinksThat2015",
+    "doi": "10.1007/s11098-014-0399-4",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Everyone+Thinks+that+an+Ability+to+Do+Otherwise+Is+Necessary+for+Free+Will+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-014-0399-4",
+      "title": "Everyone thinks that an ability to do otherwise is necessary for free will and moral responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-014-0399-4",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-014-0399-4.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-014-0399-4",
+        "abstracts": [
+          {
+            "text": "Seemingly one of the most prominent issues that divide theorists about free will and moral responsibility concerns whether the ability to do otherwise is necessary for freedom and responsibility. I defend two claims in this paper. First, that this appearance is illusory: everyone thinks an ability to do otherwise is necessary for freedom and responsibility. The central issue is not whether the ability to do otherwise is necessary for freedom and responsibility but which abilities to do otherwise are necessary. Second, I argue that we cannot determine which abilities are necessary until we have determined the nature and justification of moral responsibility. Thus, theorizing about moral responsibility ought to take pride of place in theorizing about free will.",
+            "source": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Seemingly one of the most prominent issues that divide theorists about free will and moral responsibility concerns whether the ability to do otherwise is n",
+            "source": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Seemingly one of the most prominent issues that divide theorists about free will and moral responsibility concerns whether the ability to do otherwise is necessary for freedom and responsibility. I defend two claims in this paper. First, that this appearance is illusory: everyone thinks an ability to do otherwise is necessary for freedom and responsibility. The central issue is not whether the ability to do otherwise is necessary for freedom and responsibility but which abilities to do otherwise are necessary. Second, I argue that we cannot determine which abilities are necessary until we have determined the nature and justification of moral responsibility. Thus, theorizing about moral responsibility ought to take pride of place in theorizing about free will.",
+        "source": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Seemingly one of the most prominent issues that divide theorists about free will and moral responsibility concerns whether the ability to do otherwise is n",
+        "source": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Seemingly one of the most prominent issues that divide theorists about free will and moral responsibility concerns whether the ability to do otherwise is necessary for freedom and responsibility. I defend two claims in this paper. First, that this appearance is illusory: everyone thinks an ability to do otherwise is necessary for freedom and responsibility. The central issue is not whether the ability to do otherwise is necessary for freedom and responsibility but which abilities to do otherwise are necessary. Second, I argue that we cannot determine which abilities are necessary until we have determined the nature and justification of moral responsibility. Thus, theorizing about moral responsibility ought to take pride of place in theorizing about free will.",
+      "source": "https://link.springer.com/article/10.1007/s11098-014-0399-4?error=cookies_not_supported&code=37270a7a-36b5-444e-ba95-61842f7cc97a",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-014-0399-4.pdf"
+    ]
+  },
+  {
+    "index": 88,
+    "title": "If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist",
+    "year": "2016",
+    "zotero_key": "QH4R3WSN",
+    "citation_key": "franklinIfAnyoneShould2016",
+    "doi": "10.1093/mind/fzv177",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22If+Anyone+Should+Be+an+Agent-Causalist%2C+then+Everyone+Should+Be+an+Agent-Causalist%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/fzv177",
+      "title": "If Anyone Should Be an Agent-Causalist, then Everyone Should Be an Agent-Causalist",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/fzv177",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/fzv177",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 89,
+    "title": "A Minimal Libertarianism: Free Will and the Promise of Reduction",
+    "year": "2018",
+    "zotero_key": "REC3Y3SB",
+    "citation_key": "franklinMinimalLibertarianismFree2018",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Minimal+Libertarianism%3A+Free+Will+and+the+Promise+of+Reduction%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.579
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 90,
+    "title": "Medieval Aristotelianism and the Case against Secondary Causation in Nature",
+    "year": "1988",
+    "zotero_key": "2CKRGKYP",
+    "citation_key": "freddosoMedievalAristotelianismCase1988",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Medieval+Aristotelianism+and+the+Case+against+Secondary+Causation+in+Nature%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 91,
+    "title": "A Free Will: Origins of the Notion in Ancient Thought",
+    "year": "2011",
+    "zotero_key": "S9H958BY",
+    "citation_key": "fredeFreeWillOrigins2011",
+    "doi": "10.5840/ancientphil201333236",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22A+Free+Will%3A+Origins+of+the+Notion+in+Ancient+Thought%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/ancientphil201333236",
+      "title": "A Free Will: Origins of the Notion in Ancient Thought, by Michael Frede",
+      "abstract": "",
+      "url": "https://doi.org/10.5840/ancientphil201333236",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/ancientphil201333236",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 92,
+    "title": "Might We Have No Choice?",
+    "year": "1966",
+    "zotero_key": "JEPN4EFC",
+    "citation_key": "ginetMightWeHave1966",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Might+We+Have+No+Choice%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.6
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 93,
+    "title": "On Action",
+    "year": "1990",
+    "zotero_key": "YXV2C4IZ",
+    "citation_key": "ginetAction1990",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22On+Action%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.465
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 94,
+    "title": "In Defense of the Principle of Alternative Possibilities: Why I Don’t Find Frankfurt’s Argument Convincing",
+    "year": "1996",
+    "zotero_key": "2XZ5JIJD",
+    "citation_key": "ginetDefensePrincipleAlternative1996",
+    "doi": "10.2307/2216254",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22In+Defense+of+the+Principle+of+Alternative+Possibilities%3A+Why+I+Don%E2%80%99t+Find+Frankfurt%E2%80%99s+Argument+Convincing%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2216254",
+      "title": "In Defense of the Principle of Alternative Possibilities: Why I Don't Find Frankfurt's Argument Convincing",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2216254",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2216254",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2216254?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 95,
+    "title": "Review of Living without Free Will",
+    "year": "2002",
+    "zotero_key": "9SSZ2XJA",
+    "citation_key": "ginetReviewLivingFree2002",
+    "doi": "10.1093/mind/112.446.375",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Review+of+Living+without+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/112.446.375",
+      "title": "Review: Living Without Free Will",
+      "best_score": 0.964,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/112.446.375",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/112.446.375",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 96,
+    "title": "In Defense of a Non-Causal Account of Reasons Explanations",
+    "year": "2008",
+    "zotero_key": "7VJR8HI5",
+    "citation_key": "ginetDefenseNonCausalAccount2008",
+    "doi": "10.1007/s10892-008-9033-z",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22In+Defense+of+a+Non-Causal+Account+of+Reasons+Explanations%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s10892-008-9033-z",
+      "title": "In Defense of a Non-Causal Account of Reasons Explanations",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s10892-008-9033-z",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s10892-008-9033-z",
+        "abstracts": [
+          {
+            "text": "This paper defends my claim in earlier work that certain non-causal conditions are sufficient for the truth of some reasons explanations of actions, against the critique of this claim given by Randolph Clarke in his book, Libertarian Accounts of Free Will.",
+            "source": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "This paper defends my claim in earlier work that certain non-causal conditions are sufficient for the truth of some reasons explanations of actions, agains",
+            "source": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This paper defends my claim in earlier work that certain non-causal conditions are sufficient for the truth of some reasons explanations of actions, against the critique of this claim given by Randolph Clarke in his book, Libertarian Accounts of Free Will.",
+        "source": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "This paper defends my claim in earlier work that certain non-causal conditions are sufficient for the truth of some reasons explanations of actions, agains",
+        "source": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This paper defends my claim in earlier work that certain non-causal conditions are sufficient for the truth of some reasons explanations of actions, against the critique of this claim given by Randolph Clarke in his book, Libertarian Accounts of Free Will.",
+      "source": "https://link.springer.com/article/10.1007/s10892-008-9033-z?error=cookies_not_supported&code=f725ab56-68a4-45c9-845d-f6fee1e67daf",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf"
+    ]
+  },
+  {
+    "index": 97,
+    "title": "Frankfurt-Style Counterexamples and Begging the Question",
+    "year": "2005",
+    "zotero_key": "T74LCYDK",
+    "citation_key": "goetzFrankfurtStyleCounterexamplesBegging2005",
+    "doi": "10.1111/j.1475-4975.2005.00107.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Frankfurt-Style+Counterexamples+and+Begging+the+Question%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1475-4975.2005.00107.x",
+      "title": "Frankfurt-Style Counterexamples and Begging the Question",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1475-4975.2005.00107.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1475-4975.2005.00107.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://chooser.crossref.org/?doi=10.1111%2Fj.1475-4975.2005.00107.x"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 98,
+    "title": "Freedom, Teleology, and Evil",
+    "year": "2009",
+    "zotero_key": "UJBP9EE7",
+    "citation_key": "goetzFreedomTeleologyEvil2009",
+    "doi": "10.5840/faithphil201128332",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom%2C+Teleology%2C+and+Evil%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/faithphil201128332",
+      "title": "Freedom, Teleology, and Evil",
+      "abstract": "",
+      "url": "https://doi.org/10.5840/faithphil201128332",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/faithphil201128332",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://place.asburyseminary.edu/faithandphilosophy/vol28/iss3/8/"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 99,
+    "title": "Divine Universal Causality and Libertarian Freedom",
+    "year": "2016",
+    "zotero_key": "FD926SSJ",
+    "citation_key": "grantDivineUniversalCausality2016",
+    "doi": "10.1093/acprof:oso/9780198743958.003.0013",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Divine+Universal+Causality+and+Libertarian+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198743958.003.0013",
+      "title": "Divine Universal Causality and Libertarian Freedom",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198743958.003.0013",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198743958.003.0013",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 100,
+    "title": "Free Will and God’s Universal Causality: The Dual Sources Account",
+    "year": "2019",
+    "zotero_key": "UDFK2MTK",
+    "citation_key": "grantFreeWillGods2019",
+    "doi": "10.37977/faithphil.2020.37.3.8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+God%E2%80%99s+Universal+Causality%3A+The+Dual+Sources+Account%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.37977/faithphil.2020.37.3.8",
+      "title": "Free Will and God’s Universal Causality: The Dual Sources Account",
+      "best_score": 1.0,
+      "abstract": "Free Will and God’s Universal Causality: The Dual Sources Account , by W. Matthews Grant. Bloomsbury, 2019. Pp. viii + 248. $114 (hardback).",
+      "url": "https://doi.org/10.37977/faithphil.2020.37.3.8",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.37977/faithphil.2020.37.3.8",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://place.asburyseminary.edu/faithandphilosophy/vol37/iss3/8/"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Free Will and God’s Universal Causality: The Dual Sources Account , by W. Matthews Grant. Bloomsbury, 2019. Pp. viii + 248. $114 (hardback).",
+        "source": "https://doi.org/10.37977/faithphil.2020.37.3.8",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Free Will and God’s Universal Causality: The Dual Sources Account , by W. Matthews Grant. Bloomsbury, 2019. Pp. viii + 248. $114 (hardback).",
+      "source": "https://doi.org/10.37977/faithphil.2020.37.3.8",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 101,
+    "title": "Why Agent-Caused Actions Are Not Lucky",
+    "year": "2010",
+    "zotero_key": "JWWV6MXS",
+    "citation_key": "griffithWhyAgentCausedActions2010",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Why+Agent-Caused+Actions+Are+Not+Lucky%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.395
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 102,
+    "title": "Van Inwagen on Introspected Freedom",
+    "year": "2014",
+    "zotero_key": "SPQSJYBE",
+    "citation_key": "guillonVanInwagenIntrospected2014",
+    "doi": "10.1007/s11098-013-0159-x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Van+Inwagen+on+Introspected+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-013-0159-x",
+      "title": "Van Inwagen on introspected freedom",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-013-0159-x",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-013-0159-x.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-013-0159-x",
+        "abstracts": [
+          {
+            "text": "Any philosopher who defends Free Will should have an answer to the epistemological question: “how do we know that we have such a capacity?” A traditional answer to this question is that we have some form of introspective access to our own Free Will. In recent times though, many philosophers have considered any such introspectionist theory as so obviously wrong that it hardly needs discussion, especially when Free Will is understood in libertarian terms. One of the rare objections to appear as an explicit argument was proposed by van Inwagen in his Essay on Free Will. In this paper, I address van Inwagen’s anti-introspection argument; I argue that it is both inconsistent with his overall treatment of the Existence Question (namely, with his defence of the existence of Free Will from reflections about morality), and inconclusive in itself (at least for anyone not ready to endorse general scepticism about perception). In passing, I give a clarification of the notion of Introspection, in the case of Freedom, that also sets a more favourable stage for the evaluation of further objections.",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Any philosopher who defends Free Will should have an answer to the epistemological question: “how do we know that we have such a capacity?” A t",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Any philosopher who defends Free Will should have an answer to the epistemological question: “how do we know that we have such a capacity?” A traditional answer to this question is that we have some form of introspective access to our own Free Will. In recent times though, many philosophers have considered any such introspectionist theory as so obviously wrong that it hardly needs discussion, especially when Free Will is understood in libertarian terms. One of the rare objections to appear as an explicit argument was proposed by van Inwagen in his Essay on Free Will. In this paper, I address van Inwagen’s anti-introspection argument; I argue that it is both inconsistent with his overall treatment of the Existence Question (namely, with his defence of the existence of Free Will from reflections about morality), and inconclusive in itself (at least for anyone not ready to endorse general scepticism about perception). In passing, I give a clarification of the notion of Introspection, in the case of Freedom, that also sets a more favourable stage for the evaluation of further objections.",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Any philosopher who defends Free Will should have an answer to the epistemological question: “how do we know that we have such a capacity?” A t",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Any philosopher who defends Free Will should have an answer to the epistemological question: “how do we know that we have such a capacity?” A traditional answer to this question is that we have some form of introspective access to our own Free Will. In recent times though, many philosophers have considered any such introspectionist theory as so obviously wrong that it hardly needs discussion, especially when Free Will is understood in libertarian terms. One of the rare objections to appear as an explicit argument was proposed by van Inwagen in his Essay on Free Will. In this paper, I address van Inwagen’s anti-introspection argument; I argue that it is both inconsistent with his overall treatment of the Existence Question (namely, with his defence of the existence of Free Will from reflections about morality), and inconclusive in itself (at least for anyone not ready to endorse general scepticism about perception). In passing, I give a clarification of the notion of Introspection, in the case of Freedom, that also sets a more favourable stage for the evaluation of further objections.",
+      "source": "https://link.springer.com/article/10.1007/s11098-013-0159-x?error=cookies_not_supported&code=82ac6e23-c764-487e-b98c-ae1152789053",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0159-x.pdf"
+    ]
+  },
+  {
+    "index": 103,
+    "title": "Moral Appraisability: Puzzles, Proposals, and Perplexities",
+    "year": "1998",
+    "zotero_key": "CQQ3VXNU",
+    "citation_key": "hajiMoralAppraisabilityPuzzles1998",
+    "doi": "10.5860/choice.36-1509",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Moral+Appraisability%3A+Puzzles%2C+Proposals%2C+and+Perplexities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.36-1509",
+      "title": "Moral appraisability: puzzles, proposals, and perplexities",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.36-1509",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.36-1509",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  }
+]

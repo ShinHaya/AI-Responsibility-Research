@@ -1,0 +1,315 @@
+[
+  {
+    "index": 3,
+    "status": "failed",
+    "attempted_urls": [
+      "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2471&context=faithandphilosophy"
+    ]
+  },
+  {
+    "index": 13,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-009-9459-2.pdf"
+    ]
+  },
+  {
+    "index": 15,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-012-9893-8.pdf"
+    ]
+  },
+  {
+    "index": 27,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-016-0726-z.pdf"
+    ]
+  },
+  {
+    "index": 40,
+    "status": "failed",
+    "attempted_urls": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnous.12206"
+    ],
+    "last_error": "HTTPError: HTTP Error 400: No TDM Client Token was found in the request"
+  },
+  {
+    "index": 42,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1057/9781137326102.pdf"
+    ]
+  },
+  {
+    "index": 43,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/COHFDF-5.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 45,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/CYRSNA.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 46,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/CYRMRW.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 62,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-016-1143-8.pdf"
+    ]
+  },
+  {
+    "index": 63,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/978-3-662-49809-5.pdf"
+    ]
+  },
+  {
+    "index": 64,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007%2Fs12136-016-0305-0.pdf",
+      "http://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/064-frankfurt-style-counterexamples-and-the-importance-of-alternative-poss.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007%2Fs12136-016-0305-0.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s12136-016-0305-0.pdf?error=cookies_not_supported&code=89d593c3-7bb1-4a2d-ba14-4f5e4ecfa483",
+    "content_type": "application/pdf",
+    "size_bytes": 300293
+  },
+  {
+    "index": 72,
+    "status": "failed",
+    "attempted_urls": [
+      "https://read.dukeupress.edu/the-philosophical-review/article-pdf/119/3/315/316905/pr1193_02Fischer.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 83,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/083-farewell-to-the-luck-and-mind-argument.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s11098-010-9583-3.pdf?error=cookies_not_supported&code=ee0b5515-82bf-4ef4-abf0-222121a192bd",
+    "content_type": "application/pdf",
+    "size_bytes": 1836346
+  },
+  {
+    "index": 85,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/085-neo-frankfurtians-and-buffer-cases-the-new-challenge-to-the-principle.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s11098-009-9472-9.pdf?error=cookies_not_supported&code=33475317-03be-4d08-8258-ba13b22f32c2",
+    "content_type": "application/pdf",
+    "size_bytes": 248741
+  },
+  {
+    "index": 86,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0237-0.pdf"
+    ]
+  },
+  {
+    "index": 87,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-014-0399-4.pdf"
+    ]
+  },
+  {
+    "index": 88,
+    "status": "failed",
+    "attempted_urls": [
+      "https://philpapers.org/archive/FRAIAS-4.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 96,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9033-z.pdf"
+    ]
+  },
+  {
+    "index": 98,
+    "status": "failed",
+    "attempted_urls": [
+      "https://place.asburyseminary.edu/cgi/viewcontent.cgi?article=2362&context=faithandphilosophy"
+    ]
+  },
+  {
+    "index": 102,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0159-x.pdf"
+    ]
+  },
+  {
+    "index": 111,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/111-explaining-free-will-by-rational-abilities.pdf",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s10677-022-10278-9.pdf?error=cookies_not_supported&code=53c703b5-a3aa-41dc-9eae-b0b2f6d5ef3a",
+    "content_type": "application/pdf",
+    "size_bytes": 669595
+  },
+  {
+    "index": 131,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9724-3.pdf"
+    ]
+  },
+  {
+    "index": 133,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11406-018-0044-0.pdf"
+    ]
+  },
+  {
+    "index": 151,
+    "status": "failed",
+    "attempted_urls": [
+      "https://academic.oup.com/aristotelian/article-pdf/74/1/171/46593178/aristotelian_74_1_171.pdf"
+    ],
+    "last_error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "index": 179,
+    "status": "downloaded",
+    "attempted_urls": [
+      "https://critica.filosoficas.unam.mx/index.php/critica/article/download/803/773"
+    ],
+    "pdf_path": "tmp/pdfs/sep-freewill/179-on-the-very-idea-of-a-robust-alternative.pdf",
+    "source_url": "https://critica.filosoficas.unam.mx/index.php/critica/article/download/803/773",
+    "final_url": "https://critica.filosoficas.unam.mx/index.php/critica/article/download/803/773",
+    "content_type": "application/pdf",
+    "size_bytes": 147236
+  },
+  {
+    "index": 200,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-009-9489-0.pdf"
+    ]
+  },
+  {
+    "index": 201,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf"
+    ]
+  },
+  {
+    "index": 202,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-014-0500-8.pdf"
+    ]
+  },
+  {
+    "index": 203,
+    "status": "failed",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1007/s11229-020-02701-4.pdf"
+    ]
+  },
+  {
+    "index": 213,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf"
+    ]
+  },
+  {
+    "index": 218,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf"
+    ]
+  },
+  {
+    "index": 224,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf"
+    ]
+  },
+  {
+    "index": 246,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-015-0527-9.pdf"
+    ]
+  },
+  {
+    "index": 258,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11153-011-9323-4.pdf"
+    ]
+  },
+  {
+    "index": 263,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11406-006-9012-1.pdf"
+    ]
+  },
+  {
+    "index": 265,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9848-5.pdf"
+    ]
+  },
+  {
+    "index": 266,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/BF01624156.pdf"
+    ]
+  },
+  {
+    "index": 270,
+    "status": "failed",
+    "attempted_urls": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf"
+    ]
+  },
+  {
+    "index": 282,
+    "status": "failed",
+    "attempted_urls": [
+      "https://link.springer.com/content/pdf/10.1023/A:1006315614953.pdf"
+    ]
+  }
+]

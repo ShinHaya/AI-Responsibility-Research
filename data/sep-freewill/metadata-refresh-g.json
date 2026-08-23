@@ -1,0 +1,525 @@
+[
+  {
+    "index": 138,
+    "title": "The Occasionalist Proselytizer: A Modified Catechism",
+    "year": "1991",
+    "zotero_key": "BG2WVYJK",
+    "citation_key": "kvanvigOccasionalistProselytizerModified1991",
+    "doi": "10.2307/2214110",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Occasionalist+Proselytizer%3A+A+Modified+Catechism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2214110",
+      "title": "The Occasionalist Proselytizer: A Modified Catechism",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2214110",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2214110",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2214110?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 139,
+    "title": "Can in Theory and Practice: A Possible Worlds Analysis",
+    "year": "1976",
+    "zotero_key": "87UI6H4T",
+    "citation_key": "lehrerCanTheoryPractice1976",
+    "doi": "10.1007/978-94-010-9074-2_14",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Can+in+Theory+and+Practice%3A+A+Possible+Worlds+Analysis%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/978-94-010-9074-2_14",
+      "title": "‘Can’ in Theory and Practice: A Possible Worlds Analysis",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-94-010-9074-2_14",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/978-94-010-9074-2_14",
+        "abstracts": [
+          {
+            "text": "The word ‘can’ stands at the intersection of our theoretical and practical interests. In science and rational inquiry, we seek to explain human behavior and assume there to be natural laws to be discovered in this domain as in others. Given such laws and...",
+            "source": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "The word ‘can’ stands at the intersection of our theoretical and practical interests. In science and rational inquiry, we seek to explain human behavior and assume there to be natural laws to be discovered in this domain as in others. Given such laws and...",
+            "source": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "The word ‘can’ stands at the intersection of our theoretical and practical interests. In science and rational inquiry, we seek to explain human behavior and assume there to be natural laws to be discovered in this domain as in others. Given such laws and...",
+        "source": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "The word ‘can’ stands at the intersection of our theoretical and practical interests. In science and rational inquiry, we seek to explain human behavior and assume there to be natural laws to be discovered in this domain as in others. Given such laws and...",
+        "source": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "The word ‘can’ stands at the intersection of our theoretical and practical interests. In science and rational inquiry, we seek to explain human behavior and assume there to be natural laws to be discovered in this domain as in others. Given such laws and...",
+      "source": "https://link.springer.com/chapter/10.1007/978-94-010-9074-2_14?error=cookies_not_supported&code=3b73d9fb-40fa-45a8-b378-f537b6e235cb",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 140,
+    "title": "Preferences, Conditionals, and Freedom",
+    "year": "1980",
+    "zotero_key": "785KI4IV",
+    "citation_key": "lehrerPreferencesConditionalsFreedom1980",
+    "doi": "10.1007/978-94-017-3528-5_11",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Preferences%2C+Conditionals%2C+and+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/978-94-017-3528-5_11",
+      "title": "Preferences, Conditionals and Freedom",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-94-017-3528-5_11",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/978-94-017-3528-5_11",
+        "abstracts": [
+          {
+            "text": "Richard Taylor directed my dissertation on the subject of freedom and determinism, and we amiably and constructively disagreed about the subject then. I was a compatibilist, he was not. I still am; he is not. So be it. I cannot, however, resist another effort. In...",
+            "source": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Richard Taylor directed my dissertation on the subject of freedom and determinism, and we amiably and constructively disagreed about the subject then. I was a compatibilist, he was not. I still am; he is not. So be it. I cannot, however, resist another effort. In...",
+            "source": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Richard Taylor directed my dissertation on the subject of freedom and determinism, and we amiably and constructively disagreed about the subject then. I was a compatibilist, he was not. I still am; he is not. So be it. I cannot, however, resist another effort. In...",
+        "source": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Richard Taylor directed my dissertation on the subject of freedom and determinism, and we amiably and constructively disagreed about the subject then. I was a compatibilist, he was not. I still am; he is not. So be it. I cannot, however, resist another effort. In...",
+        "source": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Richard Taylor directed my dissertation on the subject of freedom and determinism, and we amiably and constructively disagreed about the subject then. I was a compatibilist, he was not. I still am; he is not. So be it. I cannot, however, resist another effort. In...",
+      "source": "https://link.springer.com/chapter/10.1007/978-94-017-3528-5_11?error=cookies_not_supported&code=0615289d-aafb-4e48-9fa2-2c95612e651d",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 141,
+    "title": "Cans without Ifs",
+    "year": "1986",
+    "zotero_key": "4XVULBIN",
+    "citation_key": "lehrerCansIfs1986",
+    "doi": "10.1093/analys/29.1.29",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Cans+without+Ifs%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/analys/29.1.29",
+      "title": "Cans without ifs",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/analys/29.1.29",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/analys/29.1.29",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 142,
+    "title": "Discourse on Metaphysics and Other Essays, trs. Daniel Garber and Roger Ariew, 9th edition. Indianapolis: Hackett Publishing",
+    "year": "1686",
+    "zotero_key": "AMFW7H36",
+    "citation_key": "leibnizDiscourseMetaphysicsOther1686",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Discourse+on+Metaphysics+and+Other+Essays%2C+trs.+Daniel+Garber+and+Roger+Ariew%2C+9th+edition.+Indianapolis%3A+Hackett+Publishing%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.357
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 143,
+    "title": "Theodicy, LaSalle",
+    "year": "1710",
+    "zotero_key": "8VKVS554",
+    "citation_key": "leibnizTheodicyLaSalle1710",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Theodicy%2C+LaSalle%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.35
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 144,
+    "title": "Hard Luck: How Luck Undermines Free Will and Moral Responsibility",
+    "year": "2011",
+    "zotero_key": "W7L4LD9U",
+    "citation_key": "levyHardLuckHow2011",
+    "doi": "10.5860/choice.50-1391",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Hard+Luck%3A+How+Luck+Undermines+Free+Will+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.50-1391",
+      "title": "Hard luck: how luck undermines free will and moral responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.50-1391",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.50-1391",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 145,
+    "title": "The Paradoxes of Time Travel",
+    "year": "1976",
+    "zotero_key": "RAP9K677",
+    "citation_key": "lewisParadoxesTimeTravel1976",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Paradoxes+of+Time+Travel%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.783
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 146,
+    "title": "Counterfactual Dependence and Time’s Arrow",
+    "year": "1979",
+    "zotero_key": "76CWPG3B",
+    "citation_key": "lewisCounterfactualDependenceTimes1979",
+    "doi": "10.2307/2215339",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Counterfactual+Dependence+and+Time%E2%80%99s+Arrow%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2215339",
+      "title": "Counterfactual Dependence and Time's Arrow",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2215339",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2215339",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2215339?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 147,
+    "title": "Are We Free to Break the Laws?",
+    "year": "1981",
+    "zotero_key": "LQQKMLDD",
+    "citation_key": "lewisAreWeFree1981",
+    "doi": "10.1111/j.1755-2567.1981.tb00473.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Are+We+Free+to+Break+the+Laws%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1755-2567.1981.tb00473.x",
+      "title": "Are we free to break the laws?",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1755-2567.1981.tb00473.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1755-2567.1981.tb00473.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 148,
+    "title": "Finkish Dispositions",
+    "year": "1997",
+    "zotero_key": "CNA9C722",
+    "citation_key": "lewisFinkishDispositions1997",
+    "doi": "10.1111/1467-9213.00052",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Finkish+Dispositions%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/1467-9213.00052",
+      "title": "Finkish Dispositions",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/1467-9213.00052",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/1467-9213.00052",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 149,
+    "title": "Do We Have Free Will?",
+    "year": "2002",
+    "zotero_key": "EI4YFWHG",
+    "citation_key": "libetWeHaveFree2002",
+    "doi": "10.1093/oxfordhb/9780195178548.003.0025",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Do+We+Have+Free+Will%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oxfordhb/9780195178548.003.0025",
+      "title": "Do We Have Free Will?",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195178548.003.0025",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oxfordhb/9780195178548.003.0025",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 150,
+    "title": "Identification and Responsibility",
+    "year": "2003",
+    "zotero_key": "UMIWPJWK",
+    "citation_key": "lippert-rasmussenIdentificationResponsibility2003",
+    "doi": "10.1023/b:etta.0000004623.85980.57",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Identification+and+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1023/b:etta.0000004623.85980.57",
+      "title": "Identification and Responsibility",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1023/b:etta.0000004623.85980.57",
+      "pdf_urls": [
+        "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf",
+        "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1023/b:etta.0000004623.85980.57",
+        "abstracts": [
+          {
+            "text": "Real-self accounts of moral responsibility distinguish between various types of motivational elements. They claim that an agent is responsible for acts suitably related to elements that constitute the agent's real self. While such accounts have certain advantages from a compatibilist perspective, they are problematic in various ways. First, in it, authority and authenticity conceptions of the real self are often inadequately distinguished. Both of these conceptions inform discourse on identification, but only the former is relevant to moral responsibility. Second, authority and authenticity real-self theories are unable to accommodate cases in which the agent neither identifies nor disidentifies with his action and yet seems morally responsible for what he does. Third, authority and authenticity real-self theories are vulnerable to counterexamples in which the provenance of the agent's real self undermines responsibility.",
+            "source": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Real-self accounts of moral responsibility distinguish between various types of motivational elements. They claim that an agent is responsible for acts sui",
+            "source": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Real-self accounts of moral responsibility distinguish between various types of motivational elements. They claim that an agent is responsible for acts suitably related to elements that constitute the agent's real self. While such accounts have certain advantages from a compatibilist perspective, they are problematic in various ways. First, in it, authority and authenticity conceptions of the real self are often inadequately distinguished. Both of these conceptions inform discourse on identification, but only the former is relevant to moral responsibility. Second, authority and authenticity real-self theories are unable to accommodate cases in which the agent neither identifies nor disidentifies with his action and yet seems morally responsible for what he does. Third, authority and authenticity real-self theories are vulnerable to counterexamples in which the provenance of the agent's real self undermines responsibility.",
+        "source": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Real-self accounts of moral responsibility distinguish between various types of motivational elements. They claim that an agent is responsible for acts sui",
+        "source": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Real-self accounts of moral responsibility distinguish between various types of motivational elements. They claim that an agent is responsible for acts suitably related to elements that constitute the agent's real self. While such accounts have certain advantages from a compatibilist perspective, they are problematic in various ways. First, in it, authority and authenticity conceptions of the real self are often inadequately distinguished. Both of these conceptions inform discourse on identification, but only the former is relevant to moral responsibility. Second, authority and authenticity real-self theories are unable to accommodate cases in which the agent neither identifies nor disidentifies with his action and yet seems morally responsible for what he does. Third, authority and authenticity real-self theories are vulnerable to counterexamples in which the provenance of the agent's real self undermines responsibility.",
+      "source": "https://link.springer.com/article/10.1023/B:ETTA.0000004623.85980.57?error=cookies_not_supported&code=2396f448-608c-44dd-82a6-bc1ea33b2ffd",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1023/B:ETTA.0000004623.85980.57.pdf"
+    ]
+  },
+  {
+    "index": 151,
+    "title": "Natural Powers and Human Abilities",
+    "year": "1973",
+    "zotero_key": "REC5CN4U",
+    "citation_key": "lockeNaturalPowersHuman1973",
+    "doi": "10.1093/aristotelian/74.1.171",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Natural+Powers+and+Human+Abilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/aristotelian/74.1.171",
+      "title": "X—Natural Powers and Human Abilities",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/aristotelian/74.1.171",
+      "pdf_urls": [
+        "https://academic.oup.com/aristotelian/article-pdf/74/1/171/46593178/aristotelian_74_1_171.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/aristotelian/74.1.171",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": [
+      "https://academic.oup.com/aristotelian/article-pdf/74/1/171/46593178/aristotelian_74_1_171.pdf"
+    ]
+  },
+  {
+    "index": 152,
+    "title": "An Essay Concerning the Human Understanding, Peter H. Nidditch (ed.)",
+    "year": "1690",
+    "zotero_key": "WU99J7MF",
+    "citation_key": "lockeEssayConcerningHuman1690",
+    "doi": "10.1093/oseo/instance.00018020",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22An+Essay+Concerning+the+Human+Understanding%2C+Peter+H.+Nidditch+%28ed.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oseo/instance.00018020",
+      "title": "An Essay concerning Human Understanding",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/oseo/instance.00018020",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oseo/instance.00018020",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\n"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  }
+]

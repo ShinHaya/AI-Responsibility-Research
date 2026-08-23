@@ -1,0 +1,590 @@
+[
+  {
+    "index": 218,
+    "title": "Agent-causal Libertarianism, Statistical Neural Laws and Wild Coincidences",
+    "year": "2018",
+    "zotero_key": "BEAFN5BN",
+    "citation_key": "runyanAgentcausalLibertarianismStatistical2018",
+    "doi": "10.1007/s11229-017-1419-7",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agent-causal+Libertarianism%2C+Statistical+Neural+Laws+and+Wild+Coincidences%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11229-017-1419-7",
+      "title": "Agent-causal libertarianism, statistical neural laws and wild coincidences",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11229-017-1419-7",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf",
+        "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11229-017-1419-7",
+        "abstracts": [
+          {
+            "text": "Agent-causal libertarians maintain we are irreducible agents who, by acting, settle matters that aren’t already settled. This implies that the neural matters underlying the exercise of our agency don’t conform to deterministic laws, but it does not appear to exclude the possibility that they conform to statistical laws. However, Pereboom (Noûs 29:21–45, 1995; Living without free will, Cambridge University Press, Cambridge, 2001; in: Nadelhoffer (ed) The future of punishment, Oxford University Press, New York, 2013) has argued that, if these neural matters conform to either statistical or deterministic physical laws, the complete conformity of an irreducible agent’s settling of matters with what should be expected given the applicable laws would involve coincidences too wild to be credible. Here, I show that Pereboom’s argument depends on the assumption that, at times, the antecedent probability certain behavior will occur applies in each of a number of occasions, and is incapable of changing as a result of what one does from one occasion to the next. There is, however, no evidence this assumption is true. The upshot is the wild coincidence objection is an empirical objection lacking empirical support. Thus, it isn’t a compelling argument against agent-causal libertarianism.",
+            "source": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Agent-causal libertarians maintain we are irreducible agents who, by acting, settle matters that aren’t already settled. This implies that the neural",
+            "source": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Agent-causal libertarians maintain we are irreducible agents who, by acting, settle matters that aren’t already settled. This implies that the neural matters underlying the exercise of our agency don’t conform to deterministic laws, but it does not appear to exclude the possibility that they conform to statistical laws. However, Pereboom (Noûs 29:21–45, 1995; Living without free will, Cambridge University Press, Cambridge, 2001; in: Nadelhoffer (ed) The future of punishment, Oxford University Press, New York, 2013) has argued that, if these neural matters conform to either statistical or deterministic physical laws, the complete conformity of an irreducible agent’s settling of matters with what should be expected given the applicable laws would involve coincidences too wild to be credible. Here, I show that Pereboom’s argument depends on the assumption that, at times, the antecedent probability certain behavior will occur applies in each of a number of occasions, and is incapable of changing as a result of what one does from one occasion to the next. There is, however, no evidence this assumption is true. The upshot is the wild coincidence objection is an empirical objection lacking empirical support. Thus, it isn’t a compelling argument against agent-causal libertarianism.",
+        "source": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Agent-causal libertarians maintain we are irreducible agents who, by acting, settle matters that aren’t already settled. This implies that the neural",
+        "source": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Agent-causal libertarians maintain we are irreducible agents who, by acting, settle matters that aren’t already settled. This implies that the neural matters underlying the exercise of our agency don’t conform to deterministic laws, but it does not appear to exclude the possibility that they conform to statistical laws. However, Pereboom (Noûs 29:21–45, 1995; Living without free will, Cambridge University Press, Cambridge, 2001; in: Nadelhoffer (ed) The future of punishment, Oxford University Press, New York, 2013) has argued that, if these neural matters conform to either statistical or deterministic physical laws, the complete conformity of an irreducible agent’s settling of matters with what should be expected given the applicable laws would involve coincidences too wild to be credible. Here, I show that Pereboom’s argument depends on the assumption that, at times, the antecedent probability certain behavior will occur applies in each of a number of occasions, and is incapable of changing as a result of what one does from one occasion to the next. There is, however, no evidence this assumption is true. The upshot is the wild coincidence objection is an empirical objection lacking empirical support. Thus, it isn’t a compelling argument against agent-causal libertarianism.",
+      "source": "https://link.springer.com/article/10.1007/s11229-017-1419-7?error=cookies_not_supported&code=2d2764a1-186f-4914-a39e-0bfed55f5dbd",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-017-1419-7.pdf"
+    ]
+  },
+  {
+    "index": 219,
+    "title": "The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion",
+    "year": "2010",
+    "zotero_key": "4N6RMVJ9",
+    "citation_key": "russellRiddleHumesTreatise2010",
+    "doi": "10.1080/09608788.2011.555168",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Riddle+of+Hume%E2%80%99s+Treatise%3A+Skepticism%2C+Naturalism%2C+and+Irreligion%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/09608788.2011.555168",
+      "title": "The Riddle of Hume's Treatise: Skepticism, Naturalism, and Irreligion",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1080/09608788.2011.555168",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/09608788.2011.555168",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 220,
+    "title": "The Limits of Free Will",
+    "year": "2017",
+    "zotero_key": "WE3UVK6Y",
+    "citation_key": "russellLimitsFreeWill2017",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Limits+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.501
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 221,
+    "title": "Causation and Free Will",
+    "year": "2016",
+    "zotero_key": "EVIFT2BY",
+    "citation_key": "sartorioCausationFreeWill2016",
+    "doi": "10.1093/acprof:oso/9780198746799.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Causation+and+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198746799.001.0001",
+      "title": "Causation and Free Will",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198746799.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198746799.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 222,
+    "title": "Moral Dimensions: Permissibility, Meaning, and Blame, Cambridge",
+    "year": "2008",
+    "zotero_key": "2LLU7294",
+    "citation_key": "scanlonMoralDimensionsPermissibility2008",
+    "doi": "10.5860/choice.46-3775",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Moral+Dimensions%3A+Permissibility%2C+Meaning%2C+and+Blame%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.46-3775",
+      "title": "Moral dimensions: permissibility, meaning, blame",
+      "best_score": 0.872,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.46-3775",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.46-3775",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 223,
+    "title": "When Is a Man Responsible?",
+    "year": "1939",
+    "zotero_key": "UAHYLM66",
+    "citation_key": "schlickWhenManResponsible1939",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22When+Is+a+Man+Responsible%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.6
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 224,
+    "title": "The Luck Argument against Event-causal Libertarianism: It Is Here to Stay",
+    "year": "2014",
+    "zotero_key": "QJH6G5PD",
+    "citation_key": "schlosserLuckArgumentEventcausal2014",
+    "doi": "10.1007/s11098-013-0102-1",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Luck+Argument+against+Event-causal+Libertarianism%3A+It+Is+Here+to+Stay%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-013-0102-1",
+      "title": "The luck argument against event-causal libertarianism: It is here to stay",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-013-0102-1",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-013-0102-1",
+        "abstracts": [
+          {
+            "text": "The luck argument raises a serious challenge for libertarianism about free will. In broad outline, if an action is undetermined, then it appears to be a matter of luck whether or not one performs it. And if it is a matter of luck whether or not one performs an action, then it seems that the action is not performed with free will. This argument is most effective against event-causal accounts of libertarianism. Recently, Franklin (Philosophical Studies 156:199–230, 2011) has defended event-causal libertarianism against four formulations of the luck argument. I will argue that three of Franklin’s responses are unsuccessful and that there are important versions of the luck challenge that his defense has left unaddressed.",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "The luck argument raises a serious challenge for libertarianism about free will. In broad outline, if an action is undetermined, then it appears to be a ma",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "The luck argument raises a serious challenge for libertarianism about free will. In broad outline, if an action is undetermined, then it appears to be a matter of luck whether or not one performs it. And if it is a matter of luck whether or not one performs an action, then it seems that the action is not performed with free will. This argument is most effective against event-causal accounts of libertarianism. Recently, Franklin (Philosophical Studies 156:199–230, 2011) has defended event-causal libertarianism against four formulations of the luck argument. I will argue that three of Franklin’s responses are unsuccessful and that there are important versions of the luck challenge that his defense has left unaddressed.",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "The luck argument raises a serious challenge for libertarianism about free will. In broad outline, if an action is undetermined, then it appears to be a ma",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "The luck argument raises a serious challenge for libertarianism about free will. In broad outline, if an action is undetermined, then it appears to be a matter of luck whether or not one performs it. And if it is a matter of luck whether or not one performs an action, then it seems that the action is not performed with free will. This argument is most effective against event-causal accounts of libertarianism. Recently, Franklin (Philosophical Studies 156:199–230, 2011) has defended event-causal libertarianism against four formulations of the luck argument. I will argue that three of Franklin’s responses are unsuccessful and that there are important versions of the luck challenge that his defense has left unaddressed.",
+      "source": "https://link.springer.com/article/10.1007/s11098-013-0102-1?error=cookies_not_supported&code=ab8cbe4d-8e48-4ee4-a0b6-b4f4a7e54550",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0102-1.pdf"
+    ]
+  },
+  {
+    "index": 225,
+    "title": "Prize Essay on the Freedom of the Will",
+    "year": "1841",
+    "zotero_key": "HM73D6EU",
+    "citation_key": "schopenhauerPrizeEssayFreedom1841",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Prize+Essay+on+the+Freedom+of+the+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 226,
+    "title": "Desire: Its Role in Practical Reason and the Explanation of Action, Cambridge",
+    "year": "1995",
+    "zotero_key": "C6P2BS7Y",
+    "citation_key": "schuelerDesireItsRole1995",
+    "doi": "10.5860/choice.33-0242",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Desire%3A+Its+Role+in+Practical+Reason+and+the+Explanation+of+Action%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.33-0242",
+      "title": "Desire: its role in practical reason and the explanation of action",
+      "best_score": 0.924,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.33-0242",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.33-0242",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 227,
+    "title": "Reasons and Purposes: Human Rationality and the Teleological Explanation of Action",
+    "year": "2003",
+    "zotero_key": "ZYKVY3QT",
+    "citation_key": "schuelerReasonsPurposesHuman2003",
+    "doi": "10.5860/choice.41-3353",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Reasons+and+Purposes%3A+Human+Rationality+and+the+Teleological+Explanation+of+Action%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.41-3353",
+      "title": "Reasons and purposes: human rationality and the teleological explanation of action",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.41-3353",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.41-3353",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 228,
+    "title": "What Is the Readiness Potential?",
+    "year": "2021",
+    "zotero_key": "T3QYSN94",
+    "citation_key": "schurgerWhatReadinessPotential2021",
+    "doi": "10.1016/j.tics.2021.04.001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22What+Is+the+Readiness+Potential%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1016/j.tics.2021.04.001",
+      "title": "What Is the Readiness Potential?",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tics.2021.04.001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1016/j.tics.2021.04.001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1364661321000930"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 229,
+    "title": "Teleological Realism: Mind, Agency, and Explanation, Cambridge",
+    "year": "2005",
+    "zotero_key": "8JKAT5S9",
+    "citation_key": "sehonTeleologicalRealismMind2005",
+    "doi": "10.1111/j.1467-9213.2007.511_7.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Teleological+Realism%3A+Mind%2C+Agency%2C+and+Explanation%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1467-9213.2007.511_7.x",
+      "title": "Teleological Realism: Mind, Agency, and Explanation ? Scott R. Sehon",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1467-9213.2007.511_7.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1467-9213.2007.511_7.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 230,
+    "title": "Why Free Will Remains a Mystery",
+    "year": "2011",
+    "zotero_key": "Z6D6RBEW",
+    "citation_key": "shaboWhyFreeWill2011",
+    "doi": "10.1111/j.1468-0114.2010.01388.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Why+Free+Will+Remains+a+Mystery%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1468-0114.2010.01388.x",
+      "title": "WHY FREE WILL REMAINS A MYSTERY",
+      "best_score": 1.0,
+      "abstract": "Peter van Inwagen contends that free will is a mystery. Here I present an argument in the spirit of van Inwagen's. According to the Assimilation Argument, libertarians cannot plausibly distinguish causally undetermined actions, the ones they take to be exercises of free will, from overtly randomized outcomes of the sort nobody would count as exercises of free will. I contend that the Assimilation Argument improves on related arguments in locating the crucial issues between van Inwagen and libertarians who hope to demystify free will, while avoiding objections these arguments have faced.",
+      "url": "https://doi.org/10.1111/j.1468-0114.2010.01388.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1468-0114.2010.01388.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Peter van Inwagen contends that free will is a mystery. Here I present an argument in the spirit of van Inwagen's. According to the Assimilation Argument, libertarians cannot plausibly distinguish causally undetermined actions, the ones they take to be exercises of free will, from overtly randomized outcomes of the sort nobody would count as exercises of free will. I contend that the Assimilation Argument improves on related arguments in locating the crucial issues between van Inwagen and libertarians who hope to demystify free will, while avoiding objections these arguments have faced.",
+        "source": "https://doi.org/10.1111/j.1468-0114.2010.01388.x",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Peter van Inwagen contends that free will is a mystery. Here I present an argument in the spirit of van Inwagen's. According to the Assimilation Argument, libertarians cannot plausibly distinguish causally undetermined actions, the ones they take to be exercises of free will, from overtly randomized outcomes of the sort nobody would count as exercises of free will. I contend that the Assimilation Argument improves on related arguments in locating the crucial issues between van Inwagen and libertarians who hope to demystify free will, while avoiding objections these arguments have faced.",
+      "source": "https://doi.org/10.1111/j.1468-0114.2010.01388.x",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 231,
+    "title": "Free Will and Mystery: Looking Past the Mind Argument",
+    "year": "2013",
+    "zotero_key": "GJ8DJ3HY",
+    "citation_key": "shaboFreeWillMystery2013",
+    "doi": "10.1007/s11098-011-9760-z",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+Mystery%3A+Looking+Past+the+Mind+Argument%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-011-9760-z",
+      "title": "Free will and mystery: looking past the Mind Argument",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-011-9760-z",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-011-9760-z.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-011-9760-z",
+        "abstracts": [
+          {
+            "text": "Among challenges to libertarians, the Mind Argument has loomed large. Believing that this challenge cannot be met, Peter van Inwagen, a libertarian, concludes that free will is a mystery. Recently, the Mind Argument has drawn a number of criticisms. Here I seek to add to its woes. Quite apart from its other problems, I argue, the Mind Argument does a poor job of isolating the important concern for libertarians that it raises. Once this concern has been clarified, however, another argument serves to renew the challenge. The Assimilation Argument challenges libertarians to explain how ostensible exercises of free will are relevantly different from other causally undetermined outcomes, outcomes that nobody would count as exercises of free will. In particular, libertarians must explain how agents can have the power to settle which of two causally possible futures becomes the actual future. This will require them to distinguish cases where this power is supposedly present from similar cases where it’s clearly absent.",
+            "source": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Among challenges to libertarians, the Mind Argument has loomed large. Believing that this challenge cannot be met, Peter van Inwagen, a libertarian, conclu",
+            "source": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Among challenges to libertarians, the Mind Argument has loomed large. Believing that this challenge cannot be met, Peter van Inwagen, a libertarian, concludes that free will is a mystery. Recently, the Mind Argument has drawn a number of criticisms. Here I seek to add to its woes. Quite apart from its other problems, I argue, the Mind Argument does a poor job of isolating the important concern for libertarians that it raises. Once this concern has been clarified, however, another argument serves to renew the challenge. The Assimilation Argument challenges libertarians to explain how ostensible exercises of free will are relevantly different from other causally undetermined outcomes, outcomes that nobody would count as exercises of free will. In particular, libertarians must explain how agents can have the power to settle which of two causally possible futures becomes the actual future. This will require them to distinguish cases where this power is supposedly present from similar cases where it’s clearly absent.",
+        "source": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Among challenges to libertarians, the Mind Argument has loomed large. Believing that this challenge cannot be met, Peter van Inwagen, a libertarian, conclu",
+        "source": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Among challenges to libertarians, the Mind Argument has loomed large. Believing that this challenge cannot be met, Peter van Inwagen, a libertarian, concludes that free will is a mystery. Recently, the Mind Argument has drawn a number of criticisms. Here I seek to add to its woes. Quite apart from its other problems, I argue, the Mind Argument does a poor job of isolating the important concern for libertarians that it raises. Once this concern has been clarified, however, another argument serves to renew the challenge. The Assimilation Argument challenges libertarians to explain how ostensible exercises of free will are relevantly different from other causally undetermined outcomes, outcomes that nobody would count as exercises of free will. In particular, libertarians must explain how agents can have the power to settle which of two causally possible futures becomes the actual future. This will require them to distinguish cases where this power is supposedly present from similar cases where it’s clearly absent.",
+      "source": "https://link.springer.com/article/10.1007/s11098-011-9760-z?error=cookies_not_supported&code=effe9d51-8886-4269-baab-1824a749a053",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-011-9760-z.pdf"
+    ]
+  },
+  {
+    "index": 232,
+    "title": "The Two-Stage Luck Objection",
+    "year": "2020",
+    "zotero_key": "Y9DEGRVV",
+    "citation_key": "shaboTwoStageLuckObjection2020",
+    "doi": "10.1111/nous.12243",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Two-Stage+Luck+Objection%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/nous.12243",
+      "title": "The Two‐Stage Luck Objection",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/nous.12243",
+      "pdf_urls": [
+        "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnous.12243",
+        "https://onlinelibrary.wiley.com/doi/pdf/10.1111/nous.12243"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/nous.12243",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": [
+      "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnous.12243",
+      "https://onlinelibrary.wiley.com/doi/pdf/10.1111/nous.12243"
+    ]
+  },
+  {
+    "index": 233,
+    "title": "In Praise of Blame",
+    "year": "2006",
+    "zotero_key": "MRA7628H",
+    "citation_key": "sherPraiseBlame2006",
+    "doi": "10.1093/0195187423.003.0007",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22In+Praise+of+Blame%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/0195187423.003.0007",
+      "title": "In Praise of Blame",
+      "abstract": "This final chapter develops an account of blameworthiness that dovetails with the previous chapter’s account of blame. Because the core constituents of blame consist of a desire and a belief, the norms that determine when blame is called for are the ones that correspond to these elements. On the resulting account, blame is called for when (a) the blamer’s belief that the blamee has acted badly is true, and (b) the blamer’s desire that the blamee not have violated a moral principle to which the blamer is committed is justified by the very considerations that justify his commitment itself. By thus making explicit the link between the justification of blame and the justification of the moral principle that the blamee has flouted, we come to see that a commitment to blame is inseparable from a commitment to morality itself.",
+      "url": "https://doi.org/10.1093/0195187423.003.0007",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/0195187423.003.0007",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This final chapter develops an account of blameworthiness that dovetails with the previous chapter’s account of blame. Because the core constituents of blame consist of a desire and a belief, the norms that determine when blame is called for are the ones that correspond to these elements. On the resulting account, blame is called for when (a) the blamer’s belief that the blamee has acted badly is true, and (b) the blamer’s desire that the blamee not have violated a moral principle to which the blamer is committed is justified by the very considerations that justify his commitment itself. By thus making explicit the link between the justification of blame and the justification of the moral principle that the blamee has flouted, we come to see that a commitment to blame is inseparable from a commitment to morality itself.",
+        "source": "https://doi.org/10.1093/0195187423.003.0007",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This final chapter develops an account of blameworthiness that dovetails with the previous chapter’s account of blame. Because the core constituents of blame consist of a desire and a belief, the norms that determine when blame is called for are the ones that correspond to these elements. On the resulting account, blame is called for when (a) the blamer’s belief that the blamee has acted badly is true, and (b) the blamer’s desire that the blamee not have violated a moral principle to which the blamer is committed is justified by the very considerations that justify his commitment itself. By thus making explicit the link between the justification of blame and the justification of the moral principle that the blamee has flouted, we come to see that a commitment to blame is inseparable from a commitment to morality itself.",
+      "source": "https://doi.org/10.1093/0195187423.003.0007",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  }
+]

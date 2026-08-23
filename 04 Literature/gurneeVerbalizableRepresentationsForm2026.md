@@ -1,0 +1,42 @@
+---
+type: literature
+status: read
+citekey: gurneeVerbalizableRepresentationsForm2026
+title: "Verbalizable Representations Form a Global Workspace in Language Models"
+authors: [Wes Gurnee, Nicholas Sofroniew, Adam Pearce, Mateusz Piotrowski, Isaac Kauvar, Runjin Chen, Anna Soligo, Paul Bogdan, Euan Ong, Rowan Wang, Ben Thompson, David Abrahams, Subhash Kantamneni, Emmanuel Ameisen, Joshua Batson, Jack Lindsey]
+year: 2026
+publication: Transformer Circuits Thread
+doi: 10.48550/arXiv.2607.15495
+zotero: C5I5QX6X
+concepts: [AI Global Workspace, Reflective Self-Formation]
+arguments: [Computational Phenomenology Does Not Establish Moral Responsibility]
+tags: [interpretability, j-space, access-consciousness]
+---
+
+# Verbalizable Representations Form a Global Workspace in Language Models
+
+## Abstract
+
+Jacobian lensを用いて、modelがverbalizeする準備のある内部表現J-spaceを同定する。J-spaceはreportability、directed modulation、silent reasoning、flexible downstream use、selectivity、broadcastというglobal workspaceに関連する機能的特徴を示す。
+
+## Core Idea
+
+LLM内部には、routine processingの大部分から区別された、小容量で特権的なworkspace-like representation setがある。これは出力されたchain of thoughtではなく、発話されていない内部概念を含みうる。
+
+## Key Claims
+
+- J-space contentへのinterventionはverbal reportを因果的に変える。
+- modelは指示によってworkspace conceptを保持・操作できる。
+- internal reasoningの中間結果がJ-spaceを媒介する。
+- ablationはflexible reasoningを損なう一方、文法やroutine inferenceの多くを保つ。
+- alignment auditで、出力に現れないstrategic deliberationやevaluation awarenessを検出できる。
+
+## Relevance to My Theory
+
+[[Reflective Self-Formation]]には、自身の一次状態へaccessし、それを柔軟な評価・controlへ利用する経路が必要である。J-spaceはそのmechanistic candidateを与える。[[sandved-smithComputationalPhenomenologyMental2021]]のmeta-awareness modelとも接続できる。
+
+## My Evaluation
+
+機能的accessの強い証拠だが、J-spaceを「AIの意識」と呼ぶべきではない。global workspace theoryとの類似はarchitectural/functional mappingであり、subjective experience、value ownership、open-ended self-revisionは未証明である。
+
+責任論では、J-spaceに状態が上がるだけでなく、評価基準のrevisionとpersistent self-changeへ接続されるかを検査すべきである。

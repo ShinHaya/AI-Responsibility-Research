@@ -1,0 +1,511 @@
+[
+  {
+    "index": 266,
+    "title": "The Incompatibility of Free Will and Determinism",
+    "year": "1975",
+    "zotero_key": "MGSBLMS7",
+    "citation_key": "vaninwagenIncompatibilityFreeWill1975",
+    "doi": "10.1007/bf01624156",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Incompatibility+of+Free+Will+and+Determinism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/bf01624156",
+      "title": "The incompatibility of free will and determinism",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/bf01624156",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/BF01624156.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/bf01624156",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/BF01624156?error=cookies_not_supported&code=b76fef1b-dc03-4ff7-8f51-514aa8911f45"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/BF01624156.pdf"
+    ]
+  },
+  {
+    "index": 267,
+    "title": "An Essay on Free Will",
+    "year": "1983",
+    "zotero_key": "G7E28PF4",
+    "citation_key": "vaninwagenEssayFreeWill1983",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22An+Essay+on+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 268,
+    "title": "Free Will Remains a Mystery",
+    "year": "2000",
+    "zotero_key": "88RDQBME",
+    "citation_key": "vaninwagenFreeWillRemains2000",
+    "doi": "10.1093/oxfordhb/9780195178548.003.0007",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+Remains+a+Mystery%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oxfordhb/9780195178548.003.0007",
+      "title": "Free Will Remains a Mystery",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195178548.003.0007",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oxfordhb/9780195178548.003.0007",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 269,
+    "title": "Freedom to Break the Laws",
+    "year": "2004",
+    "zotero_key": "FNZKFZLR",
+    "citation_key": "vaninwagenFreedomBreakLaws2004",
+    "doi": "10.1111/j.1475-4975.2004.00099.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Freedom+to+Break+the+Laws%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1475-4975.2004.00099.x",
+      "title": "Freedom to Break the Laws",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1475-4975.2004.00099.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1475-4975.2004.00099.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://chooser.crossref.org/?doi=10.1111%2Fj.1475-4975.2004.00099.x"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 270,
+    "title": "How to Think about the Problem of Free Will",
+    "year": "2008",
+    "zotero_key": "VMCPAA8U",
+    "citation_key": "vaninwagenHowThinkProblem2008",
+    "doi": "10.1007/s10892-008-9038-7",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22How+to+Think+about+the+Problem+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s10892-008-9038-7",
+      "title": "How to Think about the Problem of Free Will",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s10892-008-9038-7",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s10892-008-9038-7",
+        "abstracts": [
+          {
+            "text": "In this essay I present what is, I contend, the free-will problem properly thought through, or at least presented in a form in which it is possible to think about it without being constantly led astray by bad terminology and confused ideas. Bad terminology and confused ideas are not uncommon in current discussions of the problem. The worst such pieces of terminology are “libertarian free will” and “compatibilist free will.” The essay consists partly of a defense of the thesis that the use of these phrases by writers on the problem of free will can only generate conceptual confusion and partly of a formulation of the problem that does not make use of them. I contend that this formulation is neutral with respect to the historically important positions on free will (e.g., compatibilism and incompatibilism).",
+            "source": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "In this essay I present what is, I contend, the free-will problem properly thought through, or at least presented in a form in which it is possible to thin",
+            "source": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In this essay I present what is, I contend, the free-will problem properly thought through, or at least presented in a form in which it is possible to think about it without being constantly led astray by bad terminology and confused ideas. Bad terminology and confused ideas are not uncommon in current discussions of the problem. The worst such pieces of terminology are “libertarian free will” and “compatibilist free will.” The essay consists partly of a defense of the thesis that the use of these phrases by writers on the problem of free will can only generate conceptual confusion and partly of a formulation of the problem that does not make use of them. I contend that this formulation is neutral with respect to the historically important positions on free will (e.g., compatibilism and incompatibilism).",
+        "source": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "In this essay I present what is, I contend, the free-will problem properly thought through, or at least presented in a form in which it is possible to thin",
+        "source": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In this essay I present what is, I contend, the free-will problem properly thought through, or at least presented in a form in which it is possible to think about it without being constantly led astray by bad terminology and confused ideas. Bad terminology and confused ideas are not uncommon in current discussions of the problem. The worst such pieces of terminology are “libertarian free will” and “compatibilist free will.” The essay consists partly of a defense of the thesis that the use of these phrases by writers on the problem of free will can only generate conceptual confusion and partly of a formulation of the problem that does not make use of them. I contend that this formulation is neutral with respect to the historically important positions on free will (e.g., compatibilism and incompatibilism).",
+      "source": "https://link.springer.com/article/10.1007/s10892-008-9038-7?error=cookies_not_supported&code=322ed439-4e22-4348-a794-810aef701747",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s10892-008-9038-7.pdf"
+    ]
+  },
+  {
+    "index": 271,
+    "title": "Libertarianism and Skepticism about Free Will: Some Arguments against Both",
+    "year": "2004",
+    "zotero_key": "MWMDHQU6",
+    "citation_key": "vargasLibertarianismSkepticismFree2004",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Libertarianism+and+Skepticism+about+Free+Will%3A+Some+Arguments+against+Both%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.769
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 272,
+    "title": "Revisionism",
+    "year": "2007",
+    "zotero_key": "CM6WJUMJ",
+    "citation_key": "vargasRevisionism2007",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Revisionism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 273,
+    "title": "Building Better Beings: A Theory of Moral Responsibility",
+    "year": "2013",
+    "zotero_key": "8FXR8858",
+    "citation_key": "vargasBuildingBetterBeings2013",
+    "doi": "10.5860/choice.51-0813",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Building+Better+Beings%3A+A+Theory+of+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.51-0813",
+      "title": "Building better beings: a theory of moral responsibility",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.51-0813",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.51-0813",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 274,
+    "title": "What Happens When Someone Acts?",
+    "year": "1992",
+    "zotero_key": "YWX5WXFR",
+    "citation_key": "vellemanWhatHappensWhen1992",
+    "doi": "10.1093/mind/101.403.461",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22What+Happens+When+Someone+Acts%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/101.403.461",
+      "title": "What Happens When Someone Acts?",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/101.403.461",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/101.403.461",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 275,
+    "title": "How We Get Along",
+    "year": "2009",
+    "zotero_key": "MK87D3DV",
+    "citation_key": "vellemanHowWeGet2009",
+    "doi": "10.5860/choice.47-3737",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22How+We+Get+Along%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.47-3737",
+      "title": "How we get along",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.47-3737",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.47-3737",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 276,
+    "title": "Objective Probabilities of Free Choice",
+    "year": "2016",
+    "zotero_key": "WPHNGHGM",
+    "citation_key": "vicensObjectiveProbabilitiesFree2016",
+    "doi": "10.11612/resphil.2016.93.1.8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Objective+Probabilities+of+Free+Choice%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.11612/resphil.2016.93.1.8",
+      "title": "Objective Probabilities of Free Choice",
+      "abstract": "",
+      "url": "https://doi.org/10.11612/resphil.2016.93.1.8",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.11612/resphil.2016.93.1.8",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 277,
+    "title": "Free Will Demystified: A Dispositional Account",
+    "year": "2004",
+    "zotero_key": "JHQ8HWS7",
+    "citation_key": "vihvelinFreeWillDemystified2004",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+Demystified%3A+A+Dispositional+Account%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.644
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 278,
+    "title": "Causes, Laws, and Free Will: Why Determinism Doesn’t Matter",
+    "year": "2013",
+    "zotero_key": "3KDY8WZJ",
+    "citation_key": "vihvelinCausesLawsFree2013",
+    "doi": "10.5860/choice.51-2017",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Causes%2C+Laws%2C+and+Free+Will%3A+Why+Determinism+Doesn%E2%80%99t+Matter%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.51-2017",
+      "title": "Causes, laws, and free will: why determinism doesn't matter",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.51-2017",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.51-2017",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 279,
+    "title": "Taking Free Will Skepticism Seriously",
+    "year": "2012",
+    "zotero_key": "MUNSWRJW",
+    "citation_key": "vilhauerTakingFreeWill2012",
+    "doi": "10.1111/j.1467-9213.2012.00077.x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Taking+Free+Will+Skepticism+Seriously%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/j.1467-9213.2012.00077.x",
+      "title": "Taking Free Will Skepticism Seriously",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1467-9213.2012.00077.x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/j.1467-9213.2012.00077.x",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 280,
+    "title": "Jonathan Edwards, William Rowe, and the Necessity of Creation",
+    "year": "1996",
+    "zotero_key": "NZ6ZUCGI",
+    "citation_key": "wainwrightJonathanEdwardsWilliam1996",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Jonathan+Edwards%2C+William+Rowe%2C+and+the+Necessity+of+Creation%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 281,
+    "title": "Responsibility and the Moral Sentiments, Cambridge",
+    "year": "1994",
+    "zotero_key": "ETIPQ5QV",
+    "citation_key": "wallaceResponsibilityMoralSentiments1994",
+    "doi": "10.1016/0024-6301(95)91161-8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Responsibility+and+the+Moral+Sentiments%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1016/0024-6301(95)91161-8",
+      "title": "Responsibility and the moral sentiments",
+      "best_score": 0.886,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/0024-6301(95)91161-8",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1016/0024-6301(95)91161-8",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://linkinghub.elsevier.com/retrieve/pii/0024630195911618"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 282,
+    "title": "Addiction as Defect of the Will: Some Philosophical Reflections",
+    "year": "1999",
+    "zotero_key": "92SXFQNL",
+    "citation_key": "wallaceAddictionDefectWill1999",
+    "doi": "10.1023/a:1006315614953",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Addiction+as+Defect+of+the+Will%3A+Some+Philosophical+Reflections%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1023/a:1006315614953",
+      "title": "Addiction as Defect of the Will: Some Philosophical Reflections",
+      "abstract": "",
+      "url": "https://doi.org/10.1023/a:1006315614953",
+      "pdf_urls": [
+        "https://link.springer.com/content/pdf/10.1023/A:1006315614953.pdf",
+        "https://link.springer.com/content/pdf/10.1023/A:1006315614953.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1023/a:1006315614953",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1023/A:1006315614953?error=cookies_not_supported&code=d946975b-47fe-48a0-b33d-5deed7b2ca80"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1023/A:1006315614953.pdf"
+    ]
+  }
+]

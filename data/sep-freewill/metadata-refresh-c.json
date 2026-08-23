@@ -1,0 +1,1166 @@
+[
+  {
+    "index": 169,
+    "title": "Autonomous Agents",
+    "year": "1995",
+    "zotero_key": "JF8AIZK6",
+    "citation_key": "meleAutonomousAgents1995",
+    "doi": "10.1093/0195150430.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Autonomous+Agents%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/0195150430.001.0001",
+      "title": "Autonomous Agents",
+      "best_score": 0.85,
+      "abstract": "Explores the related topics of self‐control and personal autonomy. Self‐control is understood as the contrary of akrasia or weakness of will, and autonomy is placed in the family of metaphysical freedom concepts: most notably, free will, free choice, and free action. The book's first half develops an analysis of the nature of self‐control and explains the potential influence of self‐control on actions, beliefs, reasoning, emotions, and values. It also develops an account of an ideally self‐controlled person and argues that even such a person will fall short of autonomy. The second half of the book first asks what may be added to ideal self‐control to yield autonomy and then defends two distinctive answers, one for compatibilist believers in autonomy (believers in autonomy who see it as compatible with determinism) and another for libertarians (believers in autonomy who see it as incompatible with determinism). The compatibilist answer features an account of control and a sensitivity to agents’ histories, and the libertarian answer adds to this a kind of causal openness that does not require agent causation and that avoids the sort of luck that undermines autonomy and moral responsibility. It is argued that the disjunction of these two answers as applied to actual human beings is more credible than the thesis that there are no autonomous human beings. This is “agnostic autonomism”: the position is agnostic about whether the falsity of determinism is required for autonomy while asserting that it is more credible that there are autonomous human beings than there are not.",
+      "url": "https://doi.org/10.1093/0195150430.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/0195150430.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Explores the related topics of self‐control and personal autonomy. Self‐control is understood as the contrary of akrasia or weakness of will, and autonomy is placed in the family of metaphysical freedom concepts: most notably, free will, free choice, and free action. The book's first half develops an analysis of the nature of self‐control and explains the potential influence of self‐control on actions, beliefs, reasoning, emotions, and values. It also develops an account of an ideally self‐controlled person and argues that even such a person will fall short of autonomy. The second half of the book first asks what may be added to ideal self‐control to yield autonomy and then defends two distinctive answers, one for compatibilist believers in autonomy (believers in autonomy who see it as compatible with determinism) and another for libertarians (believers in autonomy who see it as incompatible with determinism). The compatibilist answer features an account of control and a sensitivity to agents’ histories, and the libertarian answer adds to this a kind of causal openness that does not require agent causation and that avoids the sort of luck that undermines autonomy and moral responsibility. It is argued that the disjunction of these two answers as applied to actual human beings is more credible than the thesis that there are no autonomous human beings. This is “agnostic autonomism”: the position is agnostic about whether the falsity of determinism is required for autonomy while asserting that it is more credible that there are autonomous human beings than there are not.",
+        "source": "https://doi.org/10.1093/0195150430.001.0001",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Explores the related topics of self‐control and personal autonomy. Self‐control is understood as the contrary of akrasia or weakness of will, and autonomy is placed in the family of metaphysical freedom concepts: most notably, free will, free choice, and free action. The book's first half develops an analysis of the nature of self‐control and explains the potential influence of self‐control on actions, beliefs, reasoning, emotions, and values. It also develops an account of an ideally self‐controlled person and argues that even such a person will fall short of autonomy. The second half of the book first asks what may be added to ideal self‐control to yield autonomy and then defends two distinctive answers, one for compatibilist believers in autonomy (believers in autonomy who see it as compatible with determinism) and another for libertarians (believers in autonomy who see it as incompatible with determinism). The compatibilist answer features an account of control and a sensitivity to agents’ histories, and the libertarian answer adds to this a kind of causal openness that does not require agent causation and that avoids the sort of luck that undermines autonomy and moral responsibility. It is argued that the disjunction of these two answers as applied to actual human beings is more credible than the thesis that there are no autonomous human beings. This is “agnostic autonomism”: the position is agnostic about whether the falsity of determinism is required for autonomy while asserting that it is more credible that there are autonomous human beings than there are not.",
+      "source": "https://doi.org/10.1093/0195150430.001.0001",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 170,
+    "title": "Goal-directed Action: Teleological Explanations, Causal Theories, and Deviance",
+    "year": "2000",
+    "zotero_key": "YN27Z9UE",
+    "citation_key": "meleGoaldirectedActionTeleological2000",
+    "doi": "10.1111/0029-4624.34.s14.15",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Goal-directed+Action%3A+Teleological+Explanations%2C+Causal+Theories%2C+and+Deviance%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/0029-4624.34.s14.15",
+      "title": "Goal‐Directed Action: Teleological Explanations, Causal Theories, and Deviance",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1111/0029-4624.34.s14.15",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/0029-4624.34.s14.15",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://onlinelibrary.wiley.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 171,
+    "title": "Agents’ Abilities",
+    "year": "2003",
+    "zotero_key": "F6Q4BEDL",
+    "citation_key": "meleAgentsAbilities2003",
+    "doi": "10.1111/1468-0068.00446",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agents%E2%80%99+Abilities%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1111/1468-0068.00446",
+      "title": "Agents’ Abilities",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/1468-0068.00446",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1111/1468-0068.00446",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 172,
+    "title": "Free Will and Luck",
+    "year": "2006",
+    "zotero_key": "QDRGX48Q",
+    "citation_key": "meleFreeWillLuck2006",
+    "doi": "10.5860/choice.44-2640",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+Luck%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.44-2640",
+      "title": "Free will and luck",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.44-2640",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.44-2640",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 173,
+    "title": "Effective Intentions: The Power of Conscious Will",
+    "year": "2009",
+    "zotero_key": "F7MYR2WG",
+    "citation_key": "meleEffectiveIntentionsPower2009",
+    "doi": "10.5860/choice.47-3081",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Effective+Intentions%3A+The+Power+of+Conscious+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.47-3081",
+      "title": "Effective intentions: the power of conscious will",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.47-3081",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.47-3081",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 174,
+    "title": "Aspects of Agency: Decisions, Abilities, Explanations, and Free Will",
+    "year": "2017",
+    "zotero_key": "ZW7SMA9G",
+    "citation_key": "meleAspectsAgencyDecisions2017",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Aspects+of+Agency%3A+Decisions%2C+Abilities%2C+Explanations%2C+and+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.768
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 175,
+    "title": "Rescuing Frankfurt-style Scenarios",
+    "year": "1998",
+    "zotero_key": "294XWKCF",
+    "citation_key": "meleRescuingFrankfurtstyleScenarios1998",
+    "doi": "10.2307/2998316",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Rescuing+Frankfurt-style+Scenarios%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.2307/2998316",
+      "title": "Rescuing Frankfurt-Style Cases",
+      "abstract": "",
+      "url": "https://doi.org/10.2307/2998316",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.2307/2998316",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.jstor.org/stable/2998316?origin=crossref"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 176,
+    "title": "Bbs, Magnets and Seesaws: The Metaphysics of Frankfurt-style Cases",
+    "year": "2003",
+    "zotero_key": "G7CD93RT",
+    "citation_key": "meleBbsMagnetsSeesaws2003",
+    "doi": "10.4324/9781315248660-8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Bbs%2C+Magnets+and+Seesaws%3A+The+Metaphysics+of+Frankfurt-style+Cases%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.4324/9781315248660-8",
+      "title": "Bbs, Magnets and Seesaws: The Metaphysics of Frankfurt-style Cases",
+      "best_score": 0.85,
+      "abstract": "",
+      "url": "https://doi.org/10.4324/9781315248660-8",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.4324/9781315248660-8",
+        "abstracts": [
+          {
+            "text": "This chapter presents a counterexample to what Harry Frankfurt dubbed ‘the principle of alternate possibilities’ (PAP): A person is morally responsible for what he has done only if he could have done otherwise. An important alleged problem with Frankfurt’s story may be stated in the form of a dilemma. The chapter discusses a Frankfurt-style case that avoids the Robert Kane/David Widerker line of objection. Kane starts from a picture of deliberation informed by current neuroscience and by the libertarian theory of freedom he has defended in several places. Some philosophers have objected that blockage defeats the purpose of a Frankfurt-style case. In order for a Frankfurt-style case to present a genuine IRR-situation and be effective, the agent’s actual choice must not be caused by the circumstances that make it inevitable. In Frankfurt-style cases, the ‘intervener’ is a merely counterfactual intervener.",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb",
+            "field": "citation_abstract",
+            "title_score": 1.0
+          },
+          {
+            "text": "This chapter presents a counterexample to what Harry Frankfurt dubbed ‘the principle of alternate possibilities’ (PAP): A person is morally responsible for what",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This chapter presents a counterexample to what Harry Frankfurt dubbed ‘the principle of alternate possibilities’ (PAP): A person is morally responsible for what he has done only if he could have done otherwise. An important alleged problem with Frankfurt’s story may be stated in the form of a dilemma. The chapter discusses a Frankfurt-style case that avoids the Robert Kane/David Widerker line of objection. Kane starts from a picture of deliberation informed by current neuroscience and by the libertarian theory of freedom he has defended in several places. Some philosophers have objected that blockage defeats the purpose of a Frankfurt-style case. In order for a Frankfurt-style case to present a genuine IRR-situation and be effective, the agent’s actual choice must not be caused by the circumstances that make it inevitable. In Frankfurt-style cases, the ‘intervener’ is a merely counterfactual intervener.",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb",
+        "kind": "publisher.citation_abstract"
+      },
+      {
+        "text": "This chapter presents a counterexample to what Harry Frankfurt dubbed ‘the principle of alternate possibilities’ (PAP): A person is morally responsible for what",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This chapter presents a counterexample to what Harry Frankfurt dubbed ‘the principle of alternate possibilities’ (PAP): A person is morally responsible for what he has done only if he could have done otherwise. An important alleged problem with Frankfurt’s story may be stated in the form of a dilemma. The chapter discusses a Frankfurt-style case that avoids the Robert Kane/David Widerker line of objection. Kane starts from a picture of deliberation informed by current neuroscience and by the libertarian theory of freedom he has defended in several places. Some philosophers have objected that blockage defeats the purpose of a Frankfurt-style case. In order for a Frankfurt-style case to present a genuine IRR-situation and be effective, the agent’s actual choice must not be caused by the circumstances that make it inevitable. In Frankfurt-style cases, the ‘intervener’ is a merely counterfactual intervener.",
+      "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315248660-8/bbs-magnets-seesaws-metaphysics-frankfurt-style-cases-alfred-mele-david-robb",
+      "kind": "publisher.citation_abstract"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 177,
+    "title": "The Platonic Model: Statement, Clarification and Defense",
+    "year": "2015",
+    "zotero_key": "P2NNGLLW",
+    "citation_key": "mitchell-yellinPlatonicModelStatement2015",
+    "doi": "10.1080/13869795.2015.1024713",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Platonic+Model%3A+Statement%2C+Clarification+and+Defense%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/13869795.2015.1024713",
+      "title": "The Platonic model: statement, clarification and defense",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13869795.2015.1024713",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/13869795.2015.1024713",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 178,
+    "title": "Ethics",
+    "year": "1912",
+    "zotero_key": "KNDLAIMC",
+    "citation_key": "mooreEthics1912",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Ethics%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.45
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 179,
+    "title": "On the Very Idea of a Robust Alternative",
+    "year": "2011",
+    "zotero_key": "CTKS6SGB",
+    "citation_key": "moyaVeryIdeaRobust2011",
+    "doi": "10.22201/iifs.18704905e.2011.803",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22On+the+Very+Idea+of+a+Robust+Alternative%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.22201/iifs.18704905e.2011.803",
+      "title": "On the Very Idea of a Robust Alternative",
+      "abstract": "According to the Principle of Alternative Possibilities (PAP), an agent is morally responsible for an action of hers only if she could have done otherwise. The notion of a robust alternative plays a prominent role in recent attacks on PAP based on so-called Frankfurt cases. In this paper I defend the truth of PAP for blameworthy actions against Frankfurt cases recently proposed by Derk Pereboom and David Widerker. My defence rests on some intuitively plausible principles that yield a new understanding of the concept of a robust alternative. I will leave aside whether PAP also holds for praiseworthy actions.",
+      "url": "https://doi.org/10.22201/iifs.18704905e.2011.803",
+      "pdf_urls": [
+        "https://critica.filosoficas.unam.mx/index.php/critica/article/download/803/773"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.22201/iifs.18704905e.2011.803",
+        "abstracts": [
+          {
+            "text": "Según el Principio de Posibilidades Alternativas (PPA), un agente es moralmente responsable de una acción sólo si hubiera podido actuar de otro modo. La noción de alternativa robusta desempeña un papel prominente en ataques recientes al PPA basados en los llamados casos Frankfurt. En este artículo defiendo el PPA para la culpabilidad moral frente a casos Frankfurt propuestos recientemente por Derk Pereboom y David Widerker. Mi defensa descansa en algunos principios intuitivamente plausibles que dan lugar a una comprensión nueva del concepto de alternativa robusta. No trataré la cuestión de la verdad del PPA para acciones moralmente laudables.",
+            "source": "https://critica.filosoficas.unam.mx/index.php/critica/article/view/803",
+            "field": "dc.description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://critica.filosoficas.unam.mx/index.php/critica/article/view/803"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the Principle of Alternative Possibilities (PAP), an agent is morally responsible for an action of hers only if she could have done otherwise. The notion of a robust alternative plays a prominent role in recent attacks on PAP based on so-called Frankfurt cases. In this paper I defend the truth of PAP for blameworthy actions against Frankfurt cases recently proposed by Derk Pereboom and David Widerker. My defence rests on some intuitively plausible principles that yield a new understanding of the concept of a robust alternative. I will leave aside whether PAP also holds for praiseworthy actions.",
+        "source": "https://doi.org/10.22201/iifs.18704905e.2011.803",
+        "kind": "crossref"
+      },
+      {
+        "text": "Según el Principio de Posibilidades Alternativas (PPA), un agente es moralmente responsable de una acción sólo si hubiera podido actuar de otro modo. La noción de alternativa robusta desempeña un papel prominente en ataques recientes al PPA basados en los llamados casos Frankfurt. En este artículo defiendo el PPA para la culpabilidad moral frente a casos Frankfurt propuestos recientemente por Derk Pereboom y David Widerker. Mi defensa descansa en algunos principios intuitivamente plausibles que dan lugar a una comprensión nueva del concepto de alternativa robusta. No trataré la cuestión de la verdad del PPA para acciones moralmente laudables.",
+        "source": "https://critica.filosoficas.unam.mx/index.php/critica/article/view/803",
+        "kind": "publisher.dc.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the Principle of Alternative Possibilities (PAP), an agent is morally responsible for an action of hers only if she could have done otherwise. The notion of a robust alternative plays a prominent role in recent attacks on PAP based on so-called Frankfurt cases. In this paper I defend the truth of PAP for blameworthy actions against Frankfurt cases recently proposed by Derk Pereboom and David Widerker. My defence rests on some intuitively plausible principles that yield a new understanding of the concept of a robust alternative. I will leave aside whether PAP also holds for praiseworthy actions.",
+      "source": "https://doi.org/10.22201/iifs.18704905e.2011.803",
+      "kind": "crossref"
+    },
+    "pdf_candidates": [
+      "https://critica.filosoficas.unam.mx/index.php/critica/article/download/803/773"
+    ]
+  },
+  {
+    "index": 180,
+    "title": "Free Will Without Consciousness?",
+    "year": "2022",
+    "zotero_key": "RR9BZTAU",
+    "citation_key": "mudrikFreeWillConsciousness2022",
+    "doi": "10.1016/j.tics.2022.03.005",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+Without+Consciousness%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1016/j.tics.2022.03.005",
+      "title": "Free will without consciousness?",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.tics.2022.03.005",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1016/j.tics.2022.03.005",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1364661322000638"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 181,
+    "title": "Coercion and the Hiddenness of God",
+    "year": "1993",
+    "zotero_key": "USUTI624",
+    "citation_key": "murrayCoercionHiddennessGod1993",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Coercion+and+the+Hiddenness+of+God%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 182,
+    "title": "Deus Absconditus",
+    "year": "2002",
+    "zotero_key": "NARRP42K",
+    "citation_key": "murrayDeusAbsconditus2002",
+    "doi": "10.1017/cbo9780511606090.004",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Deus+Absconditus%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/cbo9780511606090.004",
+      "title": "Deus Absconditus",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/cbo9780511606090.004",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/cbo9780511606090.004",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/books/abs/divine-hiddenness/deus-absconditus/7152B41D511EA4F11CC2A449833E8348"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 183,
+    "title": "Is Free Will an Illusion? Confronting Challenges from the Modern Mind Sciences",
+    "year": "2014",
+    "zotero_key": "VMEPG6YJ",
+    "citation_key": "nahmiasFreeWillIllusion2014",
+    "doi": "10.7551/mitpress/9780262026680.003.0002",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Is+Free+Will+an+Illusion%3F+Confronting+Challenges+from+the+Modern+Mind+Sciences%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.7551/mitpress/9780262026680.003.0002",
+      "title": "Is Free Will an Illusion? Confronting Challenges from the Modern Mind Sciences",
+      "abstract": "",
+      "url": "https://doi.org/10.7551/mitpress/9780262026680.003.0002",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.7551/mitpress/9780262026680.003.0002",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 184,
+    "title": "Making Sense of Freedom and Responsibility",
+    "year": "2011",
+    "zotero_key": "I8PAHR3Y",
+    "citation_key": "nelkinMakingSenseFreedom2011",
+    "doi": "10.1093/acprof:oso/9780199608560.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Making+Sense+of+Freedom+and+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780199608560.001.0001",
+      "title": "Making Sense of Freedom and Responsibility",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780199608560.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780199608560.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 185,
+    "title": "Bound: Essays on Free Will and Moral Responsibility",
+    "year": "2015",
+    "zotero_key": "EV42XQSK",
+    "citation_key": "nicholsBoundEssaysFree2015",
+    "doi": "10.1080/00048402.2015.1084344",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Bound%3A+Essays+on+Free+Will+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/00048402.2015.1084344",
+      "title": "<i>Bound: Essays on Free Will and Responsibility</i>, by Shaun Nichols",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/00048402.2015.1084344",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/00048402.2015.1084344",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 186,
+    "title": "Beyond Good and Evil, W. Kaufmann (trans.)",
+    "year": "1886",
+    "zotero_key": "ZXQV7MSK",
+    "citation_key": "nietzscheGoodEvilKaufmann1886",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Beyond+Good+and+Evil%2C+W.+Kaufmann+%28trans.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.558
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 187,
+    "title": "Free Will and Moral Responsibility",
+    "year": "1948",
+    "zotero_key": "ELNMQYAM",
+    "citation_key": "nowell-smithFreeWillMoral1948",
+    "doi": "10.1093/mind/lvii.225.45",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+Moral+Responsibility%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/lvii.225.45",
+      "title": "IV.—FREEWILL AND MORAL RESPONSIBILITY",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/lvii.225.45",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/lvii.225.45",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 188,
+    "title": "Determinists and Libertarians",
+    "year": "1954",
+    "zotero_key": "97DS2CLI",
+    "citation_key": "nowell-smithDeterministsLibertarians1954",
+    "doi": "10.1093/mind/lxiii.251.317",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Determinists+and+Libertarians%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/mind/lxiii.251.317",
+      "title": "II.—DETERMINISTS AND LIBERTARIANS",
+      "best_score": 0.964,
+      "abstract": "",
+      "url": "https://doi.org/10.1093/mind/lxiii.251.317",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/mind/lxiii.251.317",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 189,
+    "title": "Philosophical Explanations, Cambridge",
+    "year": "1981",
+    "zotero_key": "NRZKRVLW",
+    "citation_key": "nozickPhilosophicalExplanationsCambridge1981",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Philosophical+Explanations%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.697
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 190,
+    "title": "Persons and Causes: The Metaphysics of Free Will",
+    "year": "2000",
+    "zotero_key": "UGX85JSJ",
+    "citation_key": "oconnorPersonsCausesMetaphysics2000",
+    "doi": "10.5840/pc20013121",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Persons+and+Causes%3A+The+Metaphysics+of+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/pc20013121",
+      "title": "Persons and Causes: The Metaphysics of Free Will",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/pc20013121",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/pc20013121",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 191,
+    "title": "Is It All Just a Matter of Luck?",
+    "year": "2007",
+    "zotero_key": "JJVLBZF6",
+    "citation_key": "oconnorItAllJust2007",
+    "doi": "10.1080/13869790701305970",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Is+It+All+Just+a+Matter+of+Luck%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/13869790701305970",
+      "title": "IS IT ALL JUST A MATTER OF LUCK?",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13869790701305970",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/13869790701305970",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 192,
+    "title": "Agent-Causal Power",
+    "year": "2009",
+    "zotero_key": "UH346DK3",
+    "citation_key": "oconnorAgentCausalPower2009",
+    "doi": "10.1093/oso/9780199558933.003.0007",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agent-Causal+Power%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oso/9780199558933.003.0007",
+      "title": "Agent-Causal Power",
+      "abstract": "Our universe is populated, at bottom, by a vast number of partless particulars of a few basic kinds. Each of these particulars instantiates some of a small range of primitive qualities and stands in primitive relations with other particulars. We may conceive of qualities as immanent universals that are numerically identical in their instances, along the lines championed by David Armstrong (1978), or as ‘tropes’ that are non-identical but exactly resembling in their instances, following C. B. Martin (1997). (Nothing of what follows hangs on which alternative one prefers.) In calling these qualities ‘primitive’, we are contending that they are real existents whose being does not consist, even in part, in the existence or instantiation of other entities. The nature of these qualities is irreducibly dispositional: they are tendencies to interact with other qualities in producing some effect, or some range of possible effects. (Or, in certain cases— as we shall consider below— they may instead confer upon their possessor a tendency towards, or power to produce, some such effects.) It may be that the dispositional profile of a quality does not exhaust its nature, so that it has a further ‘qualitative character’, or quiddity. Here again, we may be neutral on this question for present purposes.",
+      "url": "https://doi.org/10.1093/oso/9780199558933.003.0007",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oso/9780199558933.003.0007",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Our universe is populated, at bottom, by a vast number of partless particulars of a few basic kinds. Each of these particulars instantiates some of a small range of primitive qualities and stands in primitive relations with other particulars. We may conceive of qualities as immanent universals that are numerically identical in their instances, along the lines championed by David Armstrong (1978), or as ‘tropes’ that are non-identical but exactly resembling in their instances, following C. B. Martin (1997). (Nothing of what follows hangs on which alternative one prefers.) In calling these qualities ‘primitive’, we are contending that they are real existents whose being does not consist, even in part, in the existence or instantiation of other entities. The nature of these qualities is irreducibly dispositional: they are tendencies to interact with other qualities in producing some effect, or some range of possible effects. (Or, in certain cases— as we shall consider below— they may instead confer upon their possessor a tendency towards, or power to produce, some such effects.) It may be that the dispositional profile of a quality does not exhaust its nature, so that it has a further ‘qualitative character’, or quiddity. Here again, we may be neutral on this question for present purposes.",
+        "source": "https://doi.org/10.1093/oso/9780199558933.003.0007",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Our universe is populated, at bottom, by a vast number of partless particulars of a few basic kinds. Each of these particulars instantiates some of a small range of primitive qualities and stands in primitive relations with other particulars. We may conceive of qualities as immanent universals that are numerically identical in their instances, along the lines championed by David Armstrong (1978), or as ‘tropes’ that are non-identical but exactly resembling in their instances, following C. B. Martin (1997). (Nothing of what follows hangs on which alternative one prefers.) In calling these qualities ‘primitive’, we are contending that they are real existents whose being does not consist, even in part, in the existence or instantiation of other entities. The nature of these qualities is irreducibly dispositional: they are tendencies to interact with other qualities in producing some effect, or some range of possible effects. (Or, in certain cases— as we shall consider below— they may instead confer upon their possessor a tendency towards, or power to produce, some such effects.) It may be that the dispositional profile of a quality does not exhaust its nature, so that it has a further ‘qualitative character’, or quiddity. Here again, we may be neutral on this question for present purposes.",
+      "source": "https://doi.org/10.1093/oso/9780199558933.003.0007",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 193,
+    "title": "Degrees of Freedom",
+    "year": "2009",
+    "zotero_key": "E4UGIYWZ",
+    "citation_key": "oconnorDegreesFreedom2009",
+    "doi": "10.1080/13869790902838472",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Degrees+of+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1080/13869790902838472",
+      "title": "Degrees of freedom",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13869790902838472",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1080/13869790902838472",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://www.tandfonline.com/action/cookieAbsent"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 194,
+    "title": "Agent-Causal Theories of Freedom",
+    "year": "2011",
+    "zotero_key": "C8RC5D3W",
+    "citation_key": "oconnorAgentCausalTheoriesFreedom2011",
+    "doi": "10.1093/oxfordhb/9780195399691.003.0015",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Agent-Causal+Theories+of+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oxfordhb/9780195399691.003.0015",
+      "title": "Agent-Causal Theories of Freedom",
+      "abstract": "This article provides an overview of recent agent-causal theories, explaining what motivates them to postulate an “ontologically primitive” notion of causation by an agent or substance that is not reducible to ordinary modes of event-causation. It considers different accounts of the agent-causal view which have been defended by libertarians. It also poses the question whether agent-causal theories require a substance dualism of mind and body since they posit a causal relation between an agent and action irreducible to ordinary modes of causation. It argues that agent-causal theories do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent.",
+      "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0015",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0015",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "This article provides an overview of recent agent-causal theories, explaining what motivates them to postulate an “ontologically primitive” notion of causation by an agent or substance that is not reducible to ordinary modes of event-causation. It considers different accounts of the agent-causal view which have been defended by libertarians. It also poses the question whether agent-causal theories require a substance dualism of mind and body since they posit a causal relation between an agent and action irreducible to ordinary modes of causation. It argues that agent-causal theories do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent.",
+        "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0015",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "This article provides an overview of recent agent-causal theories, explaining what motivates them to postulate an “ontologically primitive” notion of causation by an agent or substance that is not reducible to ordinary modes of event-causation. It considers different accounts of the agent-causal view which have been defended by libertarians. It also poses the question whether agent-causal theories require a substance dualism of mind and body since they posit a causal relation between an agent and action irreducible to ordinary modes of causation. It argues that agent-causal theories do not necessarily require substance dualism, but may require causal powers and properties that are ontologically emergent.",
+      "source": "https://doi.org/10.1093/oxfordhb/9780195399691.003.0015",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 195,
+    "title": "Probability and Freedom",
+    "year": "2016",
+    "zotero_key": "B84M8LIE",
+    "citation_key": "oconnorProbabilityFreedom2016",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Probability+and+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 196,
+    "title": "How Do We Know That We Are Free?",
+    "year": "2019",
+    "zotero_key": "3L5RBZCQ",
+    "citation_key": "oconnorHowWeKnow2019",
+    "doi": "10.31820/ejap.15.2.4",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22How+Do+We+Know+That+We+Are+Free%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.31820/ejap.15.2.4",
+      "title": "How Do We Know That We Are Free?",
+      "abstract": "We are naturally disposed to believe of ourselves and others that we are free: that what we do is often and to a considerable extent ‘up to us’ via the exercise of a power of choice to do or to refrain from doing one or more alternatives of which we are aware. In this article, I probe thesource and epistemic justification of our ‘freedom belief’. I propose an account that (unlike most) does not lean heavily on our first-personal experience of choice and action, and instead regards freedom belief as a priori justified. I will then consider possible replies available toincompatibilists to the contention made by some compatibilists that the ‘privileged’ epistemic status of freedom belief (which my account endorses) supports a minimalist, and therefore compatibilist view of the nature of freedom itself.",
+      "url": "https://doi.org/10.31820/ejap.15.2.4",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.31820/ejap.15.2.4",
+        "abstracts": [
+          {
+            "text": "We are naturally disposed to believe of ourselves and others that we are free: that what we do is often and to a considerable extent ‘up to us’ via the exercise of a power of choice to do or to refrain from doing one or more alternatives of which we...",
+            "source": "https://hrcak.srce.hr/229964",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://hrcak.srce.hr/229964"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "We are naturally disposed to believe of ourselves and others that we are free: that what we do is often and to a considerable extent ‘up to us’ via the exercise of a power of choice to do or to refrain from doing one or more alternatives of which we are aware. In this article, I probe thesource and epistemic justification of our ‘freedom belief’. I propose an account that (unlike most) does not lean heavily on our first-personal experience of choice and action, and instead regards freedom belief as a priori justified. I will then consider possible replies available toincompatibilists to the contention made by some compatibilists that the ‘privileged’ epistemic status of freedom belief (which my account endorses) supports a minimalist, and therefore compatibilist view of the nature of freedom itself.",
+        "source": "https://doi.org/10.31820/ejap.15.2.4",
+        "kind": "crossref"
+      },
+      {
+        "text": "We are naturally disposed to believe of ourselves and others that we are free: that what we do is often and to a considerable extent ‘up to us’ via the exercise of a power of choice to do or to refrain from doing one or more alternatives of which we...",
+        "source": "https://hrcak.srce.hr/229964",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "We are naturally disposed to believe of ourselves and others that we are free: that what we do is often and to a considerable extent ‘up to us’ via the exercise of a power of choice to do or to refrain from doing one or more alternatives of which we are aware. In this article, I probe thesource and epistemic justification of our ‘freedom belief’. I propose an account that (unlike most) does not lean heavily on our first-personal experience of choice and action, and instead regards freedom belief as a priori justified. I will then consider possible replies available toincompatibilists to the contention made by some compatibilists that the ‘privileged’ epistemic status of freedom belief (which my account endorses) supports a minimalist, and therefore compatibilist view of the nature of freedom itself.",
+      "source": "https://doi.org/10.31820/ejap.15.2.4",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 197,
+    "title": "Free Will in a Network of Interacting Causes",
+    "year": "2021",
+    "zotero_key": "2LLA5PSR",
+    "citation_key": "oconnorFreeWillNetwork2021",
+    "doi": "10.4324/9781003125860-8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+in+a+Network+of+Interacting+Causes%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.4324/9781003125860-8",
+      "title": "Free Will in a Network of Interacting Causes",
+      "abstract": "",
+      "url": "https://doi.org/10.4324/9781003125860-8",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.4324/9781003125860-8",
+        "abstracts": [
+          {
+            "text": "Broadly neo-Aristotelian theories of the general ontology of objects and of causal powers and causation have proliferated in the past quarter century. This chapter begins by canvassing such theories and defending a particular position on each of these disputed topics. It then proposes a way to think about the exercise of (indeterministic) free will within the preferred framework.",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor",
+            "field": "citation_abstract",
+            "title_score": 1.0
+          },
+          {
+            "text": "Broadly neo-Aristotelian theories of the general ontology of objects and of causal powers and causation have proliferated in the past quarter century. This",
+            "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Broadly neo-Aristotelian theories of the general ontology of objects and of causal powers and causation have proliferated in the past quarter century. This chapter begins by canvassing such theories and defending a particular position on each of these disputed topics. It then proposes a way to think about the exercise of (indeterministic) free will within the preferred framework.",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor",
+        "kind": "publisher.citation_abstract"
+      },
+      {
+        "text": "Broadly neo-Aristotelian theories of the general ontology of objects and of causal powers and causation have proliferated in the past quarter century. This",
+        "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Broadly neo-Aristotelian theories of the general ontology of objects and of causal powers and causation have proliferated in the past quarter century. This chapter begins by canvassing such theories and defending a particular position on each of these disputed topics. It then proposes a way to think about the exercise of (indeterministic) free will within the preferred framework.",
+      "source": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003125860-8/free-network-interacting-causes-timothy-connor",
+      "kind": "publisher.citation_abstract"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 198,
+    "title": "Why The One Did Not Remain Within Itself",
+    "year": "2022",
+    "zotero_key": "X6QVU8VS",
+    "citation_key": "oconnorWhyOneDid2022",
+    "doi": "10.1093/oso/9780192862976.003.0007",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Why+The+One+Did+Not+Remain+Within+Itself%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oso/9780192862976.003.0007",
+      "title": "Why the One Did Not Remain Within Itself",
+      "abstract": "Why did the omnipotent, omniscient, unsurpassably, and perfectly good being who is necessary in Himself, and having a supremely rational will, contingently create ex nihilo? What motivation could account for such freely undertaken activity, displaying it as neither necessary nor less than fully rational? The chapter considers and criticizes answers recently offered by Mark Johnston and Alex Pruss. It is argued that creation of some contingent reality or other is necessary, and that plausible reflections on the ordered complexity in God’s motivations indicate that the scope of contingency regarding what to create is highly constricted—though not to the point of complete modal collapse. A perfect creator would create either an infinite and richly varied multiverse or an infinitely improving universe realizing a wide array of kinds of goods. Finally, a rebuttal is given to the contention that any element of contingency in a divine choice entails a rational-explanatory deficiency.",
+      "url": "https://doi.org/10.1093/oso/9780192862976.003.0007",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oso/9780192862976.003.0007",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Why did the omnipotent, omniscient, unsurpassably, and perfectly good being who is necessary in Himself, and having a supremely rational will, contingently create ex nihilo? What motivation could account for such freely undertaken activity, displaying it as neither necessary nor less than fully rational? The chapter considers and criticizes answers recently offered by Mark Johnston and Alex Pruss. It is argued that creation of some contingent reality or other is necessary, and that plausible reflections on the ordered complexity in God’s motivations indicate that the scope of contingency regarding what to create is highly constricted—though not to the point of complete modal collapse. A perfect creator would create either an infinite and richly varied multiverse or an infinitely improving universe realizing a wide array of kinds of goods. Finally, a rebuttal is given to the contention that any element of contingency in a divine choice entails a rational-explanatory deficiency.",
+        "source": "https://doi.org/10.1093/oso/9780192862976.003.0007",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Why did the omnipotent, omniscient, unsurpassably, and perfectly good being who is necessary in Himself, and having a supremely rational will, contingently create ex nihilo? What motivation could account for such freely undertaken activity, displaying it as neither necessary nor less than fully rational? The chapter considers and criticizes answers recently offered by Mark Johnston and Alex Pruss. It is argued that creation of some contingent reality or other is necessary, and that plausible reflections on the ordered complexity in God’s motivations indicate that the scope of contingency regarding what to create is highly constricted—though not to the point of complete modal collapse. A perfect creator would create either an infinite and richly varied multiverse or an infinitely improving universe realizing a wide array of kinds of goods. Finally, a rebuttal is given to the contention that any element of contingency in a divine choice entails a rational-explanatory deficiency.",
+      "source": "https://doi.org/10.1093/oso/9780192862976.003.0007",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 199,
+    "title": "New Distinctions, Same Troubles: A Reply to Haji and McKenna",
+    "year": "2005",
+    "zotero_key": "TWSXBBVH",
+    "citation_key": "palmerNewDistinctionsSame2005",
+    "doi": "10.5840/jphil2005102934",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22New+Distinctions%2C+Same+Troubles%3A+A+Reply+to+Haji+and+McKenna%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/jphil2005102934",
+      "title": "New Distinctions, Same Troubles: A Reply to Haji and McKenna",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/jphil2005102934",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/jphil2005102934",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 200,
+    "title": "Pereboom on Frankfurt Cases",
+    "year": "2011",
+    "zotero_key": "WU8KF9MW",
+    "citation_key": "palmerPereboomFrankfurtCases2011",
+    "doi": "10.1007/s11098-009-9489-0",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Pereboom+on+Frankfurt+Cases%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-009-9489-0",
+      "title": "Pereboom on the Frankfurt cases",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-009-9489-0",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-009-9489-0.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-009-9489-0",
+        "abstracts": [
+          {
+            "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. In what follows, I want to defend this principle against an apparent counterexample offered recently by Derk Pereboom (Living without free will, 2001; Midwest Studies in Philosophy, 29:228–247, 2005). Pereboom’s case, a variant of what are known as ‘Frankfurt cases,’ is important for it attempts to overcome a dilemma posed for earlier alleged counterexamples to PAP. However, I will argue that by paying closer attention to the details of Pereboom’s example, we see that his example fails to show a way between the horns of the dilemma posed for the earlier Frankfurt examples.",
+            "source": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9",
+            "field": "dc.description",
+            "title_score": 0.941
+          },
+          {
+            "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. I",
+            "source": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9",
+            "field": "description",
+            "title_score": 0.941
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. In what follows, I want to defend this principle against an apparent counterexample offered recently by Derk Pereboom (Living without free will, 2001; Midwest Studies in Philosophy, 29:228–247, 2005). Pereboom’s case, a variant of what are known as ‘Frankfurt cases,’ is important for it attempts to overcome a dilemma posed for earlier alleged counterexamples to PAP. However, I will argue that by paying closer attention to the details of Pereboom’s example, we see that his example fails to show a way between the horns of the dilemma posed for the earlier Frankfurt examples.",
+        "source": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. I",
+        "source": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. In what follows, I want to defend this principle against an apparent counterexample offered recently by Derk Pereboom (Living without free will, 2001; Midwest Studies in Philosophy, 29:228–247, 2005). Pereboom’s case, a variant of what are known as ‘Frankfurt cases,’ is important for it attempts to overcome a dilemma posed for earlier alleged counterexamples to PAP. However, I will argue that by paying closer attention to the details of Pereboom’s example, we see that his example fails to show a way between the horns of the dilemma posed for the earlier Frankfurt examples.",
+      "source": "https://link.springer.com/article/10.1007/s11098-009-9489-0?error=cookies_not_supported&code=42a1579a-1991-4386-a114-9a29b8ad82e9",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-009-9489-0.pdf"
+    ]
+  },
+  {
+    "index": 201,
+    "title": "The Timing Objection to the Frankfurt Cases",
+    "year": "2013",
+    "zotero_key": "VNWYAD6A",
+    "citation_key": "palmerTimingObjectionFrankfurt2013",
+    "doi": "10.1007/s10670-012-9396-1",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Timing+Objection+to+the+Frankfurt+Cases%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s10670-012-9396-1",
+      "title": "The Timing Objection to the Frankfurt Cases",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s10670-012-9396-1",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s10670-012-9396-1",
+        "abstracts": [
+          {
+            "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. Pereboom (Living without free will, Cambridge University Press, Cambridge, 2001, Midwest Studies in Philosophy 29:228–247, 2005) has developed an influential version of a Frankfurt case, known as “Tax Evasion,” which he believes is a counterexample to PAP. Ginet (Journal of Ethics 6:305–309, 2002) raises a key objection against Pereboom’s case, known as “the timing objection.” The main claim of the timing objection is that we need to pay close attention to the precise time at which people act in order to determine what they can, and cannot, be morally responsible for. Recently, Pereboom (The philosophy of free will, Oxford University Press, New York, 2012) has defended his position against this objection by developing a new Frankfurt case called “Tax Cut.” In this paper, I assess this new development. I argue that Tax Cut is just as vulnerable to the timing objection as Pereboom’s original case, Tax Evasion. Thus, Pereboom’s response to the timing objection fails, leaving PAP intact from the threat of both of his Frankfurt cases. Along the way, I further motivate and develop the timing objection, and explore the distinction between derivative and non-derivative responsibility.",
+            "source": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. P",
+            "source": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [
+          "http://www.arts.cornell.edu/phil/homepages/pereboom/Optimistic%20Skepticism%20final.pdf"
+        ],
+        "final_url": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. Pereboom (Living without free will, Cambridge University Press, Cambridge, 2001, Midwest Studies in Philosophy 29:228–247, 2005) has developed an influential version of a Frankfurt case, known as “Tax Evasion,” which he believes is a counterexample to PAP. Ginet (Journal of Ethics 6:305–309, 2002) raises a key objection against Pereboom’s case, known as “the timing objection.” The main claim of the timing objection is that we need to pay close attention to the precise time at which people act in order to determine what they can, and cannot, be morally responsible for. Recently, Pereboom (The philosophy of free will, Oxford University Press, New York, 2012) has defended his position against this objection by developing a new Frankfurt case called “Tax Cut.” In this paper, I assess this new development. I argue that Tax Cut is just as vulnerable to the timing objection as Pereboom’s original case, Tax Evasion. Thus, Pereboom’s response to the timing objection fails, leaving PAP intact from the threat of both of his Frankfurt cases. Along the way, I further motivate and develop the timing objection, and explore the distinction between derivative and non-derivative responsibility.",
+        "source": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. P",
+        "source": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the principle of alternative possibilities (PAP), a person is morally responsible for what he has done only if he could have done otherwise. Pereboom (Living without free will, Cambridge University Press, Cambridge, 2001, Midwest Studies in Philosophy 29:228–247, 2005) has developed an influential version of a Frankfurt case, known as “Tax Evasion,” which he believes is a counterexample to PAP. Ginet (Journal of Ethics 6:305–309, 2002) raises a key objection against Pereboom’s case, known as “the timing objection.” The main claim of the timing objection is that we need to pay close attention to the precise time at which people act in order to determine what they can, and cannot, be morally responsible for. Recently, Pereboom (The philosophy of free will, Oxford University Press, New York, 2012) has defended his position against this objection by developing a new Frankfurt case called “Tax Cut.” In this paper, I assess this new development. I argue that Tax Cut is just as vulnerable to the timing objection as Pereboom’s original case, Tax Evasion. Thus, Pereboom’s response to the timing objection fails, leaving PAP intact from the threat of both of his Frankfurt cases. Along the way, I further motivate and develop the timing objection, and explore the distinction between derivative and non-derivative responsibility.",
+      "source": "https://link.springer.com/article/10.1007/s10670-012-9396-1?error=cookies_not_supported&code=0e417a0a-b753-4cbb-80d5-0f822ee5f89c",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s10670-012-9396-1.pdf",
+      "http://www.arts.cornell.edu/phil/homepages/pereboom/Optimistic%20Skepticism%20final.pdf"
+    ]
+  }
+]

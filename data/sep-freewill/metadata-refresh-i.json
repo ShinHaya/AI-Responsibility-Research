@@ -1,0 +1,598 @@
+[
+  {
+    "index": 202,
+    "title": "Deterministic Frankfurt Cases",
+    "year": "2014",
+    "zotero_key": "SF6CNN88",
+    "citation_key": "palmerDeterministicFrankfurtCases2014",
+    "doi": "10.1007/s11229-014-0500-8",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Deterministic+Frankfurt+Cases%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11229-014-0500-8",
+      "title": "Deterministic Frankfurt cases",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11229-014-0500-8",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11229-014-0500-8.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11229-014-0500-8",
+        "abstracts": [
+          {
+            "text": "According to the principle of alternative possibilities (PAP), people are morally responsible for what they do only if they could have done otherwise. Over the last few decades, this principle has dominated discussions of free will and moral responsibility. One important strand of this discussion concerns the Frankfurt-type cases or Frankfurt cases, originally developed by Frankfurt (J Philos 66:829–839, 1969), which are alleged counterexamples to PAP. One way in which proponents of PAP have responded to these purported counterexamples is by arguing that they fall prey to a dilemma, both horns of which undermine their cogency. Recently, Fischer (Philos Rev 119: 315–336, 2010) has defended the Frankfurt cases against one horn of this dilemma. In this essay, I criticize Fischer’s defense of the Frankfurt cases and argue that he does not successfully show how the cases can avoid this horn of the dilemma. If I am right, then, despite Fischer’s claims to the contrary, the original dilemma plaguing the cases still stands.",
+            "source": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "According to the principle of alternative possibilities (PAP), people are morally responsible for what they do only if they could have done otherwise. Over",
+            "source": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the principle of alternative possibilities (PAP), people are morally responsible for what they do only if they could have done otherwise. Over the last few decades, this principle has dominated discussions of free will and moral responsibility. One important strand of this discussion concerns the Frankfurt-type cases or Frankfurt cases, originally developed by Frankfurt (J Philos 66:829–839, 1969), which are alleged counterexamples to PAP. One way in which proponents of PAP have responded to these purported counterexamples is by arguing that they fall prey to a dilemma, both horns of which undermine their cogency. Recently, Fischer (Philos Rev 119: 315–336, 2010) has defended the Frankfurt cases against one horn of this dilemma. In this essay, I criticize Fischer’s defense of the Frankfurt cases and argue that he does not successfully show how the cases can avoid this horn of the dilemma. If I am right, then, despite Fischer’s claims to the contrary, the original dilemma plaguing the cases still stands.",
+        "source": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "According to the principle of alternative possibilities (PAP), people are morally responsible for what they do only if they could have done otherwise. Over",
+        "source": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the principle of alternative possibilities (PAP), people are morally responsible for what they do only if they could have done otherwise. Over the last few decades, this principle has dominated discussions of free will and moral responsibility. One important strand of this discussion concerns the Frankfurt-type cases or Frankfurt cases, originally developed by Frankfurt (J Philos 66:829–839, 1969), which are alleged counterexamples to PAP. One way in which proponents of PAP have responded to these purported counterexamples is by arguing that they fall prey to a dilemma, both horns of which undermine their cogency. Recently, Fischer (Philos Rev 119: 315–336, 2010) has defended the Frankfurt cases against one horn of this dilemma. In this essay, I criticize Fischer’s defense of the Frankfurt cases and argue that he does not successfully show how the cases can avoid this horn of the dilemma. If I am right, then, despite Fischer’s claims to the contrary, the original dilemma plaguing the cases still stands.",
+      "source": "https://link.springer.com/article/10.1007/s11229-014-0500-8?error=cookies_not_supported&code=21dd24c5-bb98-48a9-b82b-f6fa0c8d7e91",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11229-014-0500-8.pdf"
+    ]
+  },
+  {
+    "index": 203,
+    "title": "Free Will and Control: A Noncausal Approach",
+    "year": "2021",
+    "zotero_key": "PNQZNAX6",
+    "citation_key": "palmerFreeWillControl2021",
+    "doi": "10.1007/s11229-020-02701-4",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will+and+Control%3A+A+Noncausal+Approach%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11229-020-02701-4",
+      "title": "Free will and control: a noncausal approach",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11229-020-02701-4",
+      "pdf_urls": [
+        "https://link.springer.com/content/pdf/10.1007/s11229-020-02701-4.pdf",
+        "https://link.springer.com/content/pdf/10.1007/s11229-020-02701-4.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11229-020-02701-4",
+        "abstracts": [
+          {
+            "text": "According to the noncausal libertarian view of free will, in order for a person’s action to be free, it must be uncaused. A standard criticism of this view—the control objection—is that a person cannot have control over whether an uncaused action occurs and, so, such an action cannot be free. The background to this criticism is the claim that control over action is plausibly a causal rather than noncausal matter. In this paper, I defend noncausal libertarianism against the control objection by developing a new noncausal theory of control. What emerges is not simply a defense of noncausal libertarianism against the control objection but a new theory of control more generally.",
+            "source": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "According to the noncausal libertarian view of free will, in order for a person’s action to be free, it must be uncaused. A standard criticism of thi",
+            "source": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "According to the noncausal libertarian view of free will, in order for a person’s action to be free, it must be uncaused. A standard criticism of this view—the control objection—is that a person cannot have control over whether an uncaused action occurs and, so, such an action cannot be free. The background to this criticism is the claim that control over action is plausibly a causal rather than noncausal matter. In this paper, I defend noncausal libertarianism against the control objection by developing a new noncausal theory of control. What emerges is not simply a defense of noncausal libertarianism against the control objection but a new theory of control more generally.",
+        "source": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "According to the noncausal libertarian view of free will, in order for a person’s action to be free, it must be uncaused. A standard criticism of thi",
+        "source": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "According to the noncausal libertarian view of free will, in order for a person’s action to be free, it must be uncaused. A standard criticism of this view—the control objection—is that a person cannot have control over whether an uncaused action occurs and, so, such an action cannot be free. The background to this criticism is the claim that control over action is plausibly a causal rather than noncausal matter. In this paper, I defend noncausal libertarianism against the control objection by developing a new noncausal theory of control. What emerges is not simply a defense of noncausal libertarianism against the control objection but a new theory of control more generally.",
+      "source": "https://link.springer.com/article/10.1007/s11229-020-02701-4?error=cookies_not_supported&code=c1c2ec6d-5a5a-426d-a7f5-072d72706e38",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s11229-020-02701-4.pdf"
+    ]
+  },
+  {
+    "index": 204,
+    "title": "Incompatibilism, Sin, and Free Will in Heaven",
+    "year": "2009",
+    "zotero_key": "EWM2IJFA",
+    "citation_key": "pawlIncompatibilismSinFree2009",
+    "doi": "10.5840/faithphil200926437",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Incompatibilism%2C+Sin%2C+and+Free+Will+in+Heaven%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/faithphil200926437",
+      "title": "INCOMPATIBILISM, SIN, AND FREE WILL IN HEAVEN",
+      "abstract": "",
+      "url": "https://doi.org/10.5840/faithphil200926437",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/faithphil200926437",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://place.asburyseminary.edu/faithandphilosophy/vol26/iss4/4/"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 205,
+    "title": "The Explanatory Power of Local Miracle Compatibilism",
+    "year": "2010",
+    "zotero_key": "GI7N48TW",
+    "citation_key": "pendergraftExplanatoryPowerLocal2010",
+    "doi": "10.1007/s11098-010-9594-0",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Explanatory+Power+of+Local+Miracle+Compatibilism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-010-9594-0",
+      "title": "The explanatory power of local miracle compatibilism",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-010-9594-0",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-010-9594-0.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-010-9594-0",
+        "abstracts": [
+          {
+            "text": "Local miracle compatibilists claim that we are sometimes able to do otherwise than we actually do, even if causal determinism obtains. When we can do otherwise, it will often be true that if we were to do otherwise, then an actual law of nature would not have been a law of nature. Nevertheless, it is a compatibilist principle that we cannot do anything that would be or cause an event that violates the laws of nature. Carl Ginet challenges this nomological principle, arguing that it is not always capable of explaining our inability to do otherwise. In response to this challenge, I point out that this principle is part of a defense against the charge that local miracle compatibilists are committed to outlandish claims. Thus it is not surprising that the principle, by itself, will often fail to explain our inability to do otherwise. I then suggest that in many situations in which we are unable to do otherwise, this can be explained by the compatibilist’s analysis of ability, or his criteria for the truth of ability claims. Thus, the failure of his nomological principle to explain the falsity of certain ability claims is no strike against local miracle compatibilism.",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Local miracle compatibilists claim that we are sometimes able to do otherwise than we actually do, even if causal determinism obtains. When we can do other",
+            "source": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Local miracle compatibilists claim that we are sometimes able to do otherwise than we actually do, even if causal determinism obtains. When we can do otherwise, it will often be true that if we were to do otherwise, then an actual law of nature would not have been a law of nature. Nevertheless, it is a compatibilist principle that we cannot do anything that would be or cause an event that violates the laws of nature. Carl Ginet challenges this nomological principle, arguing that it is not always capable of explaining our inability to do otherwise. In response to this challenge, I point out that this principle is part of a defense against the charge that local miracle compatibilists are committed to outlandish claims. Thus it is not surprising that the principle, by itself, will often fail to explain our inability to do otherwise. I then suggest that in many situations in which we are unable to do otherwise, this can be explained by the compatibilist’s analysis of ability, or his criteria for the truth of ability claims. Thus, the failure of his nomological principle to explain the falsity of certain ability claims is no strike against local miracle compatibilism.",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Local miracle compatibilists claim that we are sometimes able to do otherwise than we actually do, even if causal determinism obtains. When we can do other",
+        "source": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Local miracle compatibilists claim that we are sometimes able to do otherwise than we actually do, even if causal determinism obtains. When we can do otherwise, it will often be true that if we were to do otherwise, then an actual law of nature would not have been a law of nature. Nevertheless, it is a compatibilist principle that we cannot do anything that would be or cause an event that violates the laws of nature. Carl Ginet challenges this nomological principle, arguing that it is not always capable of explaining our inability to do otherwise. In response to this challenge, I point out that this principle is part of a defense against the charge that local miracle compatibilists are committed to outlandish claims. Thus it is not surprising that the principle, by itself, will often fail to explain our inability to do otherwise. I then suggest that in many situations in which we are unable to do otherwise, this can be explained by the compatibilist’s analysis of ability, or his criteria for the truth of ability claims. Thus, the failure of his nomological principle to explain the falsity of certain ability claims is no strike against local miracle compatibilism.",
+      "source": "https://link.springer.com/article/10.1007/s11098-010-9594-0?error=cookies_not_supported&code=61e518d3-12e6-4165-8b7c-eda0f0317d17",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-010-9594-0.pdf"
+    ]
+  },
+  {
+    "index": 206,
+    "title": "Living Without Free Will",
+    "year": "2001",
+    "zotero_key": "6AM7BIPT",
+    "citation_key": "pereboomLivingFreeWill2001",
+    "doi": "10.5840/faithphil200219330",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Living+Without+Free+Will%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5840/faithphil200219330",
+      "title": "Living Without Free Will",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5840/faithphil200219330",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5840/faithphil200219330",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "https://place.asburyseminary.edu/faithandphilosophy/vol19/iss3/8/"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 207,
+    "title": "Free Will, Agency, and Meaning in Life",
+    "year": "2014",
+    "zotero_key": "UKEDATM9",
+    "citation_key": "pereboomFreeWillAgency2014",
+    "doi": "10.5860/choice.186110",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Free+Will%2C+Agency%2C+and+Meaning+in+Life%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.5860/choice.186110",
+      "title": "Free will, agency, and meaning in life",
+      "best_score": 1.0,
+      "abstract": "",
+      "url": "https://doi.org/10.5860/choice.186110",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.5860/choice.186110",
+        "abstracts": [],
+        "pdf_urls": [],
+        "final_url": "http://choicereviews.org/login"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 208,
+    "title": "Self-determination: The Ethics of Action, volume 1",
+    "year": "2017",
+    "zotero_key": "C7ST29XZ",
+    "citation_key": "pinkSelfdeterminationEthicsAction2017",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Self-determination%3A+The+Ethics+of+Action%2C+volume+1%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.577
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 209,
+    "title": "Complete Works, John Cooper (ed.)",
+    "year": "1997",
+    "zotero_key": "FHQF2NN7",
+    "citation_key": "platoCompleteWorksJohn1997",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Complete+Works%2C+John+Cooper+%28ed.%29%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.306
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 210,
+    "title": "Divine Creative Freedom",
+    "year": "2016",
+    "zotero_key": "R6Z66Z45",
+    "citation_key": "prussDivineCreativeFreedom2016",
+    "doi": "10.1093/acprof:oso/9780198757702.003.0009",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Divine+Creative+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/acprof:oso/9780198757702.003.0009",
+      "title": "Divine Creative Freedom",
+      "abstract": "",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198757702.003.0009",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/acprof:oso/9780198757702.003.0009",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 211,
+    "title": "‘Was Descartes a Libertarian?’ in Oxford Studies in Early Modern Philosophy",
+    "year": "2006",
+    "zotero_key": "Q7BCVEXV",
+    "citation_key": "raglandWasDescartesLibertarian2006",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22%E2%80%98Was+Descartes+a+Libertarian%3F%E2%80%99+in+Oxford+Studies+in+Early+Modern+Philosophy%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.735
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 212,
+    "title": "Essays on the Active Powers of the Human Mind, Baruch Brody (ed.), Cambridge",
+    "year": "1788",
+    "zotero_key": "T3JLUZCZ",
+    "citation_key": "reidEssaysActivePowers1788",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Essays+on+the+Active+Powers+of+the+Human+Mind%2C+Baruch+Brody+%28ed.%29%2C+Cambridge%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "best_score": 0.531
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 213,
+    "title": "The Limits of Limited-Blockage Frankfurt-style Cases",
+    "year": "2014",
+    "zotero_key": "5ZV7VAYM",
+    "citation_key": "robinsonLimitsLimitedBlockageFrankfurtstyle2014",
+    "doi": "10.1007/s11098-013-0190-y",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22The+Limits+of+Limited-Blockage+Frankfurt-style+Cases%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1007/s11098-013-0190-y",
+      "title": "The limits of limited-blockage Frankfurt-style cases",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11098-013-0190-y",
+      "pdf_urls": [
+        "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf"
+      ]
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1007/s11098-013-0190-y",
+        "abstracts": [
+          {
+            "text": "Philosophers employing Frankfurt-style cases to challenge the principle of alternative possibilities have mostly sought to construct scenarios that eliminate as many of an agent’s alternatives as possible—and all alternatives at the moment of action, within the agent’s control—without causally determining the agent’s actions. One of the chief difficulties for this traditional approach is that the closer one gets to ruling out absolutely all alternative possibilities the more it appears that agents’ actions in these cases are causally determined. “Limited-blockage” versions of these cases are meant to sidestep this worry by blocking all and only those alternatives that are intrinsically relevant to moral responsibility (“robust alternatives”) while leaving open all other alternatives, including a significant range of alternatives that are within the agent’s voluntary control at the moment of action. I argue that, owing to the fact that omissions (and not just actions) are capable of constituting robust alternative possibilities, limited-blockage cases cannot avoid collapsing into the more traditional sort of Frankfurt-style case to which they are meant to be an alternative and so are vulnerable to the very same concerns they are meant to avoid.",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055",
+            "field": "dc.description",
+            "title_score": 1.0
+          },
+          {
+            "text": "Philosophers employing Frankfurt-style cases to challenge the principle of alternative possibilities have mostly sought to construct scenarios that elimina",
+            "source": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055",
+            "field": "description",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "Philosophers employing Frankfurt-style cases to challenge the principle of alternative possibilities have mostly sought to construct scenarios that eliminate as many of an agent’s alternatives as possible—and all alternatives at the moment of action, within the agent’s control—without causally determining the agent’s actions. One of the chief difficulties for this traditional approach is that the closer one gets to ruling out absolutely all alternative possibilities the more it appears that agents’ actions in these cases are causally determined. “Limited-blockage” versions of these cases are meant to sidestep this worry by blocking all and only those alternatives that are intrinsically relevant to moral responsibility (“robust alternatives”) while leaving open all other alternatives, including a significant range of alternatives that are within the agent’s voluntary control at the moment of action. I argue that, owing to the fact that omissions (and not just actions) are capable of constituting robust alternative possibilities, limited-blockage cases cannot avoid collapsing into the more traditional sort of Frankfurt-style case to which they are meant to be an alternative and so are vulnerable to the very same concerns they are meant to avoid.",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055",
+        "kind": "publisher.dc.description"
+      },
+      {
+        "text": "Philosophers employing Frankfurt-style cases to challenge the principle of alternative possibilities have mostly sought to construct scenarios that elimina",
+        "source": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055",
+        "kind": "publisher.description"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "Philosophers employing Frankfurt-style cases to challenge the principle of alternative possibilities have mostly sought to construct scenarios that eliminate as many of an agent’s alternatives as possible—and all alternatives at the moment of action, within the agent’s control—without causally determining the agent’s actions. One of the chief difficulties for this traditional approach is that the closer one gets to ruling out absolutely all alternative possibilities the more it appears that agents’ actions in these cases are causally determined. “Limited-blockage” versions of these cases are meant to sidestep this worry by blocking all and only those alternatives that are intrinsically relevant to moral responsibility (“robust alternatives”) while leaving open all other alternatives, including a significant range of alternatives that are within the agent’s voluntary control at the moment of action. I argue that, owing to the fact that omissions (and not just actions) are capable of constituting robust alternative possibilities, limited-blockage cases cannot avoid collapsing into the more traditional sort of Frankfurt-style case to which they are meant to be an alternative and so are vulnerable to the very same concerns they are meant to avoid.",
+      "source": "https://link.springer.com/article/10.1007/s11098-013-0190-y?error=cookies_not_supported&code=6a9d99a4-dce2-4738-9553-ac72a7c37055",
+      "kind": "publisher.dc.description"
+    },
+    "pdf_candidates": [
+      "http://link.springer.com/content/pdf/10.1007/s11098-013-0190-y.pdf"
+    ]
+  },
+  {
+    "index": 214,
+    "title": "Augustine’s Compatibilism",
+    "year": "2004",
+    "zotero_key": "UIPILIWG",
+    "citation_key": "rogersAugustinesCompatibilism2004",
+    "doi": "10.1017/s003441250400722x",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Augustine%E2%80%99s+Compatibilism%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1017/s003441250400722x",
+      "title": "Augustine's compatibilism",
+      "abstract": "In analysing Augustine's views on freedom it is standard to draw two distinctions; one between an earlier emphasis on human freedom and a later insistence that God alone governs human destiny, and another between pre-lapsarian and post-lapsarian freedom. These distinctions are real and important, but underlying them is a more fundamental consistency. Augustine is a compatibilist from his earliest work on freedom through his final anti-Pelagian writings, and the freedom possessed by the un-fallen and the fallen will is a compatibilist freedom. This leaves Augustine open to the charge that he makes God the ultimate cause of sin.",
+      "url": "https://doi.org/10.1017/s003441250400722x",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1017/s003441250400722x",
+        "abstracts": [
+          {
+            "text": "In analysing Augustine's views on freedom it is standard to draw two distinctions; one between an earlier emphasis on human freedom and a later insistence that God alone governs human destiny, and another between pre-lapsarian and post-lapsarian freedom. These distinctions are real and important, but underlying them is a more fundamental consistency. Augustine is a compatibilist from his earliest work on freedom through his final anti-Pelagian writings, and the freedom possessed by the un-fallen and the fallen will is a compatibilist freedom. This leaves Augustine open to the charge that he makes God the ultimate cause of sin.",
+            "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-compatibilism/0294470083B497DC99484CE73BC5D327",
+            "field": "citation_abstract",
+            "title_score": 1.0
+          }
+        ],
+        "pdf_urls": [],
+        "final_url": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-compatibilism/0294470083B497DC99484CE73BC5D327"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In analysing Augustine's views on freedom it is standard to draw two distinctions; one between an earlier emphasis on human freedom and a later insistence that God alone governs human destiny, and another between pre-lapsarian and post-lapsarian freedom. These distinctions are real and important, but underlying them is a more fundamental consistency. Augustine is a compatibilist from his earliest work on freedom through his final anti-Pelagian writings, and the freedom possessed by the un-fallen and the fallen will is a compatibilist freedom. This leaves Augustine open to the charge that he makes God the ultimate cause of sin.",
+        "source": "https://doi.org/10.1017/s003441250400722x",
+        "kind": "crossref"
+      },
+      {
+        "text": "In analysing Augustine's views on freedom it is standard to draw two distinctions; one between an earlier emphasis on human freedom and a later insistence that God alone governs human destiny, and another between pre-lapsarian and post-lapsarian freedom. These distinctions are real and important, but underlying them is a more fundamental consistency. Augustine is a compatibilist from his earliest work on freedom through his final anti-Pelagian writings, and the freedom possessed by the un-fallen and the fallen will is a compatibilist freedom. This leaves Augustine open to the charge that he makes God the ultimate cause of sin.",
+        "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-compatibilism/0294470083B497DC99484CE73BC5D327",
+        "kind": "publisher.citation_abstract"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In analysing Augustine's views on freedom it is standard to draw two distinctions; one between an earlier emphasis on human freedom and a later insistence that God alone governs human destiny, and another between pre-lapsarian and post-lapsarian freedom. These distinctions are real and important, but underlying them is a more fundamental consistency. Augustine is a compatibilist from his earliest work on freedom through his final anti-Pelagian writings, and the freedom possessed by the un-fallen and the fallen will is a compatibilist freedom. This leaves Augustine open to the charge that he makes God the ultimate cause of sin.",
+      "source": "https://www.cambridge.org/core/journals/religious-studies/article/abs/augustines-compatibilism/0294470083B497DC99484CE73BC5D327",
+      "kind": "publisher.citation_abstract"
+    },
+    "pdf_candidates": []
+  },
+  {
+    "index": 215,
+    "title": "Can Neuroscience Resolve Issues about Free Will?",
+    "year": "2014",
+    "zotero_key": "TKRGBM3E",
+    "citation_key": "roskiesCanNeuroscienceResolve2014",
+    "doi": "10.7551/mitpress/9780262026680.003.0004",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Can+Neuroscience+Resolve+Issues+about+Free+Will%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.7551/mitpress/9780262026680.003.0004",
+      "title": "Can Neuroscience Resolve Issues about Free Will?",
+      "abstract": "",
+      "url": "https://doi.org/10.7551/mitpress/9780262026680.003.0004",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.7551/mitpress/9780262026680.003.0004",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 216,
+    "title": "Two Concepts of Freedom",
+    "year": "1995",
+    "zotero_key": "L36B6VZ4",
+    "citation_key": "roweTwoConceptsFreedom1995",
+    "doi": "",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Two+Concepts+of+Freedom%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "error": "ValueError: invalid literal for int() with base 10: 'None'"
+    },
+    "openalex": {},
+    "inspected_pages": [],
+    "abstract_candidates": [],
+    "chosen_abstract": null,
+    "pdf_candidates": []
+  },
+  {
+    "index": 217,
+    "title": "Can God Be Free?",
+    "year": "2004",
+    "zotero_key": "PM3AF94Y",
+    "citation_key": "roweCanGodBe2004",
+    "doi": "10.1093/oso/9780198250456.001.0001",
+    "search_query_url": "https://html.duckduckgo.com/html/?q=%22Can+God+Be+Free%3F%22+%28pdf+OR+abstract%29",
+    "search_results": [],
+    "crossref": {
+      "doi": "10.1093/oso/9780198250456.001.0001",
+      "title": "Can God Be Free?",
+      "best_score": 1.0,
+      "abstract": "In the three major religions of the West, God is understood to be a being whose goodness, knowledge, and power is such that it is impossible for any being, including God himself, to have a greater degree of goodness, knowledge, and power. This book focuses on God's freedom and praiseworthiness in relation to his perfect goodness. Given his necessary perfections, if there is a best world for God to create he would have no choice other than to create it. For, as Leibniz tells us, 'to do less good than one could is to be lacking in wisdom or in goodness.' But if God could not do otherwise than create the best world, he created the world of necessity, not freely. And, if that is so, it may be argued that we have no reason to be thankful to God for creating us, since, as parts of the best possible world, God was simply unable to do anything other than create us - he created us of necessity, not freely. Moreover, we are confronted with the difficulty of having to believe that this world, with its Holocaust, and innumerable other evils, is the best that an infinitely powerful, infinitely good being could do in creating a world. Neither of these conclusions, taken by itself, seems at all plausible. Yet each conclusion appears to follow from the conception of God now dominant in the great religions of the West. William Rowe presents a detailed study of this important problem, both historically in the writings of Gottfried Leibniz, Samuel Clarke, Thomas Aquinas, and Jonathan Edwards, as well as in the contemporary philosophical literature devoted to the issue. Rowe argues that this problem is more serious than is commonly thought and may require some significant revision in contemporary thinking about the nature of God.",
+      "url": "https://doi.org/10.1093/oso/9780198250456.001.0001",
+      "pdf_urls": []
+    },
+    "openalex": {
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    "inspected_pages": [
+      {
+        "url": "https://doi.org/10.1093/oso/9780198250456.001.0001",
+        "abstracts": [],
+        "pdf_urls": [],
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      }
+    ],
+    "abstract_candidates": [
+      {
+        "text": "In the three major religions of the West, God is understood to be a being whose goodness, knowledge, and power is such that it is impossible for any being, including God himself, to have a greater degree of goodness, knowledge, and power. This book focuses on God's freedom and praiseworthiness in relation to his perfect goodness. Given his necessary perfections, if there is a best world for God to create he would have no choice other than to create it. For, as Leibniz tells us, 'to do less good than one could is to be lacking in wisdom or in goodness.' But if God could not do otherwise than create the best world, he created the world of necessity, not freely. And, if that is so, it may be argued that we have no reason to be thankful to God for creating us, since, as parts of the best possible world, God was simply unable to do anything other than create us - he created us of necessity, not freely. Moreover, we are confronted with the difficulty of having to believe that this world, with its Holocaust, and innumerable other evils, is the best that an infinitely powerful, infinitely good being could do in creating a world. Neither of these conclusions, taken by itself, seems at all plausible. Yet each conclusion appears to follow from the conception of God now dominant in the great religions of the West. William Rowe presents a detailed study of this important problem, both historically in the writings of Gottfried Leibniz, Samuel Clarke, Thomas Aquinas, and Jonathan Edwards, as well as in the contemporary philosophical literature devoted to the issue. Rowe argues that this problem is more serious than is commonly thought and may require some significant revision in contemporary thinking about the nature of God.",
+        "source": "https://doi.org/10.1093/oso/9780198250456.001.0001",
+        "kind": "crossref"
+      }
+    ],
+    "chosen_abstract": {
+      "text": "In the three major religions of the West, God is understood to be a being whose goodness, knowledge, and power is such that it is impossible for any being, including God himself, to have a greater degree of goodness, knowledge, and power. This book focuses on God's freedom and praiseworthiness in relation to his perfect goodness. Given his necessary perfections, if there is a best world for God to create he would have no choice other than to create it. For, as Leibniz tells us, 'to do less good than one could is to be lacking in wisdom or in goodness.' But if God could not do otherwise than create the best world, he created the world of necessity, not freely. And, if that is so, it may be argued that we have no reason to be thankful to God for creating us, since, as parts of the best possible world, God was simply unable to do anything other than create us - he created us of necessity, not freely. Moreover, we are confronted with the difficulty of having to believe that this world, with its Holocaust, and innumerable other evils, is the best that an infinitely powerful, infinitely good being could do in creating a world. Neither of these conclusions, taken by itself, seems at all plausible. Yet each conclusion appears to follow from the conception of God now dominant in the great religions of the West. William Rowe presents a detailed study of this important problem, both historically in the writings of Gottfried Leibniz, Samuel Clarke, Thomas Aquinas, and Jonathan Edwards, as well as in the contemporary philosophical literature devoted to the issue. Rowe argues that this problem is more serious than is commonly thought and may require some significant revision in contemporary thinking about the nature of God.",
+      "source": "https://doi.org/10.1093/oso/9780198250456.001.0001",
+      "kind": "crossref"
+    },
+    "pdf_candidates": []
+  }
+]
