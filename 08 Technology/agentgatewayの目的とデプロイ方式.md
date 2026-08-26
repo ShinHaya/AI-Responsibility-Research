@@ -231,6 +231,7 @@ agentgatewayの機能評価では、次の対象を同一視しない。
 
 ## 関連ノート
 
+- [[主要クラウドとSaaSのAI Agent Gateway比較]]
 - [[OSS agentgatewayとBYOAI Agent Gateway構想の機能差分]]
 - [[Bring Your Own AIによる倫理的なマーケットプレイス]]
 - [[Policy-Attested Agent Authorization]]
