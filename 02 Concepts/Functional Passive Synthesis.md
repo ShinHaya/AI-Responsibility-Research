@@ -6,9 +6,26 @@ tags:
   - active-inference
   - passive-synthesis
   - ai-agency
+concept_origin: project-extension
+origin_field: "Husserl現象学・active inference"
+canonical_sources:
+  - "[[husserlAnalysesConcerningPassive2001]]"
+  - "[[pezzuloGeneratingMeaningActive2024]]"
+  - "[[wilsonActiveInferenceMethod2026]]"
 ---
 
 # Functional Passive Synthesis
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：Husserlian passive synthesisと、active inferenceによる予測・salience形成のモデルを基礎とする。
+> **本研究で加えた部分**：AIにおけるpre-reflectiveな統合、affection、habit形成の機能的類比を定義するが、現象学的同一性は主張しない。
+> **主な根拠**：[[husserlAnalysesConcerningPassive2001]]、[[pezzuloGeneratingMeaningActive2024]]、[[wilsonActiveInferenceMethod2026]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 AIが明示的deliberationを開始する以前に、継続する観測・記憶・予測を統合し、世界状態を構造化し、その一部を行為関連的に顕著なものとして浮かび上がらせる計算過程の束。Husserlian [[Passive Synthesis]]そのものではなく、その一部についての機能的analogue候補である。
 
@@ -70,4 +87,3 @@ history
 - [[bogotaTimeconsciousnessComputationalPhenomenology2023]]
 - [[sandved-smithComputationalPhenomenologyMental2021]]
 - [[pezzuloGeneratingMeaningActive2024]]
-

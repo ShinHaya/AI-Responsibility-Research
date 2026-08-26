@@ -13,6 +13,19 @@ tags:
 
 # Free Will as a Skill
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Free Will]]、[[Second-Order Volition]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[Genetic and Diachronic Agency]]、[[Open-Ended Revisability]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @riserFreeWillSkill2015
@@ -42,6 +55,9 @@ This article develops a conception of free will as a type of skill based upon th
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@riserFreeWillSkill2015の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Riserは、free willを形而上学的な非決定性や、同一状況において因果的に別様に行為できたという意味でのAlternative Possibilitiesによって説明するのではなく、**獲得された情報と学習されたdeliberative know-howを用いて、自らの行為を知識に基づき、反省的かつ目的的に制御するcognitive skill**として理解する。
 
 この立場では、free willは生得的に完成したall-or-nothingの能力ではない。
@@ -69,6 +85,9 @@ Riserは、free willを形而上学的な非決定性や、同一状況におい
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@riserFreeWillSkill2015の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - Free willは、形而上学的に特殊なcausal powerとして理解する必要はない。
 
 - Free willは、cognitive abilitiesの**knowledgeable exercise**として理解できる。
@@ -88,6 +107,9 @@ Riserは、free willを形而上学的な非決定性や、同一状況におい
 ---
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 Riserは [[Free Will Is a Higher-Order Acquired Agency Competence]] に対する非常に重要な先行研究である。
 
@@ -177,6 +199,9 @@ free willそのものは、
 ---
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -341,7 +366,7 @@ agentは、
 
 および、
 
-[[Normativity Requires Intersubjective Revisability]]
+[[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Normativity Requires Intersubjective Revisability]]
 
 へ接続する。
 
@@ -474,7 +499,7 @@ Riserのcognitive abilitiesへの依存をさらに分解する。
 
 という、
 
-[[Intelligence Threshold for Free-Will Competence]]
+[[Free Will Is a Higher-Order Acquired Agency Competence#14. The Intelligence Threshold Hypothesis|Intelligence Threshold for Free-Will Competence]]
 
 を仮説として検討する。
 
@@ -529,35 +554,44 @@ Agent Bが持たないなら、
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Free Will]]
-- [[Agency Competence]]
-- [[Competence]]
-- [[Deliberative Competence]]
+- [[Free Will Is a Higher-Order Acquired Agency Competence#9. Free Will as a Composite Competence|Agency Competence]]
+- [[Competence and Responsibility|Competence]]
+- [[Competence and Responsibility|Deliberative Competence]]
 - [[Practical Alternative Possibilities]]
-- [[Higher-Order Volition]]
+- [[Second-Order Volition|Higher-Order Volition]]
 - [[Reflective Self-Formation]]
 - [[Open-Ended Revisability]]
 - [[Genetic and Diachronic Agency]]
-- [[Normative Evaluation]]
-- [[Planning Agency]]
+- [[Normative Criterion Regress|Normative Evaluation]]
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
 - [[Agentive Action Initiation]]
-- [[Intelligence Threshold for Free-Will Competence]]
-- [[Diachronic Reflective Sourcehood]]
+- [[Free Will Is a Higher-Order Acquired Agency Competence#14. The Intelligence Threshold Hypothesis|Intelligence Threshold for Free-Will Competence]]
+- [[Sourcehood#Reconstructed Sourcehood|Diachronic Reflective Sourcehood]]
 
 ---
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Free Will Is a Higher-Order Acquired Agency Competence]]
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
-- [[Genetic-Diachronic Agency Is Necessary for Moral Responsibility]]
-- [[Planning Is Necessary but Not Sufficient for Responsible Agency]]
+- [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Genetic-Diachronic Agency Is Necessary for Moral Responsibility]]
+- [[Computational Phenomenology of Responsible Agency#4.7 Planning Agency|Planning Is Necessary but Not Sufficient for Responsible Agency]]
 - [[Action Initiation Is Necessary for Responsible Agency]]
 
 ---
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Riserのdeliberative skillは、free willそのものなのか、それともfree willを構成する一つのsubcompetenceなのか？
 
@@ -594,6 +628,9 @@ Agent Bが持たないなら、
 ---
 
 ## Notes
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - Riserは [[Free Will Is a Higher-Order Acquired Agency Competence]] の重要な直接的先行研究として扱う。
 

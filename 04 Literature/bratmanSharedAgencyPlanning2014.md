@@ -13,6 +13,19 @@ tags:
 
 # Shared Agency: A Planning Theory of Acting Together
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @bratmanSharedAgencyPlanning2014
@@ -44,6 +57,9 @@ Human beings act together in characteristic ways; and these forms of shared acti
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@bratmanSharedAgencyPlanning2014の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Bratmanは、人間のagencyを単発の意思決定の集合としてではなく、
 時間をまたいで形成・維持・調整されるplanを中心とした
@@ -114,6 +130,9 @@ agencyを単なるmomentary choiceではなく、
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@bratmanSharedAgencyPlanning2014の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - 人間はplanning agentsである。
 
 - Planning agencyでは、future-directed intentionが
@@ -170,8 +189,11 @@ agencyを単なるmomentary choiceではなく、
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は
-[[Conditions for Artificial Responsible Agency]]
+[[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 の複数の条件に関係する。
 
 特に重要なのは、
@@ -184,6 +206,9 @@ agencyを単なるmomentary choiceではなく、
 
 
 ## Relation to Genetic and Diachronic Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 Bratmanのplanning theoryは、
 
@@ -245,6 +270,9 @@ t1の行為を組織する。
 
 ## Relation to Agentive Action Initiation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Agentive Action Initiation]]
 
 Bratmanのplanning theoryは、
@@ -286,6 +314,9 @@ AIにおけるaction initiationを考える際にも重要である。
 
 
 ## Planning Is Not Mere Task Storage
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ただし、
 
@@ -331,6 +362,9 @@ AI responsible agencyを評価する際には、
 
 
 ## Relation to Open-Ended Revisability
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Second-Order Volition Requires Open-Ended Revisability]]
 
@@ -378,6 +412,9 @@ planning agentにはむしろ、
 
 ## Stability-Revisability Balance
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ここからresponsible agencyに重要な
 二つの失敗状態を区別できる。
 
@@ -422,6 +459,9 @@ Open-Ended Revisabilityにこの
 
 
 ## Relation to Intersubjective Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Intersubjective Agency]]
 
@@ -472,6 +512,9 @@ Shared agencyには、
 
 ## From Interaction to Joint Self-Formation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ただし私のIntersubjective Agencyは、
 Bratmanのshared agencyより広い。
 
@@ -506,6 +549,9 @@ Bratmanが主として説明するのは、
 
 
 ## Relation to Normative Criterion Regress
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Normative Criterion Regress]]
 
@@ -550,6 +596,9 @@ formal structureを補強する可能性がある。
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -629,6 +678,9 @@ responsible agencyには後者も必要になる。
 
 ## Extension: Three Levels of Revision
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Bratmanのplanning theoryと
 Open-Ended Revisabilityを組み合わせることで、
 AI agentのrevisionを三層に分けることができる。
@@ -665,6 +717,9 @@ Level 1・2だけでなくLevel 3まで可能であることである。
 
 
 ## Extension: Planning as a Bridge Between Reflection and Action
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 私の理論ではこれまで、
 
@@ -718,6 +773,9 @@ Bratmanのplanning theoryを導入すると、
 
 ## Implications for AI Architecture
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 AI responsible agentを技術的に構成する場合、
 単一LLMだけではなく、
 
@@ -759,6 +817,9 @@ diachronic agencyをAI自身ではなく
 
 ## Relation to AI Individuation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[AI Individuation]]
 
 Planning agencyはAI individuationにも関係する。
@@ -788,30 +849,36 @@ Planning agencyはAI individuationにも関係する。
 
 は、
 
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 を構成する候補になる。
 
 
 ## Related Concepts
 
-- [[Planning Agency]]
-- [[Shared Agency]]
-- [[Intention]]
-- [[Future-Directed Intention]]
-- [[Diachronic Agency]]
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
+- [[bratmanSharedAgencyPlanning2014|Shared Agency]]
+- [[bratmanSharedAgencyPlanning2014|Intention]]
+- [[bratmanSharedAgencyPlanning2014|Future-Directed Intention]]
+- [[Genetic and Diachronic Agency|Diachronic Agency]]
 - [[Genetic and Diachronic Agency]]
 - [[Agentive Action Initiation]]
 - [[Open-Ended Revisability]]
 - [[Reflective Self-Formation]]
 - [[Intersubjective Agency]]
-- [[Mutual Responsiveness]]
-- [[Provisional Self-Endorsement]]
+- [[bratmanSharedAgencyPlanning2014|Mutual Responsiveness]]
+- [[Open-Ended Revisability#Provisional Self-Endorsement|Provisional Self-Endorsement]]
 - [[AI Individuation]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -822,6 +889,9 @@ Planning agencyはAI individuationにも関係する。
 
 ## Related Literature
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[frankfurtFreedomWillConcept1971]]
 - [[fischerResponsibilityControlTheory1998]]
 - [[arbelHowCountAIs2026]]
@@ -831,6 +901,9 @@ Planning agencyはAI individuationにも関係する。
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - Planning agencyはresponsible agencyの必要条件なのか？
 
@@ -876,7 +949,7 @@ Planning agencyはAI individuationにも関係する。
   そのplanは自分自身のintentionと言えるのか？
 
 - Planning continuityは
-  [[Genetic-Diachronic Identity]]の必要条件なのか？
+  [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]の必要条件なのか？
 
 - Goal formation、
   intention formation、
@@ -887,6 +960,9 @@ Planning agencyはAI individuationにも関係する。
 
 
 ## Notes
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - Michael E. Bratman,
   *Shared Agency: A Planning Theory of Acting Together*,

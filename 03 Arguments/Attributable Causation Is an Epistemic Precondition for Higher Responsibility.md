@@ -10,11 +10,30 @@ tags:
 
 # Attributable Causation Is an Epistemic Precondition for Higher Responsibility
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Responsibility]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentic Causal Provenance]]、[[AI Individuation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Claim
 
 AIの役割責任、説明義務、法的責任、道徳的責任を判断するには、結果を生じさせた行為主体と因果系列を同定できなければならない。
 
 したがって、**帰属可能な因果関係**は上位の責任形態の認識的必要条件である。
+
+Agent lifecycle全体のexplicit provenanceを責任インフラとする考えには、[[huResponsibleAgenticAI2026]]という直接の先行研究がある。
+
+[[nianAuditableAgents2026]]はauditabilityをaccountabilityの認識的前提として区別し、[[southAuthenticatedDelegationAuthorized2025]]と[[otsukaAIIdentityStandards2026]]は委任とoperational identityの記録要件を示す。
+
+本Argumentの追加点は、これらをResponsibility Stackへ整理し、attributable causationを上位責任の十分条件ではなく帰属判断の認識的前提として限定する点にある。
 
 ## Argument
 
@@ -60,7 +79,9 @@ AIに課しうる説明義務は、自由意志や意識を前提とする道徳
 
 - [[Agentic Causal Provenance]]
 - [[Distributed Responsibility for AI Systems]]
-- [[Role Responsibility]]
+- [[Responsibility#Role Responsibility|Role Responsibility]]
 - [[AI Individuation]]
 - [[nianAuditableAgents2026]]
 - [[huResponsibleAgenticAI2026]]
+- [[southAuthenticatedDelegationAuthorized2025]]
+- [[otsukaAIIdentityStandards2026]]

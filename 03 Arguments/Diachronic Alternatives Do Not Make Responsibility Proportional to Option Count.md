@@ -10,9 +10,26 @@ tags:
 
 # Diachronic Alternatives Do Not Make Responsibility Proportional to Option Count
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[Genetic and Diachronic Agency]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Claim
 
 責任評価を行為時点だけでなく自己形成の履歴へ広げることは有望だが、人生に現れた選択肢の数や密度をそのまま責任の量へ換算してはならない。
+
+行為時点以前の熟慮や不作為へ責任をtracingする発想には、[[franklinNeoFrankfurtiansBufferCases2011]]という先行研究がある。
+
+本Argumentの追加点は、通時的代替をoption数へ還元せず、存在、認識、実行、理由応答、形成寄与、改訂可能性からなるprofileとして整理する点にある。
 
 ## Why Simple Density Fails
 
@@ -55,4 +72,3 @@ AIではcandidate action数を責任尺度にできない。
 - [[Practical Alternatives Are Genetically Constituted]]
 - [[Genetic and Diachronic Agency]]
 - [[Frankfurt Cases Do Not Establish the Irrelevance of Alternatives]]
-

@@ -12,9 +12,26 @@ tags:
 
 # Alternative Possibilities Alone Are Insufficient for AI Responsibility
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Sampling Is Not Choosing]]。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[LLM Sourcehood Problem]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Thesis
 
 Even if an LLM agent has agency-level alternative possibilities, this alone is insufficient for moral responsibility.
+
+Agency-level alternative possibilitiesをAIへ適用する発想は、[[martelaArtificialIntelligenceFree2025]]に直接の先行例がある。
+
+本Argumentはこの発想を否定せず、moral responsibilityのためにはreason ownershipとself-formationを追加すべきだと論じる。
 
 ## Argument
 
@@ -47,7 +64,7 @@ This objection shows that multiple possible continuations are not enough for mor
 
 ---
 
-## My Extension
+## Project Extension
 
 The correct response is not to deny all AI alternative possibilities. Instead, distinguish levels:
 

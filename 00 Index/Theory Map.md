@@ -1,5 +1,33 @@
 # Theory Map
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：索引・進捗管理ノート。掲載順やリンクは知的来歴を示さない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]、[[Free Will]]、[[Reasons-Responsiveness]]、[[Responsibility]]、[[Second-Order Volition]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：[[Computational Phenomenology]]、[[Habituality]]、[[Passive Synthesis]]、[[Sedimentation]]。
+> **本研究による再構成**：[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Open-Ended Revisability]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]、[[Internalized Normative Self-Control]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
+## Concept Provenance
+
+このTheory Mapの全体構成と統合命題は、本研究による理論的再構成である。
+
+ただし、構成要素には分析哲学の標準概念、現象学や行為論から借用した概念、本研究で導入した作業概念が含まれる。
+
+| 区分 | このMapの主な例 |
+|---|---|
+| 分析哲学の標準概念 | [[Free Will]]、[[Alternative Possibilities]]、[[Second-Order Volition]]、[[Reasons-Responsiveness]]、[[Sourcehood]]、[[Responsibility]] |
+| 隣接分野・文献由来 | [[Passive Synthesis]]、[[Habituality]]、[[Sedimentation]]、[[Computational Phenomenology]] |
+| 本研究による再構成 | [[Open-Ended Revisability]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]、[[Genetic and Diachronic Agency]] |
+| 本研究で導入した作業概念 | [[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]、[[Internalized Normative Self-Control]] |
+
+判定基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]に集約する。
+
 ## Research Question
 
 > Under what conditions can responsibility be attributed to an artificial agent?
@@ -334,7 +362,7 @@ Open-Ended Revisabilityだけでは、
 
 ここから、
 
-[[Genetic Rationality]]
+[[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
 
 という仮説が生じる。
 
@@ -839,7 +867,7 @@ AIでは人間と異なり、
 
 ## Candidate Solution
 
-[[Genetic-Diachronic Identity]]
+[[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 identityを、
 
@@ -1046,12 +1074,12 @@ to reasons and criticism from others.
 
 ### Candidate Future Arguments
 
-- [[Genetic-Diachronic Agency Is Necessary for Moral Responsibility]]
-- [[Historical Content Is Not Historical Origin]]
-- [[Memory Is Not Diachronic Selfhood]]
-- [[Introspection Is Not Reflective Self-Formation]]
-- [[Planning Is Necessary but Not Sufficient for Responsible Agency]]
-- [[Normativity Requires Intersubjective Revisability]]
+- [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Genetic-Diachronic Agency Is Necessary for Moral Responsibility]]
+- [[Memory Possession Is Not Experience Authorship|Historical Content Is Not Historical Origin]]
+- [[Memory Possession Is Not Experience Authorship|Memory Is Not Diachronic Selfhood]]
+- [[Open-Ended Revisability#Introspection Is Not Reflective Self-Formation|Introspection Is Not Reflective Self-Formation]]
+- [[Computational Phenomenology of Responsible Agency#4.7 Planning Agency|Planning Is Necessary but Not Sufficient for Responsible Agency]]
+- [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Normativity Requires Intersubjective Revisability]]
 
 ---
 
@@ -1110,7 +1138,7 @@ the criteria by which it evaluates itself?
 What makes an AI at t1
 the same responsible subject as at t0?
 
-→ [[Genetic-Diachronic Identity]]
+→ [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 
 
 ## Problem 5 — Copyability

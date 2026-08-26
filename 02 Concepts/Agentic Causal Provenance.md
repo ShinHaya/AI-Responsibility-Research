@@ -6,9 +6,26 @@ tags:
   - ai-responsibility
   - ai-agents
   - provenance
+concept_origin: project-extension
+origin_field: "agentic AI監査・データprovenance"
+canonical_sources:
+  - "[[huResponsibleAgenticAI2026]]"
+  - "[[nianAuditableAgents2026]]"
+  - "[[southAuthenticatedDelegationAuthorized2025]]"
 ---
 
 # Agentic Causal Provenance
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：AI agentのprovenance、auditability、authenticated delegationに関する既存研究を基礎とする。
+> **本研究で加えた部分**：因果系列の同定を上位責任判断の認識的前提として整理し、観測・検証・自己申告の証拠水準を区別する。
+> **主な根拠**：[[huResponsibleAgenticAI2026]]、[[nianAuditableAgents2026]]、[[southAuthenticatedDelegationAuthorized2025]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 AIエージェントの行為について、誰の代理として、どの権限と情報を用い、どの処理を経て結果を生じさせたかを再構成できる記録構造。
 

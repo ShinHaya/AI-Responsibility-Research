@@ -6,9 +6,26 @@ tags:
   - computational-phenomenology
   - active-inference
   - methodology
+concept_origin: borrowed-adjacent-field
+origin_field: "計算論的神経科学・現象学"
+canonical_sources:
+  - "[[sandved-smithComputationalPhenomenologyMental2021]]"
+  - "[[albarracinMappingHusserlianPhenomenology2022]]"
+  - "[[bogotaTimeconsciousnessComputationalPhenomenology2023]]"
 ---
 
 # Computational Phenomenology
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：現象学的構造と計算モデルの対応を探る既存の研究計画である。
+> **本研究で加えた部分**：responsible agencyを哲学、機能・計算、規範の三水準で接続する方法へ拡張する。
+> **主な根拠**：[[sandved-smithComputationalPhenomenologyMental2021]]、[[albarracinMappingHusserlianPhenomenology2022]]、[[bogotaTimeconsciousnessComputationalPhenomenology2023]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 現象学が記述する経験構造を、計算モデルが満たすべき構造的制約へ翻訳し、形式化・simulation・mechanistic evaluationへ接続する研究方法。目的は現象学用語を計算用語へ置換することではなく、経験記述と計算機構の間に検証可能なmappingを構築することである。
 
@@ -70,5 +87,4 @@ Active inferenceは主に1・2を強く形式化する。[[Reflective Self-Forma
 - [[Functional Passive Synthesis]]
 - [[Precision-Weighted Affection]]
 - [[Computational Phenomenology Does Not Establish Moral Responsibility]]
-- [[Conditions for Artificial Responsible Agency]]
-
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]

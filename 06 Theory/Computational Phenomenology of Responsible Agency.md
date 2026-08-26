@@ -1,5 +1,18 @@
 # Computational Phenomenology of Responsible Agency
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の理論統合ノート。全体構成と統合命題は本研究によるが、構成概念には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Reasons-Responsiveness]]、[[Second-Order Volition]]。
+> **隣接分野・文献由来**：[[Computational Phenomenology]]、[[Passive Synthesis]]、[[Sedimentation]]。
+> **本研究による再構成**：[[Agentic Causal Provenance]]、[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Status
 
 Developing Theory
@@ -64,6 +77,10 @@ Developing Theory
 **Computational Phenomenology of Responsible Agency**
 
 と呼ぶ。
+
+Computational phenomenologyという方法論自体は、[[albarracinMappingHusserlianPhenomenology2022]]と[[bogotaTimeconsciousnessComputationalPhenomenology2023]]に先行する。
+
+本理論の追加点は、この方法をtime-consciousnessやmental actionの個別モデルに限定せず、Frankfurtian volition、historical ownership、Husserlian genetic formation、Bratmanian planningを統合したresponsible agency全体へ拡張する点にある。
 
 
 # 1. Why Computational Phenomenology?
@@ -321,6 +338,8 @@ responsible agentは、
 
 と呼ぶ。
 
+Open-Ended RevisabilityはFrankfurtの術語ではなく、[[watsonFreeAgency1975]]が提起する高階的態度の権威問題を通時的修正可能性として扱うために、本研究が導入した再構成である。
+
 
 ## 4.3 Historical Ownership
 
@@ -376,6 +395,8 @@ responsible agentは、
 
 > past experienceがfuture dispositionsそのものを
 > 形成しなければならない。
+
+Genetic and Diachronic AgencyはHusserlの既存術語をそのまま採用したものではなく、受動的綜合と習慣性をresponsible agencyの通時的条件へ拡張する本研究の再構成である。
 
 
 ## 4.5 Temporal Integration
@@ -537,6 +558,8 @@ normative commitmentsを批判・修正する。
 
 なprocessとして理解する。
 
+Historically Situated and Intersubjective Normativityは分析哲学の標準術語ではなく、[[donohoeHusserlEthicsIntersubjectivity2004]]の間主観性論と[[steinbockProjectEthicalRenewal1994]]のrenewalを責任主体論へ接続する本研究の仮説である。
+
 
 # 5. The Genetic-Reflective Loop
 
@@ -583,6 +606,8 @@ responsible agentを次の循環として
 **Genetic-Reflective Loop**
 
 と呼ぶ。
+
+Genetic-Reflective LoopはHusserlまたはFrankfurtの既存術語ではなく、両者の理論資源を責任主体論へ統合するために本研究が導入したモデルである。
 
 重要なのは、
 このloopに最終地点が存在しないことである。
@@ -1413,33 +1438,35 @@ functional agency conditionsと、
 
 # 22. Related Concepts
 
-- [[Higher-Order Volition]]
+- [[Second-Order Volition|Higher-Order Volition]]
 - [[Open-Ended Revisability]]
 - [[Reflective Self-Formation]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic-Reflective Loop]]
-- [[Genetic Rationality]]
+- [[yangHusserlsTheoryExperience2025#Extension: Genetic Rationality|Genetic Rationality]]
 - [[Passive Synthesis]]
 - [[Sedimentation]]
-- [[Historical Ownership]]
-- [[Historical Situatedness]]
+- [[Reasons-Responsiveness#Mechanism Ownership|Historical Ownership]]
+- [[Normative Criterion Regress#1. Historical Situatedness|Historical Situatedness]]
 - [[Intersubjective Agency]]
-- [[Planning Agency]]
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
 - [[Agentive Action Initiation]]
 - [[Computational Phenomenology]]
-- [[Active Inference]]
-- [[Functional Introspection]]
+- [[wilsonActiveInferenceMethod2026|Active Inference]]
+- [[Computational Phenomenology of Responsible Agency#9. Introspection Is Not Reflective Self-Formation|Functional Introspection]]
 - [[AI Individuation]]
-- [[Historical Provenance]]
+- [[Agentic Causal Provenance|Historical Provenance]]
 
 
 # 23. Core Literature
 
 - [[frankfurtFreedomWillConcept1971]]
+- [[watsonFreeAgency1975]]
 - [[fischerResponsibilityControlTheory1998]]
 - [[husserlAnalysesConcerningPassive2001]]
 - [[yangHusserlsTheoryExperience2025]]
+- [[donohoeHusserlEthicsIntersubjectivity2004]]
 - [[steinbockProjectEthicalRenewal1994]]
 - [[aldeaSelfotheringSelftransformationTheoretical2023]]
 - [[laferte-coutuEthicalAttitudeHusserlian2024]]

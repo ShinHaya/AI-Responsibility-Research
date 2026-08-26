@@ -6,9 +6,24 @@ tags:
   - autonomy
   - ai-responsibility
   - organizational-power
+concept_origin: project-extension
+origin_field: "共和主義的自由・relational autonomy"
+canonical_sources:
+  - "[[pettitRepublicanismTheoryFreedom1999]]"
 ---
 
 # Normative Contestability
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：Pettitのnon-dominationとcontestability、対話的自律に関する既存議論を基礎とする。
+> **本研究で加えた部分**：AIがaction、goal、normの各水準を理由に照らして異議申立て・改訂できる条件へ拡張する。
+> **主な根拠**：[[pettitRepublicanismTheoryFreedom1999]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 主体を拘束しているrule、institutional policy、価値体系そのものを対象化し、理由に照らして批判・拒否・改訂提案できる能力。単に規則の範囲内で手段を選べるlocal autonomyと、規則自体を問い直せるnormative autonomyを区別する。
 
@@ -44,4 +59,4 @@ AIでは運用者がsystem prompt、memory、weights、tool access、runtimeを�
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Practical Alternatives Are Genetically Constituted]]
 - [[Intersubjective Agency]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]

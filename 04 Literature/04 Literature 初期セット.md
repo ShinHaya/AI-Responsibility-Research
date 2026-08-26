@@ -1,3 +1,16 @@
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]。
+> **隣接分野・文献由来**：[[Passive Synthesis]]。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## 1. Frankfurt 1971 - Freedom of the Will and the Concept of a Person
 ---
 type: literature
@@ -14,9 +27,15 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Frankfurtはfirst-order desireとsecond-order desireを区別し、単に何かを欲するだけでなく、「どの欲求によって自分が行為することを欲するか」というsecond-order volitionを人格・自由意志の重要な条件とした。
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Reflective Self-Formation]]の直接的な出発点。
 
@@ -32,13 +51,19 @@ AIが自らの選好傾向性を評価・修正できたとしても、
 
 ## My Position
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Frankfurtの二階構造は必要条件として保持するが、十分条件とは考えない。
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Reflective Self-Formation]]
 - [[Alternative Possibilities and Reflective Self-Formation]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 
 ---
 ## 2. Fischer and Ravizza 1998 - Responsibility and Control
@@ -59,15 +84,21 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 FischerとRavizzaは、道徳的責任にAlternative Possibilitiesそのものを必須とせず、行為が主体自身のmoderately reasons-responsive mechanismから生じることを重視する。
 
 また責任をessentially historicalな概念として扱い、そのmechanismが「その主体自身のもの」であるためには、行為時点の構造だけでなく形成史が重要だと論じる。
 
+行為がagent自身のreasons-responsive mechanismから生じただけでは、そのmechanismがどのような歴史を経て「その主体自身のもの」になったのかも問われる。
+
 ## Relevance to My Theory
 
-特に重要なのは "Responsibility and History"。
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
-これは私の[[Genetic and Diachronic Agency]]と非常に近い問題設定を持つ。
+"Responsibility and History"でresponsibilityをhistoricalな概念として扱う点は、私の[[Genetic and Diachronic Agency]]と近い問題設定を持つ。
 
 ただし私は、人間についてのmechanism ownershipよりさらに強く、AIではコピー・分岐・共有memoryが可能であるため、
 
@@ -77,6 +108,9 @@ FischerとRavizzaは、道徳的責任にAlternative Possibilitiesそのもの�
 
 ## Tension
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Fischer & RavizzaはAlternative Possibilitiesを必要条件としない。
 
 私は[[Practical Alternative Possibilities]]を一定の意味で必要とする。
@@ -85,12 +119,13 @@ Fischer & RavizzaはAlternative Possibilitiesを必要条件としない。
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Alternative Possibilities]]
 - [[Genetic and Diachronic Agency]]
 - [[AI Individuation]]
-- [[Conditions for Artificial Responsible Agency]]
-
-Fischer & Ravizzaがresponsibilityをhistoricalなものとする点は、現在のあなたの理論にかなり重要です。行為がagent自身のreasons-responsive mechanismから出たというだけでなく、そのmechanismがどのような歴史を経て「その人自身のもの」になったのかを問います。
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 
 ---
 
@@ -111,13 +146,21 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Bratmanは人間をplanning agentとして捉える。
 
 主体はfuture-directedなpartial plansを形成し、それを時間を越えて保持・補完・修正し、適切な時点で実行する。
 
 Planning agencyは個人の活動をcross-temporalに組織し、さらに他者とのshared agencyにもつながる。
 
+Bratman自身も、prior plansが未来の実践的問題を構造化し、時間を越えた生活を組織するという立場を取る。
+
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 私が考えた、
 
@@ -134,17 +177,21 @@ Planning agencyは個人の活動をcross-temporalに組織し、さらに他者
 
 ## Difference
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Bratmanの中心問題はplanning agencyであり、AI moral responsibilityや発生的自己形成そのものではない。
 
 私はこれをAI責任主体の必要条件へ拡張する。
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Agentive Action Initiation]]
 - [[Genetic and Diachronic Agency]]
 - [[Intersubjective Agency]]
-
-Bratman自身、prior plansが未来の実践的問題を構造化し、時間を越えた生活を組織するという立場を明確に取っています。
 
 ---
 
@@ -165,6 +212,9 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 1920年代の受動的綜合講義では、成立済みの意識作用を分析するだけでなく、知覚・判断・意味がどのような受動的過程から発生するのかを遡って分析する。
 
 重要概念：
@@ -180,6 +230,9 @@ tags:
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Genetic and Diachronic Agency]]の哲学的基礎。
 
 主体とは静的な能力集合ではなく、
@@ -194,6 +247,9 @@ tags:
 
 ## AI Question
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 AIにmemory DBを追加するだけではpassive synthesisとは言えない。
 
 過去の経験が、
@@ -206,6 +262,9 @@ AIにmemory DBを追加するだけではpassive synthesisとは言えない。
 そのものを変化させる必要がある。
 
 ## Links
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Genetic and Diachronic Agency]]
 - [[Passive Synthesis]]
@@ -230,9 +289,15 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Husserlのpassive synthesisは、単に前概念的な入力処理ではなく、それ自体に原初的なrationalityとnormativityを持つと論じる。
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 これは重要。
 
@@ -253,9 +318,15 @@ AIの受動的綜合を単なるsensor fusionやattentionとして理解する�
 
 ## Open Question
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 AIのprecision weightingやlearned value functionは、この意味でのnormative passive synthesisと言えるか？
 
 ## Links
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Passive Synthesis]]
 - [[Genetic and Diachronic Agency]]
@@ -282,13 +353,21 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Husserlの時間意識とactive inferenceを接続するcomputational phenomenology研究。
 
 retention / primal impression / protentionという時間構造と、active inferenceにおける過去・現在・未来の推論構造を対応させる。
 
 著者らはactive inferenceが主観的時間と客観的時間を統合的にモデル化できると論じる。
 
+著者らは、computational phenomenologyを「現象学的なlived experienceの記述をactive inferenceなどの生成モデルで形式化するプロジェクト」と明示する。
+
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Genetic and Diachronic Agency]]を純粋な哲学概念で終わらせず、AIへ計算論的に実装できる可能性を与える文献。
 
@@ -302,15 +381,19 @@ Past
 
 ## Caution
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 時間意識を計算モデル化できることと、AIが実際に現象的時間経験を持つことは別問題。
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Genetic and Diachronic Agency]]
 - [[Can AI Possess Genetic and Diachronic Agency]]
 - [[Passive Synthesis]]
-
-この論文は、computational phenomenologyを「現象学的なlived experienceの記述をactive inference等の生成モデルで形式化するプロジェクト」と明示しています。
 
 ---
 
@@ -335,11 +418,17 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Husserlの現象学的記述の主要構造をactive inferenceのgenerative modelへmappingする試み。
 
 特にtime consciousnessを中心として、prior knowledge・expectation・perceptionの関係を計算モデルとして再構成する。
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 AIにおける[[Passive Synthesis]]の計算論的候補としてactive inferenceを検討するための基礎文献。
 
@@ -353,6 +442,9 @@ AIにおける[[Passive Synthesis]]の計算論的候補としてactive inferenc
 ただしこれらは同一概念ではなくstructural mappingとして扱う。
 
 ## Links
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Passive Synthesis]]
 - [[Genetic and Diachronic Agency]]
@@ -375,6 +467,9 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 LLMが自らの内部状態について、限定的ながら機能的な
 introspective awarenessを持つかを実験的に検討した研究。
 
@@ -396,6 +491,9 @@ introspective awarenessを持つかを実験的に検討した研究。
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Reflective Self-Formation]]にとって重要。
 
 二階的自己評価にはまず、
@@ -408,6 +506,9 @@ introspective awarenessを持つかを実験的に検討した研究。
 現在のLLMにも萌芽的に存在する可能性を示している。
 
 ## Important Distinction
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 Introspective access
 ≠ Reflective evaluation
@@ -430,9 +531,12 @@ internal-state access
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Reflective Self-Formation]]
 - [[Genetic and Diachronic Agency]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]
 ---
 ## 9. Anthropic 2026 - Emotion Concepts and Their Function in a Large Language Model
 
@@ -453,9 +557,15 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 Claude Sonnet 4.5内部にemotion-related representationsが存在し、それらが単なる感情語表現ではなく、モデルの行動へ因果的影響を与えることを調べた研究。
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 HusserlのAffektionや実践的顕著性との関係で興味深い。
 
@@ -470,6 +580,9 @@ internal affect-like state
 将来の[[Genetic and Diachronic Agency]]では、こうした内部状態が経験によって持続的に変化するかが重要になる。
 
 ## Links
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Passive Synthesis]]
 - [[Genetic and Diachronic Agency]]
@@ -498,6 +611,9 @@ tags:
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 AIへの法的責任を論じる以前に、
 
 "Which AI did it?"
@@ -518,13 +634,22 @@ AIは人間と異なり、
 
 ## Thin Identity
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 あるAI行為を人間・企業などのprincipalへ追跡するためのidentity。
 
 ## Thick Identity
 
+<!-- section-provenance:source -->
+**出自**：文献由来（当該文献の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 AI agentそのものを、持続的・個別的なagentとして区別するidentity。
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[AI Individuation]]に最も直接的な最近の先行研究。
 
@@ -546,6 +671,9 @@ experience
 
 ## Difference from My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この論文の中心は法律上のAI identification/liability。
 
 私の問題はさらに、
@@ -556,7 +684,10 @@ experience
 
 ## Links
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[AI Individuation]]
 - [[Memory Possession Is Not Experience Authorship]]
 - [[Can Distributed AI Be One Responsible Agent]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]

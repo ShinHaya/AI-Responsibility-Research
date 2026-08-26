@@ -10,9 +10,28 @@ tags:
 
 # Agentive Initiation Is Necessary but Not Sufficient for AI Responsibility
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Claim
 
 AI自身へ道徳的責任を帰属するには、AIが自己統治された理由から行為系列を開始できることが必要である。しかし、自律的なgoal生成や行為開始だけでは十分ではない。
+
+Goal generationやaction initiationの技術的可能性自体は、[[maynordDataDrivenGoalGeneration2013]]、[[colasAutotelicAgentsIntrinsically2022]]、[[addisonVIDAMotivatedGoal2026]]によって既に研究されている。
+
+[[pacherieAgency2026]]はaction initiationを意図、制御、主体感などから区別し、[[popaHumanGoalsAre2021]]はAI goalが人間目的へ構成的に依存すると論じる。
+
+本Argumentの追加点は、goal generationを独自性とせず、それを反省的自己統治、発生的・通時的連続性、個体化、answerabilityへ統合することをAI責任の必要条件として示す点にある。
 
 ## Argument
 
@@ -39,4 +58,3 @@ AI自身へ道徳的責任を帰属するには、AIが自己統治された理�
 - [[addisonVIDAMotivatedGoal2026]]
 - [[bratmanPlanningAgencyAutonomous2005]]
 - [[pacherieAgency2026]]
-

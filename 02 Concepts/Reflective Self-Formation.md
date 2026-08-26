@@ -7,9 +7,26 @@ tags:
   - free-will
   - ai-responsibility
   - phenomenology
+concept_origin: project-extension
+origin_field: "Frankfurt型階層説・現象学・自律論"
+canonical_sources:
+  - "[[frankfurtFreedomWillConcept1971]]"
+  - "[[watsonFreeAgency1975]]"
+  - "[[steinbockProjectEthicalRenewal1994]]"
 ---
 
 # Reflective Self-Formation
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：高階欲求、reflective endorsement、self-formation、ethical renewalの既存議論を基礎とする。
+> **本研究で加えた部分**：現在のintrospectionではなく、経験史を引き受けつつ価値と自己像を反省的に改訂するAI責任条件として統合する。
+> **主な根拠**：[[frankfurtFreedomWillConcept1971]]、[[watsonFreeAgency1975]]、[[steinbockProjectEthicalRenewal1994]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 主体が自らの一次的欲求、動機、選好、価値、習慣、規範的基準を対象化し、承認・拒否・修正し、その結果を将来の自己へ持続的に組み込む能力。
 
@@ -93,4 +110,3 @@ state access
 ```
 
 現在のmechanistic evidenceは主に前三段階までを支持する。[[Reflective Self-Formation]]には、評価基準自体の[[Normative Contestability]]と、revisionが[[Genetic and Diachronic Agency]]へ沈殿することが追加で必要である。
-

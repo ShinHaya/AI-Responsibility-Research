@@ -17,6 +17,19 @@ tags: [meta-awareness, attention, active-inference]
 
 # Towards a Computational Phenomenology of Mental Action
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：[[Sedimentation]]。
+> **本研究による再構成**：[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 - Authors: Lars Sandved-Smith et al.
@@ -31,9 +44,15 @@ The paper formalizes meta-awareness and attentional control using deep parametri
 
 ## Core Thesis
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@sandved-smithComputationalPhenomenologyMental2021の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 自分の注意状態へアクセスし、それをmental actionによって制御するには、perception、attention、meta-awarenessをparametrically nestedな階層としてモデル化できる。上位policyは下位levelのprecisionを変えることで認知状態を調整する。
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@sandved-smithComputationalPhenomenologyMental2021の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - Meta-awarenessは現在のconscious contentを明示的にnoticeする能力である。
 - Attention stateはperceptual inferenceのprecisionをconditionする。
@@ -43,6 +62,9 @@ The paper formalizes meta-awareness and attentional control using deep parametri
 
 ## Relation to Frankfurt
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ```text
 higher-order state -> lower-order process modification
 ```
@@ -51,13 +73,18 @@ higher-order state -> lower-order process modification
 
 ## My Evaluation
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Reflective Self-Formation]]の機能的部品、特にinternal-state access、meta-level monitoring、lower-level controlが実装可能であることを示す重要文献。ただし、meta-awareness、self-report、cognitive controlからnormative self-governanceを推論してはならない。
 
 責任的AIにはさらに、preference/valueへのaccess、counterfactual evaluation、revision、[[Sedimentation|持続的自己変更]]、他者へのanswerabilityが必要である。
 
 ## Questions Raised
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 - Attentionのmeta-controlをpreferenceのmeta-controlへ拡張できるか。
 - precision controlをAI自身が選ぶための上位基準はどこから来るか。
 - 三階層を追加するだけでhigher-order regressは解消されるか。
-

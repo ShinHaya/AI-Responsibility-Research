@@ -15,6 +15,19 @@ tags:
 
 # Trust Experience Glitches
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentic Causal Provenance]]。
+> **本研究で導入した作業概念**：[[Policy-Attested Agent Authorization]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @rongTrustExperienceGlitches2026
@@ -37,11 +50,17 @@ This paper defines a trust experience glitch as a rupture between the trust sign
 
 ## Core Thesis
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@rongTrustExperienceGlitches2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 agent事故は孤立したbugではなく、systemが示した信頼シグナルとstakeholderが経験した行動のずれとして分析できる。
 
 このずれは、事後的liabilityだけでは処理できず、委任、取消、可視性をprotocol levelで制約する必要がある。
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@rongTrustExperienceGlitches2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - trust experience glitchは関係的失敗である。
 - delegation ambiguityとrevocation failureはagentic AI固有の信頼破綻を生む。
@@ -50,9 +69,15 @@ agent事故は孤立したbugではなく、systemが示した信頼シグナル
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Corporate Remedial Responsibility for Agentic AI]]に、ユーザーの合理的期待という評価軸を加える。
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -69,19 +94,30 @@ UI上の委任表示、実際のauthorization scope、provenanceを比較し、�
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Policy-Attested Agent Authorization]]
 - [[Agentic Causal Provenance]]
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Corporate Remedial Responsibility for Agentic AI]]
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - platformはどの表示によってagentへの過剰な信頼を誘発するのか。
 - revocationが間に合わないactionにはどの救済設計が必要か。
 
 ## Notes
 
-- Zotero item key: `59MVRCVS`
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
+- Zotero item key: `59MVRCVS`

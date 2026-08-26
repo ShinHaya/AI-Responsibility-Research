@@ -5,9 +5,25 @@ created: 2026-08-12
 tags:
   - free-will
   - ai-responsibility
+concept_origin: established-analytic-free-will
+origin_field: "分析哲学の自由意志・道徳的責任論"
+canonical_sources:
+  - "[[frankfurtAlternatePossibilitiesMoral1969]]"
+  - "[[oconnorFreeWill2022]]"
 ---
 
 # Alternative Possibilities
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：分析哲学の標準概念。
+> **概念自体の来歴**：行為者が別様に行為できたかを問う、自由意志論の確立した中心論点である。
+> **本研究で加えた部分**：このノートでは、AIについてmeans、goal、normの各水準を区別し、選択肢数ではなく規範的に関連するaccessとして再構成する。
+> **主な根拠**：[[frankfurtAlternatePossibilitiesMoral1969]]、[[oconnorFreeWill2022]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 行為者が実際に行った行為とは異なる行為を選択・実行できる可能性。
 

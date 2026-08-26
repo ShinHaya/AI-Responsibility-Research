@@ -7,9 +7,26 @@ tags:
   - agency
   - ai-responsibility
   - action-theory
+concept_origin: project-extension
+origin_field: "行為論・planning agency・autotelic AI"
+canonical_sources:
+  - "[[pacherieAgency2026]]"
+  - "[[bratmanPlanningAgencyAutonomous2005]]"
+  - "[[maynordDataDrivenGoalGeneration2013]]"
 ---
 
 # Agentive Action Initiation
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：行為開始、意図、planning、goal generationに関する行為論とAI研究を基礎とする。
+> **本研究で加えた部分**：AI責任のための行為開始を、単なる無prompt起動ではなく、goal形成、理由評価、計画保持、個体化、answerabilityを統合した条件として定式化する。
+> **主な根拠**：[[pacherieAgency2026]]、[[bratmanPlanningAgencyAutonomous2005]]、[[maynordDataDrivenGoalGeneration2013]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 外部から個別の行為命令を受けることなく、環境・記憶・価値・未完了の意図を統合し、「何を、なぜ、今行うべきか」を主体自身の実践的推論によって決め、行為系列を開始する能力。
 

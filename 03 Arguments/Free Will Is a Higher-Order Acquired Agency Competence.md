@@ -1,5 +1,18 @@
 # Free Will Is a Higher-Order Acquired Agency Competence
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：[[Free Will]]、[[Second-Order Volition]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agentive Action Initiation]]、[[Genetic and Diachronic Agency]]、[[Open-Ended Revisability]]、[[Practical Alternative Possibilities]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Genetic-Reflective Loop]]、[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Status
 
 Developing Argument
@@ -7,6 +20,12 @@ Developing Argument
 ---
 
 ## Central Claim
+
+自由意志を学習と経験を通じて獲得される能力として捉える方向には、[[riserFreeWillSkill2015]]という直接の先行研究がある。
+
+[[hofmannExplainingFreeWill2022]]も、自由意志を合理能力から説明する。
+
+したがって本Argumentの追加点は、自由意志の獲得性そのものではなく、Riserのdeliberative skillを複数のagency subcompetencesから構成されるhigher-order competenceへ拡張し、発生的・通時的自己形成とAIへの計算的操作化を統合する点にある。
 
 Free will should not be understood as general intelligence itself,
 nor as a single isolated cognitive ability.
@@ -1105,20 +1124,20 @@ integrationは今後、
 # 31. Related Concepts
 
 - [[Free Will]]
-- [[Agency Competence]]
-- [[Competence]]
+- [[Free Will Is a Higher-Order Acquired Agency Competence#9. Free Will as a Composite Competence|Agency Competence]]
+- [[Competence and Responsibility|Competence]]
 - [[Practical Alternative Possibilities]]
-- [[Higher-Order Volition]]
+- [[Second-Order Volition|Higher-Order Volition]]
 - [[Reflective Self-Formation]]
 - [[Open-Ended Revisability]]
 - [[Genetic and Diachronic Agency]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic-Reflective Loop]]
-- [[Normative Evaluation]]
-- [[Planning Agency]]
+- [[Normative Criterion Regress|Normative Evaluation]]
+- [[Genetic and Diachronic Agency#Planning and Prospective Agency|Planning Agency]]
 - [[Agentive Action Initiation]]
-- [[Intelligence Threshold]]
-- [[Diachronic Reflective Sourcehood]]
+- [[Free Will Is a Higher-Order Acquired Agency Competence#14. The Intelligence Threshold Hypothesis|Intelligence Threshold]]
+- [[Sourcehood#Reconstructed Sourcehood|Diachronic Reflective Sourcehood]]
 
 ---
 
@@ -1130,6 +1149,8 @@ integrationは今後、
 
 # 33. Related Literature
 
+- [[riserFreeWillSkill2015]]
+- [[hofmannExplainingFreeWill2022]]
 - [[frankfurtFreedomWillConcept1971]]
 - [[fischerResponsibilityControlTheory1998]]
 - [[husserlAnalysesConcerningPassive2001]]

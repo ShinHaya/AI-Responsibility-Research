@@ -4,9 +4,25 @@ status: developing
 created: 2026-08-12
 tags:
   - ai-responsibility
+concept_origin: established-analytic-free-will
+origin_field: "倫理学・法哲学・道徳的責任論"
+canonical_sources:
+  - "[[shoemakerAttributabilityAnswerabilityAccountability2011]]"
+  - "[[matthiasResponsibilityGap2004]]"
 ---
 
 # Responsibility
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：分析哲学の標準概念。
+> **概念自体の来歴**：因果的、役割上、道徳的、法的責任を区別する責任論の既存語彙をまとめた上位概念である。
+> **本研究で加えた部分**：AIについて各責任類型の成立条件と、上位責任判断に必要な証拠基盤を分離して整理する。
+> **主な根拠**：[[shoemakerAttributabilityAnswerabilityAccountability2011]]、[[matthiasResponsibilityGap2004]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 AIへの責任帰属では、少なくとも以下を区別する必要がある。
 
@@ -36,7 +52,7 @@ AIの判断・行為が、ある結果を因果的に生じさせたという意
 
 ## Current Position
 
-AIに[[Causal Responsibility]]と[[Role Responsibility]]を帰属することと、[[Moral Responsibility]]・[[Legal Responsibility]]を帰属することを区別する。
+AIに[[Responsibility#Causal Responsibility|Causal Responsibility]]と[[Responsibility#Role Responsibility|Role Responsibility]]を帰属することと、[[Responsibility#Moral Responsibility|Moral Responsibility]]・[[Responsibility#Legal Responsibility|Legal Responsibility]]を帰属することを区別する。
 
 後二者には、単なる因果能力やタスク遂行能力以上の主体性が要求される。
 
@@ -76,4 +92,4 @@ AIへ課しうるのは、委任された業務の経過と根拠を報告する
 - [[Genetic and Diachronic Agency]]
 - [[AI Individuation]]
 - [[Agentic Causal Provenance]]
-- [[Conditions for Artificial Responsible Agency]]
+- [[Free Will Conditions for Artificial Moral Responsibility|Conditions for Artificial Responsible Agency]]

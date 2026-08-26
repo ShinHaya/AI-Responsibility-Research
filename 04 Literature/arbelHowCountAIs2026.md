@@ -13,6 +13,19 @@ tags:
 
 # How to Count AIs: Individuation and Liability for AI Agents
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Reasons-Responsiveness]]、[[Responsibility]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[AI Individuation]]、[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @arbelHowCountAIs2026
@@ -46,6 +59,9 @@ Very soon, millions of AI agents will proliferate across the economy, autonomous
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@arbelHowCountAIs2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Arbel, Goldstein, Salibは、
 AI agentの法的責任を論じる以前に、
@@ -124,6 +140,9 @@ AIを識別・統治できるようにする。
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@arbelHowCountAIs2026の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - AI liabilityを成立させるには、
   liability attribution以前にAI individuationが必要である。
 
@@ -179,6 +198,9 @@ AIを識別・統治できるようにする。
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は
 [[AI Individuation]]
 に直接関係する。
@@ -231,6 +253,9 @@ Arbel et al.はこの問題を
 
 ## Connection to Genetic and Diachronic Agency
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[Genetic and Diachronic Agency]]
 
 私の理論では、
@@ -269,6 +294,9 @@ responsible agentとしてのidentityには不十分である可能性がある�
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -355,6 +383,9 @@ stable identifierとcoherent goalsを持っていても、
 
 ## Thin, Thick, and Genetic Identity
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 Arbel et al.の区別を拡張して、
 responsible agencyには第三のidentity conceptが
 必要ではないかと考える。
@@ -418,6 +449,9 @@ Thin identityとthick identityは
 
 ## The Copy Problem
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献が私の理論にとって特に重要なのは
 copy problemを明示する点である。
 
@@ -453,6 +487,9 @@ copy時点では、
 
 
 ## Historical Information vs Historical Origin
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ここでは重要な区別が必要になる。
 
@@ -490,6 +527,9 @@ AI-A1とAI-A2が
 
 
 ## Branching Identity
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 しかしcopyについて、
 
@@ -536,6 +576,9 @@ t0までのhistoryについて
 
 ## Responsibility Under Branching
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 ここから新しいresponsibility problemが生じる。
 
 t0でAI-Aがharmful action Hを行い、
@@ -563,6 +606,9 @@ Hについて、
 
 
 ## The Merge Problem
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 さらに難しいのがmergeである。
 
@@ -596,6 +642,9 @@ Cは誰のresponsibilityを継承するのか。
 
 
 ## Relation to Fischer & Ravizza
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[fischerResponsibilityControlTheory1998]]
 
@@ -640,6 +689,9 @@ Fischer & Ravizza：
 
 
 ## Relation to Open-Ended Revisability
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Second-Order Volition Requires Open-Ended Revisability]]
 
@@ -686,6 +738,9 @@ Self(t0)とSelf(t1)が
 
 ## Relation to Responsibility Types
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献は責任概念の区別にも役立つ。
 
 ### Causal Responsibility
@@ -727,6 +782,9 @@ persistent legal entityを人工的に構成する提案と理解できる。
 
 ## Extension: Three Layers of AI Identity
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この文献から、
 AI identityを三層に区別することを提案する。
 
@@ -760,6 +818,9 @@ AI identityを三層に区別することを提案する。
 
 
 ## Relation to AI Memory Sharing
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 AI同士がmemoryを完全に共有できる場合、
 さらに問題が複雑になる。
@@ -799,6 +860,9 @@ Eは依然としてAに発生的起源を持つ。
 
 
 ## Relation to Intersubjective Agency
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 [[Intersubjective Agency]]
 
@@ -852,24 +916,30 @@ shared informationとindividual historyを
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[AI Individuation]]
-- [[Genetic-Diachronic Identity]]
+- [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]]
 - [[Genetic and Diachronic Agency]]
 - [[Intersubjective Agency]]
-- [[Branching Identity]]
-- [[Historical Origin]]
-- [[Historical Content]]
-- [[Mechanism Ownership]]
-- [[Diachronic Ownership]]
+- [[arbelHowCountAIs2026#Branching Identity|Branching Identity]]
+- [[Memory Possession Is Not Experience Authorship|Historical Origin]]
+- [[Memory Possession Is Not Experience Authorship|Historical Content]]
+- [[Reasons-Responsiveness#Mechanism Ownership|Mechanism Ownership]]
+- [[fischerResponsibilityControlTheory1998#Extension: Diachronic Ownership|Diachronic Ownership]]
 - [[Open-Ended Revisability]]
 - [[Reflective Self-Formation]]
-- [[Causal Responsibility]]
-- [[Role Responsibility]]
-- [[Legal Responsibility]]
-- [[Moral Responsibility]]
+- [[Responsibility#Causal Responsibility|Causal Responsibility]]
+- [[Responsibility#Role Responsibility|Role Responsibility]]
+- [[Responsibility#Legal Responsibility|Legal Responsibility]]
+- [[Responsibility#Moral Responsibility|Moral Responsibility]]
 
 
 ## Related Arguments
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Normative Criterion Regress]]
@@ -879,6 +949,9 @@ shared informationとindividual historyを
 
 ## Related Literature
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[fischerResponsibilityControlTheory1998]]
 - [[frankfurtFreedomWillConcept1971]]
 - [[lindseyEmergentIntrospectiveAwareness2026]]
@@ -887,6 +960,9 @@ shared informationとindividual historyを
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - AI responsibilityにはどのidentity notionが必要なのか？
 
@@ -954,6 +1030,9 @@ shared informationとindividual historyを
 
 
 ## Notes
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - Yonathan A. Arbel, Simon Goldstein, Peter N. Salib,
   "How to Count AIs: Individuation and Liability for AI Agents,"

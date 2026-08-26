@@ -9,9 +9,25 @@ tags:
   - llm
   - agency
   - alternative-possibilities
+concept_origin: borrowed-adjacent-field
+origin_field: "生成AI・行為論"
+canonical_sources:
+  - "[[keshetSamplingNotChoosing2026]]"
+  - "[[martelaArtificialIntelligenceFree2025]]"
 ---
 
 # Sampling Is Not Choosing
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：隣接分野・文献由来。
+> **概念自体の来歴**：確率的samplingを主体的な選択と同一視できないというKeshetの文献固有の批判に由来する。
+> **本研究で加えた部分**：Martelaの機能的自由意志論と接続し、token、plan、reason-owned、self-formative alternativesを区別する。
+> **主な根拠**：[[keshetSamplingNotChoosing2026]]、[[martelaArtificialIntelligenceFree2025]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 

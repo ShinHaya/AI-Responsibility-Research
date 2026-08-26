@@ -1,5 +1,18 @@
 # Research Backlog
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：索引・進捗管理ノート。掲載順やリンクは知的来歴を示さない。
+> **分析哲学の標準概念**：[[Responsibility]]、[[Sourcehood]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[AI Individuation]]、[[Open-Ended Revisability]]。
+> **本研究で導入した作業概念**：[[Individuated Causal-Historical Continuity]]。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 > AI Responsibility Research における未完了タスクを管理する。
 >
 > 完了したタスクは `[x]` に変更する。
@@ -15,11 +28,11 @@
 
 | Done | Type             | Note                                                                | Main Question                      |
 | ---- | ---------------- | ------------------------------------------------------------------- | ---------------------------------- |
-| [ ]  | Argument         | [[The LLM Is Not the Artificial Agent]]                             | LLMそのものと、それを利用する持続的AI主体を区別すべきではないか |
+| [ ]  | Argument         | [[AI Individuation#Multiple Candidate Identity Boundaries|The LLM Is Not the Artificial Agent]]                             | LLMそのものと、それを利用する持続的AI主体を区別すべきではないか |
 | [ ]  | Concept / Theory | [[AI Individuation]]                                                | AI個体を何によって他のAI個体から区別するのか           |
-| [ ]  | Argument         | [[Historical Content Is Not Historical Origin]]                     | 同じ記憶内容を持つことと、その経験を実際に経たことは同じか      |
-| [ ]  | Argument         | [[Responsibility After AI Branching]]                               | AIをコピーした場合、コピー前の行為への責任を誰が継承するのか    |
-| [ ]  | Argument         | [[Genetic-Diachronic Agency Is Necessary for Moral Responsibility]] | 発生的・通時的主体性は道徳的責任の必要条件か             |
+| [ ]  | Argument         | [[Memory Possession Is Not Experience Authorship|Historical Content Is Not Historical Origin]]                     | 同じ記憶内容を持つことと、その経験を実際に経たことは同じか      |
+| [ ]  | Argument         | [[AI Individuation#Branching and Merging|Responsibility After AI Branching]]                               | AIをコピーした場合、コピー前の行為への責任を誰が継承するのか    |
+| [ ]  | Argument         | [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Genetic-Diachronic Agency Is Necessary for Moral Responsibility]] | 発生的・通時的主体性は道徳的責任の必要条件か             |
 
 ---
 
@@ -29,14 +42,14 @@ Free-Will CompetenceとResponsible Agencyの内部構造を精緻化する。
 
 | Done | Type | Note | Main Question |
 |---|---|---|---|
-| [ ] | Argument | [[Memory Is Not Diachronic Selfhood]] | persistent memoryだけで通時的主体性を構成できるか |
-| [ ] | Argument | [[Introspection Is Not Reflective Self-Formation]] | internal stateへのintrospective accessと自己形成はどう異なるか |
-| [ ] | Argument / Concept | [[Intelligence Threshold for Free-Will Competence]] | free-will competence成立に必要なminimum intelligenceは存在するか |
-| [ ] | Argument | [[Planning Is Necessary but Not Sufficient for Responsible Agency]] | planning capacityだけでresponsible agencyを構成できるか |
-| [ ] | Argument | [[Normativity Requires Intersubjective Revisability]] | normative self-formationには他者からの批判可能性が必要か |
-| [ ] | Concept | [[Agency Competence]] | agency competenceとは何か |
-| [ ] | Concept | [[Genetic-Diachronic Identity]] | 時間を通じたAI主体のnumerical identityを何が構成するか |
-| [ ] | Concept | [[Diachronic Reflective Sourcehood]] | ultimate sourcehoodに代わる通時的・反省的sourcehoodとは何か |
+| [ ] | Argument | [[Memory Possession Is Not Experience Authorship|Memory Is Not Diachronic Selfhood]] | persistent memoryだけで通時的主体性を構成できるか |
+| [ ] | Argument | [[Open-Ended Revisability#Introspection Is Not Reflective Self-Formation|Introspection Is Not Reflective Self-Formation]] | internal stateへのintrospective accessと自己形成はどう異なるか |
+| [ ] | Argument / Concept | [[Free Will Is a Higher-Order Acquired Agency Competence#14. The Intelligence Threshold Hypothesis|Intelligence Threshold for Free-Will Competence]] | free-will competence成立に必要なminimum intelligenceは存在するか |
+| [ ] | Argument | [[Computational Phenomenology of Responsible Agency#4.7 Planning Agency|Planning Is Necessary but Not Sufficient for Responsible Agency]] | planning capacityだけでresponsible agencyを構成できるか |
+| [ ] | Argument | [[Genetically and Intersubjectively Constituted Agency Is Required for AI Responsibility|Normativity Requires Intersubjective Revisability]] | normative self-formationには他者からの批判可能性が必要か |
+| [ ] | Concept | [[Free Will Is a Higher-Order Acquired Agency Competence#9. Free Will as a Composite Competence|Agency Competence]] | agency competenceとは何か |
+| [ ] | Concept | [[Individuated Causal-Historical Continuity|Genetic-Diachronic Identity]] | 時間を通じたAI主体のnumerical identityを何が構成するか |
+| [ ] | Concept | [[Sourcehood#Reconstructed Sourcehood|Diachronic Reflective Sourcehood]] | ultimate sourcehoodに代わる通時的・反省的sourcehoodとは何か |
 
 ---
 
@@ -46,7 +59,7 @@ Responsibility attributionそのものを整理する。
 
 | Done | Type | Note | Main Question |
 |---|---|---|---|
-| [ ] | Concept | [[Responsibility Taxonomy]] | Causal / Role / Moral / Legal Responsibilityをどう区別するか |
+| [ ] | Concept | [[Responsibility|Responsibility Taxonomy]] | Causal / Role / Moral / Legal Responsibilityをどう区別するか |
 | [ ] | Argument | [[Does Moral Responsibility Require Consciousness]] | phenomenal consciousnessは道徳的責任の必要条件か |
 | [ ] | Argument | [[Control-Responsibility Paradox]] | 人間によるAI controlを強めるほどAI自身への責任帰属が困難になるのではないか |
 | [ ] | Argument | [[Action Initiation Is Necessary for Responsible Agency]] | 外部からgoalを与えられるだけでなく、自らactionをinitiateする必要があるか |
@@ -317,11 +330,11 @@ Codexを主要研究環境に移す前に確認する。
 3. [x] Riser Literature Noteを完成
 4. [x] [[Free Will Is a Higher-Order Acquired Agency Competence]]との比較
 5. [ ] Kaneを調査・登録
-6. [ ] [[The LLM Is Not the Artificial Agent]]を作成
+6. [ ] [[AI Individuation#Multiple Candidate Identity Boundaries|The LLM Is Not the Artificial Agent]]を作成
 7. [ ] [[AI Individuation]]を作成
-8. [ ] [[Historical Content Is Not Historical Origin]]を作成
+8. [ ] [[Memory Possession Is Not Experience Authorship|Historical Content Is Not Historical Origin]]を作成
 9. [ ] Parfitを調査・登録
-10. [ ] [[Responsibility After AI Branching]]を作成
+10. [ ] [[AI Individuation#Branching and Merging|Responsibility After AI Branching]]を作成
 
 ---
 

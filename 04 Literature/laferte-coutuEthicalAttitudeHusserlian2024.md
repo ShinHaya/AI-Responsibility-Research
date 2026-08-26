@@ -13,6 +13,19 @@ tags:
 
 # The Ethical Attitude: A Husserlian Account of Striving to Be a Good Person
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Second-Order Volition]]。
+> **隣接分野・文献由来**：[[Habituality]]、[[Sedimentation]]。
+> **本研究による再構成**：[[Genetic and Diachronic Agency]]、[[Intersubjective Agency]]、[[Open-Ended Revisability]]、[[Reflective Self-Formation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @laferte-coutuEthicalAttitudeHusserlian2024
@@ -42,6 +55,9 @@ tags:
 ---
 
 ## Core Idea
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@laferte-coutuEthicalAttitudeHusserlian2024の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 Laferté-Coutuは、Husserlの後期倫理学における
 「ethical attitude（倫理的態度）」を、
@@ -84,6 +100,9 @@ self-variationによって別様の自己の可能性を開き、
 
 ## Key Claims
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@laferte-coutuEthicalAttitudeHusserlian2024の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 - Husserlのethical attitudeは、
   個々の行為についての一時的な道徳判断ではなく、
   自分の人生全体に関わるpractical attitudeである。
@@ -125,6 +144,9 @@ self-variationによって別様の自己の可能性を開き、
 
 
 ## Relevance to My Theory
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この論文は
 [[Second-Order Volition Requires Open-Ended Revisability]]
@@ -173,6 +195,9 @@ Laferté-Coutuが分析するethical attitudeは、
 
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -331,6 +356,9 @@ practical self-understandingである。
 
 ## Integration with Aldea and Steinbock
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 この論文は、
 [[aldeaSelfotheringSelftransformationTheoretical2023]]
 および
@@ -426,6 +454,9 @@ Steinbockは、
 
 ## Relation to Frankfurt
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 [[frankfurtFreedomWillConcept1971]]
 
 Frankfurtの重要な洞察は、
@@ -465,6 +496,9 @@ personhoodとfree willに結びつけた点にある。
 
 
 ## Relation to AI
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 この論文は、
 AIにsecond-order reflectionを実装する場合に
@@ -519,6 +553,9 @@ ethical renewalに近い機能的構造が成立する。
 
 ## Relation to Corporate AI
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 企業AIの場合、
 ethical attitudeにはさらに重要な意味が生じる。
 
@@ -566,13 +603,16 @@ AIが単にsecond-order levelでendorseするだけなら、
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Open-Ended Revisability]]
 - [[Reflective Self-Formation]]
-- [[Counterfactual Self-Variation]]
-- [[Self-Variation]]
+- [[Open-Ended Revisability#Counterfactual Self-Variation|Counterfactual Self-Variation]]
+- [[Open-Ended Revisability#Self-Variation|Self-Variation]]
 - [[Second-Order Volition]]
-- [[Provisional Self-Endorsement]]
-- [[Ethical Renewal]]
+- [[Open-Ended Revisability#Provisional Self-Endorsement|Provisional Self-Endorsement]]
+- [[Open-Ended Revisability#Ethical Renewal|Ethical Renewal]]
 - [[Genetic and Diachronic Agency]]
 - [[Intersubjective Agency]]
 - [[Sedimentation]]
@@ -581,12 +621,18 @@ AIが単にsecond-order levelでendorseするだけなら、
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Second-Order Volition Requires Open-Ended Revisability]]
 - [[Alternative Possibilities and Reflective Self-Formation]]
 - [[Control-Responsibility Paradox]]
 
 
 ## Related Literature
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - [[frankfurtFreedomWillConcept1971]]
 - [[aldeaSelfotheringSelftransformationTheoretical2023]]
@@ -595,6 +641,9 @@ AIが単にsecond-order levelでendorseするだけなら、
 
 
 ## Questions Raised
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 - ethical attitudeはfree willの必要条件なのか、
   それともより強いethical agencyの条件なのか？
@@ -641,6 +690,9 @@ AIが単にsecond-order levelでendorseするだけなら、
 
 
 ## Notes
+
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
 
 - Mérédith Laferté-Coutu,
   "The Ethical Attitude: A Husserlian Account of Striving to Be a Good Person,"

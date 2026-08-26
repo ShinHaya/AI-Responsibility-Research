@@ -16,6 +16,19 @@ tags:
 
 # Farewell to the Luck (and Mind) Argument
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：文献要約と本研究の分析を分けて保存するLiterature Note。各H2直下の出自表示を優先し、「文献由来」は著者固有の主張も含むため、分析哲学全体の標準概念を意味しない。
+> **分析哲学の標準概念**：[[Alternative Possibilities]]。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Agency-Level Alternative Possibilities]]、[[Agentive Action Initiation]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Bibliographic Information
 
 **Citation Key:** @franklinFarewellLuckMind2011
@@ -37,9 +50,15 @@ Franklinは、非決定性が自由意志と道徳的責任に必要な統制を
 
 ## Core Idea
 
+<!-- section-provenance:source -->
+**出自**：文献由来（@franklinFarewellLuckMind2011の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
+
 > 非決定性が統制を壊すかどうかは、その有無だけでなく、行為系列のどこに位置するかによって決まる。
 
 ## Key Claims
+
+<!-- section-provenance:source -->
+**出自**：文献由来（@franklinFarewellLuckMind2011の内容を要約する欄。翻訳・要約の表現はノート作成者による）。
 
 - 適切なevent-causal libertarianismでは、非決定性は「試みの後に結果が偶然決まる」位置ではなく、どの試みを行うかという行為時点に置かれる。
 - 因果関係は結果の必然化を含意しないため、非決定的な出来事が無原因だとは限らない。
@@ -48,10 +67,16 @@ Franklinは、非決定性が自由意志と道徳的責任に必要な統制を
 
 ## Relevance to My Theory
 
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
+
 生成AIの確率性についても、出力のランダム性をそのまま自由や統制と同一視してはならない。
 問うべきなのは、不確定性が目標形成、理由評価、決定、実行のどこに入り、主体の能力によって統御されているかである。
 
 ## My Evaluation
+
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
 ### Agree
 
@@ -69,15 +94,23 @@ Franklinは、非決定性が自由意志と道徳的責任に必要な統制を
 
 ## Related Concepts
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Alternative Possibilities]]
 - [[Agency-Level Alternative Possibilities]]
 - [[Agentive Action Initiation]]
 
 ## Related Arguments
 
+<!-- section-provenance:curation -->
+**出自**：本研究による整理（関連リンク、問いまたは作業メモ。文献著者の主張そのものではない）。
+
 - [[Alternative Possibilities and Reflective Self-Formation]]
 
 ## Questions Raised
 
-- 確率的AIで「試みを選ぶ時点」に対応する機能単位をどこに置けるか。
+<!-- section-provenance:project -->
+**出自**：本研究による分析（比較、評価、AI責任論への応用または理論的拡張）。
 
+- 確率的AIで「試みを選ぶ時点」に対応する機能単位をどこに置けるか。

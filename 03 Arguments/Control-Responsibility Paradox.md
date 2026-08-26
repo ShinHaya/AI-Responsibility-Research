@@ -6,7 +6,26 @@ created: 2026-08-12
 
 # Control-Responsibility Paradox
 
+<!-- concept-provenance-note:start -->
+> [!info]- 概念の来歴
+> **ノートの性格**：本研究の論証ノート。中心命題の結合と定式化は本研究によるが、構成概念や個々の前提には既存の先行研究がある。
+> **分析哲学の標準概念**：該当なし。
+> **隣接分野・文献由来**：該当なし。
+> **本研究による再構成**：[[Normative Contestability]]。
+> **本研究で導入した作業概念**：該当なし。
+> 上の一覧は、このノートからConcept Noteへ張られた明示的リンクを分類したものであり、リンクされていない一般語まで網羅しない。
+> 「標準」は用語や論点の定着を示し、その理論が真であるとの合意を意味しない。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは知的来歴を判定しない。
+> 分類基準と全一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
+
 ## Initial Formulation
+
+責任とcontrolの関係自体には、[[fischerResponsibilityControlTheory1998]]のguidance controlや、[[pettitRepublicanismTheoryFreedom1999]]のnon-dominationという先行議論がある。
+
+また、人間へ責任が集中する構造は、[[elishMoralCrumpleZones2019]]がmoral crumple zoneとして分析する。
+
+本Argumentが導入するのは、企業がAIを信頼するための一方的controlを強めるほどAI自身への責任帰属を弱めるという特定の緊張を、Control-Responsibility Paradoxとして定式化する点である。
 
 企業がAIを信頼して重要な仕事を任せるためには、AIを強くcontrolしたくなる。
 
@@ -56,3 +75,9 @@ internally constituted reliability
 完全な解消にはならない。企業がAI自身へ責任を移したいなら、AIへ[[Normative Contestability]]と実効的な異議申立て経路を与える必要があるが、それは企業の最終的controlを弱める。したがって残る対立は、reliabilityとresponsibilityではなく、**一方的支配と責任主体の自立**の間にある。
 
 AIを「新人」から昇格させる基準は規則への完全服従ではなく、(1) task competence、(2)理由に基づく安定した自己統制、(3)上位規範の批判可能性、(4)監査可能な自己形成史である。
+
+## Related Literature
+
+- [[fischerResponsibilityControlTheory1998]]
+- [[pettitRepublicanismTheoryFreedom1999]]
+- [[elishMoralCrumpleZones2019]]

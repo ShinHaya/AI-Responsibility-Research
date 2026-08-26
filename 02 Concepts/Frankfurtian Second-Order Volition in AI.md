@@ -9,9 +9,26 @@ tags:
   - frankfurt
   - ai-responsibility
   - free-will
+concept_origin: project-extension
+origin_field: "分析哲学の意志階層説・AI agency"
+canonical_sources:
+  - "[[frankfurtFreedomWillConcept1971]]"
+  - "[[calverleyLegalRightsMachines2011]]"
+  - "[[formosaRelationshipAgencyAutonomy2025]]"
 ---
 
 # Frankfurtian Second-Order Volition in AI
+
+<!-- concept-provenance-note:start -->
+> [!abstract] 概念の来歴
+> **区分**：本研究による再構成。
+> **概念自体の来歴**：Frankfurtのsecond-order volitionと、Calverleyによるmachineへの適用を基礎とする。
+> **本研究で加えた部分**：LLM agentのpreference評価をsourcehood、通時的自己形成、開放的修正可能性、AI個体化と統合して評価する。
+> **主な根拠**：[[frankfurtFreedomWillConcept1971]]、[[calverleyLegalRightsMachines2011]]、[[formosaRelationshipAgencyAutonomy2025]]。
+> 既存の`sourceConversation`や`source`は作成・抽出元を示すために用いられてきたが、それだけでは概念の知的来歴や独自性を判定しない。
+> 概念の区分は`concept_origin`、主要な根拠は`canonical_sources`を参照する。
+> 詳細な分類基準と全Concept Noteの一覧は[[Concept Provenance Registry|概念来歴レジストリ]]を参照。
+<!-- concept-provenance-note:end -->
 
 ## Core Idea
 
