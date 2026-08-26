@@ -207,6 +207,7 @@ A2A方式は、外部AI向けインターフェースと内部APIの隔離を単
 
 ## 関連ノート
 
+- 技術概要とデプロイ方式：[[agentgatewayの目的とデプロイ方式]]
 - 構想の原稿：[[Bring Your Own AIによる倫理的なマーケットプレイス]]
 - AIの識別：[[AI Individuation]]
 - 因果的な来歴：[[Agentic Causal Provenance]]
