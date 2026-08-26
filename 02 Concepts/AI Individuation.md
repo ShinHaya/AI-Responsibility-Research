@@ -107,3 +107,4 @@ BYOAIの監査では、thick identityを解決する前にも行為単位のoper
 → [[southAuthenticatedDelegationAuthorized2025]]
 → [[otsukaAIIdentityStandards2026]]
 → [[Agentic Causal Provenance]]
+→ [[Google Cloud Agent GatewayとAgent Identityの適用可能性]]

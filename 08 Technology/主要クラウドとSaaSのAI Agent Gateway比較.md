@@ -12,7 +12,7 @@
 ## 調査結果
 
 三大cloudには、agentgatewayと機能が重なるmanaged serviceが存在する。
-ただし、単一製品として最も近いのはAWSのAmazon Bedrock AgentCore GatewayとAzure API ManagementのAI gatewayであり、Google CloudではApigee、API hub、Model Armorなどを組み合わせる構成になる。
+単一製品として比較できるのはAWSのAmazon Bedrock AgentCore Gateway、Google CloudのGemini Enterprise Agent Platform Agent Gateway、Azure API ManagementのAI gatewayである。
 
 三社以外では、Kong Konnect AI GatewayがLLM、MCP、A2Aを明示的に扱うため、protocol coverageではOSS agentgatewayに最も近い。
 PortkeyはLLMとMCPのmanaged gatewayに強く、Cloudflare AI GatewayはglobalなLLM traffic managementに強いが、後者の公式AI Gateway資料はMCPとA2Aのprotocol-aware proxyを中核機能として示していない。
@@ -20,7 +20,7 @@ PortkeyはLLMとMCPのmanaged gatewayに強く、Cloudflare AI Gatewayはglobal�
 | 提供者 | Managed提供 | HTTP API | LLM | MCP | A2A | OSS agentgatewayとの近さ |
 | --- | --- | --- | --- | --- | --- | --- |
 | AWS AgentCore Gateway | あり | あり | あり | あり | HTTP targetとして接続可能 | 高い |
-| Google Cloud Apigee | あり | あり | 一部対応 | あり | 明示的な専用機能を確認できず | 中程度 |
+| Google Cloud Agent Gateway | あり | あり | model routingが主目的ではない | あり | あり | 高い |
 | Azure API Management | あり | あり | あり | あり | あり | 高い |
 | Kong Konnect AI Gateway | あり | あり | あり | あり | あり | 最も近い |
 | Portkey | あり | LLMとtool接続が中心 | あり | あり | 明示的な専用機能を確認できず | 中程度から高い |
@@ -60,6 +60,19 @@ OAuth token exchangeやCedar policyは認可の構成要素になるが、market
 
 ## Google Cloud
 
+### Agent Gateway
+
+Google Cloudでは、Gemini Enterprise Agent PlatformのAgent GatewayがOSS agentgatewayの直接的な比較対象である。
+Agent GatewayはMCP、A2A、REST、gRPCを扱い、利用者からagent、agentからtool、agentからagentへの通信を管理する。
+
+Agent Identityを認可principalとしてIAPとIAM policyを適用し、MCP tool名やread-only属性を条件にaccessを制御できる。
+Agent Registry、Model Armor、Agent Observability、custom authorization engineとも統合する。
+
+Agent GatewayとAgent IdentityはGoogle Cloud上のagentic communicationを管理する用途に強い。
+一方、複数LLM providerへの統一inference API、model routing、semantic cache、token cost管理は主目的ではないため、LLM gatewayとしての機能は別途必要になる。
+
+詳細な適用評価は[[Google Cloud Agent GatewayとAgent Identityの適用可能性]]にまとめる。
+
 ### Apigeeと周辺service
 
 Google Cloudでは、Apigeeが既存APIを管理し、agentへtoolとして公開する中心になる。
@@ -79,11 +92,11 @@ AI protocol固有機能を求める場合は、API Gateway単体よりApigeeを�
 
 ### OSS agentgatewayとの差分
 
-Apigeeは、既存の業務APIを変更せずMCP toolとして公開し、API product、quota、組織内catalogへ統合する用途に強い。
-一方、調査した公式資料ではA2A protocol-aware proxyと、provider横断の汎用LLM gatewayが一つの製品面に統合されていない。
+Agent Gatewayはagent identity、MCP、A2Aとpolicy enforcementの統合により、Apigee単体よりOSS agentgatewayに近い。
+ただし、A2AはHTTP trafficとして対応し、公式資料がattribute抽出を明記するのはMCPであるため、A2A固有の観測範囲は実機確認が必要になる。
 
-したがって、Google Cloud上で近い構成を作るには、Apigee、API hub、Model Armor、Cloud Loggingなどを組み合わせる。
-構成要素が分かれるため、各serviceの追跡IDとpolicy decisionを一つのprovenanceへ結ぶ設計が必要になる。
+既存業務APIのMCP化にはApigee、agent通信のpolicy enforcementにはAgent Gateway、prompt securityにはModel Armorという役割分担を取れる。
+複数LLM providerの統一routingまで必要なら別のLLM gateway機能を補う。
 
 ## Microsoft Azure
 
@@ -171,7 +184,7 @@ model routing、MCP変換、JWT検証、rate limit、traceは既製gatewayへ任
 この差はgateway製品の不足ではなく、marketplace applicationが決める業務意味論である。
 
 PoCで型付けされたcommand APIを直接認可するなら、既存のMercari API基盤と統合しやすいgatewayを選ぶほうが検証範囲を小さくできる。
-AWS中心ならAgentCore Gateway、Azure中心ならAPI Management、Google Cloud中心ならApigeeがmanaged候補になる。
+AWS中心ならAgentCore Gateway、Azure中心ならAPI Management、Google Cloud中心ならAgent GatewayとApigeeがmanaged候補になる。
 cloud portabilityとlocal検証を優先するならOSS agentgateway、managed control planeとA2Aまで必要ならKong Konnectが比較対象になる。
 
 PortkeyとCloudflareはLLM trafficを中心に始める場合に適する。
@@ -207,6 +220,8 @@ Mercariの主要な価値仮説がtool authorizationとtransaction governanceに
 
 ### Google Cloud
 
+- [Google Cloud Agent Gateway overview](https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/gateways/agent-gateway-overview)
+- [Google Cloud Agent Identity overview](https://docs.cloud.google.com/iam/docs/agent-identity-overview)
 - [ApigeeのMCP support](https://cloud.google.com/blog/products/ai-machine-learning/mcp-support-for-apigee)
 - [Apigee MCP quickstart](https://docs.cloud.google.com/apigee/docs/api-platform/apigee-mcp/apigee-mcp-quickstart)
 - [Model Armor overview](https://docs.cloud.google.com/model-armor/overview)
