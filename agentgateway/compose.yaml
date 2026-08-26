@@ -1,0 +1,10 @@
+services:
+  agentgateway:
+    container_name: agentgateway
+    image: ${AGENTGATEWAY_IMAGE:-cr.agentgateway.dev/agentgateway:latest-dev}
+    restart: unless-stopped
+    user: "${AGENTGATEWAY_UID:?Set AGENTGATEWAY_UID in .env}:${AGENTGATEWAY_GID:?Set AGENTGATEWAY_GID in .env}"
+    ports:
+      - "127.0.0.1:${AGENTGATEWAY_PORT:-4000}:4000"
+    volumes:
+      - ./agentgateway-config:/config

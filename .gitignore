@@ -19,3 +19,8 @@ tmp/
 
 # Obsidian trash
 .trash/
+
+# Local agentgateway runtime settings and generated state
+agentgateway/.env
+agentgateway/agentgateway-config/*
+!agentgateway/agentgateway-config/.gitkeep
