@@ -1,36 +1,33 @@
 # AI Responsibility Research
 
-AI の自由意志、エージェンシー、道徳的責任を研究するための Obsidian
-Vault です。概念、論証、文献ノートを相互にリンクしながら整理しています。
+このリポジトリは、AI の自由意志、エージェンシー、道徳的責任を研究するための Obsidian Vault です。
+研究対話、概念、論証、文献を個別のノートとして記録し、Wiki リンクによって相互の関係を明示します。
 
-## ディレクトリ構成
+## 研究課題
 
-- `00 Index/`: MOC、理論マップ、進捗ログ
-- `01 Conversations/`: 研究対話の記録
-- `02 Concepts/`: 概念ノート
-- `03 Arguments/`: 論証ノート
-- `04 Literature/`: Zotero と連携した文献ノート
-- `05 Questions/`: 研究上の問い
-- `06 Theory/`: 理論の統合
-- `07 Paper/`: 論文原稿
-- `99 Templates/`: Obsidian および文献ノートのテンプレート
-- `agentgateway/`: agentgateway の Docker Compose 環境
+この研究では、AI システムを行為主体または責任主体として扱うための条件を検討します。
+主な課題は、代替可能性、理由応答性、行為の源泉性、二階の意欲、時間を通じた自己形成、意識と責任の関係です。
+AI 単体だけでなく、人間、組織、モデル、ツールから構成される分散的なシステムにも分析対象を広げています。
 
-## agentgateway の起動
+## Obsidian による知識管理
 
-Docker と Docker Compose が必要です。初回のみ環境ファイルを作り、`id -u`
-と `id -g` の出力に合わせて UID/GID を設定してください。
+ノートは情報の種類ごとに分け、後続の調査によって既存の主張が深まった場合は同じノートを更新します。
+この方法により、類似した概念や論証の重複を避けながら、各主張の根拠と関連文献を追跡できます。
 
-```sh
-cd agentgateway
-cp .env.example .env
-id -u
-id -g
-docker compose up -d
-```
+- `00 Index/`：MOC、理論マップ、処理ログ、研究課題
+- `01 Conversations/`：研究対話の記録
+- `02 Concepts/`：研究で用いる概念の定義と関係
+- `03 Arguments/`：前提、推論、反論を含む論証
+- `04 Literature/`：Zotero と連携した文献ノート
+- `05 Questions/`：未解決の問い
+- `06 Theory/`：概念と論証を統合した理論
+- `07 Paper/`：論文原稿
+- `99 Templates/`：Obsidian ノートと文献ノートのテンプレート
 
-起動後、<http://localhost:4000/ui> から管理 UI を開けます。詳しい操作方法は
-[`agentgateway/README.md`](agentgateway/README.md) を参照してください。
+## 文献と研究対話の処理
 
-API キー、`agentgateway/.env`、生成された設定ファイルやデータベースは Git
-にコミットしないでください。
+文献情報は Zotero で管理し、Better BibTeX の引用キーを使って Obsidian の文献ノートと対応づけます。
+文献ノートには書誌情報と要旨を保存し、中心命題、論証構造、研究上の位置づけを追記します。
+
+長い研究対話は意味上のまとまりごとに処理します。
+既存ノートに含まれていない内容だけを概念、論証、文献ノートへ反映し、処理位置をログに記録します。
