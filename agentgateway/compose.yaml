@@ -1,7 +1,7 @@
 services:
   agentgateway:
     container_name: agentgateway
-    image: ${AGENTGATEWAY_IMAGE:-cr.agentgateway.dev/agentgateway:latest-dev}
+    image: ${AGENTGATEWAY_IMAGE:-cr.agentgateway.dev/agentgateway:v1.4.0@sha256:771afaf093065477fa296eb90dcb618a0300165f12a32f80bbdd1427fab900ec}
     restart: unless-stopped
     user: "${AGENTGATEWAY_UID:?Set AGENTGATEWAY_UID in .env}:${AGENTGATEWAY_GID:?Set AGENTGATEWAY_GID in .env}"
     ports:
