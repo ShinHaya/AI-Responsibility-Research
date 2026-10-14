@@ -13,6 +13,18 @@ agentgateway は、AI の自由意志、エージェンシー、道徳的責任�
 ただし、agentgateway を導入するだけで道徳的な振る舞いが保証されるわけではありません。
 この Docker 環境は、責任の配分と統制方法を比較するための実験基盤です。
 
+## 検証対象のバージョン
+
+既定のイメージは、agentgateway `v1.4.0` の OCI index digest に固定しています。
+
+```text
+cr.agentgateway.dev/agentgateway:v1.4.0@sha256:771afaf093065477fa296eb90dcb618a0300165f12a32f80bbdd1427fab900ec
+```
+
+この組み合わせは2026年8月26日に、[v1.4.0のリリース資料](https://github.com/agentgateway/agentgateway/releases/tag/v1.4.0)、レジストリの manifest、コンテナの `--version` 出力を照合しました。
+`latest-dev` は開発版を追従するため、安定版の機能検証には使いません。
+別の版を試す場合は `AGENTGATEWAY_IMAGE` で明示的に上書きし、タグとdigestを検証記録へ残してください。
+
 ## 必要なソフトウェア
 
 - Docker
